@@ -3,5 +3,6 @@
   "foldIndent": true,
   "foldHeading": true,
   "showLineNumber": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true
 }

@@ -1,5 +1,6 @@
 ---
 aliases: ["MEE 4.2.3"]
+tags: ["NotesPage"]
 ---
 
 Section of [[MEE Vectors 1]]

@@ -1,5 +1,6 @@
 ---
 aliases: []
+tags: "Definition"
 ---
 ### Direction cosines
 

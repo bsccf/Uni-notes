@@ -1,8 +1,12 @@
 ---
 aliases: []
+tags: ["Definition"]
 ---
-#### < tp.file.title >
+#### <% tp.file.title %>
 
 Description
 
-$e=mc^2$
+> $$ a+b=c $$ 
+>> $a$ = your mum
+>> $b$ = lmao
+>> $c$ = pepe

@@ -7,7 +7,7 @@
         "id": "72a2269e35c10bc0",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -117,15 +117,15 @@
   },
   "active": "72a2269e35c10bc0",
   "lastOpenFiles": [
-    "Mathematics for Engineering and the Environment/Vectors 1/Cartesian components and basic properties.md",
-    "Untitled.md",
+    "Mathematics for Engineering and the Environment/Differentiation 1/Basic rules of differentiation/Basic rules of differentiation.md",
+    "Mathematics for Engineering and the Environment/Differentiation 1/Differentiable functions/Differentiable functions.md",
+    "Mathematics for Engineering and the Environment/Differentiation 1/Differentiable functions/When is a function differentiable.md",
+    "Mathematics for Engineering and the Environment/Differentiation 1/Rates of change/Rates of change.md",
+    "Mathematics for Engineering and the Environment/Differentiation 1/Speed, velocity and acceleration/Speed, velocity and acceleration.md",
+    "Mathematics for Engineering and the Environment/Differentiation 1/Speed, velocity and acceleration/How to differentiate velocity.md",
     "Mathematics for Engineering and the Environment/Vectors 1/Addition of vectors.md",
     "Mathematics for Engineering and the Environment/Vectors 1/Cartesian coordinates.md",
-    "Mathematics for Engineering and the Environment/Vectors 1/Untitled.md",
-    "Mathematics for Engineering and the Environment/Vectors 1/Scalars and vectors.md",
-    "Templates/Maths equation highlighted.md",
-    "Templates/Maths Definition Template.md",
-    "Templates/Maths Notes.md",
-    "Current Chapter.md"
+    "Mathematics for Engineering and the Environment/Vectors 1/MEE Vectors 1.md",
+    "Mathematics for Engineering and the Environment/Vectors 1/Scalars and vectors.md"
   ]
 }

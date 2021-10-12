@@ -1,5 +1,6 @@
 ---
 aliases: ["MEE 4","Vectors basic"]
+tags: []
 ---
 
 # Vectors 1
@@ -8,5 +9,8 @@ aliases: ["MEE 4","Vectors basic"]
 Page: 230
 Chapter: 4
 
-#### Contents of 4.2 Basic definitions and results
+#### Read order
 
+1) [[Cartesian coordinates]]
+2) [[Scalars and vectors]]
+3) [[Addition of vectors]]

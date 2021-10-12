@@ -1,9 +1,8 @@
 ---
 aliases: [""]
+tags: ["NotesPage"]
 ---
 
-Section of [[  ]]
-
-# Title
+# <% tp.file.title %>
 
 

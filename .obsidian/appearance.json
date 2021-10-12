@@ -1,5 +1,9 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "Amethyst",
-  "theme": "obsidian"
+  "cssTheme": "Cybertron",
+  "theme": "obsidian",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "truncc"
+  ]
 }
