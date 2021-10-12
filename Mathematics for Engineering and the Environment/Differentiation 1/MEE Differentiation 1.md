@@ -8,6 +8,7 @@ aliases: ["MEE 8.2","MEE 8.3"]
 Page: 545
 Chapter: 8
 
+
 #### Read order
 
 1) [[Rates of change]]
