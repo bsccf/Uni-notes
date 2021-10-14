@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Current Chapter.md",
+            "file": "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of rational functions/Differentiation of rational functions.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Current Chapter.md",
+                "file": "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of rational functions/Differentiation of rational functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +121,7 @@
   },
   "active": "72a2269e35c10bc0",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of rational functions/Untitled.md",
     "Current Chapter.md",
     "Mathematics for Engineering and the Environment/course resources/2021-22-MATH1054OrgData(1).pdf",
     "Mathematics for Engineering and the Environment/Differentiation 1/Basic rules of differentiation/Basic rules of differentiation.md",
@@ -129,7 +130,6 @@
     "Mathematics for Engineering and the Environment/Differentiation 1/Differentiable functions/When is a function differentiable.md",
     "Mathematics for Engineering and the Environment/Differentiation 1/Rates of change/Rates of change.md",
     "Mathematics for Engineering and the Environment/Differentiation 1/Speed, velocity and acceleration/Speed, velocity and acceleration.md",
-    "Mathematics for Engineering and the Environment/Differentiation 1/Speed, velocity and acceleration/How to differentiate velocity.md",
-    "Mathematics for Engineering and the Environment/Vectors 1/Addition of vectors.md"
+    "Mathematics for Engineering and the Environment/Differentiation 1/Speed, velocity and acceleration/How to differentiate velocity.md"
   ]
 }
