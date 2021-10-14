@@ -3,7 +3,7 @@ aliases: [""]
 tags: ["Question","QFormat2"]
 ---
 
-## Finding the derivative of a polynomial function
+## Finding the derivative of a basic polynomial function
 
 Using the method of [[Derivative of simple exponent]] on the following function with refrence to [[Basic rules of differentiation]] you can easily differentiate the following:
 

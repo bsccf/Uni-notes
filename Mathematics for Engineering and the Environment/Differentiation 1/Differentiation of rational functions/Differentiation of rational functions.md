@@ -5,4 +5,4 @@ tags: ["NotesPage"]
 
 # Differentiation of rational functions
 
-![[Finding the derivative of a polynomial function]]
+![[Finding the derivative of a basic polynomial function]]
