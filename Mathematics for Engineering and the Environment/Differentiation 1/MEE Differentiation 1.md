@@ -15,3 +15,4 @@ Chapter: 8
 3) [[Differentiable functions]]
 4) [[Speed, velocity and acceleration]]
 5) [[Basic rules of differentiation]]
+6) [[Differentiation of rational functions]]
