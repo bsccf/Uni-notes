@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of rational functions/Differentiation of rational functions.md",
+            "file": "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of rational functions/Finding the derivative of a polynomial function.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of rational functions/Differentiation of rational functions.md",
+                "file": "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of rational functions/Finding the derivative of a polynomial function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +121,7 @@
   },
   "active": "72a2269e35c10bc0",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of rational functions/Finding the derivative of a polynomial function.md",
     "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of rational functions/Differentiation of rational functions.md",
     "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of rational functions/Untitled.md",
     "Current Chapter.md",
@@ -129,7 +130,6 @@
     "Mathematics for Engineering and the Environment/Differentiation 1/MEE Differentiation 1.md",
     "Mathematics for Engineering and the Environment/Differentiation 1/Differentiable functions/Differentiable functions.md",
     "Mathematics for Engineering and the Environment/Differentiation 1/Differentiable functions/When is a function differentiable.md",
-    "Mathematics for Engineering and the Environment/Differentiation 1/Rates of change/Rates of change.md",
-    "Mathematics for Engineering and the Environment/Differentiation 1/Speed, velocity and acceleration/Speed, velocity and acceleration.md"
+    "Mathematics for Engineering and the Environment/Differentiation 1/Rates of change/Rates of change.md"
   ]
 }
