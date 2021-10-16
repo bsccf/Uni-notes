@@ -6,6 +6,8 @@ tags: ["NotesPage"]
 # Differentiation of circular functions
 ## Method
 
+###
+
 ![[Differentiating sin(x)]]
 
 ![[Differentiating cos(x)]]
