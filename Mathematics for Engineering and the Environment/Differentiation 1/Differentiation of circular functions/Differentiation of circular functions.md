@@ -15,8 +15,9 @@ tags: ["NotesPage"]
 ![[Differentiating tan(x)]]
 
 ### Annoying ones
+!
 
-
+![[Differentiating cosec(x)]]
 
 ## Examples
 
