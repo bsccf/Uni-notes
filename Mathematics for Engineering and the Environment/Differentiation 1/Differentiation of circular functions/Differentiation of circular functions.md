@@ -16,3 +16,11 @@ tags: ["NotesPage"]
 
 #### Example 1
 Differentiate $y=\cos(5x+4)+\tan(x^3+2x^2-x+69)$
+
+$$ 
+\begin{align*}
+y=\cos(5x+4)+\tan(x^3+2x^2-x+69)\\
+& \dot{y}=-5\sin(5x+4) + (3x^2)\sec^2
+\end{align*}
+
+$$
