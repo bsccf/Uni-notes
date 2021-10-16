@@ -15,9 +15,13 @@ tags: ["NotesPage"]
 ![[Differentiating tan(x)]]
 
 ### Annoying ones
-!
+![[Differentiating sec(x)]]
 
 ![[Differentiating cosec(x)]]
+
+![[Differentiating cot(x)]]
+
+### Inverse functions
 
 ## Examples
 
