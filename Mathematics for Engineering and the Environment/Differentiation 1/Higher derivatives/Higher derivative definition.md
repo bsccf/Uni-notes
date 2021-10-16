@@ -3,7 +3,7 @@ aliases: [""]
 tags: ["Question","QFormat3"]
 ---
 
-#### 
+#### Whats a
 ## Higher derivative definition
 These are just functions that have been differentiated multiple times they are expressed like the following:
 

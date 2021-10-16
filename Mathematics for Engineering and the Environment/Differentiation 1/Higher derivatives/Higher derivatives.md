@@ -8,7 +8,10 @@ This is where the suffering starts boi's, now lets begin the plunge into incresi
 
 ![[Higher derivative definition]]
 
-## Method
-
-
 ## Examples
+
+$$
+\begin{align*}
+f(x)&=
+\end{align*}
+$$
