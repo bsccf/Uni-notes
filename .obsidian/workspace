@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of rational functions/Differentiation of rational polynomial fractions.md",
-            "mode": "source"
+            "file": "Mathematics for Engineering and the Environment/Differentiation 1/Basic rules of differentiation/Basic rules of differentiation.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of rational functions/Differentiation of rational polynomial fractions.md",
+                "file": "Mathematics for Engineering and the Environment/Differentiation 1/Basic rules of differentiation/Basic rules of differentiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,15 +121,15 @@
   },
   "active": "72a2269e35c10bc0",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/Differentiation 1/Basic rules of differentiation/Basic rules of differentiation.md",
+    "Mathematics for Engineering and the Environment/Differentiation 1/MEE Differentiation 1.md",
     "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of rational functions/Differentiation of rational polynomial fractions.md",
     "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of rational functions/Untitled.md",
     "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of rational functions/Finding the derivative of a polynomial function.md",
     "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of rational functions/Differentiation of rational functions.md",
-    "Mathematics for Engineering and the Environment/Differentiation 1/MEE Differentiation 1.md",
     "Mathematics for Engineering and the Environment/Differentiation 1/Differentiable functions/When is a function differentiable.md",
     "Current Chapter.md",
     "Mathematics for Engineering and the Environment/course resources/2021-22-MATH1054OrgData(1).pdf",
-    "Mathematics for Engineering and the Environment/Differentiation 1/Basic rules of differentiation/Basic rules of differentiation.md",
     "Mathematics for Engineering and the Environment/Differentiation 1/Differentiable functions/Differentiable functions.md"
   ]
 }
