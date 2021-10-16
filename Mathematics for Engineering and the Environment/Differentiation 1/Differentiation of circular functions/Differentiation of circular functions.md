@@ -23,6 +23,12 @@ tags: ["NotesPage"]
 
 ### Inverse functions
 
+![[Differentiating inverse sin(x)]]
+
+![[Differentiating inverse cos(x)]]
+
+![[Differentiating inverse tan(x)]]
+
 ## Examples
 
 #### Example 1

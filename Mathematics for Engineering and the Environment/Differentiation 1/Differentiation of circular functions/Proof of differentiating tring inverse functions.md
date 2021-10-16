@@ -20,7 +20,8 @@ $$
 $$
 We know [[Differentiating sin(x)]], so...
 $$
-\begin{align*}
+\begin{align*}\\
+x &= sin(y)\\
 \dfrac{dx}{dy} &= \cos(y)\\
 \dfrac{dx}{dy} &= \sqrt{1-x^2}\\
 \dfrac{dy}{dx} &= \dfrac{1}{\sqrt{1-x^2}}
