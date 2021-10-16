@@ -17,4 +17,8 @@ $$
 \end{align*}
 $$
 
+Then you could find $\dfrac{dy}{dx}$ by:
+
 $$ \dfrac{dy}{dx} = \frac{dr}{dy} \frac{dx}{db} \frac{db}{dr}$$
+
+Kinda ez
