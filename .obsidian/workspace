@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of circular functions/Differentiating inverse sin(x).md",
+            "file": "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of circular functions/Proof of differentiating tring inverse functions.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of circular functions/Differentiating inverse sin(x).md",
+                "file": "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of circular functions/Proof of differentiating tring inverse functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,15 +121,15 @@
   },
   "active": "72a2269e35c10bc0",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of circular functions/Proof of differentiating tring inverse functions.md",
+    "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of circular functions/Differentiating inverse cos(x) 1.md",
+    "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of circular functions/Differentiating inverse sin(x) 1.md",
     "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of circular functions/Untitled.md",
     "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of circular functions/Differentiation of circular functions.md",
     "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of circular functions/Differentiating cosec(x) 1.md",
     "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of circular functions/Differentiating cosec(x).md",
     "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of circular functions/Differentiating tan(x).md",
     "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of circular functions/Differentiating sin(x).md",
-    "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of circular functions/Differentiating sec(x).md",
-    "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of circular functions/Differentiating cos(x).md",
-    "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of circular functions/Differentiating sec(x) 1.md",
-    "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of circular functions/Differentiating sin(x) 1.md"
+    "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of circular functions/Differentiating sec(x).md"
   ]
 }
