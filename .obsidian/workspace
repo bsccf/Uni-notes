@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of rational functions/Differentiation of rational polynomial fractions.md",
+            "file": "Mathematics for Engineering and the Environment/Differentiation 1/Higher derivatives/Higher derivatives.md",
             "mode": "preview"
           }
         }
@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231
+    "width": 336
   },
   "right": {
     "id": "12c168c46d609ed6",
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of rational functions/Differentiation of rational polynomial fractions.md",
+                "file": "Mathematics for Engineering and the Environment/Differentiation 1/Higher derivatives/Higher derivatives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +124,7 @@
   },
   "active": "3579896df21fe3b2",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/Differentiation 1/Higher derivatives/Untitled.md",
     "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of rational functions/Differentiation of rational polynomial fractions.md",
     "Mathematics for Engineering and the Environment/Differentiation 1/MEE Differentiation 1.md",
     "Mathematics for Engineering and the Environment/Differentiation 1/Extended form of the chain rule/Extended form of the chain rule.md",
@@ -132,7 +133,6 @@
     "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of circular functions/Differentiation of circular functions.md",
     "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of circular functions/Proof of differentiating tring inverse functions.md",
     "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of circular functions/Differentiating inverse cos(x).md",
-    "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of circular functions/Differentiating inverse cos(x) 1.md",
-    "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of circular functions/Differentiating inverse sin(x) 1.md"
+    "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of circular functions/Differentiating inverse cos(x) 1.md"
   ]
 }
