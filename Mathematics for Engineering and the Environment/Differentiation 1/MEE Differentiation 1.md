@@ -18,3 +18,4 @@ Chapter: 8
 6) [[Differentiation of rational functions]]
 7) [[Differentiation of circular functions]]
 8) [[Extended form of the chain rule]]
+9) [[Higher derivatives]]
