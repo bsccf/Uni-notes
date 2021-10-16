@@ -6,13 +6,17 @@ tags: ["NotesPage"]
 # Differentiation of circular functions
 ## Method
 
-###
+### The nice ones
 
 ![[Differentiating sin(x)]]
 
 ![[Differentiating cos(x)]]
 
 ![[Differentiating tan(x)]]
+
+### Annoying ones
+
+
 
 ## Examples
 
