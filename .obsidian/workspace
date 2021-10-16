@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "72a2269e35c10bc0",
+        "id": "3579896df21fe3b2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Mathematics for Engineering and the Environment/Differentiation 1/Extended form of the chain rule/Extended form of the chain rule.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -101,25 +101,27 @@
         ]
       },
       {
-        "id": "7c8657c9595ef4b3",
+        "id": "4d6f562e66a96d73",
         "type": "tabs",
         "children": [
           {
-            "id": "515fe8616f387540",
+            "id": "72a2269e35c10bc0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics for Engineering and the Environment/Differentiation 1/Extended form of the chain rule/Extended form of the chain rule.md",
+                "mode": "source"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "72a2269e35c10bc0",
+  "active": "3579896df21fe3b2",
   "lastOpenFiles": [
     "Mathematics for Engineering and the Environment/Differentiation 1/Extended form of the chain rule/Extended form of the chain rule.md",
     "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of rational functions/Differentiation of rational functions.md",

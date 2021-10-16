@@ -8,4 +8,5 @@ tags: ["Question","QFormat3","NotesPage"]
 This just builds from [[What's the chain rule]], but instead of 2 derivatives being used you use even more (3 or more {shoching I know} )
 
 lets say you have:
-$$ \dfrac{dy}{dx} $$
+x y  r b g
+$$ \dfrac{dy}{dx} = \frac{r}{x} \frac{y}{b} $$
