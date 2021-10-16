@@ -7,6 +7,6 @@ tags: ["NotesPage"]
 This is where the suffering starts boi's, now lets begin the plunge into incresingly advanced calculus.
 
 ## Method
-Cry
+
 
 ## Examples
