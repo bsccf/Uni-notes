@@ -4,6 +4,7 @@ tags: ["NotesPage"]
 ---
 
 # Differentiation of circular functions
+## Method
 
 ![[Differentiating sin(x)]]
 
@@ -11,6 +12,7 @@ tags: ["NotesPage"]
 
 ![[Differentiating tan(x)]]
 
-### Examples
+## Examples
 
-[[Circu]]
+#### Example 1
+Differentiate $y=\cos(5x+4)+\tan(x^3+2x^2-x+69)$
