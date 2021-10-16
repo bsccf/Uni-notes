@@ -13,12 +13,13 @@ $$
 	y&=\sin^{-1}(x)\\
 \sin(y) &= x\\\\
 \sin^2(y)&=x^2\\
-\sin^2(y)&+\cos^2(y)=1\\\\
+\sin^2(y)+\cos^2(y)&=1\\
+\cos(y)&=\sqrt{1-sin^2(y)}
 \end{align*}
 $$
 We know [[Differentiating sin(x)]], so...
 $$
 \begin{align*}
-\dfrac{d}{dx}(\sin(y)) = \cos(y)
+\dfrac{dx}{dy} = \cos(y)
 \end{align*}
 $$
