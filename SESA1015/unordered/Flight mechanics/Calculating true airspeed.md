@@ -9,3 +9,4 @@ tags: ["Question","QFormat3","SESA1015"]
 
 ### Pitot-Tubes
 
+Rearranging [[Bernouillis Equation]] to $V = \sqrt{\dfrac{2(p_0-p)}{\rho}}$
