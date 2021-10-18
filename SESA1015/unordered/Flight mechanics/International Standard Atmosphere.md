@@ -1,8 +1,11 @@
 ---
-aliases: ["ISA"]
-tags: ["NotesPage","SESA1015"]
+aliases: [""]
+tags: ["Question","QFormat3"]
 ---
 
-# International Standard Atmosphere
-
-
+#### What is
+## International Standard Atmosphere
+This is a model of the atmospheres propertys under various conditions eg/
+* Pressure
+* Temper
+	

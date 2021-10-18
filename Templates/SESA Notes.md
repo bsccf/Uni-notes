@@ -1,10 +1,7 @@
 ---
 aliases: [""]
-tags: ["NotesPage"]
+tags: ["NotesPage","SESA1015"]
 ---
 
 # <% tp.file.title %>
-## Method
 
-
-## Examples
