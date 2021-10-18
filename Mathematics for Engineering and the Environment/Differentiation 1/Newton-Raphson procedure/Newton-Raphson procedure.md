@@ -10,6 +10,8 @@ This is a method used to find increasingly accurate solutions to non-linear equa
 Basically you go to a point on the line and then extend a tangent from that point, where the tangent intercepts the x axis is your new approximation of x. This method can find an accurate approximation of x quite quickly. 
 
 ## Method
-
+![[Newton-Raphson]]
 
 ## Examples
+
+![[Newton-Raphson example]]
