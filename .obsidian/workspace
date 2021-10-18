@@ -7,8 +7,11 @@
         "id": "3579896df21fe3b2",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "SESA1015/unordered/Flight mechanics 2.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SESA1015/unordered/Flight mechanics 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +124,7 @@
   },
   "active": "3579896df21fe3b2",
   "lastOpenFiles": [
+    "SESA1015/unordered/Untitled.md",
     "Mathematics for Engineering and the Environment/Differentiation 1/Newton-Raphson procedure/Newton-Raphson.md",
     "Mathematics for Engineering and the Environment/Differentiation 1/Newton-Raphson procedure/Newton-Raphson procedure.md",
     "Mathematics for Engineering and the Environment/Differentiation 1/Newton-Raphson procedure/Newton-Raphson example.md",
@@ -128,7 +133,6 @@
     "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of circular functions/Differentiating tan(x).md",
     "Mathematics for Engineering and the Environment/Differentiation 1/Higher derivatives/Higher derivatives.md",
     "Mathematics for Engineering and the Environment/Differentiation 1/Higher derivatives/Higher derivative definition.md",
-    "Mathematics for Engineering and the Environment/Differentiation 1/Higher derivatives/Higher derivative.md",
-    "Mathematics for Engineering and the Environment/Differentiation 1/Higher derivatives/Untitled.md"
+    "Mathematics for Engineering and the Environment/Differentiation 1/Higher derivatives/Higher derivative.md"
   ]
 }
