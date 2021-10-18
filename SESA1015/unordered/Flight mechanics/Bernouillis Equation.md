@@ -1,8 +1,12 @@
 ---
 aliases: [""]
-tags: ["Question","QFormat3",""]
+tags: ["Question","QFormat3","SESA1015"]
 ---
 
-#### What's the method for
+#### What is
 ## Bernouillis Equation
-This is how retard
+> $$ p_0 = p + \frac{1}{2} $$ 
+>> where:
+>> $a =$ your mum
+>> $b =$ lmao
+>> $c =$ pepe
