@@ -19,3 +19,4 @@ Chapter: 8
 7) [[Differentiation of circular functions]]
 8) [[Extended form of the chain rule]]
 9) [[Higher derivatives]]
+10) [[Newton-Raphson procedure]]
