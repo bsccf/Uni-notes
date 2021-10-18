@@ -3,7 +3,7 @@ aliases: [""]
 tags: ["Question","QFormat3"]
 ---
 
-#### What is
+#### What is the
 ## International Standard Atmosphere
 This is a model of the atmospheres propertys under varying altitudes eg/
 * Pressure
@@ -11,6 +11,6 @@ This is a model of the atmospheres propertys under varying altitudes eg/
 * Density
 * Viscosity
 
-#### Important notes
+#### Important notes on model
 * The temperature drops by approximatly 6.5K per km of altitude gained in the Troposphere.
-* 
+* At sea level air density is $1.225 kg/m^3$ and temperature is 15C 

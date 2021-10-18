@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/unordered/Flight mechanics/International Standard Atmosphere.md",
+            "file": "SESA1015/unordered/Flight mechanics/Bernouillis Equation.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/unordered/Flight mechanics/International Standard Atmosphere.md",
+                "file": "SESA1015/unordered/Flight mechanics/Bernouillis Equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +124,15 @@
   },
   "active": "3579896df21fe3b2",
   "lastOpenFiles": [
+    "SESA1015/unordered/Flight mechanics/Untitled.md",
     "SESA1015/unordered/Flight mechanics/International Standard Atmosphere.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 2.md",
     "Templates/Maths question F3.md",
     "Templates/Maths question F1.md",
     "Templates/Maths question F2.md",
     "Templates/Maths Notes 1.md",
     "Templates/Maths Notes.md",
-    "SESA1015/unordered/Flight mechanics/Untitled.md",
     "SESA1015/unordered/Untitled.md",
-    "Mathematics for Engineering and the Environment/Differentiation 1/Newton-Raphson procedure/Newton-Raphson.md",
-    "Mathematics for Engineering and the Environment/Differentiation 1/Newton-Raphson procedure/Newton-Raphson procedure.md"
+    "Mathematics for Engineering and the Environment/Differentiation 1/Newton-Raphson procedure/Newton-Raphson.md"
   ]
 }
