@@ -8,7 +8,7 @@ tags: ["Question","QFormat1"]
 Find a root of $8x^4+0.45x^3-4.544x-0.1136=0$ to 4d.p near $x=0.8$
 
 ### Method
-Using [[Newton-Raphson]]
+Using [[Newton-Raphson]] and basic differentiation [[Derivative of simple exponent]]
 
 > taking $f(x) = 8x^4+0.45x^3-4.544x-0.1136$
 > $$ \begin{align*}
