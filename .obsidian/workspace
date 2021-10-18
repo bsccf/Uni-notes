@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/unordered/Flight mechanics/Calculating True Airspeed.md",
-            "mode": "preview"
+            "file": "SESA1015/unordered/Flight mechanics/Equivalent Airspeed.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/unordered/Flight mechanics/Calculating True Airspeed.md",
+                "file": "SESA1015/unordered/Flight mechanics/Equivalent Airspeed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +124,7 @@
   },
   "active": "3579896df21fe3b2",
   "lastOpenFiles": [
+    "SESA1015/unordered/Flight mechanics/Equivalent Airspeed.md",
     "SESA1015/unordered/Flight mechanics/Calculating True Airspeed.md",
     "SESA1015/unordered/Flight mechanics/Bernouillis Equation.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2.md",
@@ -132,7 +133,6 @@
     "SESA1015/unordered/Flight mechanics/International Standard Atmosphere.md",
     "Template list.md",
     "Templates/Maths question F3 1.md",
-    "Templates/Maths question F3.md",
-    "Templates/Maths question F1.md"
+    "Templates/Maths question F3.md"
   ]
 }
