@@ -15,5 +15,9 @@ Using [[Newton-Raphson]]
 f(x) &= 8x^4+0.45x^3-4.544x-0.1136\\
 \dot{f}(x) &= 32x^3+1.35x^2-4.544\\
 x_{n+1} &= x_{n} - \dfrac{f(x_n)}{\dot{f}(x_n)}\\
-x_{n+1} &= x_{n} - \dfrac{8x^4+0.45x^3-4.544x-0.1136}{32x^3+1.35x^2-4.544}
+x_{n+1} &= x_{n} - \dfrac{8x_{n}^4+0.45x_{n}^3-4.544x_{n}-0.1136}{32x_{n}^3+1.35x_{n}^2-4.544}
 \end{align*}$$
+> now we use $x_0 = 0.8$
+> $$ \begin{align*}
+x_0&=0.8
+\end{align*} $$
