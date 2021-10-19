@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/unordered/Flight mechanics/Mechanics of flight.md",
+            "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 2/dynamic pressure.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/unordered/Flight mechanics/Mechanics of flight.md",
+                "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 2/dynamic pressure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +121,7 @@
   },
   "active": "72a2269e35c10bc0",
   "lastOpenFiles": [
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/dynamic pressure.md",
     "SESA1015/unordered/Flight mechanics/Untitled.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2.md",
     "SESA1015/unordered/Flight mechanics/International Standard Atmosphere.md",
@@ -129,7 +130,6 @@
     "Template list.md",
     "Current Chapter.md",
     "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of rational functions/Differentiation of rational polynomial fractions.md",
-    "conflict-files-obsidian-git.md",
-    "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of rational functions/Untitled.md"
+    "conflict-files-obsidian-git.md"
   ]
 }

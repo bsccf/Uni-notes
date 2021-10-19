@@ -5,7 +5,7 @@ tags: ["Question","QFormat3","SESA1015"]
 
 #### What is
 ## dynamic pressure
-It's basically the kinetic energy per unit volume.
+It's basically the kinetic energy per unit volume, it can be thought of as the pressur
 In incompressible fluid dynamics this is:
 
 > $$ q = \frac{1}{2}\rho v^2 $$ 
