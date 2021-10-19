@@ -5,13 +5,13 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:NotesPage",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 14701138
       }
     }
   ],
@@ -20,11 +20,11 @@
   "textFadeMultiplier": -1,
   "nodeSizeMultiplier": 1.33876404494382,
   "lineSizeMultiplier": 1.68529411764706,
-  "collapse-forces": false,
-  "centerStrength": 0.314606741573034,
-  "repelStrength": 9.66292134831461,
+  "collapse-forces": true,
+  "centerStrength": 0.376404494382022,
+  "repelStrength": 9.55056179775281,
   "linkStrength": 1,
-  "linkDistance": 210,
-  "scale": 0.36288736930121857,
-  "close": false
+  "linkDistance": 159,
+  "scale": 0.7132754626224463,
+  "close": true
 }
