@@ -7,11 +7,8 @@
         "id": "72a2269e35c10bc0",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Calculating the speed of sound.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Calculating the speed of sound.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,15 +117,15 @@
   },
   "active": "72a2269e35c10bc0",
   "lastOpenFiles": [
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Flight mechanics 2.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Speed of sound.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Untitled.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Mach number.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Untitled 1.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Flight mechanics 2.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Calculateing airspeed with a pitot tube.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/pitot-static tube.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/International Standard Atmosphere.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Calculating true airspeed.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Equivalent Airspeed.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/True airspeed.md"
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Equivalent Airspeed.md"
   ]
 }

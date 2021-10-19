@@ -1,6 +1,6 @@
 ---
 aliases: [""]
-tags: ["Question","QFormat3","SESA1015","KEquation"]
+tags: ["Question","QFormat3","SESA1015"]
 ---
 
 #### Whats the method for
@@ -9,4 +9,6 @@ tags: ["Question","QFormat3","SESA1015","KEquation"]
 >> where:
 >> $a =$ [[Speed of sound]]
 >> $R =$ gas constant
->> $c =$ 
+>> $T =$ temperature
+>> $\rho =$ density
+>> $p =$ pressure??????? <- check
