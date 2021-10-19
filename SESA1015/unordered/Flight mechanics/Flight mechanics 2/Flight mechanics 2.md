@@ -7,4 +7,4 @@ tags: ["NotesPage","SESA1015"]
 ![[International Standard Atmosphere]]
 
 ### Measuring air speed
-![[Calculating true airspeed]]
+![[Calculateing airspeed with a pitot tube]]
