@@ -7,8 +7,11 @@
         "id": "72a2269e35c10bc0",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 2.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -57,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 163
+    "width": 226
   },
   "right": {
     "id": "12c168c46d609ed6",
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,15 +121,15 @@
   },
   "active": "72a2269e35c10bc0",
   "lastOpenFiles": [
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 2.md",
+    "SESA1015/unordered/Flight mechanics/International Standard Atmosphere.md",
+    "SESA1015/unordered/Flight mechanics/dynamic pressure.md",
+    "SESA1015/unordered/Flight mechanics/Calculating true airspeed.md",
     "Template list.md",
     "Current Chapter.md",
     "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of rational functions/Differentiation of rational polynomial fractions.md",
     "conflict-files-obsidian-git.md",
     "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of rational functions/Untitled.md",
-    "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of rational functions/Finding the derivative of a polynomial function.md",
-    "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of rational functions/Differentiation of rational functions.md",
-    "Mathematics for Engineering and the Environment/Differentiation 1/MEE Differentiation 1.md",
-    "Mathematics for Engineering and the Environment/Differentiation 1/Differentiable functions/When is a function differentiable.md",
-    "Mathematics for Engineering and the Environment/course resources/2021-22-MATH1054OrgData(1).pdf"
+    "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of rational functions/Finding the derivative of a polynomial function.md"
   ]
 }
