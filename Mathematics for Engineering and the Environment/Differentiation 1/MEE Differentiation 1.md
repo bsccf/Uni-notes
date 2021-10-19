@@ -16,3 +16,7 @@ Chapter: 8
 4) [[Speed, velocity and acceleration]]
 5) [[Basic rules of differentiation]]
 6) [[Differentiation of rational functions]]
+7) [[Differentiation of circular functions]]
+8) [[Extended form of the chain rule]]
+9) [[Higher derivatives]]
+10) [[Newton-Raphson procedure]]

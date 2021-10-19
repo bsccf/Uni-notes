@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "d279d439ac062ed8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -76,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of rational functions/Differentiation of rational polynomial fractions.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,8 +130,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "72a2269e35c10bc0",
+  "active": "d279d439ac062ed8",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of rational functions/Differentiation of rational polynomial fractions.md",
     "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of rational functions/Untitled.md",
     "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation of rational functions/Finding the derivative of a polynomial function.md",
@@ -129,7 +141,6 @@
     "Mathematics for Engineering and the Environment/Differentiation 1/Differentiable functions/When is a function differentiable.md",
     "Current Chapter.md",
     "Mathematics for Engineering and the Environment/course resources/2021-22-MATH1054OrgData(1).pdf",
-    "Mathematics for Engineering and the Environment/Differentiation 1/Basic rules of differentiation/Basic rules of differentiation.md",
-    "Mathematics for Engineering and the Environment/Differentiation 1/Differentiable functions/Differentiable functions.md"
+    "Mathematics for Engineering and the Environment/Differentiation 1/Basic rules of differentiation/Basic rules of differentiation.md"
   ]
 }
