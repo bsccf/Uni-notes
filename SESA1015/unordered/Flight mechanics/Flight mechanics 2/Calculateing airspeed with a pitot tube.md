@@ -17,4 +17,6 @@ If the two sides of the [[pitot-static tube|pitot tube]] are connected to a diff
 
 Hence true airspeed can be found by rearranging the previous equation to:
 
-$$ V = \sqrt{} $$
+$$ V = \sqrt{ \dfrac{2(p_0-p)}{\rho} } $$
+
+This however presents a new problem as we dont know density ($\rho$). In reality however we usually don't know air density and it can be difficult to mesure because you are moving through it, this is why instead you can use sea level density for $p_0$ doing this while still using the equation above will give you a value called [[Equivalent Airspeed]] ()
