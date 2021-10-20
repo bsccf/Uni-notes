@@ -15,7 +15,7 @@ tags: ["Question","QFormat3"]
 
 > Refrence areas:
 > - $S_G$ or $S_N=$ [[Wing plan area]]
-> - $S_W=$ [[Wedded area of component]]
+> - $S_W=$ [[Wetted area of component]]
 
 > Shape parameters:
 > - $\lambda=$ [[Taper ratio]]
