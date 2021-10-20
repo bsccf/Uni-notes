@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "72a2269e35c10bc0",
+        "id": "3579896df21fe3b2",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -57,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226
+    "width": 336
   },
   "right": {
     "id": "12c168c46d609ed6",
@@ -97,15 +97,18 @@
         ]
       },
       {
-        "id": "7c8657c9595ef4b3",
+        "id": "4d6f562e66a96d73",
         "type": "tabs",
         "children": [
           {
-            "id": "515fe8616f387540",
+            "id": "72a2269e35c10bc0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics for Engineering and the Environment/Differentiation 1/Extended form of the chain rule/Extended form of the chain rule.md",
+                "mode": "source"
+              }
             }
           }
         ]
@@ -115,17 +118,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "72a2269e35c10bc0",
+  "active": "3579896df21fe3b2",
   "lastOpenFiles": [
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Flight mechanics 2.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Speed of sound.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Untitled.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Mach number.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Untitled 1.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Calculateing airspeed with a pitot tube.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/pitot-static tube.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/International Standard Atmosphere.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Calculating true airspeed.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Equivalent Airspeed.md"
+    "SESA1015/unordered/Flight mechanics/Calculating True Airspeed.md",
+    "SESA1015/unordered/Flight mechanics/Bernouillis Equation.md",
+    "SESA1015/unordered/Flight mechanics/Equivalent Airspeed.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 2.md",
+    "SESA1015/unordered/Flight mechanics/International Standard Atmosphere.md",
+    "SESA1015/unordered/Flight mechanics/dynamic pressure.md",
+    "SESA1015/unordered/Flight mechanics/Untitled.md",
+    "SESA1015/unordered/Flight mechanics/True airspeed.md",
+    "SESA1015/unordered/Flight mechanics/Calculating true airspeed.md",
+    "Template list.md"
   ]
 }
