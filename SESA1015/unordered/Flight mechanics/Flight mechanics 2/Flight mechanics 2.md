@@ -16,10 +16,7 @@ As an aircraft approachest the [[Speed of sound]] the mach number becomes import
 ![[Mach number]]
 
 ### Key terms and information
-Terms: 
-* [[Flight path]]
-* [[Relative wind]]
-* [[Aerodynamic Reaction]]
 
 You should be able to identitfy the names of all the forces acting on a basic plane diagram:
-![[Basic]]
+![[Basic aircraft freebody diagram]]
+
