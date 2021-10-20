@@ -14,4 +14,9 @@ tags: ["Question","QFormat3"]
 > $b=$ [[Wind span]]
 
 > Refrence areas:
-> - 
+> - $S_G$ or $S_N=$ [[Wing plan area]]
+> - $S_W=$ [[Wedded area of component]]
+
+> Shape parameters:
+> - $\lambda=$ [[Taper ratio]]
+> - $\Lambda=$ [[Wing sweep]]
