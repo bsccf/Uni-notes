@@ -6,4 +6,6 @@ tags: ["NotesPage"]
 # The Fundamental Theorem of Calculus
 This is the shocking realisation that [[MEE Intergration 1|Intergration]] is the inverse of [[MEE Differentiation 1|Differentiation]], (shock).
 
-Basically $\frac{d}{dx}(\inf(x)) = f(x)$
+Basically $\frac{d}{dx}\left(\int f\left(x\right)dx) = f(x\right)$
+
+So the [[Indefinate integral]] $F(x)$ of the continous function $f(x)$ will always posses a derivative
