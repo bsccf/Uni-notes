@@ -18,4 +18,4 @@ If we take this method to an extreem and we keep decreasing the stip width it ca
 
 $$ \lim_{\substack{ \Delta x \rightarrow 0 \\ n \rightarrow \infty}} \sum\limits^{n}_{r=1} f(x^{*}_r)\Delta x_{r-1} $$
 
-
+But normally we just use [[Intergration notation]]

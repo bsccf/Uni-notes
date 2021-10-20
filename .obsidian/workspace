@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/Intergration 1/Basic ideas and definitions/Intergration notation.md",
+            "file": "Mathematics for Engineering and the Environment/Intergration 1/Basic ideas and definitions/Basic intergration proof.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Intergration 1/Basic ideas and definitions/Intergration notation.md",
+                "file": "Mathematics for Engineering and the Environment/Intergration 1/Basic ideas and definitions/Basic intergration proof.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,9 +124,9 @@
   },
   "active": "3579896df21fe3b2",
   "lastOpenFiles": [
-    "Mathematics for Engineering and the Environment/Intergration 1/Basic ideas and definitions/Intergration notation.md",
     "Mathematics for Engineering and the Environment/Intergration 1/Basic ideas and definitions/Basic intergration proof.md",
     "Mathematics for Engineering and the Environment/Intergration 1/Basic ideas and definitions/Basic ideas and definitions.md",
+    "Mathematics for Engineering and the Environment/Intergration 1/Basic ideas and definitions/Intergration notation.md",
     "Mathematics for Engineering and the Environment/Intergration 1/MEE Intergration 1.md",
     "Mathematics for Engineering and the Environment/Vectors 1/MEE Vectors 1.md",
     "Mathematics for Engineering and the Environment/Untitled.md",

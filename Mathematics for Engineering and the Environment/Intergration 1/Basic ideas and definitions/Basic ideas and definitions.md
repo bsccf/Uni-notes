@@ -7,7 +7,7 @@ tags: ["NotesPage"]
 
 ![[Basic intergration proof]]
 
-
+![[Intergration notation]]
 
 
 
