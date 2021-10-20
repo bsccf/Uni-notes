@@ -13,3 +13,4 @@ Here
 $R =$ [[Aerodynamic Reaction]]
 $V =$ [[Relative wind]]
 $CG =$ Centre of gravity (note this is important for [[Flight path]])
+$\alpha =$ [[Angle of attack]]
