@@ -12,6 +12,17 @@
             "file": "Mathematics for Engineering and the Environment/Differentiation 1/t3.pdf"
           }
         }
+      },
+      {
+        "id": "7a2da31fbd08654e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -75,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Differentiation 1/t3.pdf",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,28 +109,15 @@
             }
           }
         ]
-      },
-      {
-        "id": "7c8657c9595ef4b3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "515fe8616f387540",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "72a2269e35c10bc0",
+  "active": "7a2da31fbd08654e",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Mathematics for Engineering and the Environment/Differentiation 1/t3.pdf",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Flight mechanics 2.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Speed of sound.md",
@@ -128,7 +126,6 @@
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Untitled 1.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Calculateing airspeed with a pitot tube.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/pitot-static tube.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/International Standard Atmosphere.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Calculating true airspeed.md"
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/International Standard Atmosphere.md"
   ]
 }
