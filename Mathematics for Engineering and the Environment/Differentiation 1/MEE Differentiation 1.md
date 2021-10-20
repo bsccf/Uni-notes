@@ -1,5 +1,5 @@
 ---
-aliases: ["MEE 8.2","MEE 8.3"]
+aliases: ["MEE 8.2","MEE 8.3","Differentiation"]
 ---
 
 # MEE Differentiation
