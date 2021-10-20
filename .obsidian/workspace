@@ -7,8 +7,11 @@
         "id": "3579896df21fe3b2",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Mathematics for Engineering and the Environment/Intergration 1/Definite and indefinite intergrals/Definite and indefinite intergrals.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mathematics for Engineering and the Environment/Intergration 1/Definite and indefinite intergrals/Definite and indefinite intergrals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
