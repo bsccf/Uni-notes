@@ -12,5 +12,3 @@ Aspect ratio ($A$), this is the ratio of a planes [[Wing span]] to its [[Mean ch
 >> $A =$ Aspect ratio
 >> $b =$ [[Wing span]]
 >> $\bar{c} =$ [[Mean chord]]
-
-![[Pasted image 20211020154726.png]]
