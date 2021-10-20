@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["Intergration proof"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -16,4 +16,4 @@ Here the inaccuracy of b and c will decrease as the frequency of bars increases.
 
 If we take this method to an extreem and we keep decreasing the stip width it can be expressed formally as:
 
-
+$$ \lim_{n \rightarrow \infty, \Delta x \rightarrow 0} \sum\limits^{n_{r=1}} f(x^{*_r)\Delta}x_{r-1} $$
