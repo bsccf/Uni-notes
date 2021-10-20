@@ -13,3 +13,4 @@ tags: ["NotesPage","SESA1015"]
 ### Mach number
 As an aircraft approachest the [[Speed of sound]] the mach number becomes important. (Note [[Calculating the speed of sound]])
 
+![[Mach number]]
