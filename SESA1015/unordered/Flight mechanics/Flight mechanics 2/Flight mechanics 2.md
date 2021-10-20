@@ -28,3 +28,4 @@ Simularly:
 
 And finally:
 ![[Pitching moment equation]]
+

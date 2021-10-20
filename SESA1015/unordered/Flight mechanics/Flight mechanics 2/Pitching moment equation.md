@@ -12,4 +12,4 @@ tags: ["Question","QFormat3"]
 >> $V =$  Velocity
 >> $C_D=$ [[Pitching moment coefficient]]
 >> $S=$ [[Refrence area]]
->> $l=$ [[Refrence length]]
+>> $l=$ [[typical length|Reference length]]
