@@ -13,6 +13,27 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "03a63b4da8f25058",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mathematics for Engineering and the Environment/Intergration 1/Integration as antiderivative/Integration as antiderivative.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "76a31f35de745d46",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "Mathematics for Engineering and the Environment/course resources/Modern Engineering Mathematics by James, Prof Glyn.pdf"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -76,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Intergration 1/Integration as antiderivative/Integration scalar-multiplication rule.md",
+                "file": "Mathematics for Engineering and the Environment/course resources/Modern Engineering Mathematics by James, Prof Glyn.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,17 +143,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3579896df21fe3b2",
+  "active": "76a31f35de745d46",
   "lastOpenFiles": [
-    "Mathematics for Engineering and the Environment/Intergration 1/Integration as antiderivative/Integration scalar-multiplication rule.md",
+    "Mathematics for Engineering and the Environment/course resources/Modern Engineering Mathematics by James, Prof Glyn.pdf",
     "Mathematics for Engineering and the Environment/Intergration 1/Integration as antiderivative/Integration as antiderivative.md",
+    "Mathematics for Engineering and the Environment/Intergration 1/Integration as antiderivative/Integration scalar-multiplication rule.md",
     "Mathematics for Engineering and the Environment/Differentiation 1/Basic rules of differentiation/What's the constant multiplication rule.md",
     "Mathematics for Engineering and the Environment/Intergration 1/Definite and indefinite intergrals/Indefinate integral.md",
     "Mathematics for Engineering and the Environment/Intergration 1/MEE Intergration 1.md",
     "Mathematics for Engineering and the Environment/Intergration 1/The Fundamental Theorem of Calculus/The Fundamental Theorem of Calculus.md",
     "Mathematics for Engineering and the Environment/Differentiation 1/MEE Differentiation 1.md",
     "Mathematics for Engineering and the Environment/Intergration 1/Definite and indefinite intergrals/Definite and indefinite intergrals.md",
-    "Mathematics for Engineering and the Environment/Intergration 1/Basic ideas and definitions/Basic intergration proof.md",
-    "Mathematics for Engineering and the Environment/Intergration 1/Basic ideas and definitions/Basic ideas and definitions.md"
+    "Mathematics for Engineering and the Environment/Intergration 1/Basic ideas and definitions/Basic intergration proof.md"
   ]
 }
