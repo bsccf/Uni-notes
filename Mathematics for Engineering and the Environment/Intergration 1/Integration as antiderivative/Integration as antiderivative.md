@@ -9,4 +9,9 @@ Applying [[The Fundamental Theorem of Calculus]] we can get lots of general case
 ### Rules
 
 1) ![[Integration scalar-multiplication rule]]
+2) ![[Integration linear composite rule]]
+3) ![[Integration sum rule]]
+4) ![[Intergration inverse-function rule]]
+5) ![[Integration by parts]]
+6) 
 
