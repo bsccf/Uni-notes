@@ -4,8 +4,8 @@ tags: ["Question","QFormat3"]
 ---
 
 #### What's the
-## Integration sum rule
+## Integration linear composite rule
 
-from [[What's the sum rule]]
+from [[[compo]]
 
 > $$ \int f(x) + g(x) \cdot dx = \int f(x) \cdot dx + \int g(x) \cdot dx $$ 
