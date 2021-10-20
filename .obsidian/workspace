@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/Intergration 1/Integration as antiderivative/Integration scalar-multiplication rule.md",
+            "file": "Mathematics for Engineering and the Environment/Intergration 1/Integration as antiderivative/Integration sum rule.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/Intergration 1/Integration as antiderivative/Integration scalar-multiplication rule.md",
+                "file": "Mathematics for Engineering and the Environment/Intergration 1/Integration as antiderivative/Integration sum rule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,9 +124,9 @@
   },
   "active": "3579896df21fe3b2",
   "lastOpenFiles": [
-    "Mathematics for Engineering and the Environment/Intergration 1/Integration as antiderivative/Integration scalar-multiplication rule.md",
     "Mathematics for Engineering and the Environment/Intergration 1/Integration as antiderivative/Integration sum rule.md",
     "Mathematics for Engineering and the Environment/Intergration 1/Integration as antiderivative/Integration as antiderivative.md",
+    "Mathematics for Engineering and the Environment/Intergration 1/Integration as antiderivative/Integration scalar-multiplication rule.md",
     "Mathematics for Engineering and the Environment/course resources/Modern Engineering Mathematics by James, Prof Glyn.pdf",
     "Mathematics for Engineering and the Environment/Differentiation 1/Basic rules of differentiation/What's the constant multiplication rule.md",
     "Mathematics for Engineering and the Environment/Intergration 1/Definite and indefinite intergrals/Indefinate integral.md",

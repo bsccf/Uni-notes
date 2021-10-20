@@ -4,8 +4,6 @@ tags: ["Question","QFormat3"]
 ---
 
 #### What's the
-## Integration scalar-multiplication rule
+## Integration sum rule
 
-> $$ \int kf(x)fx = k \int f(x) fx $$ 
-
-(Very ez ngl)
+> $$ \int f(x) + z(x) dx = k \int f(x) dx $$ 
