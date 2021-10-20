@@ -1,5 +1,5 @@
 ---
-aliases: ["Mean aerodynamic chord"]
+aliases: [""]
 tags: ["Question","QFormat3"]
 ---
 
