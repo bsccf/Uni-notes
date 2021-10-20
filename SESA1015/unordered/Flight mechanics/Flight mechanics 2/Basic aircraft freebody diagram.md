@@ -13,7 +13,10 @@ $V =$ [[Relative wind]]
 $CG =$ Centre of gravity (note this is important for [[Flight path]])
 $\alpha =$ [[Angle of attack]]
 
-In summary:
+In summary, the forces acting on the plane are:
 
-| Symbol | 
-| ------ |
+| Symbol | Force  | Direction | unit |
+| ------ | ------ | --------- | ---- |
+| $L$    | Lift   | upwards   | $N$  |
+| $D$    | Drag   | backwards | $N$  |
+| $M$    | Moment | nose up   | $Nm$ |
