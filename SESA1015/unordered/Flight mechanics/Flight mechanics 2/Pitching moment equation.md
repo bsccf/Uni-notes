@@ -4,11 +4,11 @@ tags: ["Question","QFormat3"]
 ---
 
 #### What's the
-## Lift equation
-> $$ L = \frac{1}{2}\rho V^{2}S C_L $$ 
+## Pitching moment equation
+> $$ M = \frac{1}{2}\rho V^{2}S C_D $$ 
 >> where:
->> $L =$ Lift
+>> $D =$ Drag
 >> $\rho =$ density of air
 >> $V =$  Velocity
->> $C_L=$ [[Lift coefficient]]
+>> $C_D=$ [[Drag coefficient]]
 >> $S=$ [[Refrence area]]

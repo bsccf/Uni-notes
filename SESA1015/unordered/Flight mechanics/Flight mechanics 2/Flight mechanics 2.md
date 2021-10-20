@@ -20,4 +20,11 @@ As an aircraft approachest the [[Speed of sound]] the mach number becomes import
 You should be able to identitfy the names of all the forces acting on a basic plane diagram:
 ![[Basic aircraft freebody diagram]]
 
-[[Lift equation]]
+The lift can then be determined using:
+![[Lift equation]]
+
+Simularly:
+![[Drag equation]]
+
+And finally:
+![[Pitching moment equation]]
