@@ -13,5 +13,3 @@ Applying [[The Fundamental Theorem of Calculus]] we can get lots of general case
 3) ![[Integration sum rule]]
 4) ![[Intergration inverse-function rule]]
 5) ![[Integration by parts]]
-6) 
-
