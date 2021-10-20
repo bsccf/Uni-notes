@@ -13,6 +13,8 @@ $V =$ [[Relative wind]]
 $CG =$ Centre of gravity (note this is important for [[Flight path]])
 $\alpha =$ [[Angle of attack]]
 
+(also note that [[typical length]] ($l$) may be included in the diagram as well)
+
 In summary, the forces acting on the plane are:
 
 | Symbol | Force  | Direction | unit |
