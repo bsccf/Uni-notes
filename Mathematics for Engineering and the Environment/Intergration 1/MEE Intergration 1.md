@@ -14,3 +14,4 @@ Chapter: 8.7
 1) [[Basic ideas and definitions]]
 2) [[Definite and indefinite intergrals]]
 3) [[The Fundamental Theorem of Calculus]]
+4) [[Integration as antiderivative]]
