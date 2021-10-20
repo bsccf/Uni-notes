@@ -30,3 +30,5 @@ And finally:
 ![[Pitching moment equation]]
 
 ![[Aircraft geometry terms]]
+
+![[Aircraft components]]
