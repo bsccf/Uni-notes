@@ -5,4 +5,6 @@ tags: ["Question","QFormat3"]
 
 #### What's an aircraft's
 ## Wing span
-This is simply the area of a component that interacts with the working fluid/gas.
+Just the distance between the wingtips.
+
+![[Pasted image 20211020161536.png]]

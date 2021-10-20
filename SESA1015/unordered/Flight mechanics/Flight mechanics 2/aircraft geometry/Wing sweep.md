@@ -4,5 +4,6 @@ tags: ["Question","QFormat3"]
 ---
 
 #### What's an aircraft's
-## Wetted area of component
-This is simply the area of a component that interacts with the working fluid/gas.
+## Wing sweep
+Wing sweep ($\Lambda$) , this is simply the angle between the normal to th
+![[Pasted image 20211020161755.png]]
