@@ -13,3 +13,4 @@ So the [[Indefinate integral]] $F(x)$ of the continous function $f(x)$ will alwa
 
 $$ F(x) = \int^{x}_a f(t)dt $$
 (a is a constant, note [[Indefinate integral|Indefinate integral notation]])
+

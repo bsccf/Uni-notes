@@ -1,5 +1,5 @@
 ---
-aliases: ["MEE 8.7","Intergration 1","Intergration"]
+aliases: ["MEE 8.7","MEE 8.8","Intergration 1","Intergration"]
 tags: []
 ---
 
