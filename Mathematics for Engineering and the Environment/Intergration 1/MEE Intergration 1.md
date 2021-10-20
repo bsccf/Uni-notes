@@ -1,13 +1,13 @@
 ---
-aliases: ["MEE 4","Vectors basic"]
+aliases: ["MEE 8.7","Intergration 1","Intergration"]
 tags: []
 ---
 
 # Vectors 1
 
 ### Location info
-Page: 230
-Chapter: 4
+Page: 620
+Chapter: 8.7
 
 #### Read order
 
