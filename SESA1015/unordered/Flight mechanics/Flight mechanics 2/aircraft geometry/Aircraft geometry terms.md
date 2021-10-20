@@ -11,7 +11,7 @@ tags: ["Question","QFormat3"]
 > - $c_R =$ [[Root chord]]
 > - $\bar{c}=$[[Mean chord]]
 > - $l_T=$ [[Tail moment arm]]
-> $b=$ [[Wind span]]
+> $b=$ [[Wing span]]
 
 > Refrence areas:
 > - $S_G$ or $S_N=$ [[Wing plan area]]
