@@ -16,4 +16,6 @@ Here the inaccuracy of b and c will decrease as the frequency of bars increases.
 
 If we take this method to an extreem and we keep decreasing the stip width it can be expressed formally as:
 
-$$ \lim_{\substack{ \Delta x \rightarrow 0 \\ n \rightarrow \infty} \sum\limits^{n}_{r=1} f(x^{*}_r)\Delta x_{r-1} $$
+$$ \lim_{\substack{ \Delta x \rightarrow 0 \\ n \rightarrow \infty}} \sum\limits^{n}_{r=1} f(x^{*}_r)\Delta x_{r-1} $$
+
+
