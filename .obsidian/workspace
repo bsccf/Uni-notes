@@ -7,8 +7,10 @@
         "id": "3579896df21fe3b2",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "pdf",
+          "state": {
+            "file": "SESA1015/unordered/Flight mechanics/SESA1015_allOHPs(17).pdf"
+          }
         }
       }
     ],
@@ -73,6 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SESA1015/unordered/Flight mechanics/SESA1015_allOHPs(17).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +123,7 @@
   },
   "active": "3579896df21fe3b2",
   "lastOpenFiles": [
+    "SESA1015/unordered/Flight mechanics/SESA1015_allOHPs(17).pdf",
     "Mathematics for Engineering and the Environment/Intergration 1/Integration as antiderivative/Intergration inverse-function rule.md",
     "Mathematics for Engineering and the Environment/Intergration 1/Integration as antiderivative/Integration as antiderivative.md",
     "Mathematics for Engineering and the Environment/Intergration 1/Integration as antiderivative/Integration sum rule.md",
@@ -128,7 +132,6 @@
     "Mathematics for Engineering and the Environment/Intergration 1/Integration as antiderivative/Integration linear composite rule.md",
     "Mathematics for Engineering and the Environment/course resources/Modern Engineering Mathematics by James, Prof Glyn.pdf",
     "Mathematics for Engineering and the Environment/Differentiation 1/Basic rules of differentiation/What's the constant multiplication rule.md",
-    "Mathematics for Engineering and the Environment/Intergration 1/Definite and indefinite intergrals/Indefinate integral.md",
-    "Mathematics for Engineering and the Environment/Intergration 1/MEE Intergration 1.md"
+    "Mathematics for Engineering and the Environment/Intergration 1/Definite and indefinite intergrals/Indefinate integral.md"
   ]
 }
