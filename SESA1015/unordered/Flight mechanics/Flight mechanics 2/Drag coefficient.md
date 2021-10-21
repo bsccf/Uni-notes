@@ -24,7 +24,7 @@ Further if we use the equations for calculating the [[induced drag coefficient]]
 >> $K =$ constant (see [[induced drag coefficient#^fce277]])
 >> $A =$ [[Wing aspect ratio]]
 
-Dor this equation you can see lift becomes increasingly important
+Dor this equation you can see lift poipejsfopoiajflpjawj
 
 Typical values for this equation give you:
 $$C_D = 0.02 + 0.055(C_L)^2$$
