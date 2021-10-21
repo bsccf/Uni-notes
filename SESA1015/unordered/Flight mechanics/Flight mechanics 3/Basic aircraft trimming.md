@@ -19,4 +19,8 @@ To trim for pitch in steady flight at a given speed (hence you know the value of
 To get the correct pitching moment for stable flight a tailplane becomes important:
 ![[Pasted image 20211021195724.png]]
 
-It should also be noted that control surfices on the tail
+It should also be noted that control surfices on the tailplane allow for trimming for various speeds and conditions. 
+
+### Concepts that aid trimming
+
+Here are some further concepts used to help calculate
