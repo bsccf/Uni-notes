@@ -10,8 +10,9 @@ The typical behaviour is shown here:
 ![[Pasted image 20211021122339.png]]
 $\alpha_0$ is called the [[no lift angle]] and is usually negative.
 
-> $$ C_L$$ 
+> $$ C_L = a_0 (\alpha - \alpha_0) $$ 
 >> where:
->> $a =$ your mum
->> $b =$ lmao
->> $c =$ pepe
+>> $C_0 =$ your mum
+>> $a_0 =$ 
+>> $\alpha =$ angle of attack
+>> $\alpha_0=$ [[no lift angle]]
