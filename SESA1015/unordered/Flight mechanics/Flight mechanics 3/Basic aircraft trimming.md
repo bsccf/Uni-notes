@@ -12,4 +12,6 @@ Here the [[Pitching moment coefficient]] is especially important, as well as the
 
 The goal of aircraft trimming so to achieve no net moments in a given axis through the centre of mass, to make the plane more stable and easyer to control. 
 
-### Optamising 
+### Pitch trimming
+
+To trim for pitch in steady flight at a given speed (hence you know the value of the [[Lift coefficient]]) there must be no net pitching moment about the centre of gravity; hence the pitching moment curve should cross
