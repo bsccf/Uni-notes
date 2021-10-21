@@ -23,14 +23,12 @@ Then if we divide by $\frac{1}{2}\rho V^{2}Sc$ and use $C_m = C_{mo}-hC_L$ (from
 >> where:
 >> $C_{M_{CG}} =$  moment coefficient around the centre of gravity
 >> $x_{AC} =$ distance between aerodynamic centre and centre of gravity
->> $C_{m_0} =$ distance between aerodynamic centre and centre of gravity
+>> $C_{m_0} =$ ?!?
 >> $c =$ [[Mean chord|Mean aerodynamic chord]]
 >> $C_L =$ [[Lift coefficient]]
 >> $h =$ a constant
 
 hence:
-> $$ \frac{x_AC}{c}=  $$ 
->> where:
->> $a =$ your mum
->> $b =$ lmao
->> $c =$ pepe
+> $$ \frac{x_{AC}}{c}= \frac{dC_{M_{CG}}}{dC_L}=-h $$ 
+
+Since $h$ is a constant this proves aerodynamic centre is at a fixed position,
