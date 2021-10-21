@@ -19,11 +19,18 @@ $$ M_{CG} = M_0 + x_{AC}L $$
 
 Then if we divide by $\frac{1}{2}\rho V^{2}Sc$ and use $C_m = C_{mo}-hC_L$ (from [[Effect of angle of attack on the moment coefficient#^cfc8b1]]):
 
-> $$ C_{CG} = C_{M_0} \dfrac{x_{AC}}{c}C_L = C_m - hC_L $$ 
+> $$ C_{M_{CG}} = C_{M_0} \dfrac{x_{AC}}{c}C_L = C_{m_0} - hC_L $$ 
 >> where:
->> $C_{CG} =$  moment coefficient around the centre of gravity
->> $x_{CP} =$ distance between centre of pressure and centre of gravity
+>> $C_{M_{CG}} =$  moment coefficient around the centre of gravity
+>> $x_{AC} =$ distance between aerodynamic centre and centre of gravity
+>> $C_{m_0} =$ distance between aerodynamic centre and centre of gravity
 >> $c =$ [[Mean chord|Mean aerodynamic chord]]
 >> $C_L =$ [[Lift coefficient]]
 >> $h =$ a constant
 
+hence:
+> $$ \frac{x_AC}{c}=  $$ 
+>> where:
+>> $a =$ your mum
+>> $b =$ lmao
+>> $c =$ pepe
