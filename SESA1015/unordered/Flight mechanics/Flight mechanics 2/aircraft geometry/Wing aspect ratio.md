@@ -4,7 +4,7 @@ tags: ["Question","QFormat3"]
 ---
 
 #### What's an aircraft's
-## Aspect ratio
+## Wing aspect ratio
 Aspect ratio ($A$), this is the ratio of a planes [[Wing span]] to its [[Mean chord]].
 
 > $$ A = \frac{b}{\bar{c}} $$ 

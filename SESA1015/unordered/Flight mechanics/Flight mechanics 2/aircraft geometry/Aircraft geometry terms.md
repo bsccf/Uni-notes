@@ -20,4 +20,4 @@ tags: ["Question","QFormat3"]
 > Shape parameters:
 > - $\lambda=$ [[Taper ratio]]
 > - $\Lambda=$ [[Wing sweep]]
-> - $A =$ [[Aspect ratio]]
+> - $A =$ [[Wing aspect ratio]]
