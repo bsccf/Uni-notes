@@ -10,4 +10,6 @@ Here the [[Pitching moment coefficient]] is especially important, as well as the
 
 ![[Pasted image 20211021193326.png]]
 
-The goal of aircraft trimming so to achieve no pitching
+The goal of aircraft trimming so to achieve no net moments in a given axis through the centre of mass, to make the plane more stable and easyer to control. 
+
+### Optamising 
