@@ -18,7 +18,7 @@ Then if we divide by $\frac{1}{2}\rho V^{2}Sc$ and use $C_m = C_{mo}-hC_L$ (from
 
 > $$ C_{CG} = \dfrac{x_{CP}}{c}C_L = C_m - hC_L $$ 
 >> where:
->> $C_{CG} =$  
+>> $C_{CG} =$  moment coefficient around the centre of gravity
 >> $x_{CP} =$ distance between centre of pressure and centre of gravity
 >> $c =$ [[Mean chord|Mean aerodynamic chord]]
 >> $C_L =$ [[Lift coefficient]]
