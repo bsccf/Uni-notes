@@ -18,5 +18,5 @@ Further if we use the equations for calculating the [[induced drag coefficient]]
 
 > $$ C_D = C_{Do} + \dfrac{K(C_L)^{2}}{\pi A} $$ 
 >> where:
->> $K =$ another constant (more info on [[induced drag coefficient]])
+>> $K =$ [[induced drag coefficient#^fce277]]
 >> $A =$ [[Wing aspect ratio]]
