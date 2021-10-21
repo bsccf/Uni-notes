@@ -14,4 +14,12 @@ Taking moments about the centre of gravity:
 
 $$ M_{CG} = x_{CP}L $$
 
-Then if we divide by $\frac{1}{2}\rho V^{2}Sc$ and use $C_m = C_{mo}-hC_L$ (from [[]])
+Then if we divide by $\frac{1}{2}\rho V^{2}Sc$ and use $C_m = C_{mo}-hC_L$ (from [[Effect of angle of attack on the moment coefficient#^cfc8b1]]):
+
+> $$ C_{CG} = \dfrac{x_{CP}}{c}C_L = C_m - hC_L $$ 
+>> where:
+>> $C_{CG} =$ your mum
+>> $x_{CP} =$ distance between C_
+>> $c =$ 
+>> $C_L =$ [[Lift coefficient]]
+>> $h =$ a constant

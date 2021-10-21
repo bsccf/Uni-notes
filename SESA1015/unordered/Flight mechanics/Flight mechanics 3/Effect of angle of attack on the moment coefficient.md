@@ -20,3 +20,5 @@ The variation of the [[Pitching moment coefficient]] is:
 >> $C_{mo} =$ [[Pitching moment coefficient]] at zero lift
 >> $h =$ a constant
 >> $C_L =$ [[Lift coefficient]]
+
+^cfc8b1
