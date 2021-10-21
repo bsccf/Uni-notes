@@ -23,4 +23,6 @@ It should also be noted that control surfices on the tailplane allow for trimmin
 
 ### Concepts that aid trimming
 
-Here are some further concepts used to help calculate
+Here are some further concepts used to help optamise stability and calculate moments:
+- [[Centre of pressure]]
+- [[Aerodynamic centre]]
