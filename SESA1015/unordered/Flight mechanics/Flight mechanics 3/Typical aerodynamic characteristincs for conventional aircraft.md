@@ -11,3 +11,4 @@ This section covers typical aerodynamic characteristics of a conventional aircra
 
 ![[Effect of angle of attack on drag coefficient]]
 
+
