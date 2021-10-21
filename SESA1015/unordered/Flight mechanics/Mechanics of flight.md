@@ -9,5 +9,5 @@ Given lecture notes: [[SESA1015 lectures_2020.pdf]]
 
 Read order:
 1) [[Flight mechanics 2]]
-2) 
+2)  [[Flight mechanics 3]]
 
