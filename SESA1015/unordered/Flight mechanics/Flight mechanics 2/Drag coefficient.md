@@ -18,5 +18,13 @@ Further if we use the equations for calculating the [[induced drag coefficient]]
 
 > $$ C_D = C_{Do} + \dfrac{K(C_L)^{2}}{\pi A} $$ 
 >> where:
->> $K =$ [[induced drag coefficient#^fce277]]
+>> $C_D =$ [[Drag coefficient]]
+>> $C_{Do} =$ [[profile drag coefficient]]
+>> $C_L=$ [[Lift coefficient]]
+>> $K =$ constant (see [[induced drag coefficient#^fce277]])
 >> $A =$ [[Wing aspect ratio]]
+
+Dor this equation you can see lift becomes increasingly important
+
+Typical values for this equation give you:
+$$C_D = 0.02 + 0.055(C_L)^2$$
