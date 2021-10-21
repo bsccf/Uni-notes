@@ -12,3 +12,7 @@ This section covers typical aerodynamic characteristics of a conventional aircra
 ![[Effect of angle of attack on drag coefficient]]
 
 ![[Effect of angle of attack on the moment coefficient]]
+
+### Maxamising aircraft stability
+
+![[Basic aircraft trimming]]
