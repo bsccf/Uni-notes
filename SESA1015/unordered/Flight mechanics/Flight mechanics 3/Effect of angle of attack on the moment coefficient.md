@@ -12,4 +12,11 @@ Pressure moves with the angle of attack, which effects the [[Pitching moment coe
 The slope of the graph relating to angle of attack also depends on the point the moment is taken about:
 ![[Pasted image 20211021193326.png]]
 
+The variation of the [[Pitching moment coefficient]] is:
 
+> $$ C_m = C_{mo} - h C_L $$ 
+>> where:
+>> $C_m =$ [[Pitching moment coefficient]]
+>> $C_{mo} =$ [[Pitching moment coefficient]] at zero lift
+>> $h =$ a constant
+>> $C_L =$ [[Lift coefficient]]
