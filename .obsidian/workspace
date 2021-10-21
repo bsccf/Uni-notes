@@ -7,10 +7,9 @@
         "id": "1ca1c6e6657ff6f1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Flight mechanics 2.md",
-            "mode": "preview"
+            "file": "SESA1015/unordered/Flight mechanics/SESA1015 lectures_2020.pdf"
           }
         }
       }
@@ -76,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Flight mechanics 2.md",
+                "file": "SESA1015/unordered/Flight mechanics/SESA1015 lectures_2020.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,15 +122,15 @@
   },
   "active": "1ca1c6e6657ff6f1",
   "lastOpenFiles": [
+    "SESA1015/unordered/Flight mechanics/SESA1015 lectures_2020.pdf",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Calculateing airspeed with a pitot tube.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/pitot-static tube.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Flight mechanics 2.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Calculating the speed of sound.md",
-    "SESA1015/unordered/Flight mechanics/SESA1015 lectures_2020.pdf",
     "SESA1015/unordered/Flight mechanics/SESA1015_allOHPs(17).pdf",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Speed of sound.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Mach number.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Aircraft components.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/aircraft geometry/Aircraft geometry terms.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/aircraft geometry/Aspect ratio.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/aircraft geometry/Chord (aeronautics).md"
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/aircraft geometry/Aircraft geometry terms.md"
   ]
 }
