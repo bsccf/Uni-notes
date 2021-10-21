@@ -9,6 +9,13 @@ This is caused from the downwash the wing uses to produce lift, it increases in 
 
 > $$ C_{Di} = k C_L^{2} $$ 
 >> where:
->> $C_{} =$ your mum
->> $b =$ lmao
->> $c =$ pepe
+>> $C_{Di} =$ induced drag coefficient
+>> $k =$ a constant
+>> $C_L =$ [[Lift coefficient]]
+
+The constant $k$ from above can be calculated using:
+
+> $$ k = \frac{K}{\pi A} $$ 
+>> where:
+>> $K =$ another constant
+>> $A =$ [[wing a]]
