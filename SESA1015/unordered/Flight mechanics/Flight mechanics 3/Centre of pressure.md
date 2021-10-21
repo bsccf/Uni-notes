@@ -10,4 +10,8 @@ This is the axis position about which the pitching moment ($M_{cp}$) is zero. It
 (also fuck you, I'm not cropping out the random text refer to [[why I cant be asked]])
 ![[Pasted image 20211021201209.png]]
 
+Taking moments about the centre of gravity:
 
+$$ M_{CG} = x_{CP}L $$
+
+Then if we divide by $\frac{1}{2}\rho V^{2}Sc$ and use $C_m = C_{mo}-hC_L$ (from [[]])
