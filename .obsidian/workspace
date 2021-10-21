@@ -4,18 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "f4aac34d74f14e97",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Effect of angle of attack on drag coefficient.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "c46963f142419aab",
+        "id": "9d9cceeb16ff4b79",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -132,7 +121,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c46963f142419aab",
+  "active": "9d9cceeb16ff4b79",
   "lastOpenFiles": [
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/induced drag coefficient.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Effect of angle of attack on drag coefficient.md",
