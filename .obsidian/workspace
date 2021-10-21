@@ -9,18 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Centre of pressure.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "e1dbbe445998daf2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 3/cant be asked.md",
+            "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 3/why I cant be asked.md",
             "mode": "source"
           }
         }
@@ -87,13 +76,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 3/cant be asked.md",
+                "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 3/why I cant be asked.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -132,17 +121,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "e1dbbe445998daf2",
+  "active": "d68cb2915ae99260",
   "lastOpenFiles": [
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/cant be asked.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/why I cant be asked.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Centre of pressure.md",
+    "images/awdawdwaf.gif",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Aerodynamic centre.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Basic aircraft trimming.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Effect of angle on lift coefficient.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Effect of angle of attack on the moment coefficient.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Effect of angle of attack on drag coefficient.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Typical aerodynamic characteristincs for conventional aircraft.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/induced drag coefficient.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Untitled.md"
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/induced drag coefficient.md"
   ]
 }
