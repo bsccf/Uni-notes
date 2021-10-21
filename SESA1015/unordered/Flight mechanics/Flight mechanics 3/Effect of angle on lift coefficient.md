@@ -9,3 +9,9 @@ tags: ["Question","QFormat3","SESA1015"]
 The typical behaviour is shown here:
 ![[Pasted image 20211021122339.png]]
 $\alpha_0$ is called the [[no lift angle]] and is usually negative.
+
+> $$ C_L$$ 
+>> where:
+>> $a =$ your mum
+>> $b =$ lmao
+>> $c =$ pepe
