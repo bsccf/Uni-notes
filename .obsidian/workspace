@@ -7,8 +7,11 @@
         "id": "9d9cceeb16ff4b79",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Effect of angle of attack on the moment coefficient.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,12 +76,13 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Effect of angle of attack on the moment coefficient.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -120,14 +124,14 @@
   "active": "9d9cceeb16ff4b79",
   "lastOpenFiles": [
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Effect of angle of attack on the moment coefficient.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Typical aerodynamic characteristincs for conventional aircraft.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Effect of angle on lift coefficient.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Lift coefficient.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Effect of angle of attack on drag coefficient.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Refrence area.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Typical aerodynamic characteristincs for conventional aircraft.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Drag coefficient.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/induced drag coefficient.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/form drag.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/profile drag coefficient.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Effect of angle of attack on drag coefficient.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Lift coefficient.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing aspect ratio.md"
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/profile drag coefficient.md"
   ]
 }
