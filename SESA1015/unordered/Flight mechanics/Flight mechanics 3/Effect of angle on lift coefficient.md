@@ -12,7 +12,11 @@ $\alpha_0$ is called the [[no lift angle]] and is usually negative.
 
 > $$ C_L = a_0 (\alpha - \alpha_0) $$ 
 >> where:
->> $C_0 =$ your mum
->> $a_0 =$ 
+>> $C_L =$ [[Lift coefficient]] 
+>> $a_0 =$ a constant
 >> $\alpha =$ angle of attack
 >> $\alpha_0=$ [[no lift angle]]
+>> angle is measured in degrees
+
+Usually the lift curve slope equation has $a_0 \approx 0.09$ and $\alpha_0 \approx -2$ giving:
+$$ C_L = 0.9(\alpha + 2) $$ 
