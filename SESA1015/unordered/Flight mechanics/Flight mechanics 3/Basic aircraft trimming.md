@@ -14,4 +14,9 @@ The goal of aircraft trimming so to achieve no net moments in a given axis throu
 
 ### Pitch trimming
 
-To trim for pitch in steady flight at a given speed (hence you know the value of the [[Lift coefficient]]) there must be no net pitching moment about the centre of gravity; hence the pitching moment curve should cross
+To trim for pitch in steady flight at a given speed (hence you know the value of the [[Lift coefficient]]) there must be no net pitching moment about the centre of gravity; hence the pitching moment should be zero at the angle of attack that gives the desired [[Lift coefficient]] (so the graph should cross the axis at this angle).
+
+To get the correct pitching moment for stable flight a tailplane becomes important:
+![[Pasted image 20211021195724.png]]
+
+It should also be noted that control surfices on the tail
