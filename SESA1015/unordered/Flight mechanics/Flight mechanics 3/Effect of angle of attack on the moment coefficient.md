@@ -21,4 +21,4 @@ The variation of the [[Pitching moment coefficient]] is:
 >> $h =$ a constant
 >> $C_L =$ [[Lift coefficient]]
 
-For an aircraft to be trimmed it must have no pitching moment about the centre of gravity, hence to achieve this the curve when plotted for the centre of gravity must cross the horizontal axis ()
+For an aircraft to be trimmed it must have no pitching moment about the centre of gravity, hence to achieve this the curve when plotted for the centre of gravity must cross the horizontal axis (be zero) at the angle of attack that produces that value of $C_L$. 
