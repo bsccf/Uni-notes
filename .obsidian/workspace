@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 1/2 Stress and Strain/shear stress.md",
-            "mode": "source"
+            "file": "Mechanics structures and materials/Statics 1/2 Stress and Strain/Stress and Strain.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 1/2 Stress and Strain/shear stress.md",
+                "file": "Mechanics structures and materials/Statics 1/2 Stress and Strain/Stress and Strain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +106,8 @@
   },
   "active": "d68cb2915ae99260",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Statics 1/2 Stress and Strain/shear stress.md",
     "Mechanics structures and materials/Statics 1/2 Stress and Strain/Stress and Strain.md",
+    "Mechanics structures and materials/Statics 1/2 Stress and Strain/shear stress.md",
     "Mechanics structures and materials/Statics 1/2 Stress and Strain/Stress distrobution.md",
     "Mechanics structures and materials/Statics 1/2 Stress and Strain/Stress concentration factor.md",
     "Mechanics structures and materials/Statics 1/2 Stress and Strain/Ultimate Tensile Strength.md",

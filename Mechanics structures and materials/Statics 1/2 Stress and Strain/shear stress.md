@@ -11,8 +11,10 @@ This is when [[Stress]] isn't purly tensile or compressive, shear stress is when
 
 To calculate shear stress you use:
 
-> $$  = $$ 
+> $$ \tau = \frac{F}{A} $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $\tau=$ Shear stress 
+>> $F=$ Force
+>> $A=$ Area
+
+![[Pasted image 20211022205049.png]]
