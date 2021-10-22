@@ -9,9 +9,12 @@ The extention of the truss can be calculated using [[Stress]] and [[Strain]] equ
 
 
 <div style="display:flex; flex-direction:row; width:100%">
-	<div style="flex-grow: 1; text-overflow: ellipsis"><p markdown="1">
+	<div style="flex-grow: 1; text-overflow: ellipsis"><p markdown=1>
 		# header 
 		</p>
+		<span class="note">
+			# header 
+		</span>
 		aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
     </div><div style="flex-basis: 5px"></div>
     <div style="flex-grow: 1">
