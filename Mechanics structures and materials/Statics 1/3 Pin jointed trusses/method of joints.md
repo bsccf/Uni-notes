@@ -15,7 +15,7 @@ Find the tensions in $\vec{BC}$, $\vec{AB}$ and $\vec{AC}$.
 
 ![[Pasted image 20211022212948.png]]
 
-1)
+1) Calculate missing reactions
 > Horizontal equilibrium:
 > $$ H_A + H_B = 0 $$
 > Vertical equilibrium:
@@ -31,4 +31,8 @@ H_A &= 400
 H_A &= -H_B\\
 H_B &= -400
 \end{align*}$$
-> Now we have values for the reaction forces.
+
+2) Work out forces at each joint
+> ![[Pasted image 20211022214031.png]]
+> Using the same ideas of horizontal and vertical equalibrium:
+> F_BC
