@@ -25,4 +25,9 @@ You label the diagram:
 > this step is ez since $H_C = 0$ and $V_A=V_C=\frac{1}{2}F$ (if you don't get it then... idk, learn maths)
 
 2) 
-> 
+> now we only care about ED so we can cut away to get a easy to analyse bit:
+> ![[Pasted image 20211022222951.png]]
+> Horizontal:
+> $$ T_{BA} + T_{ED} + T_{EB}\cos(45) = 0 $$
+> Vertical:
+> $$ \frac{1}{2}F = T_{EB}\cos(4) $$
