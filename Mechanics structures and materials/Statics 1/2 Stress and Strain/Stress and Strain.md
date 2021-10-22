@@ -21,3 +21,7 @@ Since reality isn't perfect, it is best to ensure your design can experience sli
 
 #### Stress distobution
 ![[Stress distrobution]]
+
+### Shear stress
+
+![[shear stress]]

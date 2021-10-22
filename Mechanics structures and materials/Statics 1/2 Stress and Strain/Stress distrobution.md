@@ -11,3 +11,8 @@ This is how [[Stress]] is distrobuted throughout a material, it is important to 
 
 ### Important metric
 ![[Stress concentration factor]]
+
+### How it's generally distrobuted
+Stress tends to be concentrated around suddon changes in geometry.
+
+![[Pasted image 20211022204451.png]]
