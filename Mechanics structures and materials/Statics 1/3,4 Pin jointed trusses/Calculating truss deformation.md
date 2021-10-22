@@ -8,12 +8,12 @@ tags: ["Question","QFormat3"]
 The extention of the truss can be calculated using [[Stress]] and [[Strain]] equations.
 
 
-<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
-    <div style="display: inline-block;">
-		ffs
-    </div>
-    <div style="display: inline-block;">
-		# AHHHH
+<div style="display:flex; flex-direction:row">
+    <div style="flex-grow: 1">
+		
+    </div><div style="flex-basis: 5px"></div>
+    <div style="flex-grow: 1">
+		
     </div>
 </div>
 
