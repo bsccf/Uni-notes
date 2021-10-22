@@ -7,8 +7,11 @@
         "id": "d68cb2915ae99260",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Mechanics structures and materials/Statics 1/2 Stress and Strain/Stress.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mechanics structures and materials/Statics 1/2 Stress and Strain/Stress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
