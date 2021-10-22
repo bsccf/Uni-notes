@@ -4,5 +4,9 @@ tags: ["Question","QFormat3"]
 ---
 
 #### What are
-## staticall trusses
-These are trusses with more equilibrium equations than unknown forces or reactions, they are unstable systems
+## statically determinate trusses
+These are trusses with the same number of equilibrium equations as unknown forces or reaction.
+
+![[Pasted image 20211022224649.png]]
+
+This is a statically determinate truss, it has a fixed shape
