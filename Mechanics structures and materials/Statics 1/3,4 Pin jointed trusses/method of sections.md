@@ -11,4 +11,6 @@ Sometimes the [[method of joints]] is annoying for [[pin jointed truss model]]s 
 For these cases it becomes convinient to use the [[method of sections]] (self link wow)
 
 1) First you consider the truss as a single body and calculate what [[External forces]] are needed to keep it in eqaulibrium
-2) Then you cut the truss to get the bars that you are intrested in (note when cutting trusses you )
+2) Then you cut the truss to get the bars that you are intrested in (note when cutting trusses you must cut through bars, you cannot cut through joints)
+3) You create a new [[Free body diagram]] for the truss section and basically do (1) on the section (ngl [[method of sections]] > [[method of joints]])
+
