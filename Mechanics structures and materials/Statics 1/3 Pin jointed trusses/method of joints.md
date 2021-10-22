@@ -34,5 +34,10 @@ H_B &= -400
 
 2) Work out forces at each joint
 > ![[Pasted image 20211022214031.png]]
+> $\theta = 26.565\degree$
 > Using the same ideas of horizontal and vertical equalibrium:
-> F_BC
+> $$ \begin{align*}
+F_{BC} \cos(\theta) + F_{AC} &= 0\\
+200 + F_{BC}\sin(\theta) &= 0\\
+F_{BC}\sin(\theta) &= 0
+\end{align*} $$
