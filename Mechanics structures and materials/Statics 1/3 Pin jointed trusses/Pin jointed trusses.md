@@ -3,8 +3,9 @@ aliases: ["pin-jointed trusses","pin jointed truss"]
 tags: ["NotesPage"]
 ---
 
-# <% tp.file.title %>
-## Method
+# Pin jointed trusses
 
+### Truss definition
 
-## Examples
+![[truss]]
+
