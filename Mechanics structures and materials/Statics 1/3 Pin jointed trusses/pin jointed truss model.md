@@ -4,7 +4,7 @@ tags: ["Question","QFormat3"]
 ---
 
 #### What is a
-## Pin jointed truss model
+## Pin jointed [[truss]] model
 It is a simplified model of reality, where:
 - Each beam of the truss is modelled as a bar
 - All bars are connected by pins
@@ -26,4 +26,4 @@ There are 2 types of supports for trusses:
 
 As can be seen rolling supports only exert a reaction force vertically, while pinned supports have reactions in both directions.
 
-(Also note that since the supports touch at pins the bars connected to them are free to rotate like normal {duh [[why I cant be asked]]})
+(Also note that since the supports touch at pins the bars connected to them are free to rotate like normal {duh})
