@@ -24,4 +24,6 @@ There are 2 types of supports for trusses:
 - Rolling
 ![[Pasted image 20211022210726.png]]
 
-As can be seen rolling trusses only exert a reaction force vertically, while pinned supports have reactions in bot
+As can be seen rolling supports only exert a reaction force vertically, while pinned supports have reactions in both directions.
+
+(Also note that since the supports touch at pins the bars connected to them are free to rotate like normal {duh [[why I cant be asked]]})
