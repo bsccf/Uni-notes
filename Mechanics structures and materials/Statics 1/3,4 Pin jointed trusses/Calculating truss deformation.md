@@ -7,23 +7,14 @@ tags: ["Question","QFormat3"]
 ## Calculating truss deformation
 The extention of the truss can be calculated using [[Stress]] and [[Strain]] equations.
 
+![[Pasted image 20211022232807.png]]
 
-<div style="display:flex; flex-direction:row; width:100%">
-	<div style="flex-grow: 1; text-overflow: ellipsis"><p markdown=1>
-		# header 
-		</p>
-		<span class="note">
-			# header 
-		</span>
-		aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-    </div><div style="flex-basis: 5px"></div>
-    <div style="flex-grow: 1">
-		bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-    </div>
-</div>
+> $$ \Delta L = \frac{L_0}{EA}F  $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
 
-
-![[Pasted image 20211022230816.png]]
 
 This is for a [[pin jointed trusses|pin jointed truss]], so there are some primary assumptions we work on:
 - Bars extend/contract axially
