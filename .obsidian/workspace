@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 1/3,4 Pin jointed trusses/statically determinate trusses.md",
+            "file": "Mechanics structures and materials/Statics 1/2 Stress and Strain/Strain.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 1/3,4 Pin jointed trusses/statically determinate trusses.md",
+                "file": "Mechanics structures and materials/Statics 1/2 Stress and Strain/Strain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,7 @@
   },
   "active": "d68cb2915ae99260",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Statics 1/2 Stress and Strain/Strain.md",
     "Mechanics structures and materials/Statics 1/3,4 Pin jointed trusses/statically determinate trusses.md",
     "Mechanics structures and materials/Statics 1/3,4 Pin jointed trusses/statically indeterminate trusses.md",
     "Mechanics structures and materials/Statics 1/3,4 Pin jointed trusses/mechanism trusses.md",
@@ -123,7 +124,6 @@
     "Mechanics structures and materials/Statics 1/3,4 Pin jointed trusses/pin jointed truss model.md",
     "Mechanics structures and materials/Statics 1/3,4 Pin jointed trusses/method of sections.md",
     "Mechanics structures and materials/Statics 1/3,4 Pin jointed trusses/method of joints.md",
-    "Mechanics structures and materials/Statics 1/3,4 Pin jointed trusses/truss.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/why I cant be asked.md"
+    "Mechanics structures and materials/Statics 1/3,4 Pin jointed trusses/truss.md"
   ]
 }

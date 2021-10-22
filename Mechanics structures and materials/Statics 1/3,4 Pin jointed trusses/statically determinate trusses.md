@@ -9,4 +9,4 @@ These are trusses with the same number of equilibrium equations as unknown force
 
 ![[Pasted image 20211022224649.png]]
 
-This is a statically determinate truss, it has a fixed shape
+This is a statically determinate truss, it has a fixed shape and is stable
