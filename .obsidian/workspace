@@ -7,11 +7,8 @@
         "id": "d68cb2915ae99260",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Mechanics structures and materials/Statics 1/2 Stress and Strain/Stress.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 1/2 Stress and Strain/Stress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,27 +95,10 @@
             }
           }
         ]
-      },
-      {
-        "id": "4d6f562e66a96d73",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "72a2269e35c10bc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics for Engineering and the Environment/Differentiation 1/Extended form of the chain rule/Extended form of the chain rule.md",
-                "mode": "source"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 246
   },
   "active": "d68cb2915ae99260",
   "lastOpenFiles": [
