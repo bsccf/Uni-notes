@@ -15,10 +15,8 @@ For a [[Free body diagram|FBD]] to be in equilibrium, the resaultant external fo
 
 ### Method
 
-For a 2D object you would find the horizontal and verticle components of each force and sum them, if the horizontal forces and verticl
+For a 2D object you would find the horizontal and verticle components of each force and sum them, if the horizontal and verticle resaultant forces are zero then the objects in equilibrium, you will also need to check if moments are zero. (for objects with more dimentions, figure it out idot)
 
-### Example diagram
-
-![[Pasted image 20211022173256.png]]
-
-Here the sum of the verticle and horizontal components of all these forces acting on the body is zero.
+### Example 
+![[Pasted image 20211022174010.png]]
+(cba to make it myself)
