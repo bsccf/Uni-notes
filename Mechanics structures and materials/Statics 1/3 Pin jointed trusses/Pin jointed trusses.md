@@ -5,7 +5,8 @@ tags: ["NotesPage"]
 
 # Pin jointed trusses
 
-### Truss definition
+### Truss basics
 
 ![[truss]]
 
+![[pin jointed truss model]]
