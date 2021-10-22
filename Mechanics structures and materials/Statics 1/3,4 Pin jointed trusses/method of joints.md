@@ -37,12 +37,12 @@ H_B &= -400
 > $\theta = 26.565\degree$
 > Using the same ideas of horizontal and vertical equalibrium:
 > $$ \begin{align*}
-F_{BC} \cos(\theta) + F_{AC} &= 0\\
+F_{BC} \cos(\theta) + F_{AC} &= 0\\\\
 200 + F_{BC}\sin(\theta) &= 0\\
-F_{BC} &= \frac{-200}{\sin(\theta)} = -447.213\\
-F_{AC}&= - F_{BC} \cos(\theta) = 400
+F_{BC} &= \frac{-200}{\sin(\theta)} \\&= -447.213\\\\
+F_{AC}&= - F_{BC} \cos(\theta) \\&= 400
 \end{align*} $$
->> Now you compute B and find that $\vec{BA}=0$ (cba rn)
+> Now you compute B and find that $\vec{BA}=0$ (cba rn)
 
 Finally you have:
 ![[Pasted image 20211022214705.png]]
