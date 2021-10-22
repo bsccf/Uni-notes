@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 1/2 Stress and Strain/Stress and Strain.md",
+            "file": "Mechanics structures and materials/Statics 1/2 Stress and Strain/Stress.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 1/2 Stress and Strain/Stress and Strain.md",
+                "file": "Mechanics structures and materials/Statics 1/2 Stress and Strain/Stress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +123,8 @@
   },
   "active": "d68cb2915ae99260",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Statics 1/2 Stress and Strain/Stress.md",
+    "Mechanics structures and materials/Statics 1/2 Stress and Strain/Strain.md",
     "Mechanics structures and materials/Statics 1/2 Stress and Strain/Stress and Strain.md",
     "Mechanics structures and materials/Statics 1/Statics 1 read order.md",
     "Mechanics structures and materials/Statics 1/1 Forces and Equilibrium/Free body diagram.md",
@@ -130,8 +132,6 @@
     "Mechanics structures and materials/Statics 1/1 Forces and Equilibrium/External forces.md",
     "Mechanics structures and materials/Statics 1/1 Forces and Equilibrium/Free body diagram in equilibrium.md",
     "Mechanics structures and materials/Statics 1/1 Forces and Equilibrium/Internal forces.md",
-    "Templates/SESA Simple def.md",
-    "Templates/SESA Notes.md",
-    "Templates/SESA question F3.md"
+    "Templates/SESA Simple def.md"
   ]
 }
