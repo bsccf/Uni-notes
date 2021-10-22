@@ -14,3 +14,9 @@ For these cases it becomes convinient to use the [[method of sections]] (self li
 2) Then you cut the truss to get the bars that you are intrested in (note when cutting trusses you must cut through bars, you cannot cut through joints)
 3) You create a new [[Free body diagram]] for the truss section and basically do (1) on the section (ngl [[method of sections]] > [[method of joints]])
 
+### Example
+Find the force in bar ED:
+![[Pasted image 20211022222434.png]]
+
+1) 
+> this step is ez since $\sum\limits|F_{H}|=0$ and $R_{A}=R_{C}$
