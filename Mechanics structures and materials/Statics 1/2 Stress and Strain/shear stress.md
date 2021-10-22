@@ -5,6 +5,14 @@ tags: ["Question","QFormat3"]
 
 #### What's
 ## shear stress
-This is when [[Stress]] isn't purly tensile or compressive:
+This is when [[Stress]] isn't purly tensile or compressive, shear stress is when the force acts parallel to a cross-sectional area of a body.
 
+![[Pasted image 20211022204858.png]]
 
+To calculate shear stress you use:
+
+> $$  = $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
