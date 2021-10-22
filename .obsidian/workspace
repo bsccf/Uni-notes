@@ -7,10 +7,18 @@
         "id": "7a2da31fbd08654e",
         "type": "leaf",
         "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "b207c3b24c567f73",
+        "type": "leaf",
+        "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Calculating the speed of sound.md",
-            "mode": "preview"
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Calculating the speed of sound.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,13 +112,13 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "7a2da31fbd08654e",
+  "active": "b207c3b24c567f73",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Calculating the speed of sound.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/The atmospheric environment. fundamental convepts and definitions.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Basic aircraft freebody diagram.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Bernouillis Equation.md",
-    "conflict-files-obsidian-git.md",
     "Mathematics for Engineering and the Environment/Differentiation 1/t3.pdf",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Flight mechanics 2.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Speed of sound.md",
