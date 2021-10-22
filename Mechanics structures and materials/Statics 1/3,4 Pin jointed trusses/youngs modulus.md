@@ -13,8 +13,6 @@ Youngs modulus is the property that measures the stiffness of a solid when a for
 >> $\sigma=$ [[Stress]]
 >> $\epsilon=$ [[Strain]]
 
-> $$ E = \frac{F/A}{\epsilon} $$ 
->> where:
->> $E=$  Youngs modulus
->> $\sigma=$ [[Stress]]
->> $\epsilon=$ [[Strain]]
+further:
+
+> $$ E = \frac{F/A}{\Delta l/l_0} =\frac{Fl_0}{A\Delta l}$$ 
