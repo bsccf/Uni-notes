@@ -27,4 +27,4 @@ Since reality isn't perfect, it is best to ensure your design can experience sli
 ![[shear stress]]
 
 It should be noted that on a section through a given object you will have both [[shear stress]] and normal (compress/tensile) [[Stress]].
-![[Pasted image 20211022205257.png]]
+![[Pasted image 20211022205346.png]]

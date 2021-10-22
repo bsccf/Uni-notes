@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 1/2 Stress and Strain/Stress and Strain.md",
-            "mode": "preview"
+            "file": "Mechanics structures and materials/Statics 1/3 Pin jointed trusses/Pin jointed trusses.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 1/2 Stress and Strain/Stress and Strain.md",
+                "file": "Mechanics structures and materials/Statics 1/3 Pin jointed trusses/Pin jointed trusses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,8 @@
   },
   "active": "d68cb2915ae99260",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Statics 1/3 Pin jointed trusses/Pin jointed trusses.md",
+    "Mechanics structures and materials/Statics 1/Statics 1 read order.md",
     "Mechanics structures and materials/Statics 1/2 Stress and Strain/Stress and Strain.md",
     "Mechanics structures and materials/Statics 1/2 Stress and Strain/shear stress.md",
     "Mechanics structures and materials/Statics 1/2 Stress and Strain/Stress distrobution.md",
@@ -113,8 +115,6 @@
     "Mechanics structures and materials/Statics 1/2 Stress and Strain/Ultimate Tensile Strength.md",
     "Mechanics structures and materials/Statics 1/2 Stress and Strain/Yield stress.md",
     "Mechanics structures and materials/Statics 1/2 Stress and Strain/Stress safety factor.md",
-    "Mechanics structures and materials/Statics 1/2 Stress and Strain/Stress.md",
-    "Templates/Maths equation highlighted.md",
-    "Mechanics structures and materials/Statics 1/2 Stress and Strain/Strain.md"
+    "Mechanics structures and materials/Statics 1/2 Stress and Strain/Stress.md"
   ]
 }
