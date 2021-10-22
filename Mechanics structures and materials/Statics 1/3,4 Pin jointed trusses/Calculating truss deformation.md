@@ -33,4 +33,6 @@ It's best to use an example, consider:
 If we exagerate the movments:
 ![[Pasted image 20211022233751.png]]
 
-But in reality, since the extentions are so small you can just accuratly approxi
+But in reality, since the extentions are so small you can just accuratly approximate the movement with:
+![[Pasted image 20211022234028.png]]
+
