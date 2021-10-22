@@ -17,17 +17,20 @@ Find the tensions in $\vec{BC}$, $\vec{AB}$ and $\vec{AC}$.
 
 1) Calculate missing reactions
 > Horizontal equilibrium:
-> $$ H_A + H_B = 0 $$
+>> $$ H_A + H_B = 0 $$
+>
 > Vertical equilibrium:
-> $$ V_B + 200 = 0 $$
-> $$ V_B = -200 $$
+>> $$ V_B + 200 = 0 $$
+>> $$ V_B = -200 $$
+>
 > Moments equilibrium (about B):
-> $$ \begin{align*}
+>> $$ \begin{align*}
 5H_A &= 10*200\\
 H_A &= 400
 \end{align*} $$
+>
 > Using all the equations together:
-> $$\begin{align*}
+>> $$\begin{align*}
 H_A &= -H_B\\
 H_B &= -400
 \end{align*}$$
@@ -36,12 +39,13 @@ H_B &= -400
 > ![[Pasted image 20211022214031.png]]
 > $\theta = 26.565\degree$
 > Using the same ideas of horizontal and vertical equalibrium:
-> $$ \begin{align*}
+>> $$ \begin{align*}
 F_{BC} \cos(\theta) + F_{AC} &= 0\\\\
 200 + F_{BC}\sin(\theta) &= 0\\
 F_{BC} &= \frac{-200}{\sin(\theta)} \\&= -447.213\\\\
 F_{AC}&= - F_{BC} \cos(\theta) \\&= 400
 \end{align*} $$
+>
 > Now you compute B and find that $\vec{BA}=0$ (cba rn)
 
 Finally you have:

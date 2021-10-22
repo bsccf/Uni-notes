@@ -44,5 +44,5 @@ You label the diagram:
 2L \frac{1}{2}F + L T_{ED} &= 0\\
 T_{ED} &= -F
 \end{align*} $$
-
+>
 > You can just stop here, since $T_{ED}$ is all you needed

@@ -14,3 +14,4 @@ tags: ["NotesPage"]
 ### Analysis of trusses
 
 ![[methods of pin jointed truss analysis]]
+
