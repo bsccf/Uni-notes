@@ -5,5 +5,8 @@ tags: ["Question","QFormat3"]
 
 #### What is the
 ## Method of joints
-This is where you consider the horizontal and verticle force equalibrium at each joint in the [[pin jointed truss model]], and figure out the forces acting on the surrounding bars which produces this resault.
-Generally it is eas
+
+1) First you consider the truss as a single body and calculate what [[External forces]] are needed to keep it in eqaulibrium
+2) You consider the horizontal and verticle force equalibrium at each joint in the [[pin jointed truss model]], and figure out the forces acting on the surrounding bars which produces this resault. Generally it is easyer to start by analysing pins with as few unknowns as possible.
+
+
