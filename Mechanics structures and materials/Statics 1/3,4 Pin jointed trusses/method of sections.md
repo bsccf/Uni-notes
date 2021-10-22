@@ -18,5 +18,11 @@ For these cases it becomes convinient to use the [[method of sections]] (self li
 Find the force in bar ED:
 ![[Pasted image 20211022222434.png]]
 
+You label the diagram:
+![[Pasted image 20211022222635.png]]
+
 1) 
-> this step is ez since $\sum\limits|F_{H}|=0$ and $R_{A}=R_{C}$
+> this step is ez since $H_C = 0$ and $V_A=V_C=\frac{1}{2}F$ (if you don't get it then... idk, learn maths)
+
+2) 
+> 
