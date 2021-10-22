@@ -15,4 +15,6 @@ This is the force over an objects cross sectional area:
 
 ![[Pasted image 20211022174847.png]]
 
-[[Ultimate Tensile Strength]]
+There are two important stress values that you should also be aware of:
+- [[Ultimate Tensile Strength]]
+- [[Yield stress]]

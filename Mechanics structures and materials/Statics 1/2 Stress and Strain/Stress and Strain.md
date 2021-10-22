@@ -14,3 +14,5 @@ This intorduces to how bodys act when a load is applied, how much do they deform
 
 ![[Strain]]
 
+#### Safety
+Since reality isn't perfect, it is best to ensure your design can experience slightly more force than the maximum stress you expec
