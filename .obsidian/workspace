@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 1/Statics 1 read order.md",
+            "file": "Mechanics structures and materials/Statics 1/1 Forces and Equilibrium/External forces.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 1/Statics 1 read order.md",
+                "file": "Mechanics structures and materials/Statics 1/1 Forces and Equilibrium/External forces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,15 +123,15 @@
   },
   "active": "d68cb2915ae99260",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Statics 1/1 Forces and Equilibrium/External forces.md",
+    "Mechanics structures and materials/Statics 1/1 Forces and Equilibrium/Forces and Equilibrium.md",
+    "Templates/SESA question F3.md",
     "Mechanics structures and materials/Statics 1/Statics 1 read order.md",
-    "Mechanics structures and materials/Statics 1/1 Forces and Equalibrium/Forces and Eqaulibrium.md",
+    "Templates/SESA Notes.md",
+    "Templates/Maths Notes.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Centre of pressure.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Aerodynamic centre.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/why I cant be asked.md",
-    "images/awdawdwaf.gif",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Basic aircraft trimming.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Effect of angle on lift coefficient.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Effect of angle of attack on the moment coefficient.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Effect of angle of attack on drag coefficient.md"
+    "images/awdawdwaf.gif"
   ]
 }

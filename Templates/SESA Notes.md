@@ -1,6 +1,6 @@
 ---
 aliases: [""]
-tags: ["NotesPage","SESA1015"]
+tags: ["NotesPage"]
 ---
 
 # <% tp.file.title %>
