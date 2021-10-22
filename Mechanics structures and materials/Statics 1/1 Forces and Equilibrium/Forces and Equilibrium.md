@@ -12,3 +12,6 @@ There are 2 tpyes of foces you need to be aware of:
 
 ![[Internal forces]]
 
+### FBD
+
+![[Free body diagram]]
