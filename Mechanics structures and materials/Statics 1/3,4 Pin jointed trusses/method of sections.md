@@ -30,4 +30,13 @@ You label the diagram:
 > Horizontal:
 > $$ T_{BA} + T_{ED} + T_{EB}\cos(45) = 0 $$
 > Vertical:
-> $$ \frac{1}{2}F = T_{EB}\cos(4) $$
+> $$ \begin{align*}
+\frac{1}{2}F &= T_{EB}\cos(45)\\
+\frac{1}{2 \cos(45)}F &= T_{EB} \\
+&= \frac{\sqrt{2}}{2}F
+\end{align*} $$
+> Moments (about B):
+> $$ \begin{align*}
+2L \frac{1}{2}F + L T_{ED} &= 0\\
+T_{ED} &= 0
+\end{align*} $$
