@@ -20,8 +20,15 @@ Find the tensions in $\vec{BC}$, $\vec{AB}$ and $\vec{AC}$.
 > $$ H_A + H_B = 0 $$
 > Vertical equilibrium:
 > $$ V_B + 200 = 0 $$
+> $$ V_B = -200 $$
 > Moments equilibrium (about B):
 > $$ \begin{align*}
 5H_A &= 10*200\\
-H_A &= 
+H_A &= 400
 \end{align*} $$
+> Using all the equations together:
+> $$\begin{align*}
+H_A &= -H_B\\
+H_B &= -400
+\end{align*}$$
+> Now we have values for the reaction forces.
