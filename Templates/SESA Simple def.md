@@ -1,4 +1,5 @@
 ---
 aliases: [""]
-tags: ["Question","QFormat4","SESA1015"]
+tags: ["Question","QFormat4"]
 ---
+### <% tp.file.title %>

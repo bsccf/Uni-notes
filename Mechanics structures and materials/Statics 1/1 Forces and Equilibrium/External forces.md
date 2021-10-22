@@ -1,8 +1,6 @@
 ---
 aliases: [""]
-tags: ["Question","QFormat3"]
+tags: ["Question","QFormat4"]
 ---
-
-#### What is
-## <% tp.file.title %>
-Desc
+### External forces
+This is a force acting on the given body originating outside the body. (Things like gravity or other external pushing)
