@@ -13,5 +13,9 @@ There are 2 tpyes of foces you need to be aware of:
 ![[Internal forces]]
 
 ### FBD
-
 ![[Free body diagram]]
+
+#### Equilibrium
+It should be noted in statics all bodys will be in equilibrium, and will have $\sum Forces = 0$ in all directions.
+
+![[Free body diagram in eqaulibrium]]

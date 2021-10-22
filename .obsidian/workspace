@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 1/1 Forces and Equilibrium/Free body diagram.md",
+            "file": "Mechanics structures and materials/Statics 1/1 Forces and Equilibrium/Free body diagram in eqaulibrium.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 1/1 Forces and Equilibrium/Free body diagram.md",
+                "file": "Mechanics structures and materials/Statics 1/1 Forces and Equilibrium/Free body diagram in eqaulibrium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,15 +123,15 @@
   },
   "active": "d68cb2915ae99260",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Statics 1/1 Forces and Equilibrium/Free body diagram.md",
+    "Mechanics structures and materials/Statics 1/1 Forces and Equilibrium/Free body diagram in eqaulibrium.md",
     "Mechanics structures and materials/Statics 1/1 Forces and Equilibrium/Forces and Equilibrium.md",
+    "Mechanics structures and materials/Statics 1/1 Forces and Equilibrium/Internal forces.md",
+    "Mechanics structures and materials/Statics 1/1 Forces and Equilibrium/Free body diagram.md",
     "Templates/SESA Simple def.md",
     "Templates/SESA Notes.md",
-    "Mechanics structures and materials/Statics 1/1 Forces and Equilibrium/Internal forces.md",
     "Mechanics structures and materials/Statics 1/1 Forces and Equilibrium/External forces.md",
     "Templates/SESA question F3.md",
     "Mechanics structures and materials/Statics 1/Statics 1 read order.md",
-    "Templates/Maths Notes.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Centre of pressure.md"
+    "Templates/Maths Notes.md"
   ]
 }
