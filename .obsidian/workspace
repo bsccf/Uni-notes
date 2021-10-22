@@ -4,11 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d68cb2915ae99260",
+        "id": "7a2da31fbd08654e",
         "type": "leaf",
         "state": {
           "type": "graph",
           "state": {}
+        }
+      },
+      {
+        "id": "b207c3b24c567f73",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -57,7 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336
+    "width": 226
   },
   "right": {
     "id": "12c168c46d609ed6",
@@ -73,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,39 +107,22 @@
             }
           }
         ]
-      },
-      {
-        "id": "4d6f562e66a96d73",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "72a2269e35c10bc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics for Engineering and the Environment/Differentiation 1/Extended form of the chain rule/Extended form of the chain rule.md",
-                "mode": "source"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d68cb2915ae99260",
+  "active": "b207c3b24c567f73",
   "lastOpenFiles": [
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Centre of pressure.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Aerodynamic centre.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/why I cant be asked.md",
-    "images/awdawdwaf.gif",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Basic aircraft trimming.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Effect of angle on lift coefficient.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Effect of angle of attack on the moment coefficient.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Effect of angle of attack on drag coefficient.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Typical aerodynamic characteristincs for conventional aircraft.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/induced drag coefficient.md"
+    "conflict-files-obsidian-git.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Calculating the speed of sound.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/The atmospheric environment. fundamental convepts and definitions.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Basic aircraft freebody diagram.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Bernouillis Equation.md",
+    "Mathematics for Engineering and the Environment/Differentiation 1/t3.pdf",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Flight mechanics 2.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Speed of sound.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Untitled.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Mach number.md"
   ]
 }
