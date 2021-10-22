@@ -16,4 +16,12 @@ Find the tensions in $\vec{BC}$, $\vec{AB}$ and $\vec{AC}$.
 ![[Pasted image 20211022212948.png]]
 
 1)
-> Horizontal equilibrium $$
+> Horizontal equilibrium:
+> $$ H_A + H_B = 0 $$
+> Vertical equilibrium:
+> $$ V_B + 200 = 0 $$
+> Moments equilibrium (about B):
+> $$ \begin{align*}
+5H_A &= 10*200\\
+H_A &= 
+\end{align*} $$
