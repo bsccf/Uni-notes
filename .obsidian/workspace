@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 1/2 Stress and Strain/Stress safety factor.md",
+            "file": "Mechanics structures and materials/Statics 1/2 Stress and Strain/Stress distrobution.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 1/2 Stress and Strain/Stress safety factor.md",
+                "file": "Mechanics structures and materials/Statics 1/2 Stress and Strain/Stress distrobution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "d68cb2915ae99260",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Statics 1/2 Stress and Strain/Stress safety factor.md",
+    "Mechanics structures and materials/Statics 1/2 Stress and Strain/Stress distrobution.md",
     "Mechanics structures and materials/Statics 1/2 Stress and Strain/Stress and Strain.md",
+    "Mechanics structures and materials/Statics 1/2 Stress and Strain/Stress safety factor.md",
     "Mechanics structures and materials/Statics 1/2 Stress and Strain/Stress.md",
     "Mechanics structures and materials/Statics 1/2 Stress and Strain/Yield stress.md",
     "Mechanics structures and materials/Statics 1/2 Stress and Strain/Ultimate Tensile Strength.md",
     "Templates/Maths equation highlighted.md",
     "Mechanics structures and materials/Statics 1/2 Stress and Strain/Strain.md",
     "Mechanics structures and materials/Statics 1/Statics 1 read order.md",
-    "Mechanics structures and materials/Statics 1/1 Forces and Equilibrium/Free body diagram.md",
-    "Mechanics structures and materials/Statics 1/1 Forces and Equilibrium/Forces and Equilibrium.md"
+    "Mechanics structures and materials/Statics 1/1 Forces and Equilibrium/Free body diagram.md"
   ]
 }
