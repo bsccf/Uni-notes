@@ -13,5 +13,8 @@ Alternative view:
 
 ![[Pasted image 20211023231005.png]]
 
-It is the smallest reapeatable unit of the [[ABABAB stacking sequence]].
-
+### General properties
+- Highly symmetrical
+- Has close packed planes
+- Is a [[ABABAB stacking sequence]]
+- It is the smallest reapeatable unit of the [[ABABAB stacking sequence]].

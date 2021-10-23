@@ -7,11 +7,8 @@
         "id": "51e9a3e51786769f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Mechanics structures and materials/Materials/2 Crystal Structures/Crystal Structures.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/2 Crystal Structures/Crystal Structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,13 +110,13 @@
   },
   "active": "51e9a3e51786769f",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Materials/2 Crystal Structures/hexagonal close packing.md",
+    "Mechanics structures and materials/Materials/2 Crystal Structures/face centred cubic.md",
     "Mechanics structures and materials/Materials/2 Crystal Structures/Crystal Structures.md",
     "Mechanics structures and materials/Materials/2 Crystal Structures/unit cell dimensions.md",
     "Mechanics structures and materials/Materials/Materials read order.md",
     "Mechanics structures and materials/Materials/2 Crystal Structures/polymorphism (materials science).md",
-    "Mechanics structures and materials/Materials/2 Crystal Structures/face centred cubic.md",
     "Mechanics structures and materials/Materials/2 Crystal Structures/body centred cubic.md",
-    "Mechanics structures and materials/Materials/2 Crystal Structures/hexagonal close packing.md",
     "Mechanics structures and materials/Materials/2 Crystal Structures/ABCABC stacking sequence.md",
     "Mechanics structures and materials/Materials/2 Crystal Structures/ABABAB stacking sequence.md",
     "Mechanics structures and materials/Materials/2 Crystal Structures/crystalline materials.md"
