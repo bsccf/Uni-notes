@@ -21,7 +21,9 @@ There are 2 stacking sequence's we will focus on for now:
 2) ![[ABCABC stacking sequence]]
 
 ### Important packing types
-These are 2 important packing types:
+These are 3 important packing types:
 
 1) ![[face centred cubic]]
 2) ![[body centred cubic]]
+3) ![[hexagonal close packing]]
+
