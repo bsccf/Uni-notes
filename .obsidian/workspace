@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/2 Crystal Structures/unit cell dimensions.md",
-            "mode": "source"
+            "file": "Mechanics structures and materials/Materials/2 Crystal Structures/Crystal Structures.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/2 Crystal Structures/unit cell dimensions.md",
+                "file": "Mechanics structures and materials/Materials/2 Crystal Structures/Crystal Structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,8 +114,8 @@
   },
   "active": "51e9a3e51786769f",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Materials/2 Crystal Structures/unit cell dimensions.md",
     "Mechanics structures and materials/Materials/2 Crystal Structures/Crystal Structures.md",
+    "Mechanics structures and materials/Materials/2 Crystal Structures/unit cell dimensions.md",
     "Mechanics structures and materials/Materials/Materials read order.md",
     "Mechanics structures and materials/Materials/2 Crystal Structures/polymorphism (materials science).md",
     "Mechanics structures and materials/Materials/2 Crystal Structures/face centred cubic.md",

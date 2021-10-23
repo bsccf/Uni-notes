@@ -13,5 +13,10 @@ To calculate unit cell dimensions you:
 Find the unit cell dimensions of a [[face centred cubic]].
 
 1)
-> 
-
+> ![[Pasted image 20211023233441.png]]
+2)
+> $$\begin{align*}
+a^{2}+a^{2}&=(4R)^{2}\\
+a&=R2\sqrt{2}
+\end{align*}$$
+> So now you know how dense a [[crystal unit cell|unit cell]] is.
