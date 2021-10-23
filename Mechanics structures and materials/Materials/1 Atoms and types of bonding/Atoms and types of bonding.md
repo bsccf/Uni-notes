@@ -10,3 +10,5 @@ tags: ["NotesPage"]
 ![[potential energy between atoms]]
 
 ![[types of primary bonding]]
+
+![[types of secondary bonding]]
