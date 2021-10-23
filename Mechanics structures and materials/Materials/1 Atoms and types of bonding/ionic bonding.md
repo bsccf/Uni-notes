@@ -16,4 +16,4 @@ The [[electron configuration]] shows that Na has one too many electrons in its o
 
 ![[Pasted image 20211023163537.png]]
 
-You can also see that the ions will be attracted to atoms they 
+You can also see that the ions will be attracted to atoms they didn't even share electrons with, this leads to strong bonding forces throughout the compound.
