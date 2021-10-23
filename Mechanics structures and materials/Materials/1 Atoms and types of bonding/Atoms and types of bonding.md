@@ -8,3 +8,5 @@ tags: ["NotesPage"]
 ![[Relationship between periodic organisation and valence]]
 
 ![[potential energy between atoms]]
+
+![[types of primary bonding]]
