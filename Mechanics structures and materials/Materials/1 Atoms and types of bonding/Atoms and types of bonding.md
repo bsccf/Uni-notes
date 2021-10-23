@@ -12,3 +12,4 @@ tags: ["NotesPage"]
 ![[types of primary bonding]]
 
 ![[types of secondary bonding]]
+
