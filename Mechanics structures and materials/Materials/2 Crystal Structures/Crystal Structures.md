@@ -15,5 +15,8 @@ These are important, as they help simplify analysis of materials.
 
 
 ### Building solids
+There are 2 stacking sequence's we will focus on for now:
 
-![[ABABAB stacking sequence]]
+1) ![[ABABAB stacking sequence]]
+2) ![[ABCABC stacking sequence]]
+
