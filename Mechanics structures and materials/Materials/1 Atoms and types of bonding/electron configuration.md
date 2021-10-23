@@ -17,4 +17,4 @@ Each component of the electon configuration has numbers and a letter which descr
 - The $s$ describes the [[electron subshells#subshell lablel|subshell lablel]]
 - the $^2$ describes the number of electrons in the [[electron subshells|electron subshell]]
 
-Since the know the max electrons of the subshell from the subshell label, you can compare that with the number of electrons in that subshell to figure out if the subshell is complete or not. In this example $1s^{2}$
+Since the know the max electrons of the subshell from the subshell label, you can compare that with the number of electrons in that subshell to figure out if the subshell is complete or not. In this example $1s^{2}$, you know that the subshell is full.
