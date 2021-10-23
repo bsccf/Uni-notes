@@ -13,3 +13,6 @@ tags: ["NotesPage"]
 
 ![[types of secondary bonding]]
 
+### Implications of all of this
+
+![[Pasted image 20211023215752.png]]
