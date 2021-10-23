@@ -6,6 +6,11 @@ tags: ["Question","QFormat3"]
 #### What is
 ## Electron configuration
 This is the distorbution of electrons of an atom or molecule in atomic or molecular orbitals. Electron configurations describe each electron as moving independently in an orbital.
+
+
+### Example & explenation
 An example of an electron configuration:
 (neon) $1s^{2}2s^{2}2p^{6}$
+
+Each component of the electon configuration has numbers and a letter which describes that [[electron shell]] and [[electron subshells]] composition, we can elaborate by looking at the meaning of $1s^{2}$:
 
