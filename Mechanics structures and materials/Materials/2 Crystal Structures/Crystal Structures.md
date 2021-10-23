@@ -13,3 +13,7 @@ Solids can be [[crystalline materials]] or [[non-crystalline materials]].
 These are important, as they help simplify analysis of materials.
 ![[crystal unit cell]]
 
+
+### Building solids
+
+![[ABABAB stacking sequence]]
