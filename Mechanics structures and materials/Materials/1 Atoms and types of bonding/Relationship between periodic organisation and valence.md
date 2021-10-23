@@ -10,4 +10,4 @@ tags: ["Question","QFormat3"]
 
 ![[Pasted image 20211023133849.png]]
 
-[[Valence]] is related to the number of 
+[[Valence]] is related to the number of electron needed to be gained/lost to give the atom a complete outer shell
