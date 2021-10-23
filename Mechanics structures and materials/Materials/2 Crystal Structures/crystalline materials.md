@@ -5,4 +5,9 @@ tags: ["Question","QFormat3"]
 
 #### What is a
 ## crystalline material
-Desc
+This is just any solid that:
+- Is ordered
+- Has a repetitive 3D lattice structure
+
+![[Pasted image 20211023223602.png]]
+
