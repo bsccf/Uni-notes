@@ -5,4 +5,5 @@ tags: ["Question","QFormat3"]
 
 #### What are
 ## Polarised atoms
-These are atoms which have asymetric charge
+These are atoms which have asymetric charge, being more positive on one side and negative on the other; this is caused by the position of electrons in the atom.
+
