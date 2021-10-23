@@ -14,4 +14,4 @@ An example of an electron configuration:
 
 Each component of the electon configuration has numbers and a letter which describes that [[electron shell]] and [[electron subshells]] composition, we can elaborate by looking at the meaning of $1s^{2}$:
 - The $1$ describes which [[electron shell]] the [[electron subshells]] located in
-- The $s$ describes the [[sub]]
+- The $s$ describes the [[electron subshells#^bbe763|electron subshell]]
