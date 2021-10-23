@@ -1,5 +1,5 @@
 ---
-aliases: ["hexagonal close packing"]
+aliases: [""]
 tags: ["Question","QFormat3"]
 ---
 
@@ -7,6 +7,8 @@ tags: ["Question","QFormat3"]
 ## ABABAB stacking sequence
 This is when atoms are stacked in 2 repeating layers, ontop of eachother:
 
-![[Pasted image 20211023230710.png]]
+#### Example
+
+![[hexagonal close packing]]
 
 

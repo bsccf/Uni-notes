@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/2 Crystal Structures/ABABAB stacking sequence.md",
+            "file": "Mechanics structures and materials/Materials/2 Crystal Structures/hexagonal close packing.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/2 Crystal Structures/ABABAB stacking sequence.md",
+                "file": "Mechanics structures and materials/Materials/2 Crystal Structures/hexagonal close packing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,7 @@
   },
   "active": "51e9a3e51786769f",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Materials/2 Crystal Structures/hexagonal close packing.md",
     "Mechanics structures and materials/Materials/2 Crystal Structures/ABABAB stacking sequence.md",
     "Mechanics structures and materials/Materials/2 Crystal Structures/Crystal Structures.md",
     "Mechanics structures and materials/Materials/2 Crystal Structures/crystalline materials.md",
@@ -122,7 +123,6 @@
     "Mechanics structures and materials/Materials/2 Crystal Structures/crystal unit cell.md",
     "Mechanics structures and materials/Materials/1 Atoms and types of bonding/Atoms and types of bonding.md",
     "Mechanics structures and materials/Materials/1 Atoms and types of bonding/types of secondary bonding.md",
-    "Mechanics structures and materials/Materials/1 Atoms and types of bonding/fluctuation induced dipoles.md",
-    "Mechanics structures and materials/Materials/1 Atoms and types of bonding/polar molecule induced dipoles.md"
+    "Mechanics structures and materials/Materials/1 Atoms and types of bonding/fluctuation induced dipoles.md"
   ]
 }
