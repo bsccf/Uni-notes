@@ -11,3 +11,6 @@ This is just any solid that:
 
 ![[Pasted image 20211023223602.png]]
 
+#### Unit cell
+These are important, as they help simplify analysis of materials.
+![[crystal unit cell]]
