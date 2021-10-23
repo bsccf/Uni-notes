@@ -30,3 +30,8 @@ These are 3 important packing types:
 ### Polymophism
 
 ![[polymorphism (materials science)]]
+
+
+### Unit cell dimensions
+
+![[unit cell dimensions]]
