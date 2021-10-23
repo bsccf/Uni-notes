@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/1 Atoms and types of bonding/covalent bonding.md",
+            "file": "Mechanics structures and materials/Materials/1 Atoms and types of bonding/ionic bonding.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/1 Atoms and types of bonding/covalent bonding.md",
+                "file": "Mechanics structures and materials/Materials/1 Atoms and types of bonding/ionic bonding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "51e9a3e51786769f",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Materials/1 Atoms and types of bonding/covalent bonding.md",
-    "Mechanics structures and materials/Materials/1 Atoms and types of bonding/types of primary bonding.md",
-    "Mechanics structures and materials/Materials/1 Atoms and types of bonding/Atoms and types of bonding.md",
     "Mechanics structures and materials/Materials/1 Atoms and types of bonding/ionic bonding.md",
+    "Mechanics structures and materials/Materials/1 Atoms and types of bonding/metallic bonding.md",
+    "Mechanics structures and materials/Materials/1 Atoms and types of bonding/types of primary bonding.md",
+    "Mechanics structures and materials/Materials/1 Atoms and types of bonding/covalent bonding.md",
+    "Mechanics structures and materials/Materials/1 Atoms and types of bonding/Atoms and types of bonding.md",
     "Mechanics structures and materials/Materials/1 Atoms and types of bonding/electron configuration.md",
     "Mechanics structures and materials/Materials/1 Atoms and types of bonding/Relationship between periodic organisation and valence.md",
     "Mechanics structures and materials/Materials/1 Atoms and types of bonding/potential energy between atoms.md",
     "Mechanics structures and materials/Materials/1 Atoms and types of bonding/valence.md",
-    "Mechanics structures and materials/Materials/1 Atoms and types of bonding/electron subshells.md",
-    "Mechanics structures and materials/Materials/1 Atoms and types of bonding/electron shell.md"
+    "Mechanics structures and materials/Materials/1 Atoms and types of bonding/electron subshells.md"
   ]
 }

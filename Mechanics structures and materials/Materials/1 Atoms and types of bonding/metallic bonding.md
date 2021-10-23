@@ -1,8 +1,7 @@
 ---
-aliases: ["covalent bond"]
+aliases: ["metallic bond"]
 tags: ["Question","QFormat3"]
 ---
 
 #### What is
-## Vovalent bonding
-Desc
+## Metallic bonding
