@@ -8,6 +8,8 @@ tags: ["Question","QFormat3"]
 
 ![[Pasted image 20211023133615.png]]
 
+[[electron configuration]]
+
 ![[Pasted image 20211023133849.png]]
 
 [[Valence]] is related to the number of electron needed to be gained/lost to give the atom a complete outer shell
