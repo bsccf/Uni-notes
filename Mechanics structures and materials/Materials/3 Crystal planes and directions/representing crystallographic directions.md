@@ -11,6 +11,10 @@ They can be represented using the format [XYZ] where:
 >> where:
 >> $X=\frac{1}{x}$ 
 >> $Y=\frac{1}{y}$
->> $Z=1/z$
+>> $Z=\frac{1}{z}$
 
-![[Pasted image 20211024102618.png]]
+Below you can see examples of this 
+
+![[Pasted image 20211024102953.png]]
+
+Note that $\bar{1}$ means 
