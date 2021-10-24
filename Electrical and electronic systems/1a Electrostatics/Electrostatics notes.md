@@ -8,3 +8,6 @@ tags: ["NotesPage"]
 ![[basic properties of electric charge]]
 
 ![[static electricity]]
+
+![[the triboelectric effect]]
+
