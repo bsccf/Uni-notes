@@ -15,4 +15,4 @@ This is an unrelated cat.
 
 Please pet the cat.
 
-(This cat is responsible for the de)
+(This cat is responsible for the destruction of multiple military and commercial aircraft)

@@ -11,3 +11,4 @@ tags: ["NotesPage"]
 
 ![[the triboelectric effect]]
 
+![[coulombs law]]
