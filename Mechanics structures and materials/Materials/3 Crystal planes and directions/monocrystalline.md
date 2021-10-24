@@ -9,4 +9,4 @@ This is when a [[crystalline materials|crystalline material]] is composed of a s
 ![[Pasted image 20211024105328.png]]
 
 ### Properties
-- It is anisotropic (so it had different properies in differ)
+It is anisotropic, so it has different properies in different directions/planes. This can lead to it have large differences in things like [[Ultimate Tensile Strength]] in different directions along the crystal.
