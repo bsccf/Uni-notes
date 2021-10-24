@@ -8,3 +8,4 @@ tags: ["NotesPage"]
 ![[current flow in wires and solutions]]
 
 ![[electric current]]
+
