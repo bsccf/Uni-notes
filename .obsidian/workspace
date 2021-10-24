@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/1a Electrostatics/basic properties of electric charge.md",
+            "file": "Electrical and electronic systems/1a Electrostatics/static electricity.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/1a Electrostatics/basic properties of electric charge.md",
+                "file": "Electrical and electronic systems/1a Electrostatics/static electricity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "51e9a3e51786769f",
   "lastOpenFiles": [
-    "Electrical and electronic systems/1a Electrostatics/basic properties of electric charge.md",
+    "Electrical and electronic systems/1a Electrostatics/static electricity.md",
     "Electrical and electronic systems/1a Electrostatics/Electrostatics notes.md",
+    "Electrical and electronic systems/1a Electrostatics/basic properties of electric charge.md",
+    "Electrical and electronic systems/1a Electrostatics/coulombs.md",
     "Mechanics structures and materials/Materials/3 Crystal planes and directions/crystallographic directions.md",
     "Mechanics structures and materials/Materials/3 Crystal planes and directions/Crystal planes and directions.md",
     "Mechanics structures and materials/Materials/3 Crystal planes and directions/polycrystalline.md",
     "Mechanics structures and materials/Materials/3 Crystal planes and directions/monocrystalline.md",
     "Mechanics structures and materials/Materials/3 Crystal planes and directions/crystallographic planes.md",
-    "Mechanics structures and materials/Materials/3 Crystal planes and directions/representing crystallographic planes.md",
-    "Mechanics structures and materials/Materials/3 Crystal planes and directions/representing crystallographic directions.md",
-    "Mechanics structures and materials/Materials/Materials read order.md"
+    "Mechanics structures and materials/Materials/3 Crystal planes and directions/representing crystallographic planes.md"
   ]
 }

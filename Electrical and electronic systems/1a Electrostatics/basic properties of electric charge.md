@@ -9,4 +9,4 @@ tags: ["Question","QFormat3"]
 - Like charges attract, unlike charges repel
 - Charge is conserved
 - Charge is quantised (it comes in discrete units of $e \approx 1.602*10^{-19}C$)
-- Charge is m
+- Charge is measured in [[coulombs]]
