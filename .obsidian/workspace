@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Centre of pressure.md",
+            "file": "Mechanics structures and materials/Materials/3 Crystal planes and directions/crystal planes.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Centre of pressure.md",
+                "file": "Mechanics structures and materials/Materials/3 Crystal planes and directions/crystal planes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "51e9a3e51786769f",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Materials/3 Crystal planes and directions/crystal planes.md",
+    "Mechanics structures and materials/Materials/3 Crystal planes and directions/Crystal planes and directions.md",
+    "Mechanics structures and materials/Materials/Materials read order.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Centre of pressure.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/why I cant be asked.md",
     "Mechanics structures and materials/Materials/2 Crystal Structures/hexagonal close packing.md",
     "Mechanics structures and materials/Materials/2 Crystal Structures/face centred cubic.md",
     "Mechanics structures and materials/Materials/2 Crystal Structures/Crystal Structures.md",
     "Mechanics structures and materials/Materials/2 Crystal Structures/unit cell dimensions.md",
-    "Mechanics structures and materials/Materials/Materials read order.md",
-    "Mechanics structures and materials/Materials/2 Crystal Structures/polymorphism (materials science).md",
-    "Mechanics structures and materials/Materials/2 Crystal Structures/body centred cubic.md",
-    "Mechanics structures and materials/Materials/2 Crystal Structures/ABCABC stacking sequence.md"
+    "Mechanics structures and materials/Materials/2 Crystal Structures/polymorphism (materials science).md"
   ]
 }

@@ -7,3 +7,4 @@ tags: ["NotesPage"]
 
 1) [[Atoms and types of bonding]]
 2) [[Crystal Structures]]
+3) [[Crystal planes and directions]]
