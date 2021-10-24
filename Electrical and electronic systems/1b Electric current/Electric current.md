@@ -1,5 +1,5 @@
 ---
-aliases: ["amp","amperes"]
+aliases: ["amp","amperes","current"]
 tags: ["Question","QFormat3"]
 ---
 
