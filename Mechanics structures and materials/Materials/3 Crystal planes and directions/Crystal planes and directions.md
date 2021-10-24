@@ -8,3 +8,6 @@ tags: ["NotesPage"]
 ![[crystallographic directions]]
 
 ![[crystallographic planes]]
+
+### Real engineering crystals
+In reality 

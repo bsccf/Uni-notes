@@ -18,5 +18,5 @@ Here $C=[111]$
 
 #### General planes
 
-This also acts simularly to [[representing crystallographic directions#General direction|crystal general directions]] but the format now is ${XYZ}$.
+This also acts simularly to [[representing crystallographic directions#General direction|crystal general directions]] but the format now is $\{XYZ\}$, you can rotate a general plane 90 degrees around x,y,z.
 
