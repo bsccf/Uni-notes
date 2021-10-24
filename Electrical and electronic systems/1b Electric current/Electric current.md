@@ -4,7 +4,7 @@ tags: ["Question","QFormat3"]
 ---
 
 #### What is
-## <% tp.file.title %>
+## electric current
 It is the rate of flow of charge, and is measured in amperes:
 
 > $$ I = \frac{dQ}{dt} $$ 
@@ -13,3 +13,4 @@ It is the rate of flow of charge, and is measured in amperes:
 >> $Q=$ charge ([[coulombs]])
 >> $t=$ time (seconds)
 
+The actual rate at which electrons move in a wire is incredibly slow (see: [[electron drift velocity]])
