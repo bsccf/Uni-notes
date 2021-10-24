@@ -7,8 +7,11 @@
         "id": "51e9a3e51786769f",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Centre of pressure.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Centre of pressure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +114,8 @@
   },
   "active": "51e9a3e51786769f",
   "lastOpenFiles": [
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Centre of pressure.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/why I cant be asked.md",
     "Mechanics structures and materials/Materials/2 Crystal Structures/hexagonal close packing.md",
     "Mechanics structures and materials/Materials/2 Crystal Structures/face centred cubic.md",
     "Mechanics structures and materials/Materials/2 Crystal Structures/Crystal Structures.md",
@@ -117,8 +123,6 @@
     "Mechanics structures and materials/Materials/Materials read order.md",
     "Mechanics structures and materials/Materials/2 Crystal Structures/polymorphism (materials science).md",
     "Mechanics structures and materials/Materials/2 Crystal Structures/body centred cubic.md",
-    "Mechanics structures and materials/Materials/2 Crystal Structures/ABCABC stacking sequence.md",
-    "Mechanics structures and materials/Materials/2 Crystal Structures/ABABAB stacking sequence.md",
-    "Mechanics structures and materials/Materials/2 Crystal Structures/crystalline materials.md"
+    "Mechanics structures and materials/Materials/2 Crystal Structures/ABCABC stacking sequence.md"
   ]
 }
