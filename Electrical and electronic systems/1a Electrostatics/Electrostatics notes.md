@@ -16,3 +16,5 @@ tags: ["NotesPage"]
 ![[electric field]]
 
 ![[potential difference]]
+
+![[induced electric charge]]
