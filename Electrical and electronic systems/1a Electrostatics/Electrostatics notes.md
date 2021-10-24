@@ -18,3 +18,5 @@ tags: ["NotesPage"]
 ![[potential difference]]
 
 ![[induced electric charge]]
+
+![[voltage in a uniform electric field]]
