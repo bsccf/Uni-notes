@@ -5,4 +5,6 @@ tags: ["NotesPage"]
 
 # Crystal planes and directions
 
-![[crystal planes]]
+![[crystallographic directions]]
+
+![[crystallographic planes]]

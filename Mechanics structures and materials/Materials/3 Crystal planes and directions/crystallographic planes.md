@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["crystal planes"]
 tags: ["Question","QFormat3"]
 ---
 
