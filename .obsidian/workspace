@@ -7,11 +7,8 @@
         "id": "51e9a3e51786769f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Mechanics structures and materials/Materials/3 Crystal planes and directions/polycrystalline.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/3 Crystal planes and directions/polycrystalline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,12 +110,12 @@
   },
   "active": "51e9a3e51786769f",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Materials/3 Crystal planes and directions/polycrystalline.md",
+    "Mechanics structures and materials/Materials/3 Crystal planes and directions/crystallographic directions.md",
     "Mechanics structures and materials/Materials/3 Crystal planes and directions/Crystal planes and directions.md",
+    "Mechanics structures and materials/Materials/3 Crystal planes and directions/polycrystalline.md",
     "Mechanics structures and materials/Materials/3 Crystal planes and directions/monocrystalline.md",
     "Mechanics structures and materials/Materials/3 Crystal planes and directions/crystallographic planes.md",
     "Mechanics structures and materials/Materials/3 Crystal planes and directions/representing crystallographic planes.md",
-    "Mechanics structures and materials/Materials/3 Crystal planes and directions/crystallographic directions.md",
     "Mechanics structures and materials/Materials/3 Crystal planes and directions/representing crystallographic directions.md",
     "Mechanics structures and materials/Materials/Materials read order.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Centre of pressure.md",
