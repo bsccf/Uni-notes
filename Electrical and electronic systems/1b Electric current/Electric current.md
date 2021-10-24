@@ -3,6 +3,6 @@ aliases: [""]
 tags: ["NotesPage"]
 ---
 
-# <% tp.file.title %>
+# Electric current
 
-![[]]
+![[current flow in wires and solutions]]
