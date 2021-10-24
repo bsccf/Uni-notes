@@ -10,4 +10,6 @@ tags: ["NotesPage"]
 ![[crystallographic planes]]
 
 ### Real engineering crystals
-In reality 
+There are 2 important compositions for [[crystalline materials|crystalline materials]]:
+- ![[single crystals]]
+- ![[polycrystalline]]
