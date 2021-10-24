@@ -13,4 +13,4 @@ It is the rate of flow of charge, and is measured in amperes:
 >> $Q=$ charge ([[coulombs]])
 >> $t=$ time (seconds)
 
-The actual rate at which electrons move in a wire is incredibly slow (see: [[electron drift velocity]])
+The actual rate at which electrons move in a wire is incredibly slow (see: [[electron drift velocity#Calculating it]]) so in reality
