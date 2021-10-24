@@ -16,4 +16,6 @@ This is a uniform electric field, so between the plates the field strength is un
 >> $E=$ [[electric field]]
 >> $d=$ distance between the plates
 
-The [[potential difference]] between the plates creates what can be approximated as a uniform [[electric field]] between the plates, which leads to a constant force on charged particles between 
+The [[potential difference]] between the plates creates what can be approximated as a uniform [[electric field]] between the plates, which leads to a constant force on charged particles inside this [[electric field]].
+
+The force can be calculated using [[electric field#Equation|this equation]] rearranged into $F=EQ$.

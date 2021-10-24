@@ -7,11 +7,13 @@ tags: ["Question","QFormat3"]
 ## Electric field
 These are the physical fields that surround electrically charged particles, they surround electrically charged particles and exert a force on all other charged particles in the field.
 
+#### Equation
+
 > $$ E = \frac{F}{q} $$ 
 >> where:
 >> $E=$ Electric field 
 >> $F=$ Force
->> $q=$ Coulomb
+>> $Q=$ Coulomb
 
 Hence Electric field = force per unit charge.
 
