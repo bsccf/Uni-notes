@@ -14,3 +14,5 @@ tags: ["NotesPage"]
 ![[coulombs law]]
 
 ![[electric field]]
+
+![[potential difference]]
