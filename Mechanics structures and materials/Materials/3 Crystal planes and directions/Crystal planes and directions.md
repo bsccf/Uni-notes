@@ -11,5 +11,5 @@ tags: ["NotesPage"]
 
 ### Real engineering crystals
 There are 2 important compositions for [[crystalline materials|crystalline materials]]:
-- ![[crystalline]]
+- ![[monocrystalline]]
 - ![[polycrystalline]]

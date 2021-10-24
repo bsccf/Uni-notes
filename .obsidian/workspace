@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/3 Crystal planes and directions/crystalline.md",
+            "file": "Mechanics structures and materials/Materials/3 Crystal planes and directions/monocrystalline.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/3 Crystal planes and directions/crystalline.md",
+                "file": "Mechanics structures and materials/Materials/3 Crystal planes and directions/monocrystalline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
   },
   "active": "51e9a3e51786769f",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Materials/3 Crystal planes and directions/crystalline.md",
+    "Mechanics structures and materials/Materials/3 Crystal planes and directions/monocrystalline.md",
     "Mechanics structures and materials/Materials/3 Crystal planes and directions/Crystal planes and directions.md",
     "Mechanics structures and materials/Materials/3 Crystal planes and directions/crystallographic planes.md",
     "Mechanics structures and materials/Materials/3 Crystal planes and directions/representing crystallographic planes.md",
