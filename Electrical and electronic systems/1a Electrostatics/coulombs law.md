@@ -17,7 +17,7 @@ Alternative format:
 
 > $$ F = k_e\cdot \dfrac{q_1q_2}{r^{2}} $$ 
 >> where:
->> $k_e =\approx 8.988^{9}$ 
+>> $k_e =\approx 8.988*10^{9}$ 
 >> $q_1=$ first charge
 >> $q_2=$ second charge
 >> $r=$ distance between charges
