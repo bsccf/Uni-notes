@@ -7,8 +7,11 @@
         "id": "51e9a3e51786769f",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Electrical and electronic systems/1b Electric current/Electric current.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Electrical and electronic systems/1b Electric current/Electric current.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,15 +114,15 @@
   },
   "active": "51e9a3e51786769f",
   "lastOpenFiles": [
+    "Electrical and electronic systems/1b Electric current/Electric current.md",
+    "Electrical and electronic systems/Electrical read order.md",
     "SESA1015/unordered/Flight mechanics/Mechanics of flight.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/The atmospheric environment. fundamental convepts and definitions.md",
-    "Electrical and electronic systems/Electrical read order.md",
     "Electrical and electronic systems/1a Electrostatics/Electrostatics notes.md",
     "Electrical and electronic systems/1a Electrostatics/electric field.md",
     "Electrical and electronic systems/1a Electrostatics/voltage in a uniform electric field.md",
     "Electrical and electronic systems/1a Electrostatics/induced electric charge.md",
     "Electrical and electronic systems/1a Electrostatics/potential difference.md",
-    "Electrical and electronic systems/1a Electrostatics/coulombs law.md",
-    "Electrical and electronic systems/1a Electrostatics/permitivity of free space.md"
+    "Electrical and electronic systems/1a Electrostatics/coulombs law.md"
   ]
 }
