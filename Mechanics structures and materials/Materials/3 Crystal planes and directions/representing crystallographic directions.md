@@ -20,8 +20,8 @@ Below you can see examples of this
 Note that $\bar{1}$ means $-1$
 
 #### General direction
-This is formatted as $<XYZ>$
+This is formatted as $<XYZ>$, they are basically a direction that can be rotated 90 degrees around the x,y,z axis' to give other directions, 
 
 ![[Pasted image 20211024103303.png]]
 
-In this example $[011]$
+In this example $[011],[101],[\bar{1}10]$ all have the general direction $<110>$.
