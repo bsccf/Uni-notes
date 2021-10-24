@@ -1,6 +1,6 @@
 ---
 aliases: [""]
-tags: ["SESA1015"]
+tags: ["SESA1015","NotesPage"]
 ---
 
 # Mechanics of flight
