@@ -9,3 +9,4 @@ tags: ["NotesPage"]
 
 ![[electric current]]
 
+![[power in circuits]]

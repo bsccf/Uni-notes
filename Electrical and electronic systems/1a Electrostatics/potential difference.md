@@ -12,3 +12,5 @@ Potential difference or commonly known as "voltage" is the difference in energy 
 >> $V=$ Voltage
 >> $E=$ Energy
 >> $Q=$ Coulomb
+
+^d7f59c
