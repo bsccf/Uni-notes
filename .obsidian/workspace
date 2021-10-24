@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/1a Electrostatics/permitivity of free space.md",
-            "mode": "source"
+            "file": "Electrical and electronic systems/1a Electrostatics/coulombs law.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/1a Electrostatics/permitivity of free space.md",
+                "file": "Electrical and electronic systems/1a Electrostatics/coulombs law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,8 +114,8 @@
   },
   "active": "51e9a3e51786769f",
   "lastOpenFiles": [
-    "Electrical and electronic systems/1a Electrostatics/permitivity of free space.md",
     "Electrical and electronic systems/1a Electrostatics/coulombs law.md",
+    "Electrical and electronic systems/1a Electrostatics/permitivity of free space.md",
     "Electrical and electronic systems/1a Electrostatics/Electrostatics notes.md",
     "Electrical and electronic systems/1a Electrostatics/static electricity.md",
     "Electrical and electronic systems/1a Electrostatics/basic properties of electric charge.md",
