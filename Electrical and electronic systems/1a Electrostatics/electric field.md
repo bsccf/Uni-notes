@@ -10,8 +10,10 @@ These are the physical fields that surround electrically charged particles, they
 > $$ E = \frac{F}{q} $$ 
 >> where:
 >> $E=$ Electric field 
->> $F=$ 
->> $=$
+>> $F=$ Force
+>> $q=$ Coulomb
+
+Hence Electric field = force per unit charge.
 
 #### Diagrams
 ![[Pasted image 20211024144252.png]]
