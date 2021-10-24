@@ -17,4 +17,11 @@ Below you can see examples of this
 
 ![[Pasted image 20211024102953.png]]
 
-Note that $\bar{1}$ means 
+Note that $\bar{1}$ means $-1$
+
+#### General direction
+This is formatted as $<XYZ>$
+
+![[Pasted image 20211024103303.png]]
+
+In this example $[011]$
