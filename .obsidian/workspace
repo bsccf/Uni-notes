@@ -10,6 +10,17 @@
           "type": "markdown",
           "state": {
             "file": "Electrical and electronic systems/1b Electric current/electron drift velocity.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "f4edc8d82a2b3ea2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Electrical and electronic systems/1a Electrostatics/coulombs.md",
             "mode": "source"
           }
         }
@@ -115,6 +126,7 @@
   "active": "51e9a3e51786769f",
   "lastOpenFiles": [
     "Electrical and electronic systems/1b Electric current/electron drift velocity.md",
+    "Electrical and electronic systems/1a Electrostatics/coulombs.md",
     "Electrical and electronic systems/1b Electric current/electric current.md",
     "Electrical and electronic systems/1b Electric current/Electric current notes.md",
     "Electrical and electronic systems/1b Electric current/current flow in wires and solutions.md",
@@ -122,7 +134,6 @@
     "SESA1015/unordered/Flight mechanics/Mechanics of flight.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/The atmospheric environment. fundamental convepts and definitions.md",
     "Electrical and electronic systems/1a Electrostatics/Electrostatics notes.md",
-    "Electrical and electronic systems/1a Electrostatics/electric field.md",
-    "Electrical and electronic systems/1a Electrostatics/voltage in a uniform electric field.md"
+    "Electrical and electronic systems/1a Electrostatics/electric field.md"
   ]
 }
