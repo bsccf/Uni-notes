@@ -7,3 +7,5 @@ tags: ["NotesPage"]
 ### Intro
 
 !![[basic properties shear force and bending moment graphs]]
+
+### Relations
