@@ -26,10 +26,10 @@ We can split it and apply the sign convention when labelling:
 
 So then focusing on the left segment:
 
-> Vertical eqilibrium
+> Vertical eqilibrium:
 > $$ \begin{align*}
 1000 + Q =& 0\\
-Q &= -1000
+Q =& -1000
 \end{align*} $$
 
 > Rotational eqilibrium:
@@ -38,4 +38,4 @@ Q &= -1000
 M=& -1000x
 \end{align*} $$
 
-Giving us 
+Giving us values for the bending moment and shearing force at any point along the beam.
