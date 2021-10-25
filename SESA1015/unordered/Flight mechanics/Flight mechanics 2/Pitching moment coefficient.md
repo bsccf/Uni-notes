@@ -1,0 +1,1 @@
+This actually changes depending on where you measure from so keeping this in mind is incredibly important. (see [[measuring pitching moments on a plane]])

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 3/measuring pitching moments on a plane.md",
+            "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Pitching moment coefficient.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 3/measuring pitching moments on a plane.md",
+                "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Pitching moment coefficient.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,7 @@
   },
   "active": "694513e56883a972",
   "lastOpenFiles": [
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Pitching moment coefficient.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/measuring pitching moments on a plane.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Effect of angle of attack on the moment coefficient.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Typical aerodynamic characteristincs for conventional aircraft.md",
@@ -122,7 +123,6 @@
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/The atmospheric environment. fundamental convepts and definitions.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Drag equation.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Drag coefficient.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/induced drag coefficient.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/form drag.md"
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/induced drag coefficient.md"
   ]
 }
