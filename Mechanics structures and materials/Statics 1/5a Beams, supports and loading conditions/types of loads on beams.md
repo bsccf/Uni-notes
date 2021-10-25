@@ -8,4 +8,4 @@ tags: ["Question","QFormat3"]
 There are a few types:
 - ![[concentrated force on a beam]]
 - ![[distrobuted force on a beam]]
-- ![[moment/couple on a beam]]
+- ![[couple on a beam]]
