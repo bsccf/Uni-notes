@@ -29,6 +29,9 @@ Simularly:
 And finally:
 ![[Pitching moment equation]]
 
+It may be worth reading:
+![[Drag coefficient]]
+
 ![[Aircraft geometry terms]]
 
 ![[Aircraft components]]
