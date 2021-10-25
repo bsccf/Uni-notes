@@ -11,4 +11,4 @@ tags: ["NotesPage"]
 ### Sign convention
 So that we can analyse bending moment and shear force in a standary way, we need to establish standard directions for both, this is sign convention.
 
-![[sign convention for beams]]
+![[sign convention for beam force]]
