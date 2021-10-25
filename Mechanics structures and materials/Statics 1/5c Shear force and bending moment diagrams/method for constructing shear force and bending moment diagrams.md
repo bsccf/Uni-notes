@@ -6,8 +6,9 @@ tags: ["Question","QFormat3"]
 #### What is the
 ## Method for constructing shear force and bending moment diagrams
 There are a few steps you go through:
-1) Label and calcuate support reactions and moments, here we can approximate 
-2) W
+1) Label and calcuate support reactions and moments, here we can approximate [[distrobuted force on a beam|distrobuted force]] as [[concentrated force on a beam|concentrated force]] to aid in calculation.
+2) We draw a new [[Free body diagram]] with the reactions calculated and don't approximate [[distrobuted force on a beam]]
+3) We go back to the beam and cut the beam into segments for each of 
 
 
 ### Example
@@ -23,4 +24,6 @@ We would:
 2)
 > We redraw the diagram again
 > ![[Pasted image 20211025115546.png]]
-> 
+
+3)
+>
