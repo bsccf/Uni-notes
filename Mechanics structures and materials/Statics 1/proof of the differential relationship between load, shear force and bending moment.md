@@ -48,3 +48,8 @@ Note that $(dx)^{2}\approx 0$ because it was so small.
 >> $Q=$ The load on the beam
 
 ![[equation for the relationship between load, shear force and bending moment]]
+
+### Examples
+![[Pasted image 20211025171511.png]]
+
+![[Pasted image 20211025171524.png]]
