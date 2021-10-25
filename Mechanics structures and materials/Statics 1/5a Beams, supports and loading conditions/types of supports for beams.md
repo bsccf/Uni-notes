@@ -23,4 +23,6 @@ This is a fixed/built in support, it differs from the previous 2 as this one exc
 ### Modelling assumtions
 When modelling these supports we need to consider if the system we are modelling is accuratly represented by the model:
 - Rolling supports have negligible friction
-- Fixed supports have 
+- Fixed supports have negligible give
+
+One method when determining if a model is appropriate is consider the worst case senario and how it system would behave in it.
