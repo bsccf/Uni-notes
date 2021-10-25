@@ -11,4 +11,9 @@ Types:
 - Pinned (a)
 - Rolling (b)
 
-You can see the reaction force that each can excert.
+You can see the reaction force that each can excert, these are the same as the truss versions [[suppor]]
+
+There is also:
+![[Pasted image 20211025093950.png]]
+
+This is a fixed/built in support, it differs from the previous 2 as this one excerts a moment reaction force.
