@@ -7,3 +7,6 @@ tags: ["NotesPage"]
 ![[bending moment]]
 
 ![[shearing force in beams]]
+
+### Sign convention
+So that we can analyse bending moment and shear force in a 
