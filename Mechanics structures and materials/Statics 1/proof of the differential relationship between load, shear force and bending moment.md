@@ -28,7 +28,7 @@ Prooving the equation:
 
 > $$ \frac{dQ}{dx} = -w(x) $$ 
 >> where:
->> $Q=$ The [[moment on a beam|moment on the beam]]
+>> $Q=$ The load on the beam
 >> $x=$ the position along the beam
 >> $w(x)=$ A function representing the load at a given point
 
@@ -41,8 +41,10 @@ Q\cdot dx &= dM\\
 \end{align*}$$
 Note that $(dx)^{2}\approx 0$ because it was so small.
 
-> $$ = $$ 
+> $$ \frac{dM}{dx} = Q $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $M=$  The moment on the beam
+>> $x=$ The position along the beam
+>> $Q=$ The load on the beam
+
+![[equation for the relationship between load, shear force and bending moment]]
