@@ -10,4 +10,5 @@ tags: ["Question","QFormat3"]
 Then if we cut at any point along the beam:
 ![[Pasted image 20211025105002.png]]
 
-We can see that a force is required to maintain equalibrium, this force is a [[shear stress]], there is also a [[Shear forces and bending moments on beams#Shear forces and bending moments on beams|bending moment]]
+We can see that a force is required to maintain vertical equalibrium, this force is a [[shear stress]], there is also a [[bending moment#Alternative example|bending moment]] equal to $M=Fx$ that maintains rotational equalibrium.
+
