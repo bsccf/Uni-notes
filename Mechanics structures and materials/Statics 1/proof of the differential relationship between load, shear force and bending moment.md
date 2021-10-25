@@ -33,3 +33,7 @@ Prooving the equation:
 >> $w(x)=$ A function representing the load at a given point
 
 If we also take the moment equalibrium:
+$$\begin{align*}
+M + (Q+dQ)\cdot dx +  &= M+dM\\
+ (Q+dQ)\cdot dx &= dM\\
+\end{align*}$$
