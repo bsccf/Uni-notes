@@ -5,3 +5,4 @@ tags: ["NotesPage"]
 
 # Beams, supports and loading conditions
 
+![[beam theory]]
