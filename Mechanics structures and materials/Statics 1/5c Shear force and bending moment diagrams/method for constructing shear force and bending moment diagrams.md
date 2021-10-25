@@ -29,11 +29,17 @@ We would:
 
 3)
 > Here we only need one diagram to represent the beam segment as we move in a direction away from the centre
-> ![[Pasted image 20211025124430.png]]
+> ![[Pasted image 20211025124649.png]]
 > We then do math:
 > Vertical:
 > $$ \begin{align*}
-F\frac{x}{L} + Q_2 = 0
+F\frac{x}{L} + Q = 0
 \end{align*} $$
-> Rotational (taken about the midpoint):
-> 
+> Rotational (taken about the cut location):
+> $$ \begin{align*}
+M = F\frac{x}{L} 
+\end{align*} $$
+> So:
+> $$\begin{align*}
+
+\end{align*}$$
