@@ -25,4 +25,6 @@ It should also be noted that this bending moment is made up of stresses across t
 Then if we cut at any point along the beam:
 ![[Pasted image 20211025105002.png]]
 
-We can see here $M=Fx$, so the bending moment varies along the length of the beam, this also explains 
+We can see here $M=Fx$, so the bending moment varies along the length of the beam, this also explains why beams often fail at their joint because this is where the bending moment and [[stress]]s induced by it are greatest (in many cases).
+
+This example also introduces [[shearing force in beams]].
