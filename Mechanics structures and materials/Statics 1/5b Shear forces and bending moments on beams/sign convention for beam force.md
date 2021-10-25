@@ -20,6 +20,22 @@ Whenever labelling diagrams this is the convention we stick to, of couse the val
 ### Example
 ![[Pasted image 20211025112333.png]]
 
-We can split it and apply the  s
+We can split it and apply the sign convention when labelling:
 
 ![[Pasted image 20211025112252.png]]
+
+So then focusing on the left segment:
+
+> Vertical eqilibrium
+> $$ \begin{align*}
+1000 + Q =& 0\\
+Q &= -1000
+\end{align*} $$
+
+> Rotational eqilibrium:
+> $$ \begin{align*}
+1000x + M =& 0\\
+M=& -1000x
+\end{align*} $$
+
+Giving us 
