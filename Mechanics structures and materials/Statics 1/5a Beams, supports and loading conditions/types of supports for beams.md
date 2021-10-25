@@ -9,4 +9,6 @@ tags: ["Question","QFormat3"]
 
 Types:
 - Pinned (a)
-- Rolling 
+- Rolling (b)
+
+You can see the reaction force that each can excert.
