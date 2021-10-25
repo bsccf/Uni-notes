@@ -19,21 +19,21 @@ Given:
 We would:
 1)
 > Although the [[types of supports for beams#Types of supports for beams|pin]] can excert a horizontal reaction the lack of any horizontal forces means we know that the horizontal reaction would be zero, hence no reason to draw it.
-> ![[Pasted image 20211025123655.png]]
+> ![[Pasted image 20211025124200.png]]
 > Also note that here we approximated the load as a point load, this would be done to figure out reaction forces but in later steps we will be calculating [[bending moment]]s and [[shearing force in beams|shearing force]]s so we will not model it as a point load then
 
 2)
 > We redraw the diagram again
-> 
+> ![[Pasted image 20211025124305.png]]
 > (btw the load acts across the length of the whole beam)
 
 3)
 > Here we only need one diagram to represent the beam segment as we move in a direction away from the centre
-> ![[Pasted image 20211025122826.png]]
+> ![[Pasted image 20211025124430.png]]
 > We then do math:
 > Vertical:
 > $$ \begin{align*}
-Q_1 &= Q_2 + F(\frac{x}{L_W})\\
+F\frac{x}{L} + Q_2 = 0
 \end{align*} $$
 > Rotational (taken about the midpoint):
 > 
