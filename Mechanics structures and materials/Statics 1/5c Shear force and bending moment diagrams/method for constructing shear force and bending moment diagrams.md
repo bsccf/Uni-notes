@@ -25,12 +25,10 @@ We would:
 2)
 > We redraw the diagram again
 > ![[Pasted image 20211025124305.png]]
-> (btw the load acts across the length of the whole beam)
 
 3)
 > Here we only need one diagram to represent the beam segment as we move in a direction away from the centre
 > ![[Pasted image 20211025124649.png]]
-> We then do math:
 > Vertical:
 > $$ \begin{align*}
 F\frac{x}{L} + Q =& 0\\
@@ -43,5 +41,6 @@ M = \frac{x}{2}*F\frac{x}{L}
 > So:
 > $$\begin{align*}
  M =& \frac{x}{2}*-Q\\
-Q =&
+Q =& \frac{-2M}{x}
 \end{align*}$$
+> Hence values for Q and M along the beam
