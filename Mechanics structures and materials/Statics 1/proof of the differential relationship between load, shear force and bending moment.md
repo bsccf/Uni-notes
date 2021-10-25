@@ -5,7 +5,7 @@ tags: ["Question","QFormat3"]
 
 #### How would you get the
 ## Proof of the differential relationship between load, shear force and bending moment
-
+### Proof
 If we take the following diagram:
 
 ![[Pasted image 20211025164706.png]]
