@@ -26,8 +26,10 @@ Here we can approximate the load as $dx\cdot w(x)$ because $dx$ is very small.
 
 Prooving the equation:
 
-> $$ \frac{dQ}{dx}&= -w(x) $$ 
+> $$ \frac{dQ}{dx} = -w(x) $$ 
 >> where:
->> $Q=$ 
->> $x=$ A function representing the position a
+>> $Q=$ The [[moment on a beam|moment on the beam]]
+>> $x=$ the position along the beam
 >> $w(x)=$ A function representing the load at a given point
+
+If we also take the moment equalibrium:
