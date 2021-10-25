@@ -20,11 +20,14 @@ Vertical equalibrium:
 $$\begin{align*}
 Q &= Q+dQ + dx\cdot w(x)\\
 dQ &= -dx\cdot w(x)\\
-d&=
+\frac{dQ}{dx}&= -w(x)
 \end{align*}$$
 Here we can approximate the load as $dx\cdot w(x)$ because $dx$ is very small.
 
-Moment equalibrium:
-$$\begin{align*}
-M + dx(Q+dQ) &= M+dM 
-\end{align*}$$
+Prooving the equation:
+
+> $$ \frac{dQ}{dx}&= -w(x) $$ 
+>> where:
+>> $Q=$ 
+>> $x=$ A function representing the position a
+>> $w(x)=$ A function representing the load at a given point
