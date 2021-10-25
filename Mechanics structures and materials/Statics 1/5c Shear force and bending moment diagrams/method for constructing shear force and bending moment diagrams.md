@@ -26,4 +26,4 @@ We would:
 > ![[Pasted image 20211025115546.png]]
 
 3)
-> Here we only need one
+> Here we only need one diagram to represent the beam segment as we move in a direction away from the centre
