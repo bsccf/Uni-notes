@@ -12,3 +12,7 @@ tags: ["Question","QFormat3"]
 >> $V =$  Velocity
 >> $C_D=$ [[Drag coefficient]]
 >> $S=$ [[Refrence area]]
+
+To get the drag coeffiecient:
+
+![[Drag coefficient]]
