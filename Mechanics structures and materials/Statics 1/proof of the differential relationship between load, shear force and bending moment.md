@@ -34,6 +34,9 @@ Prooving the equation:
 
 If we also take the moment equalibrium:
 $$\begin{align*}
-M + (Q+dQ)\cdot dx +  &= M+dM\\
+M + (Q+dQ)\cdot dx + \frac{dx^{2}}{2}w(x) &= M+dM\\
  (Q+dQ)\cdot dx &= dM\\
+ Q &= \frac{dM}{dx}\\
 \end{align*}$$
+Note that $(dx)^2$ whas ignored because they where so small.
+
