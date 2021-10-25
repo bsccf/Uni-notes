@@ -3,5 +3,5 @@ aliases: [""]
 tags: ["NotesPage"]
 ---
 
-# <% tp.file.title %>
-
+# Shear forces and bending moments on beams
+![[Pasted image 20211025104118.png]]
