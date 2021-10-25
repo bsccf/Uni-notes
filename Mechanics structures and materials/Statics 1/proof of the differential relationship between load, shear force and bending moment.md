@@ -18,6 +18,13 @@ We can get a diagram for a beam segment
 
 Vertical equalibrium:
 $$\begin{align*}
-Q &= Q+dQ + dx\cdot w(x)
+Q &= Q+dQ + dx\cdot w(x)\\
+dQ &= -dx\cdot w(x)\\
+d&=
 \end{align*}$$
-Here we can approximate the load as 
+Here we can approximate the load as $dx\cdot w(x)$ because $dx$ is very small.
+
+Moment equalibrium:
+$$\begin{align*}
+M + dx(Q+dQ) &= M+dM 
+\end{align*}$$
