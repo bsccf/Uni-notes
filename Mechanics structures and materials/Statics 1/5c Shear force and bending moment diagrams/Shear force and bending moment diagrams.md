@@ -9,3 +9,5 @@ tags: ["NotesPage"]
 Analysis will generally be in this style:
 ![[sign convention for beam force#Example]]
 
+### The procedure
+![[method for constructing shear force and bending moment diagrams]]
