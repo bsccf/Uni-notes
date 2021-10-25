@@ -5,6 +5,7 @@ tags: ["Question","QFormat3","SESA1015"]
 
 #### What is the
 ## Aerodynamic centre
+### General definition
 This is defined as the reference axis position about which the pitching moment coefficient does not  vary with angle of attack. In maths terms:
 $$ \frac{dM_{AC}}{d\alpha}=0 $$
 In other terms:
@@ -12,8 +13,11 @@ The Aerodynamic center is the point at which the pitching moment coefficient for
 
 The lift and drag forces can be applied at a single point (the [[Centre of pressure]]), about which they exert zero torque, but this is impractical for analysis as the [[Centre of pressure]]'s location varies greatly with angle of attack. So this is why the aerodynamic centre is used.
 
-![[Pasted image 20211021205317.png]]
+If we refer to [[measuring pitching moments on a plane]], keeping that in mind a graphical representation of the aerodynamic centre is shown below:
+![[Pasted image 20211025212324.png]]
 
+### Maths
+![[Pasted image 20211021205317.png]]
 Taking moments about the centre of gravity:
 $$ M_{CG} = M_0 + x_{AC}L $$
 
