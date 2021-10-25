@@ -12,3 +12,4 @@ tags: ["NotesPage"]
 6) [[Shear forces and bending moments on beams]]
 7) [[Shear force and bending moment diagrams]]
 8) Look in file 6a and see examples
+9) [[6b Relationships between distributed load, shear force and bending moment]]
