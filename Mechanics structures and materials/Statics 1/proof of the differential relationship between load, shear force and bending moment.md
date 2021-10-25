@@ -32,11 +32,17 @@ Prooving the equation:
 >> $x=$ the position along the beam
 >> $w(x)=$ A function representing the load at a given point
 
-If we also take the moment equalibrium:
+If we also take the moment equalibrium (from the right side):
 $$\begin{align*}
-M + (Q+dQ)\cdot dx + \frac{dx^{2}}{2}w(x) &= M+dM\\
- (Q+dQ)\cdot dx &= dM\\
+M + Q\cdot dx + \frac{dx^{2}}{2}w(x) &= M\\\\
+Q\cdot dx + M + \frac{dx^{2}}{2}\cdot dx &= M+dM\\
+Q\cdot dx &= dM\\
  Q &= \frac{dM}{dx}\\
 \end{align*}$$
-Note that $(dx)^2$ whas ignored because they where so small.
+Note that $(dx)^{2}\approx 0$ because it was so small.
 
+> $$ = $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
