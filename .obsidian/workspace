@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "51e9a3e51786769f",
+        "id": "e51e60b404538f52",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Mechanics structures and materials/Statics 1/5a Beams, supports and loading conditions/couple on a beam.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 1/5a Beams, supports and loading conditions/couple on a beam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,12 +108,12 @@
     "direction": "horizontal",
     "width": 246
   },
-  "active": "51e9a3e51786769f",
+  "active": "e51e60b404538f52",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Statics 1/5a Beams, supports and loading conditions/couple on a beam.md",
-    "Mechanics structures and materials/Statics 1/5a Beams, supports and loading conditions/types of loads on beams.md",
-    "Mechanics structures and materials/Statics 1/5a Beams, supports and loading conditions/beam theory.md",
     "Mechanics structures and materials/Statics 1/5a Beams, supports and loading conditions/Beams, supports and loading conditions.md",
+    "Mechanics structures and materials/Statics 1/5a Beams, supports and loading conditions/beam theory.md",
+    "Mechanics structures and materials/Statics 1/5a Beams, supports and loading conditions/types of loads on beams.md",
+    "Mechanics structures and materials/Statics 1/5a Beams, supports and loading conditions/moment on a beam.md",
     "Mechanics structures and materials/Statics 1/5a Beams, supports and loading conditions/distrobuted force on a beam.md",
     "Mechanics structures and materials/Statics 1/5a Beams, supports and loading conditions/concentrated force on a beam.md",
     "Mechanics structures and materials/Statics 1/5a Beams, supports and loading conditions/types of supports for beams.md",
