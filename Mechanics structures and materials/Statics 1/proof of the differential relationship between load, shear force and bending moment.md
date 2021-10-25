@@ -12,6 +12,12 @@ If we take the following diagram:
 
 Then try to analyse it using [[method for constructing shear force and bending moment diagrams|method for evaluating shear force and bending moment diagrams]]:
 
-We will
+We can get a diagram for a beam segment
 
 ![[Pasted image 20211025164816.png]]
+
+Vertical equalibrium:
+$$\begin{align*}
+Q &= Q+dQ + dx\cdot w(x)
+\end{align*}$$
+Here we can approximate the load as 
