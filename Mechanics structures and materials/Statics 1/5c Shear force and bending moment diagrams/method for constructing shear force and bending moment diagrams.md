@@ -33,13 +33,15 @@ We would:
 > We then do math:
 > Vertical:
 > $$ \begin{align*}
-F\frac{x}{L} + Q = 0
+F\frac{x}{L} + Q =& 0\\
+F\frac{x}{L} =& -Q
 \end{align*} $$
 > Rotational (taken about the cut location):
 > $$ \begin{align*}
-M = F\frac{x}{L} 
+M = \frac{x}{2}*F\frac{x}{L} 
 \end{align*} $$
 > So:
 > $$\begin{align*}
-
+ M =& \frac{x}{2}*-Q\\
+Q =&
 \end{align*}$$
