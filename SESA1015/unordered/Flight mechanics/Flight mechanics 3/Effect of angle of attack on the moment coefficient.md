@@ -13,9 +13,10 @@ Pressure moves with the angle of attack, which effects the [[Pitching moment coe
 The slope of the graph relating to angle of attack also depends on the [[measuring pitching moments on a plane|point the moments is taken about]]:
 ![[Pasted image 20211021193326.png]]
 
-This graph presents some important informataion, mainly the difference between the brown line and the red line, the brown line shows us what happens to the moment coefficient with no tail, the plane has a stronger nose up pitching moment with a greater angle of attack; this of course is a run away effect that is terrible for aircraft stability. The red line on the otherhand is with 
+This graph presents some important informataion, mainly the difference between the brown line and the red line, the brown line shows us what happens to the moment coefficient with no tail, the plane has a stronger nose up pitching moment with a greater angle of attack; this of course is a run away effect that is terrible for aircraft stability. The redline is the opposite, which means the plane will try to get back to level flight, hence this is the type of relationship between $C_m$ and angle we would want. 
 
 #### Mathamatical representation
+![[Pasted image 20211025214835.png]]
 The variation of the [[Pitching moment coefficient]] is:
 
 > $$ C_m = C_{mo} - h C_L $$ 
