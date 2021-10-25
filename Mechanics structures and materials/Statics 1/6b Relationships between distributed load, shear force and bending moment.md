@@ -8,4 +8,6 @@ tags: ["NotesPage"]
 
 !![[basic properties shear force and bending moment graphs]]
 
-### Relations
+### Relationship
+
+![[proof of the differential relationship between load, shear force and bending moment]]

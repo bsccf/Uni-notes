@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["method for evaluating shear force and bending moment diagrams"]
 tags: ["Question","QFormat3"]
 ---
 
