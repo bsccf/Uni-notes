@@ -24,11 +24,14 @@ We would:
 
 2)
 > We redraw the diagram again
-> ![[Pasted image 20211025115546.png]]
+> ![[Pasted image 20211025122851.png]]
 > (btw the load acts across the length of the whole beam)
 
 3)
 > Here we only need one diagram to represent the beam segment as we move in a direction away from the centre
-> ![[Pasted image 20211025122441.png]]
+> ![[Pasted image 20211025122826.png]]
 > We then do math:
-> 
+> Horizontal:
+> $$ \begin{align*}
+Q_1 &= 
+\end{align*} $$
