@@ -31,7 +31,9 @@ We would:
 > Here we only need one diagram to represent the beam segment as we move in a direction away from the centre
 > ![[Pasted image 20211025122826.png]]
 > We then do math:
-> Horizontal:
+> Vertical:
 > $$ \begin{align*}
-Q_1 &= 
+Q_1 &= Q_2 + F(\frac{x}{L_W})\\
 \end{align*} $$
+> Rotational (taken about the midpoint):
+> 
