@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Typical aerodynamic characteristincs for conventional aircraft.md",
-            "mode": "preview"
+            "file": "Thermofluids/Types of quantitys.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Typical aerodynamic characteristincs for conventional aircraft.md",
+                "file": "Thermofluids/Types of quantitys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "694513e56883a972",
   "lastOpenFiles": [
+    "Thermofluids/Types of quantitys.md",
+    "Thermofluids/Dimentions and units, ratios and coefficients.md",
+    "Thermofluids/Thermofluids read order.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Typical aerodynamic characteristincs for conventional aircraft.md",
     "conflict-files-obsidian-git.md",
     "SESA1015/unordered/Flight mechanics/Mechanics of flight.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 4/Steady level flight.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Effect of angle of attack on the moment coefficient.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Effect of angle of attack on drag coefficient.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Basic aircraft trimming.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Aerodynamic centre.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/measuring pitching moments on a plane.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Pitching moment coefficient.md"
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Basic aircraft trimming.md"
   ]
 }
