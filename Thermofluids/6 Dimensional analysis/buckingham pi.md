@@ -30,7 +30,7 @@ This is a method for dimensional analysis, the theorum states that if there is a
 
 ### Finding the dimensionless parameters
 #### Method
-The goal of the theoruem is to provide a method for finding sets of dimensionless parameters by using the given variables (kinda like the method from [[using dimentional homogeneity to find units]]), even if the equation relating those variables is unknown.
+The goal of the theoruem is to provide a method for finding sets of dimensionless parameters by using the given variables (kinda like a failproof  using the method from [[using dimentional homogeneity to find units|this thing]]  ), even if the equation relating those variables is unknown.
 
 
 #### Example

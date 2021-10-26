@@ -15,7 +15,7 @@ Since [[dimentional homogeneity]] must be maintained, you can rearange any varia
 > $$ \begin{align*}
 P =& \frac{E}{t}\\
 =& \frac{\frac{1}{2}mv^{2}}{t}\\
-=& \frac{\frac{1}{2}m(m/t)^{2}}{t}\\
-=& \frac{1}{2}mv^{2}t^{-1}\\
-units =& kg\cdot 
+=& \frac{\frac{1}{2}m(\frac{x}{t})^{2}}{t}\\
+=& \frac{1}{2}mx^{2}t^{-3}\\
+units =& kg \cdot m^{2} \cdot s^{-3} 
 \end{align*} $$
