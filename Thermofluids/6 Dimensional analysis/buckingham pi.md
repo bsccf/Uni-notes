@@ -48,4 +48,4 @@ The goal of the theoruem is to provide a method for finding sets of dimensionles
 >  So $p=2$ meaning we have 2 dimensionless parameters: $\pi_1,\pi_2$
 > --- 
 > Lets start by finding $\pi_1$:
-> First we choose a parameter to be our dimensionless parameter, (this can be litterally anything, but you generally choose variables that are of intrest in the problem {ones you can't measure(excessive brackes {see top 10 reasons for excessive bracket use})})
+> First we choose a parameter to be our dimensionless parameter, (this can be litterally anything, but you generally choose variables that are of intrest in the problem {ones you can't measure(excessive brackes {see [[top 10 reasons for excessive bracket use]]})})
