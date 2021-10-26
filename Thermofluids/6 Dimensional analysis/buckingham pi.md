@@ -79,3 +79,7 @@ The goal of the theoruem is to provide a method for finding sets of dimensionles
 \end{align*} $$
 > 
 > Note that $\pi_1 = \frac{\mu}{VD\rho}$ can be written as $(\frac{\mu}{VD\rho})^x$ with any value for x, meaning you can use $x=-1$ to flip it and get: $\frac{VD\rho}{\mu}$
+> Also note that what $\pi_1$ and $\pi_2$ translate to interms of dimensional relationship is:
+>> $$ \mu = VD\rho $$
+> and
+>> $$ = V^{-2}D^{1} g $$
