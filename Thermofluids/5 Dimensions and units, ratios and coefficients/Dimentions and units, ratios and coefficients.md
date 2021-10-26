@@ -9,6 +9,8 @@ tags: ["NotesPage"]
 
 ![[dimentional homogeneity]]
 
+![[using dimentional homogeneity to find units]]
+
 ![[relating measurements of scaled models through ratios]]
 
 ![[dimentionless ratios]]

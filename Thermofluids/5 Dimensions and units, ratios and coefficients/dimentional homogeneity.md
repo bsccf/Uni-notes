@@ -9,4 +9,9 @@ This is the fact that when expressing any real world relationship, the SI base u
 
 #### Example
 >> Write the equation of $F=\dfrac{m_2v_2 - m_1v_1}{t}$ interms of SI base units
-> $$ F=&\dfrac{m_2v_2 - m_1v_1}{t} $$
+> $$ \begin{align*}
+F=&\dfrac{m_2v_2 - m_1v_1}{t}\\
+kgms^{-2} &= \frac{kg*ms^{-1} - kg*ms^{-1}}{s}\\
+&= kgms^{-2}
+\end{align*} $$
+> As you can see dimentional homogeneity is maintained.
