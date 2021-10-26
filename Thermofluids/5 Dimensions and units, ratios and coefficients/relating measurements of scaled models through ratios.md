@@ -6,7 +6,9 @@ tags: ["Question","QFormat3"]
 #### How would you go about
 ## Relating measurements of scaled models through ratios
 ### Method
-
+1) Note given ratio measurements and their composing base units
+2) Figure out how to get the desired measurement according to its base units from multiplieing known ratio base units
+3) Use the combination of 
 
 ### Examples
 1) 
