@@ -64,4 +64,7 @@ The goal of the theoruem is to provide a method for finding sets of dimensionles
 \end{align*} $$
 >
 > And then $\pi_2$:
-> 
+> $$ \begin{align*}
+\pi_2 = 0 &= V^{a}D^{b}\rho^{c}g\\
+&= (LT^{-1})^{a}  (L)^{b}  (ML^{-3})^{c}  (LT^{-2})\\
+\end{align*} $$
