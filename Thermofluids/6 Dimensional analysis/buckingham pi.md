@@ -30,6 +30,8 @@ This is a method for dimensional analysis, the theorum states that if there is a
 
 ### Finding the dimensionless parameters
 #### Method
+The goal of the theoruem is to provide a method for finding sets of dimensionless parameters by using the given variables (kinda like the method from [[using dimentional homogeneity to find units]]), even if the equation relating those variables is unknown.
+
 
 #### Example
 >> In turbulent flow the head loss when a liquid flows through a smooth pipe is dependant upone the quantities below. Determine the fundamental scaling relationships that might be important.
@@ -46,4 +48,4 @@ This is a method for dimensional analysis, the theorum states that if there is a
 >  So $p=2$ meaning we have 2 dimensionless parameters: $\pi_1,\pi_2$
 > --- 
 > Lets start by finding $\pi_1$:
-> 
+> First we choose a parameter to be our dimensionless parameter, 
