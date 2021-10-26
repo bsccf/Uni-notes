@@ -7,11 +7,8 @@
         "id": "19c4ad967f8fc089",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Thermofluids/6 Dimensional analysis/buckingham pi.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/6 Dimensional analysis/buckingham pi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
