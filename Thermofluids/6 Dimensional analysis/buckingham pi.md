@@ -77,8 +77,8 @@ The goal of the theoruem is to provide a method for finding sets of dimensionles
 \end{align*} $$
 > 
 > Note that $\pi_1 = \frac{\mu}{VD\rho}$ can be written as $(\frac{\mu}{VD\rho})^x$ with any value for x, meaning you can use $x=-1$ to flip it and get: $\frac{VD\rho}{\mu}$
->>  Also note that what $\pi_1$ and $\pi_2$ translate to interms of dimensional relationship is:
->> $$ \mu = VD\rho $$
+>>  Also note that what $\pi_1$ and $\pi_2$ translate to interms of a dimensional relationship is:
+>> $$ \pi_1 \cdot \mu = VD\rho $$
 > $$and$$
->> $$ g = \frac{V^{2}}{D} $$
+>> $$ \pi_2 \cdot g = \frac{V^{2}}{D} $$
 >Since $\pi_n$ acctually represents a dimensionless ratio between these quanitys
