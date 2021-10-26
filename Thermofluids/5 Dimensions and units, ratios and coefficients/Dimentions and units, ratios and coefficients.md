@@ -7,6 +7,8 @@ tags: ["NotesPage"]
 
 ![[Types of quantitys]]
 
+![[dimentional homogeneity]]
+
 ![[relating measurements of scaled models through ratios]]
 
 ![[dimentionless ratios]]
