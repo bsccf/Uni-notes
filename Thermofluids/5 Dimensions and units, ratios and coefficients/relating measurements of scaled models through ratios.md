@@ -24,4 +24,13 @@ tags: ["Question","QFormat3"]
 2) 
 >>  What is the work ratio ($W_r$) if the force ratio is 1:50 and the distance ratio is 4:15
 > - Work $= ML^{2}T^{-2}$
-> - 
+> - Force $= MLT^{-2}$
+> - Distance $=L$
+> So:
+> $$ \begin{align*}\\
+ Work &=ML^{2}T^{-2} = MLT^{-2} \cdot L
+ Work &= Force \cdot Distance \\
+ W_r &= F_r \cdot L_r\\
+ W_r &= \frac{1}{50} \cdot \frac{4}{15}\\
+&= \frac{2}{375}
+\end{align*} $$
