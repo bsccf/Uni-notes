@@ -6,6 +6,7 @@ tags: ["Question","QFormat3"]
 #### What's the method for
 ## Buckingham $\pi$ dimensional analysis
 ### Getting p,n and k
+#### Method
 This is a method for dimensional analysis, the theorum states that if there is a physically meaningful equation involving $n$ number of physical variables, then the origional equation can be rewritten in terms of a set of $p=n-k$ dimensionless parameters ($\pi_1,\pi_2,...\pi_p$) constructed from the origional variables:
 
 > $$ p = n-k $$ 
@@ -28,3 +29,6 @@ This is a method for dimensional analysis, the theorum states that if there is a
 > So $p = n-k$ giving us $p = 4-3 = 1$
 
 ### Finding the dimensionless parameters
+#### Method
+
+#### Example
