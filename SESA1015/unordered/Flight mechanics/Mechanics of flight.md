@@ -11,3 +11,5 @@ Read order:
 1) [[The atmospheric environment. fundamental convepts and definitions]]
 2)  [[Typical aerodynamic characteristincs for conventional aircraft]]
 
+Example question:
+![[AERODYNAMIC.mp4]]
