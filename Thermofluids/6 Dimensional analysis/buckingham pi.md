@@ -39,9 +39,9 @@ The goal of the theoruem is to provide a method for finding sets of dimensionles
 > - Head loss turns out to be dimensionless so we ignore it
 > - Mean velocity (V) = $LT^{-1}$
 > - Diameter (D) = $L$
-> - Liquid density = $ML^{-3}$
-> - Dynamic viscosity = $ML^{-1}T^{-1}$
-> - Acc due to grav = $LT^{-2}$
+> - Liquid density ($\rho$) = $ML^{-3}$
+> - Dynamic viscosity ($\mu$) = $ML^{-1}T^{-1}$
+> - Acc due to grav ($g$) = $LT^{-2}$
 > 
 >  We have 3 dimensions (length, time, mass) so $k=3$
 >  We have 5 variables so $n=5$
@@ -49,4 +49,6 @@ The goal of the theoruem is to provide a method for finding sets of dimensionles
 > --- 
 > Lets start by finding $\pi_1$:
 > First we choose a parameter to be our dimensionless parameter, (this can be litterally anything, but you generally choose variables that are of intrest in the problem {ones you can't measure(excessive brackes {see [[top 10 reasons for excessive bracket use]] } ) } )
-> So we will use Dynamic viscosity ($\$)
+> So we will use Dynamic viscosity ($\mu$)
+> 
+> $$ \pi_1 = 0 = V^{a}D^{b}\rho^{c}g^{d}\mu $$
