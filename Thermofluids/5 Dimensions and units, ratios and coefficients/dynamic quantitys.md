@@ -6,14 +6,15 @@ tags: ["Question","QFormat4"]
 
 A quantity that exclusively contains measurements of:
 - dimentional length (SI unit equivilent would be meters)
-- time (S)
+- time (SI unit equililent would be seconds)
 
 #### Examples
 
-| Quantity               | Measurement | SI Equivilent |
-| ---------------------- | ----------- | ------------- |
-| Length                 | $L$         | $m$           |
-| Area                   | $L^2$       | $m^2$         |
-| Volume                 | $L^3$       | $m^3$         |
-| Area moment of inertia | $L^4$       | $m^4$         |
+| Quantity             | Measurement   | SI Equivilent |
+| -------------------- | ------------- | ------------- |
+| Time                 | $T$           | $s$           |
+| Velocity             | $LT^{-1}$     | $ms^{-1}$     |
+| Angular velocity     | $T^{-1}$      | $s^{-1}$      |
+| Angular acceleration | $T^{-2}$      | $s^{-2}$      |
+| Discharge            | $L^{3}T^{-1}$ | $m^{3}s^{-1}$ |
 	
