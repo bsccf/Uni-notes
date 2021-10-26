@@ -47,8 +47,11 @@ The goal of the theoruem is to provide a method for finding sets of dimensionles
 >  We have 5 variables so $n=5$
 >  So $p=2$ meaning we have 2 dimensionless parameters: $\pi_1,\pi_2$
 > --- 
+> Before we can continue we choose the parameters to be our dimensionless parameters, (this can be litterally anything, but you generally choose variables that are of intrest in the problem {ones you can't measure(excessive brackes {see [[top 10 reasons for excessive bracket use]] } ) } ).
+> When doing 
+> 
 > Lets start by finding $\pi_1$:
-> First we choose the parameters to be our dimensionless parameters, (this can be litterally anything, but you generally choose variables that are of intrest in the problem {ones you can't measure(excessive brackes {see [[top 10 reasons for excessive bracket use]] } ) } )
+> 
 > So we will use Dynamic viscosity ($\mu$) and gravity ($g$)
 >
 > Now to calculate $\pi_1$: 
@@ -56,9 +59,9 @@ The goal of the theoruem is to provide a method for finding sets of dimensionles
 \pi_1 = 0 &= V^{a}D^{b}\rho^{c}\mu\\
 &= (LT^{-1})^{a}  (L)^{b}  (ML^{-3})^{c}  (ML^{-1}T^{-1})\\
 &   &   0&=aL+bL-3cL-L   &   0&=-aT-T   &   0&=cM+M\\
-&   &   1&=a+b-3c   &   -1&=a   &   -1&=c\\
+&   &   1&=a+b-3c   &   a&=-1   &   c&=-1\\
 &   &   1&=-1-1-3c\\
-&   &   -1&=c\\
+&   &   c&=-1\\
 \pi_1 &= V^{-1}D^{-1}\rho^{-1}\mu\\
 &= \frac{\mu}{VD\rho}\\
 \end{align*} $$
@@ -68,9 +71,9 @@ The goal of the theoruem is to provide a method for finding sets of dimensionles
 \pi_2 = 0 &= V^{a}D^{b}\rho^{c}g\\
 &= (LT^{-1})^{a}  (L)^{b}  (ML^{-3})^{c}  (LT^{-2})\\
 &   &   0&=aL+bL-3cL+L   &   0&=-aT-2T   &   0&=cM\\
-&   &   0&=a+b-3c+1   &   a&=-2   &   0&=c\\
+&   &   0&=a+b-3c+1   &   a&=-2   &   c&=0\\
 &   &   0&=-2+b+1 \\
 &   &   b&= 1 \\
 \pi_1 &= V^{-2}D^{1} g\\
-&=\frac{Dg}{V^{-2}}
+&=\frac{Dg}{V^{2}}
 \end{align*} $$
