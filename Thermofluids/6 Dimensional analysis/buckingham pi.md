@@ -12,8 +12,8 @@ This is a method for dimensional analysis, the theorum states that if there is a
 > $$ p = n-k $$ 
 >> where:
 >> $p=$ number of dimensionless parameters ($\pi_1,\pi_2,...\pi_p$)
->> $n=$ number of physical variables
->> $k=$ the number of physical dimensions involved
+>> $n=$ number of physical variables (ignore dimensionless variables)
+>> $k=$ the number of physical dimensions involved 
 
 #### Example
 
@@ -32,3 +32,8 @@ This is a method for dimensional analysis, the theorum states that if there is a
 #### Method
 
 #### Example
+>> In turbulent flow the head loss when a liquid flows through a smooth pipe is dependant upone the quantities below. Determine the fundamental scaling relationships that might be important.
+>> ![[Pasted image 20211026203121.png]]
+> - Head loss turns out to be dimensionless
+> - Mean velocity (V) = $LT^{-1}$
+> - Diameter (D) = 
