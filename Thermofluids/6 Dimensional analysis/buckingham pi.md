@@ -51,12 +51,10 @@ The goal of the theoruem is to provide a method for finding sets of dimensionles
 >  So we will use Dynamic viscosity ($\mu$) and gravity ($g$) for our dimensionless parameters.
 > When doing the maths later we have one value of $\pi_n$ per dimensionless parameter, and in the maths for that we construct our equation for $\pi_n$ using:
 >> $\pi_n$ = (all parameters that arn't dimensionless parameters to their powers)\*(dimensionless parameter we are focused on)
-> 
-> Lets start by finding $\pi_1$:
 >
 > Now to calculate $\pi_1$: 
 > $$ \begin{align*}
-\pi_1 = 0 &= V^{a}D^{b}\rho^{c}\mu\\
+\pi_1 &= V^{a}D^{b}\rho^{c}\mu\\
 &= (LT^{-1})^{a}  (L)^{b}  (ML^{-3})^{c}  (ML^{-1}T^{-1})\\
 &   &   0&=aL+bL-3cL-L   &   0&=-aT-T   &   0&=cM+M\\
 &   &   1&=a+b-3c   &   a&=-1   &   c&=-1\\
@@ -68,7 +66,7 @@ The goal of the theoruem is to provide a method for finding sets of dimensionles
 >
 > And then $\pi_2$:
 > $$ \begin{align*}
-\pi_2 = 0 &= V^{a}D^{b}\rho^{c}g\\
+\pi_2 &= V^{a}D^{b}\rho^{c}g\\
 &= (LT^{-1})^{a}  (L)^{b}  (ML^{-3})^{c}  (LT^{-2})\\
 &   &   0&=aL+bL-3cL+L   &   0&=-aT-2T   &   0&=cM\\
 &   &   0&=a+b-3c+1   &   a&=-2   &   c&=0\\
@@ -79,7 +77,8 @@ The goal of the theoruem is to provide a method for finding sets of dimensionles
 \end{align*} $$
 > 
 > Note that $\pi_1 = \frac{\mu}{VD\rho}$ can be written as $(\frac{\mu}{VD\rho})^x$ with any value for x, meaning you can use $x=-1$ to flip it and get: $\frac{VD\rho}{\mu}$
-> Also note that what $\pi_1$ and $\pi_2$ translate to interms of dimensional relationship is:
+>>  Also note that what $\pi_1$ and $\pi_2$ translate to interms of dimensional relationship is:
 >> $$ \mu = VD\rho $$
-> and
->> $$ = V^{-2}D^{1} g $$
+> $$and$$
+>> $$ g = \frac{V^{2}}{D} $$
+>Since $\pi_n$ acctually represents a dimensionless ratio between these quanitys
