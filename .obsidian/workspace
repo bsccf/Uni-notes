@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/5 Dimensions and units, ratios and coefficients/Dimentions and units, ratios and coefficients.md",
+            "file": "Thermofluids/5 Dimensions and units, ratios and coefficients/prefixes for units.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/5 Dimensions and units, ratios and coefficients/Dimentions and units, ratios and coefficients.md",
+                "file": "Thermofluids/5 Dimensions and units, ratios and coefficients/prefixes for units.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,7 @@
   },
   "active": "694513e56883a972",
   "lastOpenFiles": [
+    "Thermofluids/5 Dimensions and units, ratios and coefficients/prefixes for units.md",
     "Thermofluids/5 Dimensions and units, ratios and coefficients/Dimentions and units, ratios and coefficients.md",
     "Thermofluids/5 Dimensions and units, ratios and coefficients/relating measurements of scaled models through ratios.md",
     "Thermofluids/5 Dimensions and units, ratios and coefficients/Types of quantitys.md",
@@ -122,7 +123,6 @@
     "Thermofluids/5 Dimensions and units, ratios and coefficients/geometric quantitys.md",
     "Thermofluids/Thermofluids read order.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Typical aerodynamic characteristincs for conventional aircraft.md",
-    "conflict-files-obsidian-git.md",
-    "SESA1015/unordered/Flight mechanics/Mechanics of flight.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
