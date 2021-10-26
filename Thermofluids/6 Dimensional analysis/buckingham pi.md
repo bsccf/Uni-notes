@@ -44,4 +44,6 @@ This is a method for dimensional analysis, the theorum states that if there is a
 >  We have 3 dimensions (length, time, mass) so $k=3$
 >  We have 5 variables so $n=5$
 >  So $p=2$ meaning we have 2 dimensionless parameters: $\pi_1,\pi_2$
->  
+> --- 
+> Lets start by finding $\pi_1$:
+> 
