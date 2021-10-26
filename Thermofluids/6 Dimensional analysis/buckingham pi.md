@@ -67,4 +67,10 @@ The goal of the theoruem is to provide a method for finding sets of dimensionles
 > $$ \begin{align*}
 \pi_2 = 0 &= V^{a}D^{b}\rho^{c}g\\
 &= (LT^{-1})^{a}  (L)^{b}  (ML^{-3})^{c}  (LT^{-2})\\
+&   &   0&=aL+bL-3cL+L   &   0&=-aT-2T   &   0&=cM\\
+&   &   0&=a+b-3c+1   &   a&=-2   &   0&=c\\
+&   &   0&=-2+b+1 \\
+&   &   b&= 1 \\
+\pi_1 &= V^{-2}D^{1} g\\
+&=\frac{Dg}{V^{-2}}
 \end{align*} $$
