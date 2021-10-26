@@ -15,4 +15,5 @@ This is a method for dimensional analysis, the theorum states that if there is a
 
 #### Examples
 
->> What is k,n and p for analysing the relationship between 
+>> What is k,n and p for analysing the relationship between the variables $g$, $l$, $m$ and $\tou$
+>> ![[Pasted image 20211026201954.png]]
