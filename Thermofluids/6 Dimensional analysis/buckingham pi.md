@@ -15,5 +15,13 @@ This is a method for dimensional analysis, the theorum states that if there is a
 
 #### Examples
 
->> What is k,n and p for analysing the relationship between the variables $g$, $l$, $m$ and $\tou$
+>> What is k,n and p for analysing the relationship between the variables $g$, $l$, $m$ and $\tau$ (period)
 >> ![[Pasted image 20211026201954.png]]
+> First lets break them down into dimensions:
+> - $g=LT^{-2}$
+> - $l=L$
+> - $m=M$
+> - $\tau=T$
+> So we have 3 dimensions (length,time,mass), hence $k=3$
+> 
+> 
