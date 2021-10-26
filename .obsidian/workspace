@@ -7,8 +7,11 @@
         "id": "694513e56883a972",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Mechanics structures and materials/Statics 1/3,4 Pin jointed trusses/pin jointed trusses.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mechanics structures and materials/Statics 1/3,4 Pin jointed trusses/pin jointed trusses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +114,8 @@
   },
   "active": "694513e56883a972",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Statics 1/3,4 Pin jointed trusses/pin jointed trusses.md",
+    "Mechanics structures and materials/Statics 1/3,4 Pin jointed trusses/methods of pin jointed truss analysis.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Typical aerodynamic characteristincs for conventional aircraft.md",
     "SESA1015/unordered/Flight mechanics/Mechanics of flight.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 4/Steady level flight.md",
@@ -117,8 +123,6 @@
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Effect of angle of attack on drag coefficient.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Basic aircraft trimming.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Aerodynamic centre.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/measuring pitching moments on a plane.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Pitching moment coefficient.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/The atmospheric environment. fundamental convepts and definitions.md"
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/measuring pitching moments on a plane.md"
   ]
 }
