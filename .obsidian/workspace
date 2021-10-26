@@ -7,8 +7,11 @@
         "id": "19c4ad967f8fc089",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Mechanics structures and materials/Statics 1/5c Shear force and bending moment diagrams/method for constructing shear force and bending moment diagrams.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mechanics structures and materials/Statics 1/5c Shear force and bending moment diagrams/method for constructing shear force and bending moment diagrams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +114,8 @@
   },
   "active": "19c4ad967f8fc089",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Statics 1/5c Shear force and bending moment diagrams/method for constructing shear force and bending moment diagrams.md",
+    "Mechanics structures and materials/Statics 1/6b Relationships between distributed load, shear force and bending moment/Relationships between distributed load, shear force and bending moment.md",
     "SESA1015/unordered/Flight mechanics/Mechanics of flight.md",
     "Mathematics for Engineering and the Environment/Differentiation 1/MEE Differentiation 1.md",
     "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation 1.pdf",
@@ -117,8 +123,6 @@
     "Thermofluids/5 Dimensions and units, ratios and coefficients/Dimentions and units, ratios and coefficients.md",
     "Thermofluids/Thermofluids read order.md",
     "Thermofluids/5 Dimensions and units, ratios and coefficients/dimentionless ratios.md",
-    "Thermofluids/5 Dimensions and units, ratios and coefficients/geometric quantitys.md",
-    "Thermofluids/5 Dimensions and units, ratios and coefficients/prefixes for units.md",
-    "Thermofluids/5 Dimensions and units, ratios and coefficients/relating measurements of scaled models through ratios.md"
+    "Thermofluids/5 Dimensions and units, ratios and coefficients/geometric quantitys.md"
   ]
 }
