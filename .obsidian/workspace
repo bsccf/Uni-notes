@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/6 Dimensional analysis/buckingham pi.md",
+            "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Centre of pressure.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/6 Dimensional analysis/buckingham pi.md",
+                "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Centre of pressure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,8 @@
   },
   "active": "19c4ad967f8fc089",
   "lastOpenFiles": [
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Centre of pressure.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/why I cant be asked.md",
     "Thermofluids/6 Dimensional analysis/buckingham pi.md",
     "Thermofluids/6 Dimensional analysis/Dimensional Analysis.md",
     "Thermofluids/6 Dimensional analysis/top 10 reasons for excessive bracket use.md",
@@ -121,8 +123,6 @@
     "Thermofluids/5 Dimensions and units, ratios and coefficients/dimentional homogeneity.md",
     "Thermofluids/Thermofluids read order.md",
     "Thermofluids/5 Dimensions and units, ratios and coefficients/dynamic quantitys.md",
-    "Thermofluids/5 Dimensions and units, ratios and coefficients/why I still can't be asked.md",
-    "Thermofluids/5 Dimensions and units, ratios and coefficients/Dimentions and units, ratios and coefficients.md",
-    "Thermofluids/5 Dimensions and units, ratios and coefficients/geometric quantitys.md"
+    "Thermofluids/5 Dimensions and units, ratios and coefficients/why I still can't be asked.md"
   ]
 }
