@@ -34,6 +34,14 @@ This is a method for dimensional analysis, the theorum states that if there is a
 #### Example
 >> In turbulent flow the head loss when a liquid flows through a smooth pipe is dependant upone the quantities below. Determine the fundamental scaling relationships that might be important.
 >> ![[Pasted image 20211026203121.png]]
-> - Head loss turns out to be dimensionless
+> - Head loss turns out to be dimensionless so we ignore it
 > - Mean velocity (V) = $LT^{-1}$
-> - Diameter (D) = 
+> - Diameter (D) = $L$
+> - Liquid density = $ML^{-3}$
+> - Dynamic viscosity = $ML^{-1}T^{-1}$
+> - Acc due to grav = $LT^{-2}$
+> 
+>  We have 3 dimensions (length, time, mass) so $k=3$
+>  We have 5 variables so $n=5$
+>  So $p=2$ meaning we have 2 dimensionless parameters: $\pi_1,\pi_2$
+>  
