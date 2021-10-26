@@ -49,7 +49,8 @@ The goal of the theoruem is to provide a method for finding sets of dimensionles
 > --- 
 > Before we can continue we choose the parameters to be our dimensionless parameters, (this can be litterally anything, but you generally choose variables that are of intrest in the problem {ones you can't measure(excessive brackes {see [[top 10 reasons for excessive bracket use]] } ) } ).
 >  So we will use Dynamic viscosity ($\mu$) and gravity ($g$) for our dimensionless parameters.
-> When doing the maths later we have one value of $\pi_n$ per dimensionless parameter, and in the maths for that we construct our equation for $\pi_n$ using (all parameters that arn't dimensionless parameters)\*(dimensionless parameter we are focused on)
+> When doing the maths later we have one value of $\pi_n$ per dimensionless parameter, and in the maths for that we construct our equation for $\pi_n$ using:
+>> $\pi_n$ = (all parameters that arn't dimensionless parameters to their powers)\*(dimensionless parameter we are focused on)
 > 
 > Lets start by finding $\pi_1$:
 >
@@ -76,3 +77,5 @@ The goal of the theoruem is to provide a method for finding sets of dimensionles
 \pi_1 &= V^{-2}D^{1} g\\
 &=\frac{Dg}{V^{2}}
 \end{align*} $$
+> 
+> Note that $\pi_1 = \frac{\mu}{VD\rho}$ can be written as $(\frac{\mu}{VD\rho})^x$ with any value for x, meaning you can use $x=-1$ to flip it and get: $\frac{VD\rho}{\mu}$
