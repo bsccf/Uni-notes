@@ -15,6 +15,10 @@ tags: ["NotesPage"]
 
 ![[methods of pin jointed truss analysis]]
 
+#### example
+
+[[Statics I problem sheet.pdf]]
+
 ### Types of pin jointed trusses
 
 There are 3 catagories:

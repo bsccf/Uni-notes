@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Typical aerodynamic characteristincs for conventional aircraft.md",
+            "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Centre of pressure.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Typical aerodynamic characteristincs for conventional aircraft.md",
+                "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Centre of pressure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +110,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246
+    "width": 235
   },
   "active": "694513e56883a972",
   "lastOpenFiles": [
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Centre of pressure.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/why I cant be asked.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Typical aerodynamic characteristincs for conventional aircraft.md",
-    "SESA1015/unordered/Flight mechanics/Mechanics of flight.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 4/Steady level flight.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Effect of angle of attack on the moment coefficient.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Effect of angle of attack on drag coefficient.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Basic aircraft trimming.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Aerodynamic centre.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/measuring pitching moments on a plane.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Pitching moment coefficient.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/The atmospheric environment. fundamental convepts and definitions.md"
+    "Mechanics structures and materials/Statics 1/5a Beams, supports and loading conditions/Beams, supports and loading conditions.md",
+    "Mechanics structures and materials/Statics 1/Statics 1 read order.md",
+    "Mechanics structures and materials/Statics 1/6b Relationships between distributed load, shear force and bending moment/Relationships between distributed load, shear force and bending moment.md",
+    "Mechanics structures and materials/Statics 1/6b Relationships between distributed load, shear force and bending moment/basic properties shear force and bending moment graphs.md",
+    "Mechanics structures and materials/Statics 1/5b Shear forces and bending moments on beams/shearing force in beams.md"
   ]
 }
