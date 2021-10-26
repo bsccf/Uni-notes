@@ -13,5 +13,9 @@ Since [[dimentional homogeneity]] must be maintained, you can rearange any varia
 >> What are the units for power?
 > Find the equation for power and equations that compose that one recursively:
 > $$ \begin{align*}
-P =& \frac{E}{t} 
+P =& \frac{E}{t}\\
+=& \frac{\frac{1}{2}mv^{2}}{t}\\
+=& \frac{\frac{1}{2}m(m/t)^{2}}{t}\\
+=& \frac{1}{2}mv^{2}t^{-1}\\
+units =& kg\cdot 
 \end{align*} $$
