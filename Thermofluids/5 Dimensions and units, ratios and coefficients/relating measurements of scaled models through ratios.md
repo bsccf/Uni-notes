@@ -17,9 +17,11 @@ tags: ["Question","QFormat3"]
  \sqrt[3]{ \frac{ 60m^{-3} }{ 5000000m^{3} } } &= \frac{L_m}{L_r}\\
 &= \frac{3}{250000}
 \end{align*} $$
-> So the ratio is $\frac{L_m}{L_r}= \frac{3}{250000}$
+> So the ratio is $L_r = \frac{L_m}{L_r}= \frac{3}{250000}$
 > $$ 60 \cdot \frac{3}{250000} = 0.00073 $$
 > And the scale models height is 0.00073 meters.
 
 2) 
->>  
+>>  What is the work ratio ($W_r$) if the force ratio is 1:50 and the distance ratio is 4:15
+> - Work $= ML^{2}T^{-2}$
+> - 
