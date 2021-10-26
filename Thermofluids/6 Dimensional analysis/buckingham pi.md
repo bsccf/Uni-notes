@@ -48,11 +48,10 @@ The goal of the theoruem is to provide a method for finding sets of dimensionles
 >  So $p=2$ meaning we have 2 dimensionless parameters: $\pi_1,\pi_2$
 > --- 
 > Before we can continue we choose the parameters to be our dimensionless parameters, (this can be litterally anything, but you generally choose variables that are of intrest in the problem {ones you can't measure(excessive brackes {see [[top 10 reasons for excessive bracket use]] } ) } ).
-> When doing 
+>  So we will use Dynamic viscosity ($\mu$) and gravity ($g$) for our dimensionless parameters.
+> When doing the maths later we have one value of $\pi_n$ per dimensionless parameter, and in the maths for that we construct our equation for $\pi_n$ using (all parameters that arn't dimensionless parameters)\*(dimensionless parameter we are focused on)
 > 
 > Lets start by finding $\pi_1$:
-> 
-> So we will use Dynamic viscosity ($\mu$) and gravity ($g$)
 >
 > Now to calculate $\pi_1$: 
 > $$ \begin{align*}
