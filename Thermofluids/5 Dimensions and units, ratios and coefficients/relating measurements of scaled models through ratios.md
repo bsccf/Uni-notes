@@ -13,5 +13,7 @@ You have a water tank that has a capacity of 5,000,000 litres that is 60 meters 
 
 > Units of litres is $m^3$ and units of height is $m$ so the scale ratio ($m$):
 > $$ \begin{align*}
- \rt{ \frac{60m^{-3}{5000000m^{3}}} } &=
+ \sqrt[3]{ \frac{ 60m^{-3} }{ 5000000m^{3} } } &= \frac{L_m}{L_r}\\
+&= \frac{3}{250000}
 \end{align*} $$
+> So the ratio is $$\frac{L_m}{L_r}$$
