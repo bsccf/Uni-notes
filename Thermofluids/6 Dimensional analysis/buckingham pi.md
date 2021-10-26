@@ -5,6 +5,7 @@ tags: ["Question","QFormat3"]
 
 #### What's the method for
 ## Buckingham $\pi$ dimensional analysis
+### Getting p,n and k
 This is a method for dimensional analysis, the theorum states that if there is a physically meaningful equation involving $n$ number of physical variables, then the origional equation can be rewritten in terms of a set of $p=n-k$ dimensionless parameters ($\pi_1,\pi_2,...\pi_p$) constructed from the origional variables:
 
 > $$ p = n-k $$ 
@@ -13,7 +14,7 @@ This is a method for dimensional analysis, the theorum states that if there is a
 >> $n=$ number of physical variables
 >> $k=$ the number of physical dimensions involved
 
-#### Examples
+#### Example
 
 >> What is k,n and p for analysing the relationship between the variables $g$, $l$, $m$ and $\tau$ (period)
 >> ![[Pasted image 20211026201954.png]]
@@ -23,5 +24,7 @@ This is a method for dimensional analysis, the theorum states that if there is a
 > - $m=M$
 > - $\tau=T$
 > So we have 3 dimensions (length,time,mass), hence $k=3$
-> 
-> 
+> We have 4 variables, hence $n=4$
+> So $p = n-k$ giving us $p = 4-3 = 1$
+
+### Finding the dimensionless parameters
