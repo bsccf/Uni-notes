@@ -8,7 +8,7 @@ tags: ["Question","QFormat3"]
 ### Method
 1) Note given ratio measurements and their composing base units
 2) Figure out how to get the desired measurement according to its base units from multiplieing known ratio base units
-3) Use the combination of 
+3) Use the combination of known ratios multiplied together to get the new ratio for the measurement you want
 
 ### Examples
 1) 
@@ -33,8 +33,8 @@ V_r &= (L_r)^3\\
 >
 > So:
 > $$ \begin{align*}\\
- Work =ML^{2}T^{-2} &= MLT^{-2} \cdot L
- Work &= Force \cdot Distance \\
+ Work =ML^{2}T^{-2} &= (MLT^{-2}) \cdot (L)\\
+ Work &= (Force) \cdot (Distance) \\
  W_r &= F_r \cdot L_r\\
  W_r &= \frac{1}{50} \cdot \frac{4}{15}\\
 &= \frac{2}{375}
