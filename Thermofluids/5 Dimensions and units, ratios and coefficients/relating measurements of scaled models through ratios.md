@@ -34,3 +34,4 @@ tags: ["Question","QFormat3"]
  W_r &= \frac{1}{50} \cdot \frac{4}{15}\\
 &= \frac{2}{375}
 \end{align*} $$
+> Hence the work ratio is 2:375
