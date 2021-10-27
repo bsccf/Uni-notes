@@ -18,7 +18,7 @@ The math for it is so [[Pasted image 20211027135126.png|easy!]]
 
 > $$ B(r) = \frac{\mu_0}{4\pi} \int_C \dfrac{Idl\cdot r'}{|r'|^{2}} $$ 
 >> where:
->> $\mu_0=$ 
+>> $\mu_0=$ [[permitivity of free space (magnetic)|vacuum permittivity]]
 >> $=$
 >> $=$
 
