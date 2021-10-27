@@ -4,5 +4,4 @@ tags: ["Question","QFormat3"]
 ---
 
 #### What is
-## <% tp.file.title %>
-Desc
+## Guass's law (magnatism)
