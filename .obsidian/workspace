@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/2b Other Electromagnetic effects/guass's law (electric field).md",
-            "mode": "source"
+            "file": "Electrical and electronic systems/2b Other Electromagnetic effects/Other Electromagnetic effects notes.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/2b Other Electromagnetic effects/guass's law (electric field).md",
+                "file": "Electrical and electronic systems/2b Other Electromagnetic effects/Other Electromagnetic effects notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,10 +114,10 @@
   },
   "active": "013fd658edf201d8",
   "lastOpenFiles": [
+    "Electrical and electronic systems/2b Other Electromagnetic effects/Other Electromagnetic effects notes.md",
     "Electrical and electronic systems/2b Other Electromagnetic effects/guass's law (electric field).md",
     "Electrical and electronic systems/2b Other Electromagnetic effects/closed surface.md",
     "Electrical and electronic systems/2b Other Electromagnetic effects/guass's law (magnatism).md",
-    "Electrical and electronic systems/2b Other Electromagnetic effects/Other Electromagnetic effects notes.md",
     "Electrical and electronic systems/2b Other Electromagnetic effects/maxwells equations.md",
     "Electrical and electronic systems/2b Other Electromagnetic effects/amperes force law.md",
     "Electrical and electronic systems/2b Other Electromagnetic effects/biot-savart law.md",
