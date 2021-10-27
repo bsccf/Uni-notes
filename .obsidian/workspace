@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/2a Magnetism and induction/magnetic flux.md",
+            "file": "Electrical and electronic systems/2b Other Electromagnetic effects/Other Electromagnetic effects notes.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/2a Magnetism and induction/magnetic flux.md",
+                "file": "Electrical and electronic systems/2b Other Electromagnetic effects/Other Electromagnetic effects notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "cbacd49ce63b4554",
   "lastOpenFiles": [
+    "Electrical and electronic systems/2b Other Electromagnetic effects/Other Electromagnetic effects notes.md",
+    "Electrical and electronic systems/Electrical read order.md",
     "Electrical and electronic systems/2a Magnetism and induction/magnetic flux.md",
     "Electrical and electronic systems/2a Magnetism and induction/Magnetism and induction notes.md",
-    "Electrical and electronic systems/Electrical read order.md",
     "Electrical and electronic systems/2a Magnetism and induction/weber (unit).md",
     "Electrical and electronic systems/2a Magnetism and induction/magnetic field.md",
     "Electrical and electronic systems/2a Magnetism and induction/tesla.md",
     "Electrical and electronic systems/1b Electric current/Electric current notes.md",
     "Thermofluids/6 Dimensional analysis/buckingham pi.md",
-    "Mechanics structures and materials/Statics 1/5c Shear force and bending moment diagrams/method for constructing shear force and bending moment diagrams.md",
-    "Mechanics structures and materials/Statics 1/6b Relationships between distributed load, shear force and bending moment/Relationships between distributed load, shear force and bending moment.md"
+    "Mechanics structures and materials/Statics 1/5c Shear force and bending moment diagrams/method for constructing shear force and bending moment diagrams.md"
   ]
 }
