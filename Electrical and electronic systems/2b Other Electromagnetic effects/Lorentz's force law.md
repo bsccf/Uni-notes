@@ -23,4 +23,4 @@ There is also the left hand rule:
 ![[Pasted image 20211027104839.png]]
 For working out the direction of the force on a moving charge.
 
-Notice that the direction is *completely fucked* in the top image, this is because conventional current is dumb, and the opposite of the actual direction of electron flow. (please read [[lmao|the complex reason for the use of conventional current]] for critical information or [[lmao|why ]])
+Notice that the direction is *completely fucked $^{tm}$* in the top image, this is because conventional current is dumb, and the opposite of the actual direction of electron flow. (please read [[lmao|the complex reason for the use of conventional current]] for critical information)
