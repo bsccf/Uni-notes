@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Centre of pressure.md",
+            "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 3/why I cant be asked.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Centre of pressure.md",
+                "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 3/why I cant be asked.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "cbacd49ce63b4554",
   "lastOpenFiles": [
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/why I cant be asked.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Centre of pressure.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Typical aerodynamic characteristincs for conventional aircraft.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Basic aircraft trimming.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Pitching moment coefficient.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Effect of angle of attack on the moment coefficient.md",
     "Electrical and electronic systems/2b Other Electromagnetic effects/Lorentz's force law.md",
     "Electrical and electronic systems/2b Other Electromagnetic effects/lmao.md",
     "Electrical and electronic systems/2b Other Electromagnetic effects/Other Electromagnetic effects notes.md",
-    "Electrical and electronic systems/2a Magnetism and induction/tesla.md",
-    "Electrical and electronic systems/Electrical read order.md",
-    "Electrical and electronic systems/2a Magnetism and induction/magnetic flux.md",
-    "Electrical and electronic systems/2a Magnetism and induction/Magnetism and induction notes.md",
-    "Electrical and electronic systems/2a Magnetism and induction/weber (unit).md",
-    "Electrical and electronic systems/2a Magnetism and induction/magnetic field.md"
+    "Electrical and electronic systems/2a Magnetism and induction/tesla.md"
   ]
 }
