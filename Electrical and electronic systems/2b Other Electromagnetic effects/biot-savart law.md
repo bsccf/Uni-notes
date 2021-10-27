@@ -16,11 +16,12 @@ Also note that this law only applies in magnetostatics (when the currents don't 
 
 The math for it is so [[Pasted image 20211027135126.png|easy!]]
 
-> $$ B(r) = \frac{\mu_0}{4\pi} \int_C \dfrac{Idl\cdot r'}{|r'|^{2}} $$ 
+> $$ B(\bar{r}) = \frac{\mu_0}{4\pi} \int_C \dfrac{Idl\cdot \bar{r}'}{|\bar{r}'|^{2}} $$ 
 >> where:
 >> $B(r)=$ The resaultant [[magnetic field]] at position $r$
 >> $\mu_0=$ [[permitivity of free space (magnetic)|vacuum permittivity]]
->> $dl=$ is a vector along the path $C$, whose magnitude is the length of the differential element if the wire in the direction of conventinal current 
+>> $dl=$ is a vector along the path $C$ whose magnitude is the length of the differential element if the wire in the direction of conventinal current 
 >> $l=$ is a point on the path
->> $\bar{r}=$
+>> $\bar{r}=$ is a position in 3D space
+>> $I=$ [[electric current|current]]
 
