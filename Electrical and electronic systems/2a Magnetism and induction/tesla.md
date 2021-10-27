@@ -17,4 +17,4 @@ It can be expressed mathamaticly according to the force excerted on a charged pa
 >> $N=$ Newton
 >> $A=$ [[electric current|amp]]
 
-The force is due to the [[lorentz force]]
+The force is due to the [[Lorentz's force law|lorentz force]]
