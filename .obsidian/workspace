@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "cbacd49ce63b4554",
+        "id": "013fd658edf201d8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/2b Other Electromagnetic effects/idk.md",
+            "file": "Electrical and electronic systems/2b Other Electromagnetic effects/maxwells equations.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/2b Other Electromagnetic effects/idk.md",
+                "file": "Electrical and electronic systems/2b Other Electromagnetic effects/maxwells equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,17 +112,17 @@
     "direction": "horizontal",
     "width": 246
   },
-  "active": "cbacd49ce63b4554",
+  "active": "013fd658edf201d8",
   "lastOpenFiles": [
-    "Electrical and electronic systems/2b Other Electromagnetic effects/idk.md",
-    "Electrical and electronic systems/2b Other Electromagnetic effects/biot-savart law.md",
+    "Electrical and electronic systems/2b Other Electromagnetic effects/maxwells equations.md",
     "Electrical and electronic systems/2b Other Electromagnetic effects/Other Electromagnetic effects notes.md",
     "Electrical and electronic systems/2b Other Electromagnetic effects/amperes force law.md",
+    "Electrical and electronic systems/2b Other Electromagnetic effects/biot-savart law.md",
+    "Electrical and electronic systems/2b Other Electromagnetic effects/idk.md",
     "Electrical and electronic systems/2b Other Electromagnetic effects/Lorentz's force law.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Centre of pressure.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/why I cant be asked.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Typical aerodynamic characteristincs for conventional aircraft.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Basic aircraft trimming.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Pitching moment coefficient.md"
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Basic aircraft trimming.md"
   ]
 }

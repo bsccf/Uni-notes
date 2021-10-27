@@ -12,3 +12,6 @@ tags: ["NotesPage"]
 ![[biot-savart law]]
 
 ![[maxwells equations]]
+
+#### Very real effects you should be aware of
+![[video0-50-1.mp4]]
