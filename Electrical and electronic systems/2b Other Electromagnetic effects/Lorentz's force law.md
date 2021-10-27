@@ -16,5 +16,5 @@ This is the combination of an [[electric field]] and [[magnetic field]] on a poi
 >> 
 >> It should be noted that $E$ is measured perpendicular to $B$ (or vice versa)
 
-Here we use conventional current (because [[lmao]])
+Here we use conventional current ([[lmao|why we use conventional current]])
 ![[Pasted image 20211027104136.png]]
