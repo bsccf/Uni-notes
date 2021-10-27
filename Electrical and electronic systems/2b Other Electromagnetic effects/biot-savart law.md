@@ -20,6 +20,7 @@ The math for it is so [[Pasted image 20211027135126.png|easy!]]
 >> where:
 >> $B(r)=$ The resaultant [[magnetic field]] at position $r$
 >> $\mu_0=$ [[permitivity of free space (magnetic)|vacuum permittivity]]
->> $dl=$ is a vector along the path C, whose magnitude is the
->> $=$
+>> $dl=$ is a vector along the path $C$, whose magnitude is the length of the differential element if the wire in the direction of conventinal current 
+>> $l=$ is a point on the path
+>> $\bar{r}=$
 
