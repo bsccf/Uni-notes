@@ -7,6 +7,6 @@ tags: ["NotesPage"]
 
 ![[Lorentz's force law]]
 
-![[amperes law]]
+![[amperes force law]]
 
 ![[maxwells equations]]
