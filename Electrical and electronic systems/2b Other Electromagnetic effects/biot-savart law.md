@@ -14,7 +14,7 @@ Of the electric current.
 
 Also note that this law only applies in magnetostatics (when the currents don't change with time), else use [[idk|¯\_(ツ)_/¯]]
 
-> $$ B(r) = \frac{\mu_0}{4\pi} \int_C \dfrac{I\cdot r'}{|r'|^{2}} \cdot dl $$ 
+> $$ B(r) = \frac{\mu_0}{4\pi} \int_C \dfrac{Idl\cdot r'}{|r'|^{2}} $$ 
 >> where:
 >> $=$ 
 >> $=$
