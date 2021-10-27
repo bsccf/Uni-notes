@@ -24,4 +24,5 @@ The math for it is so [[Pasted image 20211027135126.png|easy!]]
 >> $l=$ is a point on the path
 >> $\bar{r}=$ is a position in 3D space
 >> $I=$ [[electric current|current]]
+>> ![[Pasted image 20211027142808.png]]
 
