@@ -11,6 +11,10 @@ tags: ["NotesPage"]
 
 ![[biot-savart law]]
 
+![[guass's law (magnatism)]]
+
+![[guass's law (electric field)]]
+
 ![[maxwells equations]]
 
 #### Very real effects you should be aware of
