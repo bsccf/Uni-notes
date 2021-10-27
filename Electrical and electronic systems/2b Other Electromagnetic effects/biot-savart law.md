@@ -25,4 +25,10 @@ The math for it is so [[Pasted image 20211027135126.png|easy!]]
 >> $\bar{r}=$ is a position in 3D space
 >> $I=$ [[electric current|current]]
 
-Ok so I was going to go t
+Ok so I was going to go through the proof but I have gone way too deep into this rabbit hole, uuh here's a thing:
+![[australia.webm]]
+
+All you need to know is [[biot-savart law]] causes:
+![[Pasted image 20211027143513.png]]
+
+Which then causes [[amperes force law|amperes law]], ok?

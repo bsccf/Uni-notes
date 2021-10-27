@@ -4,5 +4,5 @@ tags: ["Question","QFormat3"]
 ---
 
 #### What's the method for
-## <% tp.file.title %>
+## Maxwells equations
 This is how retard
