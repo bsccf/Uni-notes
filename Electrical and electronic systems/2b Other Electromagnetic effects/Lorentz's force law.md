@@ -9,7 +9,10 @@ This is the combination of an [[electric field]] and [[magnetic field]] on a poi
 > $$ F = q(E + v\cdot B) $$ 
 >> where:
 >> $F=$ Force 
->> $E=$ 
+>> $E=$ [[electric field]] strength
 >> $q=$ Particle charge
->> $v=$ Part
->> $B=$
+>> $v=$ Particle veclocity
+>> $B=$ [[magnetic field]] strength
+>> 
+>> It should be noted that $E$ is measured perpendicular to $B$ (or vice versa)
+
