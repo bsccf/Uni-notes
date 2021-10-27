@@ -9,4 +9,6 @@ tags: ["NotesPage"]
 
 ![[amperes force law]]
 
+![[biot-savart law]]
+
 ![[maxwells equations]]
