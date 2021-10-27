@@ -16,7 +16,7 @@ Also note that this law only applies in magnetostatics (when the currents don't 
 
 The math for it is so [[Pasted image 20211027135126.png|easy!]]
 
-> $$ B(\bar{r}) = \frac{\mu_0}{4\pi} \int_C \dfrac{Idl\cdot \bar{r}'}{|\bar{r}'|^{2}} $$ 
+> $$ B(\bar{r}) = \frac{I\mu_0}{4\pi} \int_C \dfrac{dl\cdot \bar{r}'}{|\bar{r}'|^{2}} $$ 
 >> where:
 >> $B(r)=$ The resaultant [[magnetic field]] at position $r$
 >> $\mu_0=$ [[permitivity of free space (magnetic)|vacuum permittivity]]
@@ -24,5 +24,5 @@ The math for it is so [[Pasted image 20211027135126.png|easy!]]
 >> $l=$ is a point on the path
 >> $\bar{r}=$ is a position in 3D space
 >> $I=$ [[electric current|current]]
->> ![[Pasted image 20211027142808.png]]
 
+Ok so I was going to go t
