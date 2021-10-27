@@ -7,4 +7,10 @@ tags: ["Question","QFormat3"]
 ## Weber (unit)
 Weber is a unit of [[magnetic flux]].
 
-One weber can be defined as a chan
+> $$ Wb = Tm^{2} = \frac{Nm}{A} $$ 
+>> where:
+>> $Wb=$ weber 
+>> $T=$ [[tesla]]
+>> $m=$ meter
+>> $N=$ Newton
+>> $A=$ [[electric current|ampere]]
