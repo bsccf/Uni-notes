@@ -6,3 +6,4 @@ tags: ["NotesPage"]
 
 1) [[Electrostatics notes]]
 2) [[Electric current notes]]
+3) [[Magnetism and induction notes]]

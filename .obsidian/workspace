@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/1b Electric current/Electric current notes.md",
-            "mode": "preview"
+            "file": "Electrical and electronic systems/2a Magnetism and induction/Magnetism and induction notes.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/1b Electric current/Electric current notes.md",
+                "file": "Electrical and electronic systems/2a Magnetism and induction/Magnetism and induction notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "19c4ad967f8fc089",
   "lastOpenFiles": [
-    "Electrical and electronic systems/1b Electric current/Electric current notes.md",
+    "Electrical and electronic systems/2a Magnetism and induction/Magnetism and induction notes.md",
     "Electrical and electronic systems/Electrical read order.md",
+    "Electrical and electronic systems/1b Electric current/Electric current notes.md",
     "Thermofluids/6 Dimensional analysis/buckingham pi.md",
     "Mechanics structures and materials/Statics 1/5c Shear force and bending moment diagrams/method for constructing shear force and bending moment diagrams.md",
     "Mechanics structures and materials/Statics 1/6b Relationships between distributed load, shear force and bending moment/Relationships between distributed load, shear force and bending moment.md",
     "SESA1015/unordered/Flight mechanics/Mechanics of flight.md",
     "Mathematics for Engineering and the Environment/Differentiation 1/MEE Differentiation 1.md",
     "Mathematics for Engineering and the Environment/Differentiation 1/Differentiation 1.pdf",
-    "Thermofluids/6 Dimensional analysis/Dimensional Analysis.md",
-    "Thermofluids/5 Dimensions and units, ratios and coefficients/Dimentions and units, ratios and coefficients.md"
+    "Thermofluids/6 Dimensional analysis/Dimensional Analysis.md"
   ]
 }
