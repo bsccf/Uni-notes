@@ -12,7 +12,7 @@ It can be expressed mathamaticly according to the force excerted on a charged pa
 > $$ T = \frac{Wb}{m^{2}} = \frac{N}{Am^{2}} $$ 
 >> where:
 >> $T=$ Tesla 
->> $Wb=$ [[weber]]
+>> $Wb=$ [[weber (unit)]]
 >> $m=$ meter
 >> $N=$ Newton
 >> $A=$ [[electric current|amp]]
