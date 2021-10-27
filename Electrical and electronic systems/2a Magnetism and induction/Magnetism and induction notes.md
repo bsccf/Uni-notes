@@ -8,4 +8,6 @@ tags: ["NotesPage"]
 
 ![[tesla]]
 
+![[magnetic flux]]
+
 ![[weber (unit)]]
