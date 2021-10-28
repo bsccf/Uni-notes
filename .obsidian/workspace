@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "2021-10-28.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 243
   },
   "right": {
     "id": "12c168c46d609ed6",
