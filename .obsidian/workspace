@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "694513e56883a972",
+        "id": "219b6068c0261f97",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -113,17 +113,17 @@
     "width": 235,
     "collapsed": true
   },
-  "active": "694513e56883a972",
+  "active": "219b6068c0261f97",
   "lastOpenFiles": [
     "2021-10-28.md",
+    "conflict-files-obsidian-git.md",
+    "Mechanics structures and materials/Statics 1/5a Beams, supports and loading conditions/Beams, supports and loading conditions.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Aerodynamic centre.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Centre of pressure.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/why I cant be asked.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Typical aerodynamic characteristincs for conventional aircraft.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Basic aircraft trimming.md",
-    "Mechanics structures and materials/Statics 1/5a Beams, supports and loading conditions/Beams, supports and loading conditions.md",
     "Mechanics structures and materials/Statics 1/Statics 1 read order.md",
-    "Mechanics structures and materials/Statics 1/6b Relationships between distributed load, shear force and bending moment/Relationships between distributed load, shear force and bending moment.md",
-    "Mechanics structures and materials/Statics 1/6b Relationships between distributed load, shear force and bending moment/basic properties shear force and bending moment graphs.md"
+    "Mechanics structures and materials/Statics 1/6b Relationships between distributed load, shear force and bending moment/Relationships between distributed load, shear force and bending moment.md"
   ]
 }
