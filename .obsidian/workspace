@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "013fd658edf201d8",
+        "id": "2b2762544952abe3",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Mechanics structures and materials/Materials/1 Atoms and types of bonding/Atoms and types of bonding.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mechanics structures and materials/Materials/1 Atoms and types of bonding/Atoms and types of bonding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,17 +112,17 @@
     "direction": "horizontal",
     "width": 246
   },
-  "active": "013fd658edf201d8",
+  "active": "2b2762544952abe3",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Materials/1 Atoms and types of bonding/Atoms and types of bonding.md",
+    "conflict-files-obsidian-git.md",
+    "Mechanics structures and materials/Materials/1 Atoms and types of bonding/van der waals force.md",
+    "Mechanics structures and materials/Materials/1 Atoms and types of bonding/Relationship between periodic organisation and valence.md",
+    "Mechanics structures and materials/Materials/1 Atoms and types of bonding/electron configuration.md",
+    "Mechanics structures and materials/Materials/1 Atoms and types of bonding/electron subshells.md",
+    "Mechanics structures and materials/Materials/1 Atoms and types of bonding/electron shell.md",
+    "Mechanics structures and materials/Materials/1 Atoms and types of bonding/covalent bonding.md",
     "Electrical and electronic systems/2b Other Electromagnetic effects/Other Electromagnetic effects notes.md",
-    "Electrical and electronic systems/2b Other Electromagnetic effects/guass's law (electric field).md",
-    "Electrical and electronic systems/2b Other Electromagnetic effects/closed surface.md",
-    "Electrical and electronic systems/2b Other Electromagnetic effects/guass's law (magnatism).md",
-    "Electrical and electronic systems/2b Other Electromagnetic effects/maxwells equations.md",
-    "Electrical and electronic systems/2b Other Electromagnetic effects/amperes force law.md",
-    "Electrical and electronic systems/2b Other Electromagnetic effects/biot-savart law.md",
-    "Electrical and electronic systems/2b Other Electromagnetic effects/permitivity of free space (magnetic).md",
-    "Electrical and electronic systems/1a Electrostatics/permitivity of free space (electric).md",
-    "Electrical and electronic systems/2b Other Electromagnetic effects/Lorentz's force law.md"
+    "Electrical and electronic systems/2b Other Electromagnetic effects/guass's law (electric field).md"
   ]
 }
