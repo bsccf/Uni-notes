@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["Gauss's flux theorem"]
 tags: ["Question","QFormat3"]
 ---
 
