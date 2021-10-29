@@ -3,5 +3,5 @@ aliases: [""]
 tags: ["NotesPage"]
 ---
 
-# <% tp.file.title %>
+# Circuit analysis notes
 
