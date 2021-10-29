@@ -4,13 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "219b6068c0261f97",
+        "id": "ab02500863a8b720",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/5 Dimensions and units, ratios and coefficients/Dimentions and units, ratios and coefficients.md",
+            "file": "Electrical and electronic systems/1a Electrostatics/electric field.md",
             "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "40be7e65971a48b3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/5 Dimensions and units, ratios and coefficients/Dimentions and units, ratios and coefficients.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,17 +123,17 @@
     "direction": "horizontal",
     "width": 235
   },
-  "active": "219b6068c0261f97",
+  "active": "40be7e65971a48b3",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Electrical and electronic systems/1a Electrostatics/electric field.md",
+    "Electrical and electronic systems/1a Electrostatics/Electrostatics notes.md",
+    "Electrical and electronic systems/1a Electrostatics/permitivity of free space (electric).md",
     "Thermofluids/5 Dimensions and units, ratios and coefficients/Dimentions and units, ratios and coefficients.md",
     "Thermofluids/5 Dimensions and units, ratios and coefficients/dimentional homogeneity.md",
     "SESA1015/unordered/Flight mechanics/Mechanics of flight.md",
     "2021-10-28.md",
-    "conflict-files-obsidian-git.md",
     "Mechanics structures and materials/Statics 1/5a Beams, supports and loading conditions/Beams, supports and loading conditions.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Aerodynamic centre.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Centre of pressure.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/why I cant be asked.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Typical aerodynamic characteristincs for conventional aircraft.md"
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Aerodynamic centre.md"
   ]
 }
