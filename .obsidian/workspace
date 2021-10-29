@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/3a Circuit analysis/Circuit analysis notes.md",
-            "mode": "source"
+            "file": "Electrical and electronic systems/2b Other Electromagnetic effects/Other Electromagnetic effects notes.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/3a Circuit analysis/Circuit analysis notes.md",
+                "file": "Electrical and electronic systems/2b Other Electromagnetic effects/Other Electromagnetic effects notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "2b2762544952abe3",
   "lastOpenFiles": [
-    "Electrical and electronic systems/3a Circuit analysis/Circuit analysis notes.md",
-    "Electrical and electronic systems/Electrical read order.md",
-    "Electrical and electronic systems/2b Other Electromagnetic effects/maxwells equations.md",
     "Electrical and electronic systems/2b Other Electromagnetic effects/Other Electromagnetic effects notes.md",
+    "Electrical and electronic systems/Electrical read order.md",
+    "Electrical and electronic systems/2a Magnetism and induction/Magnetism and induction notes.md",
     "Electrical and electronic systems/2b Other Electromagnetic effects/guass's law (electric field).md",
+    "Electrical and electronic systems/3a Circuit analysis/Circuit analysis notes.md",
+    "Electrical and electronic systems/2b Other Electromagnetic effects/maxwells equations.md",
     "Electrical and electronic systems/2b Other Electromagnetic effects/electric flux.md",
     "Thermofluids/6 Dimensional analysis/top 10 reasons for excessive bracket use.md",
     "infiobamaium.gif",
-    "Electrical and electronic systems/2b Other Electromagnetic effects/closed surface.md",
-    "external-content.duckduckgo.com.gif"
+    "Electrical and electronic systems/2b Other Electromagnetic effects/closed surface.md"
   ]
 }
