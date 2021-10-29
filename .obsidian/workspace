@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Electrical and electronic systems/1a Electrostatics/coulombs law.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -110,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235
+    "width": 233
   },
   "active": "ab02500863a8b720",
   "lastOpenFiles": [

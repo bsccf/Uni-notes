@@ -23,12 +23,12 @@ Alternative format:
 >> $r=$ distance between charges
 >> $F=$ repulsive force between charges
 
-We can also use this to calculate [[electric field]] strength at a given point.
+We can also use this to calculate [[electric field]] strength at a given point, by subbing the force equation into the equation for the [[electric field#^d62c0b]]
 
 > $$ E = \frac{1}{4\pi\epsilon_0}\cdot \frac{q}{r^{2}} $$ 
 >> where:
 >> $\epsilon_0 =$ [[permitivity of free space (electric)]] $\approx 8.85*10^{-12}$ 
 >> $q=$ charge
 >> $r=$ distance between charges
->> $F=$ repulsive force between charges
+>> $E=$ [[electric field]]
 
