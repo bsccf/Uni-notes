@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "ab02500863a8b720",
+        "id": "2b2762544952abe3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/1a Electrostatics/coulombs law.md",
-            "mode": "preview"
+            "file": "Electrical and electronic systems/2b Other Electromagnetic effects/biot-savart law.md",
+            "mode": "source"
           }
         }
       }
@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291
+    "width": 336
   },
   "right": {
     "id": "12c168c46d609ed6",
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/1a Electrostatics/coulombs law.md",
+                "file": "Electrical and electronic systems/2b Other Electromagnetic effects/biot-savart law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +110,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233
+    "width": 246
   },
-  "active": "ab02500863a8b720",
+  "active": "2b2762544952abe3",
   "lastOpenFiles": [
-    "Electrical and electronic systems/1a Electrostatics/coulombs law.md",
-    "Electrical and electronic systems/1a Electrostatics/electric field.md",
-    "conflict-files-obsidian-git.md",
-    "Electrical and electronic systems/1a Electrostatics/Electrostatics notes.md",
-    "Electrical and electronic systems/1a Electrostatics/permitivity of free space (electric).md",
-    "Thermofluids/5 Dimensions and units, ratios and coefficients/Dimentions and units, ratios and coefficients.md",
-    "Thermofluids/5 Dimensions and units, ratios and coefficients/dimentional homogeneity.md",
-    "SESA1015/unordered/Flight mechanics/Mechanics of flight.md",
-    "2021-10-28.md",
-    "Mechanics structures and materials/Statics 1/5a Beams, supports and loading conditions/Beams, supports and loading conditions.md"
+    "Electrical and electronic systems/2b Other Electromagnetic effects/biot-savart law.md",
+    "Electrical and electronic systems/2b Other Electromagnetic effects/electric flux.md",
+    "Electrical and electronic systems/1a Electrostatics/induced electric charge.md",
+    "Electrical and electronic systems/2b Other Electromagnetic effects/Other Electromagnetic effects notes.md",
+    "Electrical and electronic systems/Electrical read order.md",
+    "Electrical and electronic systems/2a Magnetism and induction/Magnetism and induction notes.md",
+    "Electrical and electronic systems/2b Other Electromagnetic effects/guass's law (electric field).md",
+    "Electrical and electronic systems/3a Circuit analysis/Circuit analysis notes.md",
+    "Electrical and electronic systems/2b Other Electromagnetic effects/maxwells equations.md",
+    "Thermofluids/6 Dimensional analysis/top 10 reasons for excessive bracket use.md"
   ]
 }
