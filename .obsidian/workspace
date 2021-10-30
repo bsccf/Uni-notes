@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Lift equation.md",
+            "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 3/profile drag coefficient.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Lift equation.md",
+                "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 3/profile drag coefficient.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,8 @@
   },
   "active": "2b2762544952abe3",
   "lastOpenFiles": [
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/profile drag coefficient.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/form drag.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Lift equation.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Lift coefficient.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/International Standard Atmosphere.md",
@@ -121,8 +123,6 @@
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Aerodynamic centre.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/The atmospheric environment. fundamental convepts and definitions.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Drag equation.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Drag coefficient.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/induced drag coefficient.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/profile drag coefficient.md"
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Drag coefficient.md"
   ]
 }
