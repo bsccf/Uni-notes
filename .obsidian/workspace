@@ -7,9 +7,10 @@
         "id": "2b2762544952abe3",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "SESA1015/unordered/Flight mechanics/SESA1015 lectures_2020.pdf"
+            "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Drag coefficient.md",
+            "mode": "preview"
           }
         }
       }
@@ -75,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/unordered/Flight mechanics/SESA1015 lectures_2020.pdf",
+                "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Drag coefficient.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +114,15 @@
   },
   "active": "2b2762544952abe3",
   "lastOpenFiles": [
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Drag coefficient.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/profile drag coefficient.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/form drag.md",
     "SESA1015/unordered/Flight mechanics/SESA1015 lectures_2020.pdf",
     "SESA1015/unordered/Flight mechanics/SESA1015_allOHPs(17).pdf",
     "SESA1015/unordered/Flight mechanics/Mechanics of flight.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 4/Steady level flight.md",
     "2021-10-28.md",
     "Electrical and electronic systems/2b Other Electromagnetic effects/biot-savart law.md",
-    "Electrical and electronic systems/2b Other Electromagnetic effects/electric flux.md",
-    "Electrical and electronic systems/1a Electrostatics/induced electric charge.md",
-    "Electrical and electronic systems/2b Other Electromagnetic effects/Other Electromagnetic effects notes.md",
-    "Electrical and electronic systems/Electrical read order.md"
+    "Electrical and electronic systems/2b Other Electromagnetic effects/electric flux.md"
   ]
 }
