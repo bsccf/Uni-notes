@@ -30,16 +30,18 @@ $$ C_{Di} = k C_L^{2} $$
 
  $$ A = \frac{b}{\bar{c}} $$ 
  
+ Can be combined:
+ 
  $$ \begin{align*}
 C_{Di} &= \dfrac{K}{\pi A} C_L^{2}\\
 C_{Di} &= \dfrac{K C_L^{2}}{\pi \dfrac{b}{\bar{c}} } \\
-C_{Di} &= \dfrac{K \bar{c}C_L^{2}}{\pi b } 
+C_{Di} &= \dfrac{K \bar{c}}{\pi b } C_L^{2}
 \end{align*} $$
  
 > where:
 > $b =$ [[Wing span]]
 > $\bar{c} =$ [[Mean chord]]
 
-$$C_{Di} = \dfrac{K \bar{c}C_L^{2}}{\pi b }$$
+$$C_{Di} = \dfrac{K \bar{c}}{\pi b }C_L^{2}$$
 
 Tells us that you can minimise induced drag with long slender wings.
