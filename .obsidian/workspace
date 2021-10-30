@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/2b Other Electromagnetic effects/biot-savart law.md",
-            "mode": "source"
+            "file": "2021-10-28.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/2b Other Electromagnetic effects/biot-savart law.md",
+                "file": "2021-10-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,7 @@
   },
   "active": "2b2762544952abe3",
   "lastOpenFiles": [
+    "2021-10-28.md",
     "Electrical and electronic systems/2b Other Electromagnetic effects/biot-savart law.md",
     "Electrical and electronic systems/2b Other Electromagnetic effects/electric flux.md",
     "Electrical and electronic systems/1a Electrostatics/induced electric charge.md",
@@ -122,7 +123,6 @@
     "Electrical and electronic systems/2a Magnetism and induction/Magnetism and induction notes.md",
     "Electrical and electronic systems/2b Other Electromagnetic effects/guass's law (electric field).md",
     "Electrical and electronic systems/3a Circuit analysis/Circuit analysis notes.md",
-    "Electrical and electronic systems/2b Other Electromagnetic effects/maxwells equations.md",
-    "Thermofluids/6 Dimensional analysis/top 10 reasons for excessive bracket use.md"
+    "Electrical and electronic systems/2b Other Electromagnetic effects/maxwells equations.md"
   ]
 }
