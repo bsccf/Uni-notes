@@ -21,3 +21,11 @@ The constant $k$ from above can be calculated using:
 >> $A =$ [[Wing aspect ratio]]
 
 This new constant $K$ depends on the planform shape of the wing. For elliptic wings (These have the lowest induced drag of all planforms) the value of $K$ is exactly 1. ^fce277
+
+We can rewrite the equation to show how aspect ratio effects induced drag:
+
+ $$ A = \frac{b}{\bar{c}} $$ 
+> where:
+> $A =$ Aspect ratio
+> $b =$ [[Wing span]]
+> $\bar{c} =$ [[Mean chord]]
