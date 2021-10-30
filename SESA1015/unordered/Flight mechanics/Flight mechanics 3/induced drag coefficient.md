@@ -24,8 +24,22 @@ This new constant $K$ depends on the planform shape of the wing. For elliptic wi
 
 We can rewrite the equation to show how aspect ratio effects induced drag:
 
+$$ k = \frac{K}{\pi A} $$ 
+
+$$ C_{Di} = k C_L^{2} $$ 
+
  $$ A = \frac{b}{\bar{c}} $$ 
+ 
+ $$ \begin{align*}
+C_{Di} &= \dfrac{K}{\pi A} C_L^{2}\\
+C_{Di} &= \dfrac{K C_L^{2}}{\pi \dfrac{b}{\bar{c}} } \\
+C_{Di} &= \dfrac{K \bar{c}C_L^{2}}{\pi b } 
+\end{align*} $$
+ 
 > where:
-> $A =$ Aspect ratio
 > $b =$ [[Wing span]]
 > $\bar{c} =$ [[Mean chord]]
+
+$$C_{Di} = \dfrac{K \bar{c}C_L^{2}}{\pi b }$$
+
+Tells us that you can minimise induced drag with long slender wings.
