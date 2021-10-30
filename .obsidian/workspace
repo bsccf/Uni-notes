@@ -7,10 +7,9 @@
         "id": "2b2762544952abe3",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 3/slats.md",
-            "mode": "source"
+            "file": "SESA1015/unordered/Flight mechanics/SESA1015 lectures_2020.pdf"
           }
         }
       }
@@ -76,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 3/slats.md",
+                "file": "SESA1015/unordered/Flight mechanics/SESA1015 lectures_2020.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +113,15 @@
   },
   "active": "2b2762544952abe3",
   "lastOpenFiles": [
+    "SESA1015/unordered/Flight mechanics/SESA1015 lectures_2020.pdf",
+    "SESA1015/unordered/Flight mechanics/SESA1015_allOHPs(17).pdf",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/induced drag coefficient.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/slats.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/profile drag coefficient.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/flaps.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Effect of angle on lift coefficient.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/form drag.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 3/induced drag coefficient.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing aspect ratio.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Drag coefficient.md",
-    "SESA1015/unordered/Flight mechanics/SESA1015 lectures_2020.pdf",
-    "SESA1015/unordered/Flight mechanics/SESA1015_allOHPs(17).pdf"
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Drag coefficient.md"
   ]
 }
