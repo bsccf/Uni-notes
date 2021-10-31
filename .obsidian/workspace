@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/3a Circuit analysis/factors that effect resistivity.md",
-            "mode": "preview"
+            "file": "Electrical and electronic systems/3b KVL, potential dividers, current dividers/Kirchov's voltage law.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/3a Circuit analysis/factors that effect resistivity.md",
+                "file": "Electrical and electronic systems/3b KVL, potential dividers, current dividers/Kirchov's voltage law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "b668704c3448553b",
   "lastOpenFiles": [
-    "Electrical and electronic systems/3a Circuit analysis/factors that effect resistivity.md",
+    "Electrical and electronic systems/3b KVL, potential dividers, current dividers/Kirchov's voltage law.md",
+    "Electrical and electronic systems/3b KVL, potential dividers, current dividers/KVL, potential dividers notes.md",
+    "Electrical and electronic systems/Electrical read order.md",
     "Electrical and electronic systems/3a Circuit analysis/Circuit analysis notes.md",
+    "Electrical and electronic systems/3a Circuit analysis/factors that effect resistivity.md",
     "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/factors that effect dislocation motion.md",
     "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/dislocation motion.md",
     "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/Defects, dislocations and plastic deformation notes.md",
     "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/poisson's ratio.md",
-    "Mechanics structures and materials/Materials/5 Mechanical Properties/Mechanical Properties notes.md",
-    "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/poisson effect.md",
-    "Electrical and electronic systems/3a Circuit analysis/resistivity.md",
-    "Electrical and electronic systems/3a Circuit analysis/resistors in parallel.md"
+    "Mechanics structures and materials/Materials/5 Mechanical Properties/Mechanical Properties notes.md"
   ]
 }
