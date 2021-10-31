@@ -17,3 +17,4 @@ Ficks law states that the flux (rate of mass transfer)  is proportional to the c
 >> $D=$ Diffusion coefficient
 >> $C=$ Concentration
 >> $x=$ Distance between points
+
