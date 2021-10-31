@@ -7,4 +7,6 @@ tags: ["Question","QFormat3"]
 ## Effects of structure on diffusion in a crystal
 Firstly you can look at [[modelling diffusion]] to get the effects of temperature and distance but formations within the structure of a crystal can effect diffusion rate, but the structure itself has an important role and causes the following effects:
 - Volume diffusion - This occurs through the bulk of the material, it has a very high activation energy making rate of diffusion very low. It is directly limited by the number of vanancies.
-- Grain boundary diffusion - This occurs in [[polycrystalline]] materials, due to the gaps that form in the boundarys between crystals
+- Grain boundary diffusion - This occurs in [[polycrystalline]] materials, due to the gaps that form in the boundarys between crystals there are lots of vanancies in which [[vacancy diffusion]] is greatly accelerated.
+
+The take away here is a crystal with a low density and lots of internal space has more internal diffusion.
