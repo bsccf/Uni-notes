@@ -17,3 +17,5 @@ If the charging p.d is removed the capacitor discharges producing a current thro
 ![[capacitance]]
 
 ![[calculating capacitance]]
+
+![[]]

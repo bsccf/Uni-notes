@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/3c Capacitors/calculating capacitance.md",
+            "file": "Electrical and electronic systems/3c Capacitors/Capacitors.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/3c Capacitors/calculating capacitance.md",
+                "file": "Electrical and electronic systems/3c Capacitors/Capacitors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,9 +114,9 @@
   },
   "active": "b668704c3448553b",
   "lastOpenFiles": [
-    "Electrical and electronic systems/3c Capacitors/calculating capacitance.md",
-    "Electrical and electronic systems/3c Capacitors/capacitance.md",
     "Electrical and electronic systems/3c Capacitors/Capacitors.md",
+    "Electrical and electronic systems/3c Capacitors/capacitance.md",
+    "Electrical and electronic systems/3c Capacitors/calculating capacitance.md",
     "Electrical and electronic systems/Electrical read order.md",
     "Electrical and electronic systems/3b KVL, potential dividers, current dividers/Potential divider.md",
     "Electrical and electronic systems/3b KVL, potential dividers, current dividers/KVL, potential dividers notes.md",
