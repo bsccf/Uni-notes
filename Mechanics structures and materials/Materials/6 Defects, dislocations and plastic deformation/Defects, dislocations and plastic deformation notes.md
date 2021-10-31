@@ -13,6 +13,4 @@ Defects have majour implications on a materials mechanical behaviour, so a good 
 
 ![[dislocation motion]]
 
-![[poisson's ratio]]
-
 ![[mechanical twinning]]

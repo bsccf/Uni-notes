@@ -11,6 +11,8 @@ We have already looked at [[Stress and Strain]], but in reality there are 2 meth
 
 ![[atomic effect of deformation]]
 
+![[poisson's ratio]]
+
 ![[yield strength]]
 
 ![[effect of temperature on yield stress]]
