@@ -7,3 +7,5 @@ tags: ["Question","QFormat3"]
 ## Modelling diffusion
 
 ![[ficks first law]]
+
+![[temperatures effect on diffusion]]

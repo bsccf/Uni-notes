@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Mechanics structures and materials/Materials/4 Diffusion/modelling diffusion.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -115,6 +115,7 @@
   "active": "2b2762544952abe3",
   "lastOpenFiles": [
     "Mechanics structures and materials/Materials/4 Diffusion/modelling diffusion.md",
+    "Mechanics structures and materials/Materials/4 Diffusion/temperatures effect on diffusion.md",
     "Mechanics structures and materials/Materials/4 Diffusion/Diffusion notes.md",
     "Mechanics structures and materials/Materials/4 Diffusion/impurity diffusion.md",
     "Mechanics structures and materials/Materials/4 Diffusion/ficks first law.md",
@@ -122,7 +123,6 @@
     "Mechanics structures and materials/Materials/4 Diffusion/intersitial diffusion.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Typical aerodynamic characteristincs for conventional aircraft.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Basic aircraft trimming.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Lift coefficient.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Drag coefficient.md"
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Lift coefficient.md"
   ]
 }
