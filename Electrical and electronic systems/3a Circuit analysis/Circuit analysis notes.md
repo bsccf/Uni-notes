@@ -10,3 +10,5 @@ tags: ["NotesPage"]
 ![[common circuit elements]]
 
 ![[Ohms law]]
+
+![[Kirchov's current law]]
