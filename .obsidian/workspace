@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/3a Circuit analysis/Circuit analysis notes.md",
+            "file": "Electrical and electronic systems/3a Circuit analysis/common circuit elements.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/3a Circuit analysis/Circuit analysis notes.md",
+                "file": "Electrical and electronic systems/3a Circuit analysis/common circuit elements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,7 @@
   },
   "active": "b668704c3448553b",
   "lastOpenFiles": [
+    "Electrical and electronic systems/3a Circuit analysis/common circuit elements.md",
     "Electrical and electronic systems/3a Circuit analysis/Circuit analysis notes.md",
     "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/mechanical twinning.md",
     "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/Defects, dislocations and plastic deformation notes.md",
@@ -122,7 +123,6 @@
     "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/slip systems.md",
     "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/screw dislocation.md",
     "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/dislocations.md",
-    "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/edge dislocation.md",
-    "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/Burgers vector.md"
+    "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/edge dislocation.md"
   ]
 }
