@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/5 Mechanical Properties/atomic effect of deformation.md",
+            "file": "Mechanics structures and materials/Materials/5 Mechanical Properties/yield strength.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/5 Mechanical Properties/atomic effect of deformation.md",
+                "file": "Mechanics structures and materials/Materials/5 Mechanical Properties/yield strength.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "2b2762544952abe3",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Materials/5 Mechanical Properties/atomic effect of deformation.md",
+    "Mechanics structures and materials/Materials/5 Mechanical Properties/yield strength.md",
     "Mechanics structures and materials/Materials/5 Mechanical Properties/Mechanical Properties notes.md",
     "Mechanics structures and materials/Materials/5 Mechanical Properties/true stress and strain.md",
     "Mechanics structures and materials/Materials/5 Mechanical Properties/engineering stress and strain.md",
+    "Mechanics structures and materials/Materials/5 Mechanical Properties/atomic effect of deformation.md",
     "Mechanics structures and materials/Materials/Materials read order.md",
     "Mechanics structures and materials/Materials/4 Diffusion/Diffusion notes.md",
     "Mechanics structures and materials/Materials/4 Diffusion/Effects of structure on diffusion in a crystal.md",
     "Mechanics structures and materials/Materials/4 Diffusion/temperatures effect on diffusion.md",
-    "Mechanics structures and materials/Materials/4 Diffusion/modelling diffusion.md",
-    "Mechanics structures and materials/Materials/4 Diffusion/impurity diffusion.md"
+    "Mechanics structures and materials/Materials/4 Diffusion/modelling diffusion.md"
   ]
 }

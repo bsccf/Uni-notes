@@ -10,3 +10,5 @@ We have already looked at [[Stress and Strain]], but in reality there are 2 meth
 - ![[true stress and strain]]
 
 ![[atomic effect of deformation]]
+
+![[yield strength]]

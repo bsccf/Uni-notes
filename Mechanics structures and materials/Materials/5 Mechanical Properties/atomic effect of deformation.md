@@ -13,5 +13,5 @@ You can see that the bonds stretch but the atoms relative positions remain const
 ### Plastic deformation
 ![[Pasted image 20211031112123.png]]
 
-You can see that the bonds stretch and eventially the atoms slip past eachother, so they no longer return to their origional position
+You can see that the bonds stretch and eventially the atoms slip past eachother, so they no longer return to their origional positions.
 
