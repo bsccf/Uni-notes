@@ -7,8 +7,11 @@
         "id": "b668704c3448553b",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Electrical and electronic systems/3a Circuit analysis/Circuit analysis notes.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Electrical and electronic systems/3a Circuit analysis/Circuit analysis notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +114,7 @@
   },
   "active": "b668704c3448553b",
   "lastOpenFiles": [
+    "Electrical and electronic systems/3a Circuit analysis/Circuit analysis notes.md",
     "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/mechanical twinning.md",
     "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/Defects, dislocations and plastic deformation notes.md",
     "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/dislocation motion.md",
@@ -118,7 +123,6 @@
     "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/screw dislocation.md",
     "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/dislocations.md",
     "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/edge dislocation.md",
-    "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/Burgers vector.md",
-    "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/point defects.md"
+    "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/Burgers vector.md"
   ]
 }
