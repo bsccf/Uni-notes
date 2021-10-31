@@ -13,4 +13,4 @@ We have already looked at [[Stress and Strain]], but in reality there are 2 meth
 
 ![[yield strength]]
 
-![[effect of temerature on yield stress]]
+![[effect of temperature on yield stress]]
