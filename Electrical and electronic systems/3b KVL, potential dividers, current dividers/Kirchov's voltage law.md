@@ -14,3 +14,7 @@ If you remember that potential difference is essentially just the difference in 
 $V_S + V_L = 0$
 
 This can also be applied across parrallel circuits.
+
+![[Pasted image 20211031154056.png]]
+
+Here you can see this circuit has 2 closed loops, and going back to [[nodes in circuit analysis]], we know that this ciruit has 2 wire sections, and so the difference between the electron pressure between these will be the same, hence the uniform p.d across both resistors.
