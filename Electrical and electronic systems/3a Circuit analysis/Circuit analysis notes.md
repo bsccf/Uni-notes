@@ -12,3 +12,5 @@ tags: ["NotesPage"]
 ![[Ohms law]]
 
 ![[Kirchov's current law]]
+
+![[resistors in series]]
