@@ -11,4 +11,6 @@ Defects have majour implications on a materials mechanical behaviour, so a good 
 
 ![[dislocations]]
 
+![[dislocation motion]]
+
 ![[volume defects]]

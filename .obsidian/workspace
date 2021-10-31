@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/Defects, dislocations and plastic deformation notes.md",
+            "file": "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/dislocation motion.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/Defects, dislocations and plastic deformation notes.md",
+                "file": "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/dislocation motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,7 @@
   },
   "active": "b668704c3448553b",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/dislocation motion.md",
     "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/Defects, dislocations and plastic deformation notes.md",
     "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/dislocations.md",
     "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/screw dislocation.md",
@@ -122,7 +123,6 @@
     "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/point defects.md",
     "Mechanics structures and materials/Materials/Materials read order.md",
     "Mechanics structures and materials/Materials/5 Mechanical Properties/Mechanical Properties notes.md",
-    "Mechanics structures and materials/Materials/5 Mechanical Properties/effect of temperature on yield stress.md",
-    "Mechanics structures and materials/Materials/5 Mechanical Properties/ductility.md"
+    "Mechanics structures and materials/Materials/5 Mechanical Properties/effect of temperature on yield stress.md"
   ]
 }
