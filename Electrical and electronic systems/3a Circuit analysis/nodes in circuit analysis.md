@@ -11,3 +11,4 @@ Here all the unique nodes are red, green and blue:
 ![[Pasted image 20211031142237.png]]
 
 The [[potential difference]] between any nodes of 2 different colours will be the same, this is how we figure out unique nodes and break the circuit down.
+

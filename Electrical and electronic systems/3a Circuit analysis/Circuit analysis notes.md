@@ -18,3 +18,5 @@ tags: ["NotesPage"]
 ![[resistors in parallel]]
 
 ![[nodes in circuit analysis]]
+
+![[factors that effect resistivity]]
