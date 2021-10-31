@@ -12,3 +12,5 @@ If you remember that potential difference is essentially just the difference in 
 ![[Pasted image 20211031153346.png]]
 
 $V_S + V_L = 0$
+
+This can also be applied across parrallel circuits.
