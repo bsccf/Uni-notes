@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/3a Circuit analysis/factors that effect resistivity.md",
-            "mode": "source"
+            "file": "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/factors that effect dislocation motion.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/3a Circuit analysis/factors that effect resistivity.md",
+                "file": "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/factors that effect dislocation motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,7 @@
   },
   "active": "b668704c3448553b",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/factors that effect dislocation motion.md",
     "Electrical and electronic systems/3a Circuit analysis/factors that effect resistivity.md",
     "Electrical and electronic systems/3a Circuit analysis/Circuit analysis notes.md",
     "Electrical and electronic systems/3a Circuit analysis/resistivity.md",
@@ -122,7 +123,6 @@
     "Electrical and electronic systems/3a Circuit analysis/resistors in series.md",
     "Electrical and electronic systems/3a Circuit analysis/Kirchov's current law.md",
     "Electrical and electronic systems/3a Circuit analysis/Ohms law.md",
-    "Electrical and electronic systems/3a Circuit analysis/resistance.md",
-    "Electrical and electronic systems/3a Circuit analysis/common circuit elements.md"
+    "Electrical and electronic systems/3a Circuit analysis/resistance.md"
   ]
 }
