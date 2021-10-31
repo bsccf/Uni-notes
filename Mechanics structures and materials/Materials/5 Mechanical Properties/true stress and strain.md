@@ -10,4 +10,4 @@ Unlike [[engineering stress and strain]], here you factor in the effect of the c
 
 > $$ \sigma = \frac{F}{A_i} = \frac{F}{\frac{\pi}{4}d_i^2} $$
 
-> $$ \epsilon = ln \frac{}{} $$
+> $$ \epsilon = ln \frac{l_i}{l_0} $$
