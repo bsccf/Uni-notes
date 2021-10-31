@@ -5,6 +5,7 @@ tags: ["Question","QFormat3"]
 
 #### How do you calculate the total resistance of
 ## Resistors in series
+You can simplify circuits by modelling many components that are in series as a single component, to do this you can get their total resistance using this method.
 
 ![[Pasted image 20211031140551.png]]
 

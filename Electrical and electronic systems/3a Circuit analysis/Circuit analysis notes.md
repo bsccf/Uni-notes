@@ -14,3 +14,5 @@ tags: ["NotesPage"]
 ![[Kirchov's current law]]
 
 ![[resistors in series]]
+
+![[resistors in parallel]]
