@@ -9,6 +9,6 @@ Defects have majour implications on a materials mechanical behaviour, so a good 
 
 ![[point defects]]
 
-![[line defects]]
+![[dislocations]]
 
 ![[volume defects]]
