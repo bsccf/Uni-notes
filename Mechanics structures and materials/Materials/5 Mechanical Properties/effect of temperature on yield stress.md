@@ -11,4 +11,5 @@ tags: ["Question","QFormat3"]
 ![[Pasted image 20211031113554.png]]
 Generally temperature decreases material strength but you can see it varys greatly with structures:
 - [[face centred cubic|FCC]] - Not effected much by temp because slip is easy
-- [[body centred cubic|BCC]] - Ver
+- [[body centred cubic|BCC]] - Very temperature dependent because there are no close packed planes
+- [[hexagonal close packing|HCP]] - Temperature dependent since there are limited close-packed slip systems
