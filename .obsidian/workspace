@@ -7,8 +7,11 @@
         "id": "b668704c3448553b",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Electrical and electronic systems/3a Circuit analysis/nodes in circuit analysis.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Electrical and electronic systems/3a Circuit analysis/nodes in circuit analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,15 +114,15 @@
   },
   "active": "b668704c3448553b",
   "lastOpenFiles": [
-    "Electrical and electronic systems/3a Circuit analysis/resistors in parallel.md",
+    "Electrical and electronic systems/3a Circuit analysis/nodes in circuit analysis.md",
     "Electrical and electronic systems/3a Circuit analysis/Circuit analysis notes.md",
+    "Electrical and electronic systems/3a Circuit analysis/resistors in parallel.md",
     "Electrical and electronic systems/3a Circuit analysis/resistors in series.md",
     "Electrical and electronic systems/3a Circuit analysis/Kirchov's current law.md",
     "Electrical and electronic systems/3a Circuit analysis/Ohms law.md",
     "Electrical and electronic systems/3a Circuit analysis/resistance.md",
     "Electrical and electronic systems/3a Circuit analysis/resistivity.md",
     "Electrical and electronic systems/3a Circuit analysis/common circuit elements.md",
-    "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/mechanical twinning.md",
-    "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/Defects, dislocations and plastic deformation notes.md"
+    "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/mechanical twinning.md"
   ]
 }

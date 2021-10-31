@@ -16,3 +16,5 @@ tags: ["NotesPage"]
 ![[resistors in series]]
 
 ![[resistors in parallel]]
+
+![[nodes in circuit analysis]]
