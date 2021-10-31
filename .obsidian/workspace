@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/5 Mechanical Properties/Mechanical Properties notes.md",
+            "file": "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/Defects, dislocations and plastic deformation notes.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/5 Mechanical Properties/Mechanical Properties notes.md",
+                "file": "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/Defects, dislocations and plastic deformation notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "b668704c3448553b",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/Defects, dislocations and plastic deformation notes.md",
+    "Mechanics structures and materials/Materials/Materials read order.md",
     "Mechanics structures and materials/Materials/5 Mechanical Properties/Mechanical Properties notes.md",
+    "Mechanics structures and materials/Materials/5 Mechanical Properties/effect of temperature on yield stress.md",
     "Mechanics structures and materials/Materials/5 Mechanical Properties/ductility.md",
     "Mechanics structures and materials/Statics 1/2 Stress and Strain/Ultimate Tensile Strength.md",
-    "Mechanics structures and materials/Materials/5 Mechanical Properties/effect of temperature on yield stress.md",
     "Mechanics structures and materials/Materials/2 Crystal Structures/hexagonal close packing.md",
     "Mechanics structures and materials/Materials/5 Mechanical Properties/yield strength.md",
     "Mechanics structures and materials/Statics 1/2 Stress and Strain/Yield stress.md",
-    "Mechanics structures and materials/Materials/5 Mechanical Properties/true stress and strain.md",
-    "Mechanics structures and materials/Materials/5 Mechanical Properties/engineering stress and strain.md",
-    "Mechanics structures and materials/Materials/5 Mechanical Properties/atomic effect of deformation.md"
+    "Mechanics structures and materials/Materials/5 Mechanical Properties/true stress and strain.md"
   ]
 }

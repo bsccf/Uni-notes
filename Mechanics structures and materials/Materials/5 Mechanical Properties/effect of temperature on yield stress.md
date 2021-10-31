@@ -7,7 +7,7 @@ tags: ["Question","QFormat3"]
 ## Effect of temperature on yield stress
 ![[Pasted image 20211031113303.png]]
 
-[[Yield stress]] is effected differently by in different crystal structures.
+[[yield strength|yield stress]] is effected differently by in different crystal structures.
 ![[Pasted image 20211031113554.png]]
 Generally temperature decreases material strength but you can see it varys greatly with structures:
 - [[face centred cubic|FCC]] - Not effected much by temp because slip is easy because of it's close packed planes
