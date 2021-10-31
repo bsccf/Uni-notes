@@ -13,4 +13,4 @@ They can be:
 - Interstitial atoms, impurity atoms in intersistial sites
 - Substitutional atoms, impurity atoms substituting for normal atoms in the lattice
 
-As you can see, these would often cause the lattice to be expanded or contracted in a specific area, which change
+As you can see, these would often cause the lattice to be expanded or contracted in a specific area, which changes how materials behave under loads.
