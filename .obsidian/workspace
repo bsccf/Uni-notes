@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/3a Circuit analysis/Circuit analysis notes.md",
-            "mode": "preview"
+            "file": "Electrical and electronic systems/3a Circuit analysis/Ohms law.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/3a Circuit analysis/Circuit analysis notes.md",
+                "file": "Electrical and electronic systems/3a Circuit analysis/Ohms law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,8 +114,8 @@
   },
   "active": "b668704c3448553b",
   "lastOpenFiles": [
-    "Electrical and electronic systems/3a Circuit analysis/Circuit analysis notes.md",
     "Electrical and electronic systems/3a Circuit analysis/Ohms law.md",
+    "Electrical and electronic systems/3a Circuit analysis/Circuit analysis notes.md",
     "Electrical and electronic systems/3a Circuit analysis/common circuit elements.md",
     "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/mechanical twinning.md",
     "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/Defects, dislocations and plastic deformation notes.md",

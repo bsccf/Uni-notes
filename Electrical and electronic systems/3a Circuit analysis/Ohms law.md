@@ -11,4 +11,5 @@ tags: ["Question","QFormat3"]
 >> $I=$[[electric current|current]]
 >> $R=$[[resistance]]
 
-This is fundemental to well, everything to do with electrisity
+This is fundemental to well, everything to do with electrisity.
+Ohms law exists because the resistance of a material that a current runs through leads to electrons "loosing energy" this creates a difference in potential across the 
