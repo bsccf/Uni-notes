@@ -5,6 +5,6 @@ tags: ["NotesPage"]
 
 # Steady level flight
 
-![[Calculating minimum drag]]
+![[steady flight and true airspeed]]
 
 ![[stalling speed]]
