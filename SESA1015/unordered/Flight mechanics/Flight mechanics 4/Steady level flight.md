@@ -8,3 +8,4 @@ tags: ["NotesPage"]
 ![[steady flight and true airspeed]]
 
 ![[stalling speed]]
+
