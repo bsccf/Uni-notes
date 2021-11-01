@@ -69,3 +69,5 @@ $$ \begin{align*}
 ![[min drag speed in steady level flight]]
 
 ![[min drag in steady level flight]]
+
+![[max lift to drag ratio]]

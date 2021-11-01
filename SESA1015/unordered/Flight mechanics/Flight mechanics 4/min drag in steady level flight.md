@@ -28,3 +28,4 @@ This also shows that minimum drag is independent of density, which can be seen o
 ![[Pasted image 20211101222531.png]]
 
 (this is lits of maths so lets [[lmao just shitposting|look at important work]])
+
