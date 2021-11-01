@@ -41,8 +41,14 @@ D =& \frac{1}{2}\rho V^{2}S (C_{Do} + \dfrac{K}{\pi A} \cdot (\dfrac{2L}{\rho V^
 
 Hence focusing on speed:
 
-> $$ D =  $$ 
+> $$ D = A'V^{2} + \frac{B'}{V^{2}} $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $D=$ Drag 
+>> $V=$ [[True airspeed]]
+>> $A'=$ A constant
+>> $B'=$ A constant
+>> (They are only constants in steady flight)
+
+### Implications
+![[Pasted image 20211101214128.png]]
+This equation $D = A'V^{2} + \frac{B'}{V^{2}}$ implies that for any
