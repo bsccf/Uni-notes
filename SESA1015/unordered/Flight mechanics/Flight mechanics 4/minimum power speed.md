@@ -24,13 +24,14 @@ V&=\sqrt[4]\frac{B'}{3A'}
 If we refer to [[min drag speed in steady level flight]]:
 
 $$ \begin{align*}
-V&=\sqrt[4]\frac{B'}{A'} \cdot \sqrt[4] \frac{1}{3}\\
-V&= V_{MD} \cdot \sqrt[4] \frac{1}{3}
+V_{MP} &=\sqrt[4]\frac{B'}{A'} \cdot \sqrt[4] \frac{1}{3}\\
+V_{MP} &= V_{MD} \cdot \sqrt[4] \frac{1}{3} \approx V_{MD} \cdot 0.76
 \end{align*} $$
 
 So:
-> $$ V_{MP}= \sqrt[4]\frac{B'}{3A'} $$ 
+> $$ V_{MP} = V_{MD} \cdot \sqrt[4] \frac{1}{3} \approx V_{MD} \cdot 0.76 $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $V_{MP}=$ Speed at minimum power
+>> $V_{MD}=$ [[min drag speed in steady level flight]]
+
+Hence the min power speed is less than the min drag speed.
