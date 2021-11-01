@@ -27,4 +27,4 @@ D =& \frac{1}{2}\rho V^{2}S (C_{Do} + C_{Di})\\
 =& \frac{1}{2}\rho V^{2}S (C_{Do} + \dfrac{K}{\pi A} C_L^{2})
 \end{align*} $$
 
-Then using [[Lift coefficient]]
+Then using [[Lift equation#^1f2714]] rearranged to: 
