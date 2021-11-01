@@ -32,6 +32,17 @@ Then using [[Lift equation#^{1f2714]] rearranged to: $\dfrac{2L}{\rho V^{2}S} = 
 $$ \begin{align*}
 D =& \frac{1}{2}\rho V^{2}S (C_{Do} + \dfrac{K}{\pi A} \cdot (\dfrac{2L}{\rho V^{2}S})^{2})\\
 =&  \frac{1}{2}\rho V^{2}S C_{Do} + \frac{1}{2}\rho V^{2}S \dfrac{K}{\pi A} \cdot \dfrac{4L^{2}}{\rho^{2} V^{4}S^{2}}\\
-=& \frac{1}{2}\rho V^{2}S C_{Do} + \frac{\rho V^{2} S K \pi A 4L^{2}}{2 \rho^{2} V^{4}S^{2}}\\
-=& \frac{1}{2}\rho V^{2}S C_{Do} + \frac{2 K \pi A L^{2}}{ \rho V^{2}S } & W&=L
+=& \frac{1}{2}\rho V^{2}S C_{Do} + \frac{\rho V^{2} S K 4L^{2}}{2 \pi A \rho^{2} V^{4}S^{2}} & W&=L\\
+=& \frac{1}{2}\rho V^{2}S C_{Do} + \frac{2 K W^{2}}{ \rho \pi A V^{2}S }\\
+=& \frac{1}{2}\rho V^{2}S C_{Do} + \frac{2 K}{ \pi A} \cdot \frac{ W^{2}}{ \rho S V^{2} }
 \end{align*} $$
+
+#### Final equation
+
+Hence focusing on speed:
+
+> $$ D =  $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
