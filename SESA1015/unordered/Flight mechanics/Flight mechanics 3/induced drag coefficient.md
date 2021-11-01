@@ -13,12 +13,16 @@ This is caused from the downwash the wing uses to produce lift, it increases in 
 >> $k =$ a constant
 >> $C_L =$ [[Lift coefficient]]
 
+^4d0b00
+
 The constant $k$ from above can be calculated using:
 
 > $$ k = \frac{K}{\pi A} $$ 
 >> where:
 >> $K =$ another constant
 >> $A =$ [[Wing aspect ratio]]
+
+^438b96
 
 This new constant $K$ depends on the planform shape of the wing. For elliptic wings (These have the lowest induced drag of all planforms) the value of $K$ is exactly 1. ^fce277
 

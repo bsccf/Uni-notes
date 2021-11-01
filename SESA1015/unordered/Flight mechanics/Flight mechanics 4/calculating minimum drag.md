@@ -10,9 +10,14 @@ We can work under the same assumtions from [[steady flight and true airspeed#Con
 
 ### Calcualations
 We know that drag can be found using:
-![[Drag equation#^33fc8d]]
+[[Drag equation#^33fc8d]]
 
-Subbing in for $$:
-![[Drag coefficient#^e6ae2f]]
+Subbing in for $C_D$ with:
+[[Drag coefficient#^e6ae2f]]
 
-We get
+Then subbing in $C_{Di}$ with:
+[[induced drag coefficient#^4d0b00]]
+[[induced drag coefficient#^438b96]]
+
+We get:
+$$D = \frac{1}{2}\rho V^{2}S (C_{Do} + C_{Di}) $$
