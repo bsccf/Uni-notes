@@ -20,4 +20,4 @@ It should be noted that with a constant wing loading and max lift coefficient, t
 It should also be noted that the [[Equivalent Airspeed#^cb174e]] at stall remains constant with altitude $V_E^{2} * \rho_0 = V^{2} * \rho$ subbing in: $V_E^{2}* \rho_0 =  \dfrac{2w}{\rho C_{Lmax}} * \rho = \dfrac{2w}{C_{Lmax}}$, hence constant.
 
 ### Changing it
-Just like [[Lift coefficient]], $C_{Lmax}$ is effected by the aircrafts configuration
+Just like [[Lift coefficient]], $C_{Lmax}$ is effected by the aircrafts configuration, which is a key reason why aircrafts have [[flaps]] and [[slats]]; during clean flight $C_{Lmax} \approx 1.2$, but during take off and landing we want as small a stalling speed as possible, so we change the aircraft configuration to increase $C_{Lmax}$ so our stalling speed decreases allowing for the slow speeds not to cause our aircraft to (fucking) crash.
