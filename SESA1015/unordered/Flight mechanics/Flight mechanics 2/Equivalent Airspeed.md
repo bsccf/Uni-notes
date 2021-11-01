@@ -10,5 +10,11 @@ It is defined as the speed at sea level (using the [[International Standard Atmo
 
 > $$ \text{Equivalent Airspeed} = \text{True Airspeed} * \sqrt{\text{Relative Density}} $$
 
-noting [[relative density (planes)]]
-Alternatively:
+Alternatively (the better format subbing in for [[relative density (planes)]]):
+
+> $$ V_E \cdot \sqrt{ \rho_0 }= V \cdot \sqrt{ \rho } $$ 
+>> where:
+>> $V_E=$ [[Equivalent Airspeed]]
+>> $V=$ [[True airspeed]]
+>> $\rho_0=$ Air density at sea level
+>> $\rho=$ Local air density

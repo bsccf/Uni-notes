@@ -7,6 +7,6 @@ tags: ["Question","QFormat3"]
 ## Relative density (planes)
 > $$ \rho_r = \frac{\rho}{\rho_0} $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $\rho=$ local air density
+>> $\rho_0=$ air density at sea level
+>> $\rho_r=$ relative density
