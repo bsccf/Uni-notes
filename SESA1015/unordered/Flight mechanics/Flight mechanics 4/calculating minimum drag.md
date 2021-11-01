@@ -66,19 +66,6 @@ $$ \begin{align*}
 \end{align*} $$
 
 ### Min drag equations
-#### Min drag speed
-Hence equation for minimum drag speed:
-> $$V_{MD} = \sqrt[4]\frac{B'}{A'}$$ 
->> where:
->> $V_{MD}=$  Minimum drag speed
->> $A'=$ constant
->> $B'=$ constant
->> (They are only constants in steady flight)
+![[min drag speed in steady level flight]]
 
-#### Min drag
-Hence equation for minimum drag:
-> $$D_{min} = 2\sqrt{A'B'}$$ 
->> where:
->> $D_{min}=$  Minimum drag
->> $A'=$ constant
->> $B'=$ constant
+![[min drag in steady level flight]]
