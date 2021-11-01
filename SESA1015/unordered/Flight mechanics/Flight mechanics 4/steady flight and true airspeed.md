@@ -30,3 +30,4 @@ $$ \sqrt \frac{2W}{\rho S C_L} = V $$ ^9455eb
 Simplify further using [[wing loading#^39f294]] remembering $L=W$:
 
 $$ \sqrt \frac{2w}{\rho C_L} = V $$ ^34c139
+
