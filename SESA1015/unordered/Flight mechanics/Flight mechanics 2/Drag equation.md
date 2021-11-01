@@ -13,6 +13,8 @@ tags: ["Question","QFormat3"]
 >> $C_D=$ [[Drag coefficient]]
 >> $S=$ [[Refrence area]]
 
+^33fc8d
+
 To get the drag coeffiecient:
 
 ![[Drag coefficient]]
