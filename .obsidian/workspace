@@ -7,11 +7,8 @@
         "id": "b668704c3448553b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Electrical and electronic systems/3c Capacitors/Capacitors.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/3c Capacitors/Capacitors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +110,7 @@
   },
   "active": "b668704c3448553b",
   "lastOpenFiles": [
+    "Electrical and electronic systems/3c Capacitors/energy stored in a capacitor.md",
     "Electrical and electronic systems/3c Capacitors/Capacitors.md",
     "Electrical and electronic systems/3c Capacitors/capacitance.md",
     "Electrical and electronic systems/3c Capacitors/calculating capacitance.md",
@@ -122,7 +119,6 @@
     "Electrical and electronic systems/3b KVL, potential dividers, current dividers/KVL, potential dividers notes.md",
     "Electrical and electronic systems/3b KVL, potential dividers, current dividers/Kirchov's voltage law.md",
     "Electrical and electronic systems/3a Circuit analysis/Circuit analysis notes.md",
-    "Electrical and electronic systems/3a Circuit analysis/factors that effect resistivity.md",
-    "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/factors that effect dislocation motion.md"
+    "Electrical and electronic systems/3a Circuit analysis/factors that effect resistivity.md"
   ]
 }

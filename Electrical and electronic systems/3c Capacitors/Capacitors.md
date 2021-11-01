@@ -18,4 +18,4 @@ If the charging p.d is removed the capacitor discharges producing a current thro
 
 ![[calculating capacitance]]
 
-![[]]
+![[energy stored in a capacitor]]
