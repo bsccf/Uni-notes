@@ -12,3 +12,5 @@ tags: ["Question","QFormat3"]
 >> $V =$  Velocity
 >> $C_L=$ [[Lift coefficient]]
 >> $S=$ [[Refrence area]]
+
+^1f2714
