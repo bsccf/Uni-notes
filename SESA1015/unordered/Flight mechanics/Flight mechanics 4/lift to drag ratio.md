@@ -11,10 +11,12 @@ $L = \frac{1}{2}\rho V^{2}S C_L$
 
 $D = \frac{1}{2}\rho V^{2}S C_D$
 
-As you can see $L/D$ will cancle everything out so lift to drag ratio:
+As you can see $L/D$ will cancel everything out so lift to drag ratio:
 
-> $$ () = \frac{L}{D} = C_: $$ 
+> $$ (L/D) = \frac{L}{D} = \frac{C_L}{C_D} $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $L/D=$ LD ratio 
+>> $C_D=$ [[Drag coefficient]]
+>> $C_L=$ [[Lift coefficient]]
+
+^3e1672
