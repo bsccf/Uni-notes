@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "b668704c3448553b",
+        "id": "36cde4a5d9cabf31",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -112,9 +112,10 @@
     "direction": "horizontal",
     "width": 246
   },
-  "active": "b668704c3448553b",
+  "active": "36cde4a5d9cabf31",
   "lastOpenFiles": [
     "SESA1015/unordered/Flight mechanics/Flight mechanics 4/Calculating minimum drag.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 4/Effect of angle of attack on lift coefficient.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Lift equation.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 4/Steady level flight.md",
     "Electrical and electronic systems/3c Capacitors/energy stored in a capacitor.md",
@@ -122,7 +123,6 @@
     "Electrical and electronic systems/3c Capacitors/capacitance.md",
     "Electrical and electronic systems/3c Capacitors/calculating capacitance.md",
     "Electrical and electronic systems/Electrical read order.md",
-    "Electrical and electronic systems/3b KVL, potential dividers, current dividers/Potential divider.md",
-    "Electrical and electronic systems/3b KVL, potential dividers, current dividers/KVL, potential dividers notes.md"
+    "Electrical and electronic systems/3b KVL, potential dividers, current dividers/Potential divider.md"
   ]
 }

@@ -22,4 +22,4 @@ is the lift equation, so $L = W = \frac{1}{2}\rho V^{2}S C_L$
 
 So given we are in steady flight at a constant altitude, the only thing that determins lift is V.
 
-Also since [[pitch]]
+Also since $C_L$ [[Effect of angle on lift coefficient| is largely effected by ]]$\alpha$ we can assume that the angle of attack is constant
