@@ -18,3 +18,5 @@ Alternatively (the better format subbing in for [[relative density (planes)]]):
 >> $V=$ [[True airspeed]]
 >> $\rho_0=$ Air density at sea level
 >> $\rho=$ Local air density
+
+^cb174e
