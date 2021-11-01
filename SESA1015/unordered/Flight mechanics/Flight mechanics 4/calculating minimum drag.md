@@ -49,6 +49,8 @@ Hence focusing on speed:
 >> $B'=$ A constant $=\frac{2 K}{ \pi A} \cdot \frac{ W^{2}}{ \rho S }$
 >> (They are only constants in steady flight)
 
+^fb4ad2
+
 ### Implications
 ![[Pasted image 20211101214128.png]]
 This equation $D = A'V^{2} + \frac{B'}{V^{2}}$ implies that there are 2 possible speeds for any given drag/thrust, this is true to an extent but in reality many of the slower speeds become impossible when [[stalling speed]] is considered.
