@@ -27,4 +27,6 @@ Using the lift equation and rearranging to get V as the subject:
 
 $$ \sqrt \frac{2W}{\rho S C_L} = V $$
 
-Simplify further using [[wing loading]]
+Simplify further using [[wing loading#^39f294]] remembering $L=W$:
+
+$$ \sqrt \frac{2w}{\rho C_L} = V $$
