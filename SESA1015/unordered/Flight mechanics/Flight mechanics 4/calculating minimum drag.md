@@ -57,6 +57,12 @@ This equation $D = A'V^{2} + \frac{B'}{V^{2}}$ implies that there are 2 possible
 Finally, now just use [[MEE Differentiation 1|Differentiation]]:
 
 $$ \begin{align*}
-D_{min} = 2A'V - 2\frac{B'}{V^{3}}\\
-&
+\frac{dD}{dV} &= 2A'V - 2\frac{B'}{V^{3}}\\
+& & let\: \frac{dD}{dV} &= 0\\
+0 &=2A'V - 2\frac{B'}{V^{3}}\\
+2\frac{B'}{V^{3}} &= 2A'V\\
+\frac{B'}{A'}&=V^{4}\\
+\sqrt[4]\frac{B'}{A'}&=V
 \end{align*} $$
+
+Hence equation 
