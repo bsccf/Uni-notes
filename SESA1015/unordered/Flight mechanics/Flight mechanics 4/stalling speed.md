@@ -5,8 +5,9 @@ tags: ["Question","QFormat3"]
 
 #### What is
 ## Stalling speed
-This is the minimum speed at which the aricraft can fly (before stalling and dropping out the fucking sky).
-It occurs when the [[Lift coefficient]] reaches it's maximum ($C_L = C_Lmax$), you can express stalling speed by subbing into the equation from [[steady flight and true airspeed#^34c139]].
+### Description and calcualation
+This is the minimum speed at which the aricraft can fly (before stalling and dropping out the fucking sky, hence really important).
+It occurs when the [[Lift coefficient]] reaches it's maximum ($C_L = C_{Lmax}$), you can express stalling speed by subbing into the equation from [[steady flight and true airspeed#^34c139]].
 
 > $$  V_S =  \sqrt \frac{2w}{\rho C_{Lmax}} $$ 
 >> where:
@@ -18,4 +19,5 @@ It occurs when the [[Lift coefficient]] reaches it's maximum ($C_L = C_Lmax$), y
 It should be noted that with a constant wing loading and max lift coefficient, the true air speed at the stall increases as the air density decreases (at higher altitudes you go faster).
 It should also be noted that the [[Equivalent Airspeed#^cb174e]] at stall remains constant with altitude $V_E^{2} * \rho_0 = V^{2} * \rho$ subbing in: $V_E^{2}* \rho_0 =  \dfrac{2w}{\rho C_{Lmax}} * \rho = \dfrac{2w}{C_{Lmax}}$, hence constant.
 
-Stalling is 
+### Changing it
+Just like [[Lift coefficient]], $C_{Lmax}$ is effected by the aircrafts configuration
