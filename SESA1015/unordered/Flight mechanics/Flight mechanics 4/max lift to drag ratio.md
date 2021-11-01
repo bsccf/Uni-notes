@@ -9,6 +9,8 @@ tags: ["Question","QFormat3"]
 
 ![[min drag in steady level flight#^a7c57b]]
 
-Then we can get lift at this drag using:
+(this is super ez since $W=L$)
 
-![[min drag speed in steady level flight#^c26ec7]]]
+$$ \begin{align*}
+D_{min} = 2L \sqrt{  C_{Do} \cdot \frac{ K  }{\pi A}  }
+\end{align*} $$ 
