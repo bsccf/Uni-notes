@@ -1,10 +1,10 @@
 ---
-aliases: [""]
+aliases: ["expressing lifting coefficient interms of true airspeed under steady flight"]
 tags: ["Question","QFormat3"]
 ---
 
-#### How do you go about
-## Calculating minimum drag
+#### How can you express $C_L$ interms of true speed under
+## Steady flight and true airspeed
 #### Conditions
 First lets assume we are in steady flight at a constant altitude.
 ![[Pasted image 20211101200639.png]]
@@ -14,7 +14,7 @@ $T=D$
 $M_{CG}=0$
 (because equilibrium)
 
-#### Equations used
+#### Calculations
 
 We know:
 ![[Lift equation#^1f2714]]
