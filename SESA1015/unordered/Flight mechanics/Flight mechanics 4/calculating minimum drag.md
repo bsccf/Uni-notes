@@ -37,7 +37,7 @@ D =& \frac{1}{2}\rho V^{2}S (C_{Do} + \dfrac{K}{\pi A} \cdot (\dfrac{2L}{\rho V^
 =& \frac{1}{2}\rho V^{2}S C_{Do} + \frac{2 K}{ \pi A} \cdot \frac{ W^{2}}{ \rho S V^{2} }
 \end{align*} $$
 
-#### Final equation
+#### Final equation for drag
 
 Hence focusing on speed:
 
@@ -51,4 +51,12 @@ Hence focusing on speed:
 
 ### Implications
 ![[Pasted image 20211101214128.png]]
-This equation $D = A'V^{2} + \frac{B'}{V^{2}}$ implies that for any
+This equation $D = A'V^{2} + \frac{B'}{V^{2}}$ implies that there are 2 possible speeds for any given drag/thrust, this is true to an extent but in reality many of the slower speeds become impossible when [[stalling speed]] is considered.
+
+#### Calculating minimum drag
+Finally, now just use [[MEE Differentiation 1|Differentiation]]:
+
+$$ \begin{align*}
+D_{min} = 2A'V - 2\frac{B'}{V^{3}}\\
+&
+\end{align*} $$
