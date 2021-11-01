@@ -18,7 +18,14 @@ P &= DV \\
 0&=3A'V^{2} - \frac{B'}{V^2}\\
 \frac{B'}{V^2}&=3A'V^{2} \\
 \frac{B'}{3A'}&=V^{4}\\
-\sqrt[4]\frac{B'}{3A'}&=V
+V&=\sqrt[4]\frac{B'}{3A'}
+\end{align*} $$
+
+If we refer to [[min drag speed in steady level flight]]:
+
+$$ \begin{align*}
+V&=\sqrt[4]\frac{B'}{A'} \cdot \sqrt[4] \frac{1}{3}\\
+V&= V_{MD} \cdot \sqrt[4] \frac{1}{3}
 \end{align*} $$
 
 So:
