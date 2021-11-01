@@ -12,5 +12,10 @@ tags: ["Question","QFormat3"]
 (this is super ez since $W=L$)
 
 $$ \begin{align*}
-D_{min} = 2L \sqrt{  C_{Do} \cdot \frac{ K  }{\pi A}  }
+\frac{D_{min}}{L} &= 2 \sqrt{  C_{Do} \cdot \frac{ K  }{\pi A}  }\\
+\frac{L}{D_{min}} &= \frac{1}{2} \sqrt{  \frac{1}{C_{Do}} \cdot \frac{ \pi A }{K }  }
 \end{align*} $$ 
+
+Remember since $L=W$ and weight dosn't change (in our model) L is constant
+
+> $$ (L/D)_{max} = \frac{1}{2} \sqrt{  \frac{1}{C_{Do}} \cdot \frac{ \pi A }{K }  } $$ 
