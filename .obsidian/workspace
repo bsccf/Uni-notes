@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
+            "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 4/Untitled.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
+                "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 4/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,7 @@
   },
   "active": "36cde4a5d9cabf31",
   "lastOpenFiles": [
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 4/Untitled.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Lift equation.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 4/steady flight and true airspeed.md",
@@ -122,7 +123,6 @@
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Drag equation.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 4/Steady level flight.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 4/which shockingly is usually the main idea.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 4/stalling speed.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Equivalent Airspeed.md"
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 4/stalling speed.md"
   ]
 }

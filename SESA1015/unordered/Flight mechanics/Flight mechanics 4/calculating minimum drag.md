@@ -65,7 +65,8 @@ $$ \begin{align*}
 \sqrt[4]\frac{B'}{A'}&=V
 \end{align*} $$
 
-#### Min drag equation
+### Min drag equations
+#### Min drag speed
 Hence equation for minimum drag speed:
 > $$V_{MD} = \sqrt[4]\frac{B'}{A'}$$ 
 >> where:
@@ -74,8 +75,10 @@ Hence equation for minimum drag speed:
 >> $B'=$ constant
 >> (They are only constants in steady flight)
 
-> $$V_{MD} = \sqrt[4]\frac{B'}{\frac{1}{2}\rho S C_{Do}'}$$ 
+#### Min drag
+Hence equation for minimum drag:
+> $$D_{min} = 2\sqrt{A'B'}$$ 
 >> where:
->> $V_{MD}=$  Minimum drag speed
+>> $D_{min}=$  Minimum drag
 >> $A'=$ constant
 >> $B'=$ constant
