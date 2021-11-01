@@ -13,8 +13,14 @@ Using the equations from [[steady flight and true airspeed]]:
 >> $A'=$ constant
 >> $B'=$ constant
 
+Subbing in for A n B:
+$$\begin{align*}
+D_{min} &=  2\sqrt{   \frac{ \rho S C_{Do}2 K W^{2} }{2\pi A\rho S}  }  \\
+&= 2\sqrt{  C_{Do}W^{2} \cdot \frac{  K  }{\pi A}  }\\
+&= \sqrt{  C_{Do}W^{2} \cdot \frac{  K  }{\pi A}  }
+\end{align*}$$ 
 
-> $$D_{min} =  2\sqrt{   A'B'   }$$ 
+> $$D_{min} =  2\sqrt{   \frac{ \rho S C_{Do}2 K W^{2} }{2\pi A\rho S}   }$$ 
 >> where:
 >> $D_{min}=$  Minimum drag
 >> $A'=$ constant
