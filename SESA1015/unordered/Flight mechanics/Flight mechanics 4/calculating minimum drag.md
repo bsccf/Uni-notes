@@ -45,8 +45,8 @@ Hence focusing on speed:
 >> where:
 >> $D=$ Drag 
 >> $V=$ [[True airspeed]]
->> $A'=$ A constant
->> $B'=$ A constant
+>> $A'=$ A constant $=\frac{1}{2}\rho S C_{Do}$
+>> $B'=$ A constant $=\frac{2 K}{ \pi A} \cdot \frac{ W^{2}}{ \rho S }$
 >> (They are only constants in steady flight)
 
 ### Implications
@@ -65,4 +65,17 @@ $$ \begin{align*}
 \sqrt[4]\frac{B'}{A'}&=V
 \end{align*} $$
 
-Hence equation 
+#### Min drag equation
+Hence equation for minimum drag speed:
+> $$V_{MD} = \sqrt[4]\frac{B'}{A'}$$ 
+>> where:
+>> $V_{MD}=$  Minimum drag speed
+>> $A'=$ constant
+>> $B'=$ constant
+>> (They are only constants in steady flight)
+
+> $$V_{MD} = \sqrt[4]\frac{B'}{\frac{1}{2}\rho S C_{Do}'}$$ 
+>> where:
+>> $V_{MD}=$  Minimum drag speed
+>> $A'=$ constant
+>> $B'=$ constant
