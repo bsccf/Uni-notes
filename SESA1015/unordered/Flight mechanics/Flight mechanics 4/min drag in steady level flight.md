@@ -5,7 +5,7 @@ tags: ["Question","QFormat3"]
 
 #### What is
 ## Min drag in steady level flight
-Using the equations from [[calculating minimum drag]]]:
+Using the equations from [[calculating minimum drag]]:
 
 > $$D_{min} = 2\sqrt{A'B'}$$ 
 >> where:
