@@ -4,6 +4,25 @@ import json;
 def getPath():
     return os.path.dirname(os.path.dirname(__file__))+"\\"+"Equations"
 
+class equation:
+    name = ""
+    eq = ""
+    desc = ""
+    variables = ""
+    path = []
+
+    def __init__(this):
+        return this
+    
+class topic:
+    equations = {}
+
+    desc = ""
+    name = ""
+
+    def __init__(this):
+        return this
+
 class equationFetcher:
     rootJSON = ""
     subDirs = []
@@ -23,6 +42,11 @@ class equationFetcher:
 
     def getSubs(this):
         subDirs = []
+        locations = this.rootJSON["locations"]
+
+        for i in range(0, len(locations)):
+            location = locations[i]
+            subDirs
         
 
 
