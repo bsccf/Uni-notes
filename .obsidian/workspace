@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 4/Steady level flight.md",
+            "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 4/Steady level flight.md",
+                "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "ab02500863a8b720",
   "lastOpenFiles": [
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 4/Steady level flight.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 4/steady flight and true airspeed.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 4/Steady level flight.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Lift coefficient.md",
     "Mechanics structures and materials/Statics 1/6b Relationships between distributed load, shear force and bending moment/Relationships between distributed load, shear force and bending moment.md",
     "Mechanics structures and materials/Statics 1/6b Relationships between distributed load, shear force and bending moment/basic properties shear force and bending moment graphs.md",
     "Electrical and electronic systems/1a Electrostatics/coulombs law.md",
     "Electrical and electronic systems/1a Electrostatics/electric field.md",
     "conflict-files-obsidian-git.md",
-    "Electrical and electronic systems/1a Electrostatics/Electrostatics notes.md",
-    "Electrical and electronic systems/1a Electrostatics/permitivity of free space (electric).md"
+    "Electrical and electronic systems/1a Electrostatics/Electrostatics notes.md"
   ]
 }
