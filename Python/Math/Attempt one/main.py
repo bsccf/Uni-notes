@@ -53,7 +53,7 @@ class Equation:
             this.getConfiguration()
     
     def getConfiguration(this):
-        
+
 
 
         return;
@@ -167,6 +167,8 @@ class EquationFetcher:
     allConstants = {}
 
     eqCatagorys = {}
+
+    
 
     def __init__(this):
         print("init")
