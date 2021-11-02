@@ -221,7 +221,7 @@ class EquationFetcher:
 
     def createVariableInp( this, symbol, requestSource  ):
         print("create an appropriate variable for the symbol '"+symbol+"'")
-        #flagError("shit!")
+        flagError("shit!")
         print("leave value blank if it isn't a constant")
         while ( True ):
             name   = input("name : ")
@@ -234,7 +234,15 @@ class EquationFetcher:
         if name in this.allVarnames:
             flagError("You absolute retard")
 
-        
+        path = requestSource.parentEC.tPaths[ requestSource.topicName ];
+
+        cFile = open( path, "r" );
+        cJSON = json.loads( cFile.read() );
+        cFile.close()
+
+        cFile = open( path, "w" );
+        #cFile.write( cJSON )
+        cFile.close()
 
         return;
 
