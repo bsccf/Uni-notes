@@ -9,13 +9,17 @@ def getPath():
     return os.path.dirname(os.path.dirname(__file__))+"\\"+"Equations"
 
 class Equation:
+    parentEC = -1;
+
     name = ""
     eqString = ""
     desc = ""
     variables = []
     path = []
 
-    def __init__(this, name, JSONInp):
+    def __init__(this, parentEC, name, JSONInp):
+        this.parentEC = parentEC
+
         this.variables = JSONInp["vars"]
         this.name = name
         this.eqString = JSONInp["eq"]
@@ -61,7 +65,7 @@ class EqCatagory:
         eqs = {};
 
         for eq in JSONInp:
-            eqs[ eq ] = Equation( eq, JSONInp[eq] )
+            eqs[ eq ] = Equation( this, eq, JSONInp[eq] )
 
 
         this.topics[ name ] = eqs
@@ -98,6 +102,8 @@ class EquationFetcher:
                 flagError( location["dir"] + " is a duplicate topic name!")
 
             this.eqCatagorys[ location["dir"] ] = EqCatagory( this, location ); 
+        
+
         
 
 
