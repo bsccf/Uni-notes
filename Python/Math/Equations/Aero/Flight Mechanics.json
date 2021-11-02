@@ -73,6 +73,14 @@
         "Constant used to simplify min drag equations (B')":{
             "symbol":"B'",
             "desc":"A value that's constant in steady level flight with a constant aircraft geometry"
+        },
+        "Weight":{
+            "symbol":"W",
+            "desc":"The force of gravity on an object"
+        },
+        "Refrence area":{
+            "symbol":"S",
+            "desc":"We use gross wing area"
         }
     }
 }
