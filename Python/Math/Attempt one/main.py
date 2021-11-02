@@ -224,13 +224,15 @@ class EquationFetcher:
         #flagError("shit!")
         print("leave value blank if it isn't a constant")
         while ( True ):
+            name   = input("name : ")
             desc   = input("desc : ")
             value  = input("value: ")
             if ( input("Confirm choice(y/n): ") == "y" ):
-                return this.createVariable( symbol, desc, value, requestSource );
+                return this.createVariable( symbol, name, desc, value, requestSource );
 
-    def createVariable( this, symbol, description, value, requestSource ):
-        
+    def createVariable( this, symbol, name, description, value, requestSource ):
+        if name in this.allVariables:
+            flagError("You absolute retard")
 
 
         return;
