@@ -89,6 +89,14 @@
         "Wing planform constant":{
             "symbol":"K",
             "desc":"This is a constant that comes from the wing planform (for elliptic wings it is exactly 1 and is lowest), it relates to induced drag"
+        },
+        "Wing aspect ratio":{
+            "symbol":"A",
+            "desc":"This is the ratio of wing span to mean chord"
+        },
+        "true airspeed (plane)":{
+            "symbol":"V",
+            "desc":"This is the real speed of the plane relative to the surrounding air"
         }
     }
 }

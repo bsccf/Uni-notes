@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 3/induced drag coefficient.md",
+            "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing aspect ratio.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 3/induced drag coefficient.md",
+                "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing aspect ratio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,7 @@
   },
   "active": "36cde4a5d9cabf31",
   "lastOpenFiles": [
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing aspect ratio.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/induced drag coefficient.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Drag equation.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Refrence area.md",
@@ -122,7 +123,6 @@
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/International Standard Atmosphere.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 4/minimum power speed.md",
     "Mechanics structures and materials/Statics 1/6b Relationships between distributed load, shear force and bending moment/basic properties shear force and bending moment graphs.md",
-    "2021-10-28.md",
-    "Mechanics structures and materials/Statics 1/6b Relationships between distributed load, shear force and bending moment/Relationships between distributed load, shear force and bending moment.md"
+    "2021-10-28.md"
   ]
 }
