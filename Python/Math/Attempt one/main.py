@@ -95,6 +95,14 @@ class Variable:
 
         this.addToMainThing();
 
+    def printInfo( this, indent=0 ):
+        indent = indent*" "
+        print(
+            indent + "name:", this.name , "\n",
+            indent + "desc:", this.desc , "\n",
+            indent + "path:", this.path , "\n",
+        )
+
     def addToMainThing(this):
         if this.name in this.parentEC.parentEF.allVarnames:
             flagError(this.name,"has a duplicate variable name!")
@@ -181,6 +189,12 @@ class EquationFetcher:
 
     def findVarSymbMatch( this, symbol ):
         if ( symbol in this.allVariables ):
+            matches = this.allVariables[symbol];
+
+            for i in range(0, len(matches) ):
+                print(i,":")
+                matches[i].printInfo(2)
+            
             return;
         else:
             return;
