@@ -51,7 +51,13 @@ class Equation:
             this.parentEC.parentEF.allConstants[ this.variables[0] ].append( this )
         
 
+class Variable:
+    parentEC = -1;
 
+    def __init__(this, parentEC, name, JSONInp):
+        this.parentEC = parentEC;
+
+        print("unbased")
     
         
   
@@ -85,6 +91,14 @@ class EqCatagory:
             this.loadTopic( sub, tmp["equations"] )
 
     def loadVars( this, JSONinp ):
+        
+        for varName in JSONinp:
+            symbol = JSONinp[varName]["symbol"]
+
+            if not symbol in this.parentEF.allVariables:
+                this.parentEF.allVariables[symbol] = []
+            
+            this.parentEF.allVariables[symbol].append( Variable( this, varName, JSONinp[varName] ) )
 
         return;
 
