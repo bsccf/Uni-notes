@@ -1,13 +1,51 @@
 {
     "Flight Mechanics": {
-        "Min drag speed":{
+        "Min drag speed GC":{
             "vars":[
                 "D",
                 "A'",
                 "V",
                 "B'"
             ],
-            "eq":"D = A'V^{2} + \\frac{B'}{V^{2}}"
+            "eq":"D = A'V^{2} + \\frac{B'}{V^{2}}",
+            "desc":"optional"
+        },
+        "Min drag speed GC":{
+            "vars":[
+                "D",
+                "\\rho",
+                "C_{Do}",
+                "K",
+                "A",
+                "W",
+                "S",
+                "V"
+            ],
+            "eq":"D = \\frac{1}{2}\\rho V^{2}S C_{Do} + \\frac{2 K}{ \\pi A} \\cdot \\frac{ W^{2}}{ \\rho S V^{2} }",
+            "desc":"optional"
+        },
+        "Min drag constant A'":{
+            "vars":[
+                "A'",
+                "\\rho",
+                "S",
+                "C_{Do}"
+            ],
+            "eq":"A'= \\frac{1}{2}\\rho S C_{Do}",
+            "desc":"a"
+        },
+        "Min drag constant B'":{
+            "vars":[
+                "B'",
+                "K",
+                "\\pi",
+                "A",
+                "W",
+                "\\rho",
+                "S"
+            ],
+            "eq":"B'= \\frac{2 K}{ \\pi A} \\cdot \\frac{ W^{2}}{ \\rho S }",
+            "desc":"a"
         }
     }
 }
