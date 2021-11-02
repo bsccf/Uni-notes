@@ -15,12 +15,15 @@ class equation:
     variables = ""
     path = []
 
-    def __init__(this):
-        return this
+    def __init__(this, name, subs):
+        this.name = name
+        
 
 
   
 class topic:
+    parentEF = null
+
     equations = {}
 
     desc = ""
@@ -64,7 +67,7 @@ class equationFetcher:
             if ( location.dir in this.topics ):
                 flagError( location.dir + " is a duplicate topic name!")
 
-            this.topics[ location.dir ] = topic( location.dir, location.subs ); 
+            this.topics[ location.dir ] = topic( this, location.dir, location.subs ); 
         
 
 

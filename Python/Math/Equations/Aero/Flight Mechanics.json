@@ -9,7 +9,7 @@
         "eq":"D = A'V^{2} + \\frac{B'}{V^{2}}",
         "desc":"optional"
     },
-    "Min drag speed GC":{
+    "Min drag speed":{
         "vars":[
             "D",
             "\\rho",
