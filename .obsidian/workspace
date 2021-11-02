@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
+            "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 4/minimum power speed.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
+                "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 4/minimum power speed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,7 @@
   },
   "active": "36cde4a5d9cabf31",
   "lastOpenFiles": [
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 4/minimum power speed.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
     "Mechanics structures and materials/Statics 1/6b Relationships between distributed load, shear force and bending moment/basic properties shear force and bending moment graphs.md",
     "2021-10-28.md",
@@ -122,7 +123,6 @@
     "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/Defects, dislocations and plastic deformation notes.md",
     "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/dislocation motion.md",
     "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/edge dislocation.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 4/minimum power speed.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 4/max lift to drag ratio.md"
   ]
 }
