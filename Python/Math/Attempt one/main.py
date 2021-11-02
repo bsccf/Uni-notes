@@ -179,7 +179,11 @@ class EquationFetcher:
 
     eqCatagorys = {}
 
-    
+    def findVarSymbMatch( this, symbol ):
+        if ( symbol in this.allVariables ):
+            return;
+        else:
+            return;
 
     def __init__(this):
         print("init")
