@@ -30,26 +30,7 @@ class Equation:
         
         parentEC.parentEF.allEquations[ name ].append( this )
 
-        this.addVariablesToMain()
-
         return
-
-    def isConstant(this):
-        return len( this.variables ) == 1
-
-    def addVariablesToMain(this):
-        return;
-        for var in this.variables:
-            if not (var in this.parentEC.parentEF.allVariables):
-                this.parentEC.parentEF.allVariables[ var ] = []
-        
-            this.parentEC.parentEF.allVariables[ var ].append( this )
-        
-        if ( this.isConstant() ):
-            if not (this.variables[0] in this.parentEC.parentEF.allConstants):
-                this.parentEC.parentEF.allConstants[ this.variables[0] ] = []
-        
-            this.parentEC.parentEF.allConstants[ this.variables[0] ].append( this )
         
 
 class Variable:
@@ -80,6 +61,13 @@ class Variable:
             this.parentEC.parentEF.allVariables[this.symbol] = []
         
         this.parentEC.parentEF.allVariables[this.symbol].append( this )
+
+        if ( this.isConstant ):
+            if not this.symbol in this.parentEC.parentEF.allConstants:
+                this.parentEC.parentEF.allConstants[this.symbol] = []
+            
+            this.parentEC.parentEF.allConstants[this.symbol].append( this )
+
     
         
   
