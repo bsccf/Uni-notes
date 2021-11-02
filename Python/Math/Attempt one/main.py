@@ -37,7 +37,7 @@ class Equation:
         return
 
     def genHash(this):
-        return hash( this.name + this.eqString + this.desc + "- -".join(str(x) for x in this.variableSymbols) )
+        return hash(  this.name + this.eqString + "- -".join(str(x) for x in this.variableSymbols) )
     
     def checkConfigured(this):
         if "hash" in this.rawJSON:
