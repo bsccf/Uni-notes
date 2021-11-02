@@ -54,8 +54,23 @@ class Equation:
 class Variable:
     parentEC = -1;
 
+    name = ""
+    symbol = ""
+    isConstant = False
+    constValue = 0
+    desc = ""
+    path = []
+
     def __init__(this, parentEC, name, JSONInp):
         this.parentEC = parentEC;
+
+        this.name = name;
+        this.symbol = JSONInp["symbol"]
+        this.desc = JSONInp["desc"]
+
+        if ( "value" in JSONInp ):
+            this.isConstant = True
+            this.constValue = JSONInp["value"]
 
         print("unbased")
     
