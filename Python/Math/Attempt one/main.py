@@ -30,7 +30,17 @@ class Equation:
         
         parentEC.parentEF.allEquations[ name ].append( this )
 
+        this.addVariablesToMain()
+
         return
+
+    def addVariablesToMain(this):
+        for var in this.variables:
+            if not (var in this.parentEC.parentEF.allVariables):
+                this.parentEC.parentEF.allVariables[ var ] = []
+        
+            this.parentEC.parentEF.allVariables[ var ].append( this )
+
 
     
         
@@ -87,6 +97,7 @@ class EquationFetcher:
     rootJSON = ""
 
     allEquations = {}
+    allVariables = {}
 
     eqCatagorys = {}
 
