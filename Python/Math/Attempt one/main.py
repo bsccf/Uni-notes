@@ -38,6 +38,7 @@ class Equation:
         return len( this.variables ) == 1
 
     def addVariablesToMain(this):
+        return;
         for var in this.variables:
             if not (var in this.parentEC.parentEF.allVariables):
                 this.parentEC.parentEF.allVariables[ var ] = []
@@ -72,7 +73,13 @@ class Variable:
             this.isConstant = True
             this.constValue = JSONInp["value"]
 
-        print("unbased")
+        this.addToMainThing();
+
+    def addToMainThing(this):
+        if not this.symbol in this.parentEC.parentEF.allVariables:
+            this.parentEC.parentEF.allVariables[this.symbol] = []
+        
+        this.parentEC.parentEF.allVariables[this.symbol].append( this )
     
         
   
@@ -85,11 +92,7 @@ class EqCatagory:
 
     desc = ""
     name = ""
-    variables = {
-        "x": {
-            #"name": Equation()
-        }
-    }
+    variables = []
 
     def __init__(this, parentEF, JSONInp ):
         this.parentEF = parentEF;
@@ -108,12 +111,7 @@ class EqCatagory:
     def loadVars( this, JSONinp ):
         
         for varName in JSONinp:
-            symbol = JSONinp[varName]["symbol"]
-
-            if not symbol in this.parentEF.allVariables:
-                this.parentEF.allVariables[symbol] = []
-            
-            this.parentEF.allVariables[symbol].append( Variable( this, varName, JSONinp[varName] ) )
+            this.variables.append( Variable( this, varName, JSONinp[varName] ) )
 
         return;
 
