@@ -60,8 +60,9 @@ class Equation:
         print("Link it's variables.\n")
 
         for variable in this.variableSymbols:
-            this.parentEC.parentEF.findVarSymbMatch( variable, this );
+            vObj = this.parentEC.parentEF.findVarSymbMatch( variable, this );
         
+        if ( vObj = )
 
         return;
 
@@ -220,7 +221,8 @@ class EquationFetcher:
             return this.createVariableInp( symbol, requestSource );
 
     def createVariableInp( this, symbol, requestSource  ):
-        print("create an appropriate variable for the symbol '"+symbol+"'")
+        input("create an appropriate variable for the symbol '"+symbol+"'")
+        return False;
         flagError("shit!")
         print("leave value blank if it isn't a constant")
         while ( True ):
