@@ -1,6 +1,10 @@
 import os;
 import json;
 
+def flagError( message ):
+    print("CRITICAL ERROR:",message)
+    input("!!!!!!!!!!!!!!!!!!!")
+
 def getPath():
     return os.path.dirname(os.path.dirname(__file__))+"\\"+"Equations"
 
@@ -13,7 +17,9 @@ class equation:
 
     def __init__(this):
         return this
-    
+
+
+  
 class topic:
     equations = {}
 
@@ -28,15 +34,19 @@ class topic:
     def __init__(this):
         return this
 
+
+
 class equationFetcher:
     rootJSON = ""
     subDirs = []
+
+    topics = {}
 
     def __init__(this):
         print("init")
         this.getRootJson();
         print( this.rootJSON );
-        this.getSubs()
+        this.generateTopics()
     
     def getRootJson(this):
         rFile = open( 
@@ -45,13 +55,16 @@ class equationFetcher:
         this.rootJSON = json.loads( rFile.read() )
         rFile.close();
 
-    def getSubs(this):
+    def generateTopics(this):
         subDirs = []
         locations = this.rootJSON["locations"]
 
         for i in range(0, len(locations)):
             location = locations[i]
-            subDirs
+            if ( location.dir in this.topics ):
+                flagError( location.dir + " is a duplicate topic name!")
+
+            this.topics[ location.dir ] = topic( location.dir, location.subs ); 
         
 
 
