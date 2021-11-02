@@ -70,12 +70,15 @@ class EqCatagory:
 
         this.topics[ name ] = eqs
 
+    def construct( this ):
+
+        return;
+
 
 
 
 class EquationFetcher:
     rootJSON = ""
-    subDirs = []
 
     eqCatagorys = {}
 
@@ -93,7 +96,6 @@ class EquationFetcher:
         rFile.close();
 
     def generateEqCatagorys(this):
-        subDirs = []
         locations = this.rootJSON["locations"]
 
         for i in range(0, len(locations)):
@@ -102,6 +104,9 @@ class EquationFetcher:
                 flagError( location["dir"] + " is a duplicate topic name!")
 
             this.eqCatagorys[ location["dir"] ] = EqCatagory( this, location ); 
+
+        for catagory in this.eqCatagorys:
+            this.eqCatagorys[catagory].construct()
         
 
         
