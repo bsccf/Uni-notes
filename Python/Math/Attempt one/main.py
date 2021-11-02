@@ -17,6 +17,8 @@ class Equation:
     variableSymbols = []
     path = []
 
+    variables = []
+
     def __init__(this, parentEC, name, JSONInp):
         this.parentEC = parentEC
 
@@ -32,8 +34,12 @@ class Equation:
 
         return
     
-    def construct(this):
+    def checkConnections(this):
 
+        return;
+
+    def construct(this):
+        
         return;
         
 
@@ -46,6 +52,8 @@ class Variable:
     constValue = 0
     desc = ""
     path = []
+
+    equations = []
 
     def __init__(this, parentEC, name, JSONInp):
         this.parentEC = parentEC;
