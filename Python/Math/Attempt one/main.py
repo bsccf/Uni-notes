@@ -1,7 +1,8 @@
 import os;
+import json;
 
 def getPath():
-    return os.path.dirname(os.path.dirname(__file__))+"Equations"
+    return os.path.dirname(os.path.dirname(__file__))+"\\"+"Equations"
 
 class equationFetcher:
     rootJSON = ""
@@ -15,7 +16,7 @@ class equationFetcher:
         rFile = open( 
             getPath() + "\\Equations.json"
         )
-        this.rootJSON = rFile.read();
+        this.rootJSON = json.loads( rFile.read() )
         rFile.close();
 
 
@@ -25,6 +26,6 @@ def count_sub_in_file( filename, s ):
 
 
 
-
+tmp = equationFetcher();
 
 print(getPath());
