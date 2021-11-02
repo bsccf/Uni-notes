@@ -15,14 +15,14 @@ class equation:
     variables = ""
     path = []
 
-    def __init__(this, name, subs):
-        this.name = name
+    def __init__(this):
+        return
         
 
 
   
 class topic:
-    parentEF = null
+    parentEF = -1
 
     equations = {}
 
@@ -34,7 +34,11 @@ class topic:
         }
     }
 
-    def __init__(this):
+    def __init__(this, parentEF, JSONInp ):
+        this.parentEF = parentEF;
+        this.name = JSONInp["dir"];
+        
+        
         return this
 
 
@@ -64,10 +68,10 @@ class equationFetcher:
 
         for i in range(0, len(locations)):
             location = locations[i]
-            if ( location.dir in this.topics ):
-                flagError( location.dir + " is a duplicate topic name!")
+            if ( location["dir"] in this.topics ):
+                flagError( location["dir"] + " is a duplicate topic name!")
 
-            this.topics[ location.dir ] = topic( this, location.dir, location.subs ); 
+            this.topics[ location["dir"] ] = topic( this, location ); 
         
 
 
