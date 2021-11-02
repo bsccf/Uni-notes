@@ -192,10 +192,13 @@ class EquationFetcher:
         if ( symbol in this.allVariables ):
             matches = this.allVariables[symbol];
 
+            print("The variable(s) found for "+symbol+" are:")
+
             for i in range(0, len(matches) ):
                 print(i,":")
                 print( matches[i].stringInfo("\\ "),"\n" )
             
+            input("select the right one or type -1 if you need to create a new variable\nInput: ")
             return;
         else:
 
