@@ -14,13 +14,13 @@ class Equation:
     name = ""
     eqString = ""
     desc = ""
-    variables = []
+    variableSymbols = []
     path = []
 
     def __init__(this, parentEC, name, JSONInp):
         this.parentEC = parentEC
 
-        this.variables = JSONInp["vars"]
+        this.variableSymbols = JSONInp["vars"]
         this.name = name
         this.eqString = JSONInp["eq"]
         this.desc = JSONInp["desc"]
@@ -31,6 +31,10 @@ class Equation:
         parentEC.parentEF.allEquations[ name ].append( this )
 
         return
+    
+    def construct(this):
+
+        return;
         
 
 class Variable:
@@ -159,6 +163,9 @@ class EquationFetcher:
 
         for catagory in this.eqCatagorys:
             this.eqCatagorys[catagory].construct()
+
+        for equation in this.allEquations:
+            equation.construct()
         
 
         
