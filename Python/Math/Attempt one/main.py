@@ -135,6 +135,7 @@ class EqCatagory:
     desc = ""
     name = ""
     variables = []
+    filePath = ""
 
     def __init__(this, parentEF, JSONInp ):
         this.parentEF = parentEF;
@@ -220,12 +221,14 @@ class EquationFetcher:
         print("leave value blank if it isn't a constant")
         while ( True ):
             desc   = input("desc : ")
-            value  = input("value:")
+            value  = input("value: ")
             if ( input("Confirm choice(y/n): ") == "y" ):
                 return this.createVariable( symbol, desc, value, requestSource );
 
     def createVariable( this, symbol, description, value, requestSource ):
         
+
+
         return;
 
 
