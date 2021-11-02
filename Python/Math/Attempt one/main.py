@@ -10,6 +10,7 @@ def getPath():
 
 class Equation:
     parentEC = -1;
+    rawJSON = -1;
 
     name = ""
     eqString = ""
@@ -20,21 +21,35 @@ class Equation:
     variables = []
 
     def __init__(this, parentEC, name, JSONInp):
+        this.rawJSON = JSONInp
         this.parentEC = parentEC
 
         this.variableSymbols = JSONInp["vars"]
         this.name = name
         this.eqString = JSONInp["eq"]
         this.desc = JSONInp["desc"]
-
-        if not (name in parentEC.parentEF.allEquations):
-            parentEC.parentEF.allEquations[ name ] = []
         
-        parentEC.parentEF.allEquations[ name ].append( this )
+        parentEC.parentEF.allEquations[ name ] = ( this )
 
         return
+
+    def genHash(this):
+        return hash( this.name + this.eqString + this.desc + "- -".join(str(x) for x in this.variableSymbols) )
     
-    def checkConnections(this):
+    def checkConfigured(this):
+        if "hash" in this.rawJSON:
+            cHash = this.rawJSON["hash"];
+
+            nHash = this.genHash();
+
+            if ( cHash != nHash ):
+                print("change detected in:",this.name)
+                this.getConfiguration()
+
+        else:
+            this.getConfiguration()
+    
+    def getConfiguration(this):
 
         return;
 
