@@ -42,7 +42,9 @@ class eqCatagory:
         
         for i in range(0, len( JSONInp["subs"] ) ):
             sub = JSONInp["subs"][i]
-            cFile = 
+            fContents = open( path + sub + ".json" , "r").read() 
+            topicJSON = json.loads( fContents )
+
             getPath()
         
         return this
@@ -53,13 +55,13 @@ class equationFetcher:
     rootJSON = ""
     subDirs = []
 
-    topics = {}
+    eqCatagorys = {}
 
     def __init__(this):
         print("init")
         this.getRootJson();
         print( this.rootJSON );
-        this.generateTopics()
+        this.generateEqCatagorys()
     
     def getRootJson(this):
         rFile = open( 
@@ -68,16 +70,16 @@ class equationFetcher:
         this.rootJSON = json.loads( rFile.read() )
         rFile.close();
 
-    def generateTopics(this):
+    def generateEqCatagorys(this):
         subDirs = []
         locations = this.rootJSON["locations"]
 
         for i in range(0, len(locations)):
             location = locations[i]
-            if ( location["dir"] in this.topics ):
+            if ( location["dir"] in this.eqCatagorys ):
                 flagError( location["dir"] + " is a duplicate topic name!")
 
-            this.topics[ location["dir"] ] = eqCatagory( this, location ); 
+            this.eqCatagorys[ location["dir"] ] = eqCatagory( this, location ); 
         
 
 
