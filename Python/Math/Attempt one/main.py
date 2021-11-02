@@ -1,5 +1,6 @@
 import os;
 import json;
+import jsbeautifier;
 
 def flagError( message ):
     print("CRITICAL ERROR:",message)
@@ -99,6 +100,13 @@ class Equation:
 
         cJSON["equations"][this.name]["hash"] = nHash;
         cJSON["equations"][this.name]["mVars"] = varNames;
+
+        opts = jsbeautifier.default_options()
+        opts.indent_size = 2
+
+        cFile = open( this.filePath, "w" );
+        cFile.write( jsbeautifier.beautify(json.dumps(cJSON), opts) )
+        cFile.close()
 
         return
         
