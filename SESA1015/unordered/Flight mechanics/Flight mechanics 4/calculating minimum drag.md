@@ -37,6 +37,8 @@ D =& \frac{1}{2}\rho V^{2}S (C_{Do} + \dfrac{K}{\pi A} \cdot (\dfrac{2L}{\rho V^
 =& \frac{1}{2}\rho V^{2}S C_{Do} + \frac{2 K}{ \pi A} \cdot \frac{ W^{2}}{ \rho S V^{2} }
 \end{align*} $$
 
+
+
 #### Final equation for drag
 
 Hence focusing on speed:
