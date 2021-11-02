@@ -192,7 +192,7 @@ class EquationFetcher:
 
             for i in range(0, len(matches) ):
                 print(i,":")
-                matches[i].stringInfo(2)
+                print( matches[i].stringInfo("\\ "),"\n" )
             
             return;
         else:
