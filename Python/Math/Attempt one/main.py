@@ -21,7 +21,7 @@ class equation:
 
 
   
-class topic:
+class eqCatagory:
     parentEF = -1
 
     equations = {}
@@ -37,10 +37,13 @@ class topic:
     def __init__(this, parentEF, JSONInp ):
         this.parentEF = parentEF;
         this.name = JSONInp["dir"];
+
+        path = getPath() + "\\" + this.name + "\\"
         
         for i in range(0, len( JSONInp["subs"] ) ):
             sub = JSONInp["subs"][i]
-            parentEF
+            cFile = 
+            getPath()
         
         return this
 
@@ -74,7 +77,7 @@ class equationFetcher:
             if ( location["dir"] in this.topics ):
                 flagError( location["dir"] + " is a duplicate topic name!")
 
-            this.topics[ location["dir"] ] = topic( this, location ); 
+            this.topics[ location["dir"] ] = eqCatagory( this, location ); 
         
 
 
