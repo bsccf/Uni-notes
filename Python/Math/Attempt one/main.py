@@ -61,13 +61,18 @@ class Equation:
         print("Description:",this.desc)
         print("Link it's variables.\n")
 
+        errorHit = False;
+
         for variable in this.variableSymbols:
             vObj = this.parentEC.parentEF.findVarSymbMatch( variable, this );
+            if ( vObj == False ):
+                errorHit = True
+            
+            this.variables.append( vObj )
         
-        if ( vObj == False ):
+        if ( errorHit ):
+            flagError("yep stop it")
             return;
-
-        
 
         return;
 
