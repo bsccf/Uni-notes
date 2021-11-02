@@ -22,11 +22,11 @@ class Equation:
 
     variables = []
 
-    def __init__(this, parentEC, name, JSONInp, topicName, filePath):
+    def __init__(this, parentEC, name, JSONInp, topicName ):
         this.rawJSON = JSONInp
         this.parentEC = parentEC
         this.topicName = topicName
-        this.filePath = filePath;
+        this.filePath = this.parentEC.tPaths[ topicName ]
 
         this.variableSymbols = JSONInp["vars"]
         this.name = name
@@ -78,6 +78,14 @@ class Equation:
 
 
         return;
+    
+    def saveChanges(this, nHash):
+        
+        cFile = open( this.filePath, "r" );
+        cJSON = json.loads( cFile.read() );
+        cFile.close()
+
+        return
         
 
 class Variable:
