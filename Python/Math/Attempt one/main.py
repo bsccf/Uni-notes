@@ -93,6 +93,12 @@ class Variable:
         this.addToMainThing();
 
     def addToMainThing(this):
+        if this.name in this.parentEC.parentEF.allVarnames:
+            flagError(this.name,"has a duplicate variable name!")
+        else:
+            this.parentEC.parentEF.allVarnames.append( this.name )
+
+
         if not this.symbol in this.parentEC.parentEF.allVariables:
             this.parentEC.parentEF.allVariables[this.symbol] = []
         
@@ -165,6 +171,8 @@ class EquationFetcher:
     allEquations = {}
     allVariables = {}
     allConstants = {}
+
+    allVarnames = []
 
     eqCatagorys = {}
 
