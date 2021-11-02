@@ -45,5 +45,12 @@
         ],
         "eq":"B'= \\frac{2 K}{ \\pi A} \\cdot \\frac{ W^{2}}{ \\rho S }",
         "desc":"a"
+    },
+    "Air density at sea level":{
+        "vars":[
+            "\\rho_0"
+        ],
+        "eq":"\\rho_0 = 1.225",
+        "desc":"According to ISA"
     }
 }

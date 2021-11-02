@@ -13,4 +13,4 @@ This is a model of the atmospheres propertys under varying altitudes eg/
 
 #### Important notes on model
 * The temperature drops by approximatly 6.5K per km of altitude gained in the Troposphere.
-* At sea level air density is $1.225 kg/m^3$ and temperature is 15C 
+* At sea level air density ($\rho_0$) is $1.225 kg/m^3$ and temperature is 15C 
