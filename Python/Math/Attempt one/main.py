@@ -89,8 +89,9 @@ class Variable:
     path = []
 
     equations = []
+    filePath = ""
 
-    def __init__(this, parentEC, name, JSONInp):
+    def __init__(this, parentEC, name, JSONInp, filePath):
         this.parentEC = parentEC;
 
         this.name = name;
