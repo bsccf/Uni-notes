@@ -6,11 +6,13 @@ def getPath():
 
 class equationFetcher:
     rootJSON = ""
-    
+    subDirs = []
+
     def __init__(this):
         print("init")
         this.getRootJson();
         print( this.rootJSON );
+        this.getSubs()
     
     def getRootJson(this):
         rFile = open( 
@@ -18,6 +20,10 @@ class equationFetcher:
         )
         this.rootJSON = json.loads( rFile.read() )
         rFile.close();
+
+    def getSubs(this):
+        subDirs = []
+        
 
 
 
