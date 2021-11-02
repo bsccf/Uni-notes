@@ -5,6 +5,12 @@
             "subs":[
                 "Flight Mechanics"
             ]
+        },
+        {
+            "dir":"Aero",
+            "subs":[
+                "Flight Mechanics"
+            ]
         }
     ]
 }
