@@ -19,6 +19,11 @@ class topic:
 
     desc = ""
     name = ""
+    variables = {
+        "x": {
+            "name": equation()
+        }
+    }
 
     def __init__(this):
         return this
