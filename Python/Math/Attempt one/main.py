@@ -93,7 +93,12 @@ class Equation:
         cJSON = json.loads( cFile.read() );
         cFile.close()
 
-        
+        varNames = []
+        for var in this.variables:
+            varNames.append( var )
+
+        cJSON["equations"][this.name]["hash"] = nHash;
+        cJSON["equations"][this.name]["mVars"] = varNames;
 
         return
         
