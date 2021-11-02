@@ -1,8 +1,7 @@
+import os
 
 def count_sub_in_file( filename, s ):
-    file = open( filename, "r" )
-    
-    return;
+    return open( os.path.dirname(__file__) + "\\" +filename, "r" ).read().count( s );
 
-count_sub_in_file( "lmao.txt", "awd" );
+print( count_sub_in_file( "lmao.txt", "awd" ) )
 
