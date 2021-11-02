@@ -198,7 +198,11 @@ class EquationFetcher:
             
             return;
         else:
+
             return;
+
+    def createVariable( this, symbol ):
+        print("the symbol '"+symbol+"' has no variables assosiated with it.")
 
     def __init__(this):
         print("init")
