@@ -1,56 +1,66 @@
 {
-    "Min drag speed GC":{
-        "vars":[
-            "D",
-            "A'",
-            "V",
-            "B'"
-        ],
-        "eq":"D = A'V^{2} + \\frac{B'}{V^{2}}",
-        "desc":"optional"
+    "equations":{
+        "Min drag speed GC":{
+            "vars":[
+                "D",
+                "A'",
+                "V",
+                "B'"
+            ],
+            "eq":"D = A'V^{2} + \\frac{B'}{V^{2}}",
+            "desc":"optional"
+        },
+        "Min drag speed":{
+            "vars":[
+                "D",
+                "\\rho",
+                "C_{Do}",
+                "K",
+                "A",
+                "W",
+                "S",
+                "V"
+            ],
+            "eq":"D = \\frac{1}{2}\\rho V^{2}S C_{Do} + \\frac{2 K}{ \\pi A} \\cdot \\frac{ W^{2}}{ \\rho S V^{2} }",
+            "desc":"optional"
+        },
+        "Min drag constant A'":{
+            "vars":[
+                "A'",
+                "\\rho",
+                "S",
+                "C_{Do}"
+            ],
+            "eq":"A'= \\frac{1}{2}\\rho S C_{Do}",
+            "desc":"a"
+        },
+        "Min drag constant B'":{
+            "vars":[
+                "B'",
+                "K",
+                "\\pi",
+                "A",
+                "W",
+                "\\rho",
+                "S"
+            ],
+            "eq":"B'= \\frac{2 K}{ \\pi A} \\cdot \\frac{ W^{2}}{ \\rho S }",
+            "desc":"a"
+        }
     },
-    "Min drag speed":{
-        "vars":[
-            "D",
-            "\\rho",
-            "C_{Do}",
-            "K",
-            "A",
-            "W",
-            "S",
-            "V"
-        ],
-        "eq":"D = \\frac{1}{2}\\rho V^{2}S C_{Do} + \\frac{2 K}{ \\pi A} \\cdot \\frac{ W^{2}}{ \\rho S V^{2} }",
-        "desc":"optional"
-    },
-    "Min drag constant A'":{
-        "vars":[
-            "A'",
-            "\\rho",
-            "S",
-            "C_{Do}"
-        ],
-        "eq":"A'= \\frac{1}{2}\\rho S C_{Do}",
-        "desc":"a"
-    },
-    "Min drag constant B'":{
-        "vars":[
-            "B'",
-            "K",
-            "\\pi",
-            "A",
-            "W",
-            "\\rho",
-            "S"
-        ],
-        "eq":"B'= \\frac{2 K}{ \\pi A} \\cdot \\frac{ W^{2}}{ \\rho S }",
-        "desc":"a"
-    },
-    "Air density at sea level":{
-        "vars":[
-            "\\rho_0"
-        ],
-        "eq":"\\rho_0 = 1.225",
-        "desc":"According to ISA"
+    "variables":{
+        "Lift":{
+            "symbol":"L",
+            "desc":"The upwards force on an airplane"
+        },
+        "Lift coefficient":{
+            "symbol":"C_L",
+            "desc":"trolling"
+        },
+        "Air density at sea level":{
+            "symbol":"\\rho_0",
+            "desc":"The air density (in kg/m^3) of air at sea level according to the ISA",
+            "value":1.225
+        }
     }
 }
