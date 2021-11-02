@@ -12,6 +12,7 @@ class Equation:
     parentEC = -1;
     rawJSON = -1;
     topicName = ""
+    filePath = ""
 
     name = ""
     eqString = ""
@@ -21,10 +22,11 @@ class Equation:
 
     variables = []
 
-    def __init__(this, parentEC, name, JSONInp, topicName):
+    def __init__(this, parentEC, name, JSONInp, topicName, filePath):
         this.rawJSON = JSONInp
         this.parentEC = parentEC
         this.topicName = topicName
+        this.filePath = filePath;
 
         this.variableSymbols = JSONInp["vars"]
         this.name = name
@@ -92,6 +94,7 @@ class Variable:
     filePath = ""
 
     def __init__(this, parentEC, name, JSONInp, filePath):
+        this.filePath = filePath;
         this.parentEC = parentEC;
 
         this.name = name;
@@ -153,17 +156,18 @@ class EqCatagory:
             fContents = open( path + sub + ".json" , "r").read() 
             tmp = json.loads( fContents )
 
-            this.loadVars( tmp["variables"] )
+            this.tPaths[ sub ] = path + sub + ".json"
+
+            this.loadVars( tmp["variables"], path + sub + ".json" )
             this.loadTopic( sub, tmp["equations"] )
 
-            this.tPaths[ sub ] = path + sub + ".json"
         
         return;
 
-    def loadVars( this, JSONinp ):
+    def loadVars( this, JSONinp, filePath ):
         
         for varName in JSONinp:
-            this.variables.append( Variable( this, varName, JSONinp[varName] ) )
+            this.variables.append( Variable( this, varName, JSONinp[varName], filePath )  )
 
         return;
 
