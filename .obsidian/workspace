@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "36cde4a5d9cabf31",
+        "id": "ab02500863a8b720",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "slip",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336
+    "width": 291
   },
   "right": {
     "id": "12c168c46d609ed6",
@@ -80,7 +80,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -110,19 +110,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246
+    "width": 233
   },
-  "active": "36cde4a5d9cabf31",
+  "active": "ab02500863a8b720",
   "lastOpenFiles": [
     "Mechanics structures and materials/Statics 1/6b Relationships between distributed load, shear force and bending moment/Relationships between distributed load, shear force and bending moment.md",
-    "Mechanics structures and materials/Statics 1/Statics 1 read order.md",
-    "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/Defects, dislocations and plastic deformation notes.md",
-    "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/dislocation motion.md",
-    "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/edge dislocation.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 4/minimum power speed.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 4/max lift to drag ratio.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 4/min drag in steady level flight.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 4/min drag speed in steady level flight.md"
+    "Mechanics structures and materials/Statics 1/6b Relationships between distributed load, shear force and bending moment/basic properties shear force and bending moment graphs.md",
+    "Electrical and electronic systems/1a Electrostatics/coulombs law.md",
+    "Electrical and electronic systems/1a Electrostatics/electric field.md",
+    "conflict-files-obsidian-git.md",
+    "Electrical and electronic systems/1a Electrostatics/Electrostatics notes.md",
+    "Electrical and electronic systems/1a Electrostatics/permitivity of free space (electric).md",
+    "Thermofluids/5 Dimensions and units, ratios and coefficients/Dimentions and units, ratios and coefficients.md",
+    "Thermofluids/5 Dimensions and units, ratios and coefficients/dimentional homogeneity.md",
+    "SESA1015/unordered/Flight mechanics/Mechanics of flight.md"
   ]
 }
