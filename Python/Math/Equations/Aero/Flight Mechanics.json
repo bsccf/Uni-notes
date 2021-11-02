@@ -65,6 +65,14 @@
         "Drag (aircraft)":{
             "symbol":"D",
             "desc":"The drag acting on an object"
+        },
+        "Constant used to simplify min drag equations (A')":{
+            "symbol":"A'",
+            "desc":"A value that's constant in steady level flight with a constant aircraft geometry"
+        },
+        "Constant used to simplify min drag equations (B')":{
+            "symbol":"B'",
+            "desc":"A value that's constant in steady level flight with a constant aircraft geometry"
         }
     }
 }
