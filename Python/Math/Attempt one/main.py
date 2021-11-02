@@ -74,7 +74,7 @@ class Equation:
             flagError("yep stop it")
             return;
 
-        this.saveChanges();
+        this.saveChanges( );
 
         return;
 
@@ -86,11 +86,14 @@ class Equation:
 
         return;
     
-    def saveChanges(this, nHash):
+    def saveChanges(this):
+        nHash = this.genHash();
         
         cFile = open( this.filePath, "r" );
         cJSON = json.loads( cFile.read() );
         cFile.close()
+
+        
 
         return
         
