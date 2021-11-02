@@ -192,20 +192,32 @@ class EquationFetcher:
         if ( symbol in this.allVariables ):
             matches = this.allVariables[symbol];
 
-            print("The variable(s) found for "+symbol+" are:")
+            print("The variable(s) found for the symbol \""+symbol+"\" are:")
 
             for i in range(0, len(matches) ):
                 print(i,":")
                 print( matches[i].stringInfo("\\ "),"\n" )
             
-            input("select the right one or type -1 if you need to create a new variable\nInput: ")
-            return;
-        else:
+            print("Select the right one or type -1 if you need to create a new variable")
+            inp = ""
+            invalidInp = True
+            while ( invalidInp ):
+                inp = input("Input: ")
 
-            return;
+                if ( input("Confirm choice(y/n): ") == "y" ):
+                    invalidInp = False
+
+            if ( inp == "-1" ):
+                return this.createVariable( symbol )
+            else:
+                return matches[i];
+        else:
+            return this.createVariable( symbol );
 
     def createVariable( this, symbol ):
         print("the symbol '"+symbol+"' has no variables assosiated with it.")
+
+
 
     def __init__(this):
         print("init")
