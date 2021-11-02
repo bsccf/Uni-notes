@@ -15,7 +15,8 @@ class equation:
     variables = ""
     path = []
 
-    def __init__(this):
+    def __init__(this, JSONInp):
+        
         return
         
   
@@ -46,13 +47,20 @@ class eqCatagory:
             topicJSON = json.loads( fContents )
 
             this.loadTopic( sub, topicJSON )
-            
+
     
     def loadTopic(this, name, JSONInp):
         if name in this.topics:
             flagError( name + " already exists warning!" )
         
-        this.topics[ name ] = JSONInp
+        eqs = {};
+
+        for eq in JSONInp:
+            print(eq)
+            eqs[ eq ] = equation( eq )
+
+
+        this.topics[ name ] = eqs
 
 
 
