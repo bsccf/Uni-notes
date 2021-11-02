@@ -10,13 +10,16 @@ def getPath():
 
 class Equation:
     name = ""
-    eq = ""
+    eqString = ""
     desc = ""
     variables = []
     path = []
 
     def __init__(this, name, JSONInp):
-
+        this.variables = JSONInp["vars"]
+        this.name = name
+        this.eqString = JSONInp["eq"]
+        this.desc = JSONInp["desc"]
         return
 
     
@@ -58,7 +61,6 @@ class EqCatagory:
         eqs = {};
 
         for eq in JSONInp:
-            print(eq)
             eqs[ eq ] = Equation( eq, JSONInp[eq] )
 
 
