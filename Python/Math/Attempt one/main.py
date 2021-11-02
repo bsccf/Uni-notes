@@ -28,6 +28,9 @@ class Equation:
         this.name = name
         this.eqString = JSONInp["eq"]
         this.desc = JSONInp["desc"]
+
+        if name in parentEC.parentEF.allEquations:
+            flagError( "duplicate of '"+name+"' equation!" )
         
         parentEC.parentEF.allEquations[ name ] = ( this )
 
@@ -188,7 +191,7 @@ class EquationFetcher:
             this.eqCatagorys[catagory].construct()
 
         for equation in this.allEquations:
-            equation.construct()
+            this.allEquations[equation].construct()
         
 
         
