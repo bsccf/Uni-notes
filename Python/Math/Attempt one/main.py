@@ -95,12 +95,11 @@ class Variable:
 
         this.addToMainThing();
 
-    def printInfo( this, indent=0 ):
-        indent = indent*" "
-        print(
-            indent + "name:", this.name , "\n",
-            indent + "desc:", this.desc , "\n",
-            indent + "path:", this.path , "\n",
+    def stringInfo( this, indent ):
+        return(
+            indent + "name: "+ this.name + "\n"+
+            indent + "desc: "+ this.desc + "\n"+
+            indent + "path: "+ this.path
         )
 
     def addToMainThing(this):
@@ -193,7 +192,7 @@ class EquationFetcher:
 
             for i in range(0, len(matches) ):
                 print(i,":")
-                matches[i].printInfo(2)
+                matches[i].stringInfo(2)
             
             return;
         else:
