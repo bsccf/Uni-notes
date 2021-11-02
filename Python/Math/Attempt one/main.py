@@ -58,7 +58,7 @@ class Equation:
         print("Link it's variables.\n")
 
         for variable in this.variableSymbols:
-            this.parentEC.parentEF.findVarSymbMatch( variable );
+            this.parentEC.parentEF.findVarSymbMatch( variable, this );
         
 
         return;
@@ -188,7 +188,7 @@ class EquationFetcher:
 
     eqCatagorys = {}
 
-    def findVarSymbMatch( this, symbol ):
+    def findVarSymbMatch( this, symbol, requestSource ):
         if ( symbol in this.allVariables ):
             matches = this.allVariables[symbol];
 
@@ -208,15 +208,25 @@ class EquationFetcher:
                     invalidInp = False
 
             if ( inp == "-1" ):
-                return this.createVariable( symbol )
+                return this.createVariableInp( symbol, requestSource )
             else:
                 return matches[i];
         else:
-            return this.createVariable( symbol );
+            return this.createVariableInp( symbol, requestSource );
 
-    def createVariable( this, symbol ):
+    def createVariableInp( this, symbol, requestSource  ):
         print("the symbol '"+symbol+"' has no variables assosiated with it, so you need to make one.")
         #flagError("shit!")
+        print("leave value blank if it isn't a constant")
+        while ( True ):
+            desc   = input("desc : ")
+            value  = input("value:")
+            if ( input("Confirm choice(y/n): ") == "y" ):
+                return this.createVariable( symbol, desc, value, requestSource );
+
+    def createVariable( this, symbol, description, value, requestSource ):
+        
+        return;
 
 
 
