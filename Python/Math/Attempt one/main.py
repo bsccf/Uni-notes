@@ -57,6 +57,8 @@ class Equation:
         print("Description:",this.desc)
         print("Link it's variables.\n")
 
+        for variable in this.variableSymbols:
+            this.parentEC.parentEF.findVarSymbMatch( variable );
         
 
         return;
