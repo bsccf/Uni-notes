@@ -74,6 +74,8 @@ class Equation:
             flagError("yep stop it")
             return;
 
+        this.saveChanges();
+
         return;
 
     def construct(this):
