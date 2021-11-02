@@ -1,5 +1,13 @@
 {
     "Flight Mechanics": {
-        
+        "Min drag speed":{
+            "vars":[
+                "D",
+                "A'",
+                "V",
+                "B'"
+            ],
+            "eq":"D = A'V^{2} + \\frac{B'}{V^{2}}"
+        }
     }
 }
