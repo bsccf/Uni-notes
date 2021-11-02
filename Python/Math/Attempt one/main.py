@@ -8,19 +8,21 @@ def flagError( message ):
 def getPath():
     return os.path.dirname(os.path.dirname(__file__))+"\\"+"Equations"
 
-class equation:
+class Equation:
     name = ""
     eq = ""
     desc = ""
-    variables = ""
+    variables = []
     path = []
 
-    def __init__(this, JSONInp):
-        
+    def __init__(this, name, JSONInp):
+
         return
+
+    
         
   
-class eqCatagory:
+class EqCatagory:
     parentEF = -1
 
     topics = {
@@ -31,7 +33,7 @@ class eqCatagory:
     name = ""
     variables = {
         "x": {
-            "name": equation()
+            #"name": Equation()
         }
     }
 
@@ -57,7 +59,7 @@ class eqCatagory:
 
         for eq in JSONInp:
             print(eq)
-            eqs[ eq ] = equation( eq )
+            eqs[ eq ] = Equation( eq, JSONInp[eq] )
 
 
         this.topics[ name ] = eqs
@@ -65,7 +67,7 @@ class eqCatagory:
 
 
 
-class equationFetcher:
+class EquationFetcher:
     rootJSON = ""
     subDirs = []
 
@@ -93,7 +95,7 @@ class equationFetcher:
             if ( location["dir"] in this.eqCatagorys ):
                 flagError( location["dir"] + " is a duplicate topic name!")
 
-            this.eqCatagorys[ location["dir"] ] = eqCatagory( this, location ); 
+            this.eqCatagorys[ location["dir"] ] = EqCatagory( this, location ); 
         
 
 
@@ -103,6 +105,6 @@ def count_sub_in_file( filename, s ):
 
 
 
-tmp = equationFetcher();
+tmp = EquationFetcher();
 
 print(getPath());
