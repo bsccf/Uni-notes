@@ -46,10 +46,7 @@ class eqCatagory:
             topicJSON = json.loads( fContents )
 
             this.loadTopic( sub, topicJSON )
-
             
-        
-        return this
     
     def loadTopic(this, name, JSONInp):
         if name in this.topics:
