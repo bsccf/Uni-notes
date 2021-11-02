@@ -124,6 +124,8 @@ class EquationFetcher:
 
             this.eqCatagorys[ location["dir"] ] = EqCatagory( this, location ); 
 
+        print("all vars:", this.allVariables.keys() )
+
         for catagory in this.eqCatagorys:
             this.eqCatagorys[catagory].construct()
         
