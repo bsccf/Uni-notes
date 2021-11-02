@@ -215,8 +215,8 @@ class EquationFetcher:
             return this.createVariable( symbol );
 
     def createVariable( this, symbol ):
-        input("the symbol '"+symbol+"' has no variables assosiated with it, so you need to make one.")
-        flagError("shit!")
+        print("the symbol '"+symbol+"' has no variables assosiated with it, so you need to make one.")
+        #flagError("shit!")
 
 
 
