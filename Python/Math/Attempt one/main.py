@@ -128,14 +128,12 @@ class Variable:
 class EqCatagory:
     parentEF = -1
 
-    topics = {
-
-    }
+    topics = {}
+    tPaths = {}
 
     desc = ""
     name = ""
     variables = []
-    filePath = ""
 
     def __init__(this, parentEF, JSONInp ):
         this.parentEF = parentEF;
@@ -150,6 +148,10 @@ class EqCatagory:
 
             this.loadVars( tmp["variables"] )
             this.loadTopic( sub, tmp["equations"] )
+
+            this.tPaths[ sub ] = path + sub + ".json"
+        
+        return;
 
     def loadVars( this, JSONinp ):
         
