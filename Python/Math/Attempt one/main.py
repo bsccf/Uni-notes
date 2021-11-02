@@ -79,9 +79,14 @@ class EqCatagory:
         for i in range(0, len( JSONInp["subs"] ) ):
             sub = JSONInp["subs"][i]
             fContents = open( path + sub + ".json" , "r").read() 
-            topicJSON = json.loads( fContents )
+            tmp = json.loads( fContents )
 
-            this.loadTopic( sub, topicJSON )
+            this.loadVars( tmp["variables"] )
+            this.loadTopic( sub, tmp["equations"] )
+
+    def loadVars( this, JSONinp ):
+
+        return;
 
     
     def loadTopic(this, name, JSONInp):
