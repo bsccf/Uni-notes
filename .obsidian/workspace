@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "ab02500863a8b720",
+        "id": "36cde4a5d9cabf31",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
-            "mode": "preview"
+            "file": "2021-10-28.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "slip",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291
+    "width": 336
   },
   "right": {
     "id": "12c168c46d609ed6",
@@ -76,11 +76,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
+                "file": "2021-10-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -110,19 +110,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233
+    "width": 246
   },
-  "active": "ab02500863a8b720",
+  "active": "36cde4a5d9cabf31",
   "lastOpenFiles": [
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 4/steady flight and true airspeed.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 4/Steady level flight.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Lift coefficient.md",
+    "2021-10-28.md",
     "Mechanics structures and materials/Statics 1/6b Relationships between distributed load, shear force and bending moment/Relationships between distributed load, shear force and bending moment.md",
-    "Mechanics structures and materials/Statics 1/6b Relationships between distributed load, shear force and bending moment/basic properties shear force and bending moment graphs.md",
-    "Electrical and electronic systems/1a Electrostatics/coulombs law.md",
-    "Electrical and electronic systems/1a Electrostatics/electric field.md",
-    "conflict-files-obsidian-git.md",
-    "Electrical and electronic systems/1a Electrostatics/Electrostatics notes.md"
+    "Mechanics structures and materials/Statics 1/Statics 1 read order.md",
+    "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/Defects, dislocations and plastic deformation notes.md",
+    "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/dislocation motion.md",
+    "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/edge dislocation.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 4/minimum power speed.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 4/max lift to drag ratio.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 4/min drag in steady level flight.md"
   ]
 }
