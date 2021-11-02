@@ -61,6 +61,10 @@
             "symbol":"\\rho_0",
             "desc":"The air density (in kg/m^3) of air at sea level according to the ISA",
             "value":1.225
+        },
+        "Drag (aircraft)":{
+            "symbol":"D",
+            "desc":"The drag acting on an object"
         }
     }
 }

@@ -101,7 +101,7 @@ class Variable:
         return(
             indent + "name: "+ this.name + "\n"+
             indent + "desc: "+ this.desc + "\n"+
-            indent + "path: "+ this.path
+            indent + "path: "+ ",".join(str(x) for x in this.path)
         )
 
     def addToMainThing(this):
