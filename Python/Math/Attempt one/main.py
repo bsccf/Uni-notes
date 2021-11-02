@@ -38,6 +38,9 @@ class topic:
         this.parentEF = parentEF;
         this.name = JSONInp["dir"];
         
+        for i in range(0, len( JSONInp["subs"] ) ):
+            sub = JSONInp["subs"][i]
+            parentEF
         
         return this
 
