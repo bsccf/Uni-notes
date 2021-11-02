@@ -210,12 +210,12 @@ class EquationFetcher:
             if ( inp == "-1" ):
                 return this.createVariableInp( symbol, requestSource )
             else:
-                return matches[i];
+                return matches[  int( i ) ];
         else:
             return this.createVariableInp( symbol, requestSource );
 
     def createVariableInp( this, symbol, requestSource  ):
-        print("the symbol '"+symbol+"' has no variables assosiated with it, so you need to make one.")
+        print("create an appropriate variable for the symbol '"+symbol+"'")
         #flagError("shit!")
         print("leave value blank if it isn't a constant")
         while ( True ):
