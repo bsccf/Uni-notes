@@ -231,9 +231,10 @@ class EquationFetcher:
                 return this.createVariable( symbol, name, desc, value, requestSource );
 
     def createVariable( this, symbol, name, description, value, requestSource ):
-        if name in this.allVariables:
+        if name in this.allVarnames:
             flagError("You absolute retard")
 
+        
 
         return;
 
