@@ -34,12 +34,22 @@ class Equation:
 
         return
 
+    def isConstant(this):
+        return len( this.variables ) == 1
+
     def addVariablesToMain(this):
         for var in this.variables:
             if not (var in this.parentEC.parentEF.allVariables):
                 this.parentEC.parentEF.allVariables[ var ] = []
         
             this.parentEC.parentEF.allVariables[ var ].append( this )
+        
+        if ( this.isConstant() ):
+            if not (this.variables[0] in this.parentEC.parentEF.allConstants):
+                this.parentEC.parentEF.allConstants[ this.variables[0] ] = []
+        
+            this.parentEC.parentEF.allConstants[ this.variables[0] ].append( this )
+        
 
 
     
@@ -98,6 +108,7 @@ class EquationFetcher:
 
     allEquations = {}
     allVariables = {}
+    allConstants = {}
 
     eqCatagorys = {}
 
