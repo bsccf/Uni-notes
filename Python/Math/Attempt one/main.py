@@ -53,11 +53,17 @@ class Equation:
             this.getConfiguration()
     
     def getConfiguration(this):
+        
+
 
         return;
 
     def construct(this):
         
+        this.checkConfigured();
+
+
+
         return;
         
 
