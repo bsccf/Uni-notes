@@ -62,7 +62,10 @@ class Equation:
         for variable in this.variableSymbols:
             vObj = this.parentEC.parentEF.findVarSymbMatch( variable, this );
         
-        if ( vObj = )
+        if ( vObj == False ):
+            return;
+
+        
 
         return;
 
@@ -221,7 +224,7 @@ class EquationFetcher:
             return this.createVariableInp( symbol, requestSource );
 
     def createVariableInp( this, symbol, requestSource  ):
-        input("create an appropriate variable for the symbol '"+symbol+"'")
+        input("no appropriate variable for the symbol \""+symbol+"\"")
         return False;
         flagError("shit!")
         print("leave value blank if it isn't a constant")
