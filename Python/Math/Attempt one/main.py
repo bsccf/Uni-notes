@@ -53,8 +53,11 @@ class Equation:
             this.getConfiguration()
     
     def getConfiguration(this):
+        print( "\n\n'"+this.name+"' is not set up properly, equation:"+this.eqString )
+        print("Description:",this.desc)
+        print("Link it's variables.\n")
 
-
+        
 
         return;
 
