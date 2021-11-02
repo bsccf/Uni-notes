@@ -24,6 +24,12 @@ class Equation:
         this.name = name
         this.eqString = JSONInp["eq"]
         this.desc = JSONInp["desc"]
+
+        if not (name in parentEC.parentEF.allEquations):
+            parentEC.parentEF.allEquations[ name ] = []
+        
+        parentEC.parentEF.allEquations[ name ].append( this )
+
         return
 
     
@@ -71,7 +77,7 @@ class EqCatagory:
         this.topics[ name ] = eqs
 
     def construct( this ):
-
+        
         return;
 
 
@@ -79,6 +85,8 @@ class EqCatagory:
 
 class EquationFetcher:
     rootJSON = ""
+
+    allEquations = {}
 
     eqCatagorys = {}
 
