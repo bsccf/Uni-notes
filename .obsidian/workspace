@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 4/stalling speed.md",
+            "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Drag coefficient.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "2ccc43eec292f26e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 3/induced drag coefficient.md",
             "mode": "preview"
           }
         }
@@ -39,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stall speed",
+                "query": "induced drag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203
+    "width": 290
   },
   "right": {
     "id": "12c168c46d609ed6",
@@ -77,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 4/stalling speed.md",
+                "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 3/induced drag coefficient.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,20 +122,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100,
-    "collapsed": true
+    "width": 345
   },
-  "active": "36cde4a5d9cabf31",
+  "active": "2ccc43eec292f26e",
   "lastOpenFiles": [
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 4/stalling speed.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing aspect ratio.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/induced drag coefficient.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Drag coefficient.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 4/stalling speed.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing aspect ratio.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Drag equation.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Refrence area.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Pitching moment equation.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/International Standard Atmosphere.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 4/minimum power speed.md",
-    "Mechanics structures and materials/Statics 1/6b Relationships between distributed load, shear force and bending moment/basic properties shear force and bending moment graphs.md"
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 4/minimum power speed.md"
   ]
 }
