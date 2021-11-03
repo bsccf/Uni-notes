@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Typical aerodynamic characteristincs for conventional aircraft.md",
+            "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Lift equation.md",
             "mode": "preview"
           }
         }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "drag",
+                "query": "lift",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Typical aerodynamic characteristincs for conventional aircraft.md",
+                "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Lift equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +126,7 @@
   },
   "active": "36cde4a5d9cabf31",
   "lastOpenFiles": [
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Lift equation.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Typical aerodynamic characteristincs for conventional aircraft.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/Effect of angle of attack on drag coefficient.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Drag equation.md",
@@ -134,7 +135,6 @@
     "SESA1015/unordered/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 4/stalling speed.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing aspect ratio.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Refrence area.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Pitching moment equation.md"
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Refrence area.md"
   ]
 }
