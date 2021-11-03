@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Drag coefficient.md",
+            "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Drag equation.md",
             "mode": "preview"
           }
         }
@@ -50,10 +50,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "induced drag",
+                "query": "drag",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 3/induced drag coefficient.md",
+                "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Drag equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,14 +124,14 @@
     "direction": "horizontal",
     "width": 345
   },
-  "active": "2ccc43eec292f26e",
+  "active": "36cde4a5d9cabf31",
   "lastOpenFiles": [
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Drag equation.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 3/induced drag coefficient.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Drag coefficient.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 4/stalling speed.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing aspect ratio.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Drag equation.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Refrence area.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Pitching moment equation.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 2/International Standard Atmosphere.md",
