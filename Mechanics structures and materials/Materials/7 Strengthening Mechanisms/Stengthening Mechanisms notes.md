@@ -3,7 +3,7 @@ aliases: [""]
 tags: ["NotesPage"]
 ---
 
-# <% tp.file.title %>
+# Stengthening Mechanisms notes
 
 
 ![[grain structure control]]

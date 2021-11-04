@@ -17,3 +17,5 @@ To control grain structure there are a few key methods:
 ![[nucleation and cooling]]
 
 ![[cold work hardening]]
+
+![[annealing]]
