@@ -18,3 +18,5 @@ Here [[dislocations]] rearrange to minimise local stress fields.
 
 ![[Pasted image 20211104105432.png]]
 
+![[Pasted image 20211104105508.png]]
+
