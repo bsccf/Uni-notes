@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Mechanics structures and materials/Materials/7 Strengthening Mechanisms/annealing.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "surf",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -56,8 +56,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
