@@ -9,7 +9,7 @@ This is a process by which deformed grains can reduce their sotred energy throug
 
 The structure has 3 stages during recovery:
 1) Deformed structure - The structure starts with many dislocations that are in tangles making [[dislocation motion]] difficult.
-2) Annihilation - 
+2) Annihilation - The increased temperature during [[annealing]] causes dislocations to move and when two of opposite kinds meet they cancel eachother out ([[big boom boom|annihilating eachother]])
 3) Rearrangement - 
 
 ![[Pasted image 20211104110652.png]]
