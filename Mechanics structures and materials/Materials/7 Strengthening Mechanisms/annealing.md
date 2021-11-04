@@ -13,7 +13,7 @@ There are 3 stages to annealing:
 3) Further grain growth
 
 ### Recovery
-
+![[recovery]]
 Here [[dislocations]] rearrange to minimise local stress fields.
 
 ![[Pasted image 20211104105432.png]]
