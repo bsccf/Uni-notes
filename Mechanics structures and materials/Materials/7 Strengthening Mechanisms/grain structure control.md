@@ -12,4 +12,8 @@ To control grain structure there are a few key methods:
 - Thermomechanical treatment of wrought product
 - Heat treatments ([[annealing]])
 
+### Methods for controlling grain structure
+
 ![[nucleation and cooling]]
+
+![[cold work hardening]]
