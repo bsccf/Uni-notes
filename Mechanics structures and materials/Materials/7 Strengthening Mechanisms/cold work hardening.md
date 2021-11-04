@@ -9,3 +9,6 @@ This is where high [[Stress|stress]] is applied to a material while at low tempe
 
 It works because [[dislocations]] tangle together making it harder for them to move past eachother and also accumulate along grain boundaries, both of these processes make further [[dislocation motion]] harder. This also effects grain structure leading to more deformed grains with a high $D^{\underline{n}}$ density ([[whatever that means]]).
 
+![[Pasted image 20211104104038.png]]
+
+This reduces the ductility of the material, making it more [[ductility|brittle]]. 
