@@ -12,3 +12,6 @@ It works because [[dislocations]] tangle together making it harder for them to m
 ![[Pasted image 20211104104038.png]]
 
 This reduces the ductility of the material, making it more [[ductility|brittle]]. 
+
+(here you can see the general idea behined work hardening {this is more a concept graph and not exactly how it works but yeah, this} )
+![[Pasted image 20211104104258.png]]
