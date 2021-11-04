@@ -9,5 +9,5 @@ tags: ["Question","QFormat3"]
 
 You can change how a temperature gradient is applied across a fluid to control the way the crystal forms as it solidifies.
 
-### ikd
-
+- A [[fine grain structure]] is produced when you cool it down rapidly, this is because the number of [[Nucleation (crystal)|nulcleation]] events is increased and those crystals don't have sufficiant time to grow, resaulting in many smaller grains forming.
+- A [[coarse grain structure]] or [[columnar grain structure]]
