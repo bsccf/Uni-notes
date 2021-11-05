@@ -9,19 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
+            "file": "Electrical and electronic systems/3a Circuit analysis/factors that effect resistivity.md",
             "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "1cb73668a1fa7b32",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
-            "mode": "source"
           }
         }
       }
@@ -50,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Resistance",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +56,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -87,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/5 Mechanical Properties/inhibiting dislocation motion.md",
+                "file": "Electrical and electronic systems/3a Circuit analysis/factors that effect resistivity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,17 +113,17 @@
     "direction": "horizontal",
     "width": 233
   },
-  "active": "1cb73668a1fa7b32",
+  "active": "ab02500863a8b720",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Materials/5 Mechanical Properties/inhibiting dislocation motion.md",
-    "Mechanics structures and materials/Materials/7 Strengthening Mechanisms/Stengthening Mechanisms notes.md",
-    "Mechanics structures and materials/Materials/5 Mechanical Properties/yield strength.md",
-    "Mechanics structures and materials/Materials/7 Strengthening Mechanisms/grain structure control.md",
-    "Mechanics structures and materials/Materials/Materials read order.md",
-    "Mechanics structures and materials/Materials/7 Strengthening Mechanisms/annealing.md",
-    "Mechanics structures and materials/Materials/4 Diffusion/temperatures effect on diffusion.md",
-    "Templates/Maths equation highlighted.md",
-    "Mechanics structures and materials/Materials/4 Diffusion/Diffusion notes.md",
-    "Mechanics structures and materials/Materials/4 Diffusion/modelling diffusion.md"
+    "Electrical and electronic systems/3a Circuit analysis/factors that effect resistivity.md",
+    "Electrical and electronic systems/3a Circuit analysis/resistivity.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
+    "conflict-files-obsidian-git.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 4/steady flight and true airspeed.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 4/Steady level flight.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Lift coefficient.md",
+    "Mechanics structures and materials/Statics 1/6b Relationships between distributed load, shear force and bending moment/Relationships between distributed load, shear force and bending moment.md",
+    "Mechanics structures and materials/Statics 1/6b Relationships between distributed load, shear force and bending moment/basic properties shear force and bending moment graphs.md",
+    "Electrical and electronic systems/1a Electrostatics/coulombs law.md"
   ]
 }
