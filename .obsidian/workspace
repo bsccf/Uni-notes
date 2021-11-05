@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Mechanics structures and materials/Materials/5 Mechanical Properties/inhibiting dislocation motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,15 +125,15 @@
   },
   "active": "1cb73668a1fa7b32",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 4/steady flight and true airspeed.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 4/Steady level flight.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Lift coefficient.md",
-    "Mechanics structures and materials/Statics 1/6b Relationships between distributed load, shear force and bending moment/Relationships between distributed load, shear force and bending moment.md",
-    "Mechanics structures and materials/Statics 1/6b Relationships between distributed load, shear force and bending moment/basic properties shear force and bending moment graphs.md",
-    "Electrical and electronic systems/1a Electrostatics/coulombs law.md",
-    "Electrical and electronic systems/1a Electrostatics/electric field.md",
-    "Electrical and electronic systems/1a Electrostatics/Electrostatics notes.md"
+    "Mechanics structures and materials/Materials/5 Mechanical Properties/inhibiting dislocation motion.md",
+    "Mechanics structures and materials/Materials/7 Strengthening Mechanisms/Stengthening Mechanisms notes.md",
+    "Mechanics structures and materials/Materials/5 Mechanical Properties/yield strength.md",
+    "Mechanics structures and materials/Materials/7 Strengthening Mechanisms/grain structure control.md",
+    "Mechanics structures and materials/Materials/Materials read order.md",
+    "Mechanics structures and materials/Materials/7 Strengthening Mechanisms/annealing.md",
+    "Mechanics structures and materials/Materials/4 Diffusion/temperatures effect on diffusion.md",
+    "Templates/Maths equation highlighted.md",
+    "Mechanics structures and materials/Materials/4 Diffusion/Diffusion notes.md",
+    "Mechanics structures and materials/Materials/4 Diffusion/modelling diffusion.md"
   ]
 }

@@ -4,7 +4,7 @@ tags: ["Question","QFormat3"]
 ---
 
 #### What are
-## Dislocations
+## Dislocations $D^{\underline{n}}$
 
 ![[edge dislocation]]
 

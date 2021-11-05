@@ -1,5 +1,5 @@
 ---
-aliases: ["Brittle"]
+aliases: ["brittle","ductile"]
 tags: ["Question","QFormat3"]
 ---
 
