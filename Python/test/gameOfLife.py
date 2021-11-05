@@ -137,12 +137,12 @@ dt = "-"
 
 tmp = CGL( 40, 110 )
 tmp.print(lt, dt);
-#tmp.randomize( float( floatInp("prob: ") ) );
-tmp.genPatternCircle( 4 );
+tmp.randomize( float( floatInp("prob: ") ) );
+"""tmp.genPatternCircle( 4 );
 tmp.genPatternCircle( 7 );
 tmp.genPatternCircle( 10 );
 tmp.genPatternCircle( 2 );
-tmp.genPatternCircle( 50 );
+tmp.genPatternCircle( 50 );"""
 tmp.print(lt, dt);
 
 skip = 0
