@@ -5,6 +5,9 @@ tags: ["Question","QFormat3"]
 
 #### What are the
 ## Factors that effect alloying
-
-
 ![[Pasted image 20211105155605.png]]
+
+1) Atomic size
+2) Crystal structure
+3) Electronegativity - If the difference here is too large you will get a chemical r
+4) [[valence|Valency]] - Metals more easily dissolve into others with higher [[valence|valency]].
