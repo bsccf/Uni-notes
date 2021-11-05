@@ -14,18 +14,17 @@ There are 3 stages to annealing:
 
 [[whatever that means|Prepare for lots of further reading bitch]]
 
-### Recovery
 ![[recovery (metallurgy)]]
 
-
-### Recrystallisation
 ![[recrystallisation]]
 
-
-### Grain growth
 ![[grain growth]]
 
-### Resault of annealing
+### Factors effecting annealing
 Since many of the processes that comprise annealing arise from [[Diffusion notes|diffusion]] processes, you can use:
 ![[temperatures effect on diffusion#^425f8f]]
-To calculate the rate 
+To calculate the rate of grain growth ect.
+
+![[Pasted image 20211105100943.png]]
+
+As you can see this means it is a quite temperature dependent process.
