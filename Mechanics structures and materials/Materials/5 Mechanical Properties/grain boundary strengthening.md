@@ -12,4 +12,9 @@ This also leads to the accumulation of dislocations at grain edges.
 
 #### Accumulation of deformations at grain boundaries
 ![[Pasted image 20211105163111.png]]
-The accumulation of deformations along grain boundaries causes stress to concentrate on the dislocation nearest to the boundary, once there is enough stress 
+The accumulation of deformations along grain boundaries causes stress to concentrate on the dislocation nearest to the boundary, once there is enough stress the dislocation has enough energy to move accross the boundary. 
+In larger grains this is easyer because the increased size leads to more dislocations, but smaller grains have less dislocations so the accumulation of dislocations is harder; hence why smaller grains tend to have greater strength.
+
+Now you can use [[grain structure control]] to have smaller grains in a material leading to stronger materials.
+
+#### Theory ba
