@@ -14,3 +14,6 @@ Diffusion coefficients vary with temperature according to:
 >> $Q=$activation energy (energy barrier for diffusion process)
 >> $R=$Gas constant
 >> $T=$Absolute temerature
+
+^425f8f
+

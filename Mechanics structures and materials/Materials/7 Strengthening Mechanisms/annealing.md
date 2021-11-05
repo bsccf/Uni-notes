@@ -26,3 +26,6 @@ There are 3 stages to annealing:
 ![[grain growth]]
 
 ### Resault of annealing
+Since many of the processes that comprise annealing arise from [[Diffusion notes|diffusion]] processes, you can use:
+![[temperatures effect on diffusion#^425f8f]]
+To calculate the rate 
