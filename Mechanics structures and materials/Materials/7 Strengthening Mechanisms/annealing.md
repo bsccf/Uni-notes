@@ -12,6 +12,8 @@ There are 3 stages to annealing:
 2) Recrystallisation
 3) Further grain growth
 
+[[whatever that means|Prepare for lots of further reading bitch]]
+
 ### Recovery
 ![[recovery (metallurgy)]]
 
