@@ -135,7 +135,7 @@ def floatInp( message ):
 lt = "O"
 dt = "-"
 
-tmp = CGL( 40, 110 )
+tmp = CGL( 40, 80 )
 tmp.print(lt, dt);
 tmp.randomize( float( floatInp("prob: ") ) );
 """tmp.genPatternCircle( 4 );
