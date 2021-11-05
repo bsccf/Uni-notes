@@ -5,7 +5,9 @@ tags: ["NotesPage"]
 
 # Stengthening Mechanisms notes
 
-![[yield strength|yield point]]
+![[yield strength#Atomic processes]]
+
+![[inhibiting dislocation motion]]
 
 ![[grain structure control]]
 

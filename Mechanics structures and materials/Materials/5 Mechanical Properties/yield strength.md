@@ -15,4 +15,4 @@ Although we like to think of [[Stress]] [[Strain]] graphs as clean lines, they c
 The blue graph shows steel, here we use the lower yield point instead of the higher one. As you can see choosing a yield point isn't nessisarily easy.
 
 ### Atomic processes 
-In reality the yield point is the point at which [[dislocation motion]] initiates, hence to increase the yield strength you need to [[prevent dislocation motion]]
+In reality the yield point is the point at which [[dislocation motion]] initiates, hence to increase the yield strength you need to [[inhibiting dislocation motion|prevent dislocation motion]].
