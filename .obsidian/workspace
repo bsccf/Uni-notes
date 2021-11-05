@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/4a Capacitors/energy stored in a capacitor.md",
+            "file": "Electrical and electronic systems/Capacitor charging derivation.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/4a Capacitors/energy stored in a capacitor.md",
+                "file": "Electrical and electronic systems/Capacitor charging derivation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,12 +114,12 @@
   },
   "active": "36cde4a5d9cabf31",
   "lastOpenFiles": [
+    "Electrical and electronic systems/Capacitor charging derivation.md",
+    "Electrical and electronic systems/Electrical read order.md",
     "Electrical and electronic systems/4a Capacitors/energy stored in a capacitor.md",
     "Electrical and electronic systems/4a Capacitors/Capacitors.md",
     "Electrical and electronic systems/4a Capacitors/capacitance.md",
     "Electrical and electronic systems/4a Capacitors/calculating capacitance.md",
-    "Electrical and electronic systems/Capacitor charging derivation.md",
-    "Electrical and electronic systems/Electrical read order.md",
     "Mechanics structures and materials/Materials/7 Strengthening Mechanisms/annealing.md",
     "Mechanics structures and materials/Materials/7 Strengthening Mechanisms/grain structure control.md",
     "Mechanics structures and materials/Materials/7 Strengthening Mechanisms/recovery (metallurgy).md",
