@@ -9,3 +9,5 @@ tags: ["Question","QFormat3"]
 ![[effect of alloying on dislocation motion]]
 
 ![[cold work hardening]]
+
+![[grain boundary strengthening]]
