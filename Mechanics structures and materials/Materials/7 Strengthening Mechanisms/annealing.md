@@ -24,3 +24,5 @@ There are 3 stages to annealing:
 
 ### Grain growth
 ![[grain growth]]
+
+### Resault of annealing
