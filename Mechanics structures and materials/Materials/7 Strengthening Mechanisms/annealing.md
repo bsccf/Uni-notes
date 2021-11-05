@@ -19,3 +19,4 @@ There are 3 stages to annealing:
 
 
 ### Recrystallisation
+![[recrystallisation]]

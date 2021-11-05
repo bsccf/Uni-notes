@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/7 Strengthening Mechanisms/annealing.md",
+            "file": "Mechanics structures and materials/Materials/7 Strengthening Mechanisms/recrystallisation.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/7 Strengthening Mechanisms/annealing.md",
+                "file": "Mechanics structures and materials/Materials/7 Strengthening Mechanisms/recrystallisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,7 @@
   },
   "active": "36cde4a5d9cabf31",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Materials/7 Strengthening Mechanisms/recrystallisation.md",
     "Mechanics structures and materials/Materials/7 Strengthening Mechanisms/annealing.md",
     "Mechanics structures and materials/Materials/7 Strengthening Mechanisms/whatever that means.md",
     "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/dislocations.md",
@@ -122,7 +123,6 @@
     "Mechanics structures and materials/Materials/7 Strengthening Mechanisms/Nucleation (crystal).md",
     "Mechanics structures and materials/Materials/7 Strengthening Mechanisms/big boom boom.md",
     "Mechanics structures and materials/Materials/7 Strengthening Mechanisms/Stengthening Mechanisms notes.md",
-    "Mechanics structures and materials/Materials/Materials read order.md",
-    "Electrical and electronic systems/Capacitor charging derivation.md"
+    "Mechanics structures and materials/Materials/Materials read order.md"
   ]
 }
