@@ -11,3 +11,5 @@ tags: ["Question","QFormat3"]
 ![[cold work hardening]]
 
 ![[grain boundary strengthening]]
+
+![[precipitation hardening]]

@@ -13,5 +13,7 @@ This is based on [[grain boundary strengthening]], it is the observation that fi
 >> $k_y=$ Material specific constant
 >> $d=$ grain size
 
-![[Pasted image 20211105163838.png]]
 ([[lmao fuck you|here you can see one of the many examples of me not cropping out stuff]])
+![[Pasted image 20211105163838.png]]
+
+Also note that coarse grains have lower diffusion espesially at higher temperatures. (so it's not all good news)
