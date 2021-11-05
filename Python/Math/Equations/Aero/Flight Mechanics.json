@@ -1,0 +1,102 @@
+{
+    "equations":{
+        "Min drag speed GC":{
+            "vars":[
+                "D",
+                "A'",
+                "V",
+                "B'"
+            ],
+            "eq":"D = A'V^{2} + \\frac{B'}{V^{2}}",
+            "desc":"optional"
+        },
+        "Min drag speed":{
+            "vars":[
+                "D",
+                "\\rho",
+                "C_{Do}",
+                "K",
+                "A",
+                "W",
+                "S",
+                "V"
+            ],
+            "eq":"D = \\frac{1}{2}\\rho V^{2}S C_{Do} + \\frac{2 K}{ \\pi A} \\cdot \\frac{ W^{2}}{ \\rho S V^{2} }",
+            "desc":"optional"
+        },
+        "Min drag constant A'":{
+            "vars":[
+                "A'",
+                "\\rho",
+                "S",
+                "C_{Do}"
+            ],
+            "eq":"A'= \\frac{1}{2}\\rho S C_{Do}",
+            "desc":"a"
+        },
+        "Min drag constant B'":{
+            "vars":[
+                "B'",
+                "K",
+                "\\pi",
+                "A",
+                "W",
+                "\\rho",
+                "S"
+            ],
+            "eq":"B'= \\frac{2 K}{ \\pi A} \\cdot \\frac{ W^{2}}{ \\rho S }",
+            "desc":"a"
+        }
+    },
+    "variables":{
+        "Lift":{
+            "symbol":"L",
+            "desc":"The upwards force on an airplane"
+        },
+        "Lift coefficient":{
+            "symbol":"C_L",
+            "desc":"trolling"
+        },
+        "Air density at sea level":{
+            "symbol":"\\rho_0",
+            "desc":"The air density (in kg/m^3) of air at sea level according to the ISA",
+            "value":1.225
+        },
+        "Drag (aircraft)":{
+            "symbol":"D",
+            "desc":"The drag acting on an object"
+        },
+        "Constant used to simplify min drag equations (A')":{
+            "symbol":"A'",
+            "desc":"A value that's constant in steady level flight with a constant aircraft geometry"
+        },
+        "Constant used to simplify min drag equations (B')":{
+            "symbol":"B'",
+            "desc":"A value that's constant in steady level flight with a constant aircraft geometry"
+        },
+        "Weight":{
+            "symbol":"W",
+            "desc":"The force of gravity on an object"
+        },
+        "Refrence area":{
+            "symbol":"S",
+            "desc":"We use gross wing area"
+        },
+        "Air density (local)":{
+            "symbol":"\\rho",
+            "desc":"The density of the air (kg/m^3) at in the surrounding area/altitude"
+        },
+        "Wing planform constant":{
+            "symbol":"K",
+            "desc":"This is a constant that comes from the wing planform (for elliptic wings it is exactly 1 and is lowest), it relates to induced drag"
+        },
+        "Wing aspect ratio":{
+            "symbol":"A",
+            "desc":"This is the ratio of wing span to mean chord"
+        },
+        "true airspeed (plane)":{
+            "symbol":"V",
+            "desc":"This is the real speed of the plane relative to the surrounding air"
+        }
+    }
+}

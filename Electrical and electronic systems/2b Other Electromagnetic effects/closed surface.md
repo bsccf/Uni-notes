@@ -9,3 +9,6 @@ It is the face on that
 or that.
 
 It is a surface that is compact and without a boundry.
+
+#### (very real) Example of plane surface interactions
+![[obamult.mp4]]

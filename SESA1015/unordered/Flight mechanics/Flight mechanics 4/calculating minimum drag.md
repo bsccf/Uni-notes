@@ -77,3 +77,4 @@ $$ \begin{align*}
 ![[max lift to drag ratio]]
 
 ![[minimum power speed]]
+
