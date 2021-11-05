@@ -15,3 +15,4 @@ There are a few types of atoms that should be defined in an alloy:
 
 ### Factors that effect alloying
 ![[factors that effect alloying]]
+
