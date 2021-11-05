@@ -18,3 +18,5 @@ This reduces the ductility of the material, making it more [[ductility|brittle]]
 
 ### How it effects [[dislocation motion]]
 It works because [[dislocations]] tangle together making it harder for them to move past eachother and also accumulate along grain boundaries, both of these processes make further [[dislocation motion]] harder. This also effects grain structure leading to more deformed grains with a high $D^{\underline{n}}$ density (dislocation density).
+
+The dislocations have this problem because they often form in the same orientation due to the way the stress is applied, this leads to dislocations lineing up and repelling eachother isntead of annihilating eachother.
