@@ -17,4 +17,4 @@ This is the force over an objects cross sectional area:
 
 There are two important stress values that you should also be aware of:
 - [[Ultimate Tensile Strength]]
-- [[Yield stress]]
+- [[yield strength|Yield stress]]

@@ -7,3 +7,5 @@ tags: ["Question","QFormat3"]
 ## Inhibiting dislocation motion
 
 ![[effect of alloying on dislocation motion]]
+
+![[cold work hardening]]
