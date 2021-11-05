@@ -15,3 +15,6 @@ In material science this is very nessisary for creating strong materials because
 ![[grain boundary strengthening]]
 
 ![[precipitation hardening]]
+
+### That took ages to finish damn
+![[6f8ab6b.jpg]]

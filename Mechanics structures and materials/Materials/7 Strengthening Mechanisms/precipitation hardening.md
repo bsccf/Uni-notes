@@ -11,3 +11,8 @@ This is when a precipitate forms inside another material. This can be achieved t
 ![[Pasted image 20211105170202.png]]
 Larger precipitates are more likely to be incoherent.
 
+### Effect on hardness
+![[Pasted image 20211105170326.png]]
+
+Hard precipitates of a different structure inside the metal are difficult to shear and act as barriers to [[dislocation motion]].
+It is also possible for dislocations to be [[pinning (materials)|pinned]].
