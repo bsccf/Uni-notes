@@ -3,9 +3,9 @@ aliases: [""]
 tags: ["Question","QFormat3"]
 ---
 
-#### What is
+#### What is a
 ## Edge dislocation
-![[Pasted image 20211031120547.png]]
+![[Pasted image 20211105165709.png]]
 
 An edge dislocation is a defect where an extra half-plane of atoms is introduced midway through the crystal.
 
