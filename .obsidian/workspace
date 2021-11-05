@@ -9,19 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/5 Mechanical Properties/substitutional atom.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "4713d0060a64b63b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Mechanics structures and materials/Materials/5 Mechanical Properties/interstitial atom.md",
-            "mode": "source"
+            "file": "Mechanics structures and materials/Materials/5 Mechanical Properties/effect of alloying on dislocation motion.md",
+            "mode": "preview"
           }
         }
       }
@@ -87,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/5 Mechanical Properties/substitutional atom.md",
+                "file": "Mechanics structures and materials/Materials/5 Mechanical Properties/effect of alloying on dislocation motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,15 +114,15 @@
   },
   "active": "36cde4a5d9cabf31",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Materials/5 Mechanical Properties/effect of alloying on dislocation motion.md",
+    "Mechanics structures and materials/Materials/5 Mechanical Properties/factors that effect alloying.md",
+    "conflict-files-obsidian-git.md",
     "Mechanics structures and materials/Materials/5 Mechanical Properties/substitutional atom.md",
     "Mechanics structures and materials/Materials/5 Mechanical Properties/interstitial atom.md",
-    "Mechanics structures and materials/Materials/5 Mechanical Properties/factors that effect alloying.md",
     "Mechanics structures and materials/Materials/5 Mechanical Properties/duh idot.md",
-    "Mechanics structures and materials/Materials/5 Mechanical Properties/effect of alloying on dislocation motion.md",
     "Mechanics structures and materials/Materials/5 Mechanical Properties/pinning (materials).md",
     "Mechanics structures and materials/Materials/5 Mechanical Properties/precipitation hardening.md",
     "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/point defects.md",
-    "conflict-files-obsidian-git.md",
     "Mechanics structures and materials/Materials/5 Mechanical Properties/inhibiting dislocation motion.md"
   ]
 }

@@ -3,7 +3,7 @@ aliases: [""]
 tags: ["Question","QFormat3"]
 ---
 
-#### What is
+#### What is a
 ## Interstitial atom
 These are atoms that are in the gaps of a crystal structure, they are often impuritys introduced for alloying. In steel the intersititial impurity atoms are carbon.
 
