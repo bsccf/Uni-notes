@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/7 Strengthening Mechanisms/haha funny me in your mum joke.md",
-            "mode": "source"
+            "file": "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/edge dislocation.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "atom",
+                "query": "defect",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -56,7 +56,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/7 Strengthening Mechanisms/haha funny me in your mum joke.md",
+                "file": "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/edge dislocation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +115,15 @@
   },
   "active": "36cde4a5d9cabf31",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Materials/7 Strengthening Mechanisms/haha funny me in your mum joke.md",
-    "Mechanics structures and materials/Materials/7 Strengthening Mechanisms/precipitation hardening.md",
+    "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/edge dislocation.md",
+    "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/dislocations.md",
     "Mechanics structures and materials/Materials/5 Mechanical Properties/inhibiting dislocation motion.md",
+    "Mechanics structures and materials/Materials/7 Strengthening Mechanisms/precipitation hardening.md",
+    "Mechanics structures and materials/Materials/7 Strengthening Mechanisms/haha funny me in your mum joke.md",
     "Mechanics structures and materials/Materials/5 Mechanical Properties/grain boundary strengthening.md",
     "Mechanics structures and materials/Materials/5 Mechanical Properties/Hall-Petch equation.md",
     "Mechanics structures and materials/Materials/5 Mechanical Properties/lmao fuck you.md",
     "Mechanics structures and materials/Materials/7 Strengthening Mechanisms/cold work hardening.md",
-    "Mechanics structures and materials/Materials/7 Strengthening Mechanisms/effect of alloying on dislocation motion.md",
-    "Mechanics structures and materials/Statics 1/2 Stress and Strain/Stress.md",
-    "Mechanics structures and materials/Materials/5 Mechanical Properties/factors that effect alloying.md"
+    "Mechanics structures and materials/Materials/7 Strengthening Mechanisms/effect of alloying on dislocation motion.md"
   ]
 }
