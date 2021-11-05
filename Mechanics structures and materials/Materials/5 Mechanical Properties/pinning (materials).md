@@ -14,3 +14,6 @@ There are 3 types of pinning:
 
 3) [[precipitation hardening|Second phase precipitates]], these create internal physical blockades though which dislocations simply cannot pass. So the dislocation must bend around the precipitation which requires more energy and decreases the strength of the defect:
 ![[Pasted image 20211105154701.png]]
+
+It is possible for [[interstitial atom]]s to sit in defects, pinning them and making it much harder for the dislocation to m
+![[Pasted image 20211105155245.png]]
