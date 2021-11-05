@@ -9,3 +9,9 @@ Alloying creates area's of compression and tension within a [[Crystal Structures
 There are a few types of atoms that should be defined in an alloy:
 - [[interstitial atom]]
 - [[substitutional atom]]
+
+### How it effects dislocation motion
+![[pinning (materials)|pinning points]]
+
+### Factors that effect alloying
+![[factors that effect alloying]]
