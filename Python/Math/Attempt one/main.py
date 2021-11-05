@@ -1,6 +1,6 @@
 import os;
 import json;
-import jsbeautifier;
+#import jsbeautifier;
 
 def flagError( message ):
     print("CRITICAL ERROR:",message)
@@ -81,13 +81,14 @@ class Equation:
 
     def construct(this):
         
-        this.checkConfigured();
+        #this.checkConfigured();
 
 
 
         return;
     
     def saveChanges(this):
+        return;
         nHash = this.genHash();
         
         cFile = open( this.filePath, "r" );
@@ -101,12 +102,12 @@ class Equation:
         cJSON["equations"][this.name]["hash"] = nHash;
         cJSON["equations"][this.name]["mVars"] = varNames;
 
-        opts = jsbeautifier.default_options()
-        opts.indent_size = 2
+        #opts = jsbeautifier.default_options()
+        #opts.indent_size = 2
 
-        cFile = open( this.filePath, "w" );
-        cFile.write( jsbeautifier.beautify(json.dumps(cJSON), opts) )
-        cFile.close()
+        #cFile = open( this.filePath, "w" );
+        #cFile.write( jsbeautifier.beautify(json.dumps(cJSON), opts) )
+        #cFile.close()
 
         return
         
