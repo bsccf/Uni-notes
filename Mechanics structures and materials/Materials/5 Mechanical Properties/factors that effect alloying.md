@@ -9,5 +9,5 @@ tags: ["Question","QFormat3"]
 
 1) Atomic size
 2) Crystal structure
-3) Electronegativity - If the difference here is too large you will get a chemical r
+3) Electronegativity - If the difference here is too large you will get a chemical reaction instead. ([[duh idot|which is bad]])
 4) [[valence|Valency]] - Metals more easily dissolve into others with higher [[valence|valency]].

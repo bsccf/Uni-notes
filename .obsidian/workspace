@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/5 Mechanical Properties/factors that effect alloying.md",
+            "file": "Mechanics structures and materials/Materials/5 Mechanical Properties/duh idot.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/5 Mechanical Properties/factors that effect alloying.md",
+                "file": "Mechanics structures and materials/Materials/5 Mechanical Properties/duh idot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,7 @@
   },
   "active": "36cde4a5d9cabf31",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Materials/5 Mechanical Properties/duh idot.md",
     "Mechanics structures and materials/Materials/5 Mechanical Properties/factors that effect alloying.md",
     "Mechanics structures and materials/Materials/5 Mechanical Properties/effect of alloying on dislocation motion.md",
     "Mechanics structures and materials/Materials/5 Mechanical Properties/interstitial atom.md",
@@ -122,7 +123,6 @@
     "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/point defects.md",
     "conflict-files-obsidian-git.md",
     "Mechanics structures and materials/Materials/5 Mechanical Properties/inhibiting dislocation motion.md",
-    "Mechanics structures and materials/Materials/7 Strengthening Mechanisms/Stengthening Mechanisms notes.md",
-    "Mechanics structures and materials/Materials/5 Mechanical Properties/yield strength.md"
+    "Mechanics structures and materials/Materials/7 Strengthening Mechanisms/Stengthening Mechanisms notes.md"
   ]
 }
