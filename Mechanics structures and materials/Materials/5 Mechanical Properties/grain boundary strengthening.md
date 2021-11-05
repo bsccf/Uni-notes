@@ -17,4 +17,5 @@ In larger grains this is easyer because the increased size leads to more disloca
 
 Now you can use [[grain structure control]] to have smaller grains in a material leading to stronger materials.
 
-#### Theory ba
+#### Theory based on this
+![[Hall-Petch equation]]
