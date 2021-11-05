@@ -9,5 +9,8 @@ In a crystalline material, [[dislocations]] can move through the lattice causing
 
 There are 3 types of pinning:
 1) [[point defects|Point defects]], these create stress fields in a material that prevent travelling dislocations from coming into direct contact (in the same way like charges repel), these inhibit [[dislocation motion]].
+
 2) Alloying elements, impurity atoms introduced into a crystal are effectively [[point defects]], so the same rules apply.
-3) [[precipitation hardening|Second phase precipitates]], these create internal physical blockades thoug
+
+3) [[precipitation hardening|Second phase precipitates]], these create internal physical blockades though which dislocations simply cannot pass. So the dislocation must bend around the precipitation which requires more energy and decreases the strength of the defect:
+![[Pasted image 20211105154701.png]]
