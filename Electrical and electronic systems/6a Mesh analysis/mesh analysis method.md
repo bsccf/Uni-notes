@@ -50,6 +50,7 @@ i_4 =& I_3
 > We can rewrite the equations into the following form:
 > $$
 \begin{align*}
-V = 
+V &= I_1 (R_1+R_3) + I_2 (-R_3) + I_3 (-R_1)\\
+0 &= I_1 (R_3) + I_2 (R_3-R_2) + I_3 (-R_5-R_2)
 \end{align*}
 $$
