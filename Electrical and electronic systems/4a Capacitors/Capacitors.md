@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["capacitor"]
 tags: ["Question","QFormat3"]
 ---
 
