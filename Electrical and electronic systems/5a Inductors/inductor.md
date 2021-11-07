@@ -6,4 +6,8 @@ tags: ["Question","QFormat3"]
 #### What is an
 ## Inductor
 
+This is a passive two terminal electrical component that stores energy in a magnetic field when an electric current is flowing through it. An inductor is generally an insulated witre wound into a coil.
 
+![[Pasted image 20211107100602.png]]
+
+### [[methath|Math]]
