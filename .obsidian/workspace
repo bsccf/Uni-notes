@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "36cde4a5d9cabf31",
+        "id": "7cba0644ddcf61cd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/5a Inductors/inductance.md",
-            "mode": "preview"
+            "file": "Electrical and electronic systems/Electrical read order.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/5a Inductors/inductance.md",
+                "file": "Electrical and electronic systems/Electrical read order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,17 +112,17 @@
     "direction": "horizontal",
     "width": 345
   },
-  "active": "36cde4a5d9cabf31",
+  "active": "7cba0644ddcf61cd",
   "lastOpenFiles": [
-    "Electrical and electronic systems/5a Inductors/inductance.md",
+    "Electrical and electronic systems/Electrical read order.md",
     "Electrical and electronic systems/5a Inductors/inductor.md",
+    "Electrical and electronic systems/5a Inductors/inductance.md",
+    "Electrical and electronic systems/5a Inductors/electromagnetic induction.md",
+    "Electrical and electronic systems/5a Inductors/methath.md",
     "Electrical and electronic systems/1a Electrostatics/electric field.md",
     "Electrical and electronic systems/2b Other Electromagnetic effects/Lorentz's force law.md",
     "Electrical and electronic systems/2a Magnetism and induction/magnetic field.md",
     "Electrical and electronic systems/2a Magnetism and induction/magnetic flux.md",
-    "Electrical and electronic systems/2a Magnetism and induction/Magnetism and induction notes.md",
-    "Electrical and electronic systems/2b Other Electromagnetic effects/reason for conventional current existing.md",
-    "Electrical and electronic systems/Electrical resonance notes.md",
-    "Electrical and electronic systems/Electrical read order.md"
+    "Electrical and electronic systems/2a Magnetism and induction/Magnetism and induction notes.md"
   ]
 }
