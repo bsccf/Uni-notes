@@ -53,7 +53,10 @@ i_4 =& I_3
 V &= I_1 (R_1+R_3) &&+ I_2 (-R_3) &&+ I_3 (-R_1)\\
 0 &= I_1 (R_3) &&+ I_2 (R_3-R_2) &&+ I_3 (-R_5-R_2)\\
 0 &= I_1 (R_1) &&+ I_2 (R_2) &&+ I_3 (-R_1-R_2-R_4)
-\end{align*}
-$$
+\end{align*}$$
+> 
 > This can then be easily converted into matrix form:
 > 
+$$
+\begin{pmatrix} V \\ 0 \\ 0 \end{pmatrix} = \begin{pmatrix} 2 \\ 2 \\ 2 \end{pmatrix}
+$$

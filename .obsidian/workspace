@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "7cba0644ddcf61cd",
+        "id": "77968dddc0bb47bb",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -112,7 +112,7 @@
     "direction": "horizontal",
     "width": 345
   },
-  "active": "7cba0644ddcf61cd",
+  "active": "77968dddc0bb47bb",
   "lastOpenFiles": [
     "Electrical and electronic systems/6a Mesh analysis/mesh analysis method.md",
     "Electrical and electronic systems/6a Mesh analysis/Mesh analysis notes.md",
