@@ -50,7 +50,10 @@ i_4 =& I_3
 > We can rewrite the equations into the following form:
 > $$
 \begin{align*}
-V &= I_1 (R_1+R_3) + I_2 (-R_3) + I_3 (-R_1)\\
-0 &= I_1 (R_3) + I_2 (R_3-R_2) + I_3 (-R_5-R_2)
+V &= I_1 (R_1+R_3) &&+ I_2 (-R_3) &&+ I_3 (-R_1)\\
+0 &= I_1 (R_3) &&+ I_2 (R_3-R_2) &&+ I_3 (-R_5-R_2)\\
+0 &= I_1 (R_1) &&+ I_2 (R_2) &&+ I_3 (-R_1-R_2-R_4)
 \end{align*}
 $$
+> This can then be easily converted into matrix form:
+> 
