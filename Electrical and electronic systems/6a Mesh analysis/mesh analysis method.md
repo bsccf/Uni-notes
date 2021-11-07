@@ -13,3 +13,9 @@ tags: ["Question","QFormat3"]
 3) Get equations according to [[Kirchov's voltage law]]
 
 ### Example
+Solve:
+
+
+1) ![[Pasted image 20211107152939.png]]
+2) ![[Pasted image 20211107152832.png]]
+3) 
