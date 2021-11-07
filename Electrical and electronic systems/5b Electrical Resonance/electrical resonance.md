@@ -11,7 +11,10 @@ This occurs in an electrical circuit at a particular resonance frequency, it is 
 
 #### Circuit example:
 Resonant circuits can generate very high voltages or currents, they can be created by connecting a [[inductor]] with a [[Capacitors|capacitor]].
+
 ![[Pasted image 20211107104638.png]]
+
+Lets  assume we start with a charged capacitor, now the capacitor applies a [[potential difference]] accross the inductor causing a current to flow. The discharging capacitor eventially reaches a state of no stored charge, but the inductor still has energy stored in its magnetic field, so the current continues flowing. Now the capacitor begins charging on the opposite side as teh inductor looses energ
 
 #### Real life example
 ![[coils yes.mp4#play]]
