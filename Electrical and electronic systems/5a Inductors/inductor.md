@@ -16,6 +16,8 @@ The [[magnetic flux]] in a coil can be found using:
 > ### $$ N \varphi = Li $$ 
 >> where:
 >> $N=$ number of turns 
->> $\varphi=$
+>> $\varphi=$ phase angle?
 >> $L=$ [[inductance]]
 >> $i=$ current
+Basically saying that the flux in a coil is proportional to the current flowing.
+
