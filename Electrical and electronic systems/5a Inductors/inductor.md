@@ -21,7 +21,7 @@ The [[magnetic flux]] in a coil can be found using:
 >> $\varphi=$ phase angle? (WHY DON'T PEOPLE LABEL EQUATIONS FFS)
 >> $L=$ [[inductance]]
 >> $i=$ current
-Basically saying that the flux in a coil is proportional to the current flowing.
+Basically saying that the flux in a coil is proportional to the current flowing. (The first equation dosn't need to be remembered)
 
 > ### $$ V = L \frac{di}{dt} $$ 
 >> where:

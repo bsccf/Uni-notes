@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/5a Inductors/inductor.md",
+            "file": "Electrical and electronic systems/5a Inductors/inductance.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/5a Inductors/inductor.md",
+                "file": "Electrical and electronic systems/5a Inductors/inductance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "36cde4a5d9cabf31",
   "lastOpenFiles": [
-    "Electrical and electronic systems/5a Inductors/inductor.md",
     "Electrical and electronic systems/5a Inductors/inductance.md",
+    "Electrical and electronic systems/Electrical resonance notes.md",
+    "Electrical and electronic systems/Electrical read order.md",
+    "Electrical and electronic systems/5a Inductors/inductor.md",
     "Electrical and electronic systems/5a Inductors/methath.md",
     "Electrical and electronic systems/5a Inductors/Indictors notes.md",
-    "Electrical and electronic systems/Electrical read order.md",
     "Electrical and electronic systems/4b Capacitor charging derivation/Capacitor charging derivation.md",
     "Electrical and electronic systems/4b Capacitor charging derivation/capacitor charging equations.md",
     "Mechanics structures and materials/Materials/5 Mechanical Properties/inhibiting dislocation motion.md",
-    "Mechanics structures and materials/Materials/7 Strengthening Mechanisms/precipitation hardening.md",
-    "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/dislocations.md"
+    "Mechanics structures and materials/Materials/7 Strengthening Mechanisms/precipitation hardening.md"
   ]
 }
