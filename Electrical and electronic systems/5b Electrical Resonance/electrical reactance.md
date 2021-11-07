@@ -12,3 +12,7 @@ What distinguishes reactance from resistance is:
 - [[resistance]] causes electrical energy loss through heat
 - [[electrical reactance|reactance]] dosn't lead to energy loss through heat, instead energy is stored and released a quater cycle later
 
+### Capacitive reactance
+
+
+### Inductive reactance
