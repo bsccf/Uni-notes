@@ -11,3 +11,11 @@ This is a passive two terminal electrical component that stores energy in a magn
 ![[Pasted image 20211107100602.png]]
 
 ### [[methath|Math]]
+
+The [[magnetic flux]] in a coil can be found using:
+> ### $$ N  = Li $$ 
+>> where:
+>> $N=$ 
+>> $=$
+>> $L=$
+>> $i=$
