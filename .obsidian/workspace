@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/5b Electrical Resonance/electrical resonance.md",
+            "file": "Electrical and electronic systems/6a Mesh analysis/Mesh analysis notes.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/5b Electrical Resonance/electrical resonance.md",
+                "file": "Electrical and electronic systems/6a Mesh analysis/Mesh analysis notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,8 @@
   },
   "active": "7cba0644ddcf61cd",
   "lastOpenFiles": [
+    "Electrical and electronic systems/6a Mesh analysis/Mesh analysis notes.md",
+    "Electrical and electronic systems/Electrical read order.md",
     "Electrical and electronic systems/5b Electrical Resonance/electrical resonance.md",
     "Electrical and electronic systems/5b Electrical Resonance/electrical reactance.md",
     "Electrical and electronic systems/5a Inductors/inductor.md",
@@ -121,8 +123,6 @@
     "Electrical and electronic systems/5a Inductors/inductance.md",
     "Electrical and electronic systems/5b Electrical Resonance/alternating current.md",
     "Electrical and electronic systems/4a Capacitors/Capacitors.md",
-    "Electrical and electronic systems/5b Electrical Resonance/admittance.md",
-    "Electrical and electronic systems/5b Electrical Resonance/read this plz.md",
-    "Electrical and electronic systems/5b Electrical Resonance/electrical impudance.md"
+    "Electrical and electronic systems/5b Electrical Resonance/admittance.md"
   ]
 }
