@@ -15,7 +15,7 @@ This is a passive two terminal electrical component that stores energy in a magn
 The [[magnetic flux]] in a coil can be found using:
 > ### $$ N  = Li $$ 
 >> where:
->> $N=$ 
+>> $N=$ number of turns 
 >> $=$
->> $L=$
->> $i=$
+>> $L=$ [[inductance]]
+>> $i=$ current
