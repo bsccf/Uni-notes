@@ -12,6 +12,6 @@ tags: ["Question","QFormat3"]
 - We know [[Kirchov's voltage law]], so we sum voltage gains against voltage losses starting from the bottom left node in a loop. This gives $V - IR_1 - IR_2 - IR_3  =0$
 
 ### Voltage directions
+![[Pasted image 20211107144219.png]]
 
-![[Pasted image 20211107143910.png]]
-
+- Mark the more positive 
