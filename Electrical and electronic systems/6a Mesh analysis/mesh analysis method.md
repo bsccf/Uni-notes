@@ -23,7 +23,7 @@ Find expressions for the resistances in this circuit:
 ![[Pasted image 20211107153309.png]]
 
 3) Now we can get equations:
-> Loop 1
+> Loop 1:
 > $$ \begin{align*}
 i_1 =& I_1 - I_3\\
 i_3 =& I_1 - I_2
@@ -42,4 +42,7 @@ i_5 =& I_2
 i_4 =& I_3
 \end{align*} $$
 > $$ R_1(I_1-I_3) + R_2(I_2-I_3) - R_4 (I_3) = 0$$
-> 
+>
+> - The sign of the pd of the component is descided by the direction of the pd arrow relative to the current loop arrow.
+> - The pd accross the component is worked out using the current on that branch
+> - The current on the branch is worked out using the sum of the adjasent loop currents
