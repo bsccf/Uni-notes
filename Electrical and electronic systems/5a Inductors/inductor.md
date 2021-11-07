@@ -10,6 +10,8 @@ This is a passive two terminal electrical component that stores energy in a magn
 
 Inductors generally stabalise current, this is because the magnetic field created "matches" the current flowing through it. So to change the current you need to apply a pd accross the inductor; [[inductor#^52f189|the pd is proportional to the rate of change of current]]. This applys to both increaseing and decreasing the current.
 
+Inductors can be thought of as components that resist changes in [[electric current|current]].
+
 ![[Pasted image 20211107100602.png]]
 
 ### [[methath|Math]]

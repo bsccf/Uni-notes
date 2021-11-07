@@ -13,6 +13,8 @@ The opposing p.d is a resault of the electric field while the driving p.d is a r
 
 If the charging p.d is removed the capacitor discharges producing a current through the circuit.
 
+Capacitors can be thought of as components that resist changes in [[potential difference|voltage]].
+
 #### Calculating capacity
 ![[capacitance]]
 
