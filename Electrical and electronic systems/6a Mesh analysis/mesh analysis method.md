@@ -16,6 +16,6 @@ tags: ["Question","QFormat3"]
 Solve:
 
 
-1) ![[Pasted image 20211107152939.png]]
-2) ![[Pasted image 20211107152832.png]]
+1) ![[Pasted image 20211107153334.png]]
+2) ![[Pasted image 20211107153309.png]]
 3) 
