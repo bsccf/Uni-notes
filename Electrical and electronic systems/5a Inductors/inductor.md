@@ -40,4 +40,4 @@ Basically saying that the flux in a coil is proportional to the current flowing.
 > so $V_L=6-0=6$
 > 
 > using [[inductor#^52f189| this equation]]:
-> 
+> ![[Pasted image 20211107103213.png]]
