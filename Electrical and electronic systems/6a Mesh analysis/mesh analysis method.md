@@ -13,9 +13,15 @@ tags: ["Question","QFormat3"]
 3) Get equations according to [[Kirchov's voltage law]]
 
 ### Example
-Solve:
+Find expressions for the resistances in this circuit:
+![[Pasted image 20211107153425.png]]
 
+1) First we mark the diagram according to [[ciruit analysis sign convention]]
+![[Pasted image 20211107153334.png]]
 
-1) ![[Pasted image 20211107153334.png]]
-2) ![[Pasted image 20211107153309.png]]
-3) 
+2) Then we draw loop currents.
+![[Pasted image 20211107153309.png]]
+
+3) Now we can get equations:
+> Loop 1
+> $$ i_1 = I_1 $$
