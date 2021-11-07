@@ -24,4 +24,23 @@ Find expressions for the resistances in this circuit:
 
 3) Now we can get equations:
 > Loop 1
-> $$ i_1 = I_1 $$
+> $$ \begin{align*}
+i_1 =& I_1 - I_3\\
+i_3 =& I_1 - I_2
+\end{align*} $$
+> $$ V - R_1(I_1-I_3) - R_3 (I_1-I_2) = 0$$
+> 
+> Loop 2:
+> $$ \begin{align*}
+i_2 =& I_2 - I_3\\
+i_5 =& I_2
+\end{align*} $$
+> $$ V - R_1(I_1-I_3) - R_3 (I_1-I_2) = 0$$
+> 
+> Loop 3:
+> $$ \begin{align*}
+i_1 =& I_1 - I_3\\
+i_3 =& I_1 - I_2
+\end{align*} $$
+> $$ V - R_1(I_1-I_3) - R_3 (I_1-I_2) = 0$$
+> 
