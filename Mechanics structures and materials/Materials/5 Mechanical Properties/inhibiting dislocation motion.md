@@ -18,3 +18,6 @@ In material science this is very nessisary for creating strong materials because
 
 ### That took ages to finish damn
 ![[6f8ab6b.jpg]]
+![[239908820_4582316181821226_7881447701434594057_n.mp4]]
+![[chair.png]]
+![[mbn5rrknp1771.png]]
