@@ -5,7 +5,10 @@ tags: ["Question","QFormat3"]
 
 #### What is
 ## Electrical resonance
+Resonance is when the driving frequency is simular to the natural frequency o
+
 This occurs in an electrical circuit at a particular resonance frequency, it is when the [[electrical impudance|impudances]] and [[admittance|admittances]] of a circuit cancel eachother out. ([[read this plz|important note on those linked terms]])
+
 Resonant circuits can generate very high voltages or currents.
 
 #### Circuit example:
