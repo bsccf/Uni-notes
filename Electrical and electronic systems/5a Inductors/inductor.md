@@ -8,7 +8,7 @@ tags: ["Question","QFormat3"]
 
 This is a passive two terminal electrical component that stores energy in a magnetic field when an electric current is flowing through it. An inductor is generally an insulated witre wound into a coil.
 
-Inductors generally stabalise current, since they will take 
+Inductors generally stabalise current, this is because the magnetic field created "matches" the current flowing through it. So when there is a change to that current a potential difference is create accross the inductor; [[inductor#^52f189|the pd is proportional to the rate of change of current]].  This mean
 
 ![[Pasted image 20211107100602.png]]
 
@@ -25,6 +25,8 @@ Basically saying that the flux in a coil is proportional to the current flowing.
 
 > ### $$ V = L \frac{di}{dt} $$ 
 >> where:
->> $V=$ 
->> $=$
->> $=$
+>> $V=$ [[potential difference]] accross inductor
+>> $L=$ Number of turns
+>> $\frac{di}{dt}=$ rate of change of current
+
+^52f189
