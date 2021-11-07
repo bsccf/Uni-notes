@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/Electrical read order.md",
+            "file": "Electrical and electronic systems/5b Electrical Resonance/electrical resonance.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/Electrical read order.md",
+                "file": "Electrical and electronic systems/5b Electrical Resonance/electrical resonance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,8 @@
   },
   "active": "7cba0644ddcf61cd",
   "lastOpenFiles": [
+    "Electrical and electronic systems/5b Electrical Resonance/electrical resonance.md",
+    "Electrical and electronic systems/5b Electrical Resonance/Electrical resonance notes.md",
     "Electrical and electronic systems/Electrical read order.md",
     "Electrical and electronic systems/5a Inductors/inductor.md",
     "Electrical and electronic systems/5a Inductors/inductance.md",
@@ -121,8 +123,6 @@
     "Electrical and electronic systems/5a Inductors/methath.md",
     "Electrical and electronic systems/1a Electrostatics/electric field.md",
     "Electrical and electronic systems/2b Other Electromagnetic effects/Lorentz's force law.md",
-    "Electrical and electronic systems/2a Magnetism and induction/magnetic field.md",
-    "Electrical and electronic systems/2a Magnetism and induction/magnetic flux.md",
-    "Electrical and electronic systems/2a Magnetism and induction/Magnetism and induction notes.md"
+    "Electrical and electronic systems/2a Magnetism and induction/magnetic field.md"
   ]
 }
