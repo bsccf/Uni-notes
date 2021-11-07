@@ -14,4 +14,11 @@ tags: ["Question","QFormat3"]
 ### Voltage directions
 ![[Pasted image 20211107144219.png]]
 
-- Mark the more positive 
+- Mark the more positive side of each component with a plus
+- Draw an arrow across the component representing the pd change across them, the arrow points away from the positive side.
+
+
+### Example
+![[Pasted image 20211107144428.png]]
+
+Here the equation for the pds around loop 1 is: $-V_2+I_1R_1 -I_2R_2 = 0$

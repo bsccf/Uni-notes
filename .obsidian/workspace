@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/6a Mesh analysis/ciruit analysis sign convention.md",
+            "file": "Electrical and electronic systems/6a Mesh analysis/mesh analysis method.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/6a Mesh analysis/ciruit analysis sign convention.md",
+                "file": "Electrical and electronic systems/6a Mesh analysis/mesh analysis method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,9 +114,9 @@
   },
   "active": "7cba0644ddcf61cd",
   "lastOpenFiles": [
-    "Electrical and electronic systems/6a Mesh analysis/ciruit analysis sign convention.md",
-    "Electrical and electronic systems/6a Mesh analysis/Mesh analysis notes.md",
     "Electrical and electronic systems/6a Mesh analysis/mesh analysis method.md",
+    "Electrical and electronic systems/6a Mesh analysis/Mesh analysis notes.md",
+    "Electrical and electronic systems/6a Mesh analysis/ciruit analysis sign convention.md",
     "Electrical and electronic systems/Electrical read order.md",
     "Electrical and electronic systems/5b Electrical Resonance/electrical resonance.md",
     "Electrical and electronic systems/5b Electrical Resonance/electrical reactance.md",
