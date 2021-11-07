@@ -33,4 +33,11 @@ Basically saying that the flux in a coil is proportional to the current flowing.
 
 ### Example
 >> Plot the voltage across the inductor vs time for the following circuit:
+>> ![[Pasted image 20211107102808.png]]
+> 
+> Its in series so we know $I=I_R=I_L$
+> At t=0, I=0 sp according to [[Ohms law]] $V_R = 0$ 
+> so $V_L=6-0=6$
+> 
+> using [[inductor#^52f189| this equation]]:
 > 
