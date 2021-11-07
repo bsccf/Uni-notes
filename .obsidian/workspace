@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/Capacitor charging derivation.md",
+            "file": "Electrical and electronic systems/capacitor charging equations.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/Capacitor charging derivation.md",
+                "file": "Electrical and electronic systems/capacitor charging equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,7 @@
   },
   "active": "36cde4a5d9cabf31",
   "lastOpenFiles": [
+    "Electrical and electronic systems/capacitor charging equations.md",
     "Electrical and electronic systems/Capacitor charging derivation.md",
     "Mechanics structures and materials/Materials/5 Mechanical Properties/inhibiting dislocation motion.md",
     "Mechanics structures and materials/Materials/7 Strengthening Mechanisms/precipitation hardening.md",
@@ -122,7 +123,6 @@
     "conflict-files-obsidian-git.md",
     "Mechanics structures and materials/Materials/6 Defects, dislocations and plastic deformation/edge dislocation.md",
     "Mechanics structures and materials/Materials/7 Strengthening Mechanisms/haha funny me in your mum joke.md",
-    "Mechanics structures and materials/Materials/5 Mechanical Properties/grain boundary strengthening.md",
-    "Mechanics structures and materials/Materials/5 Mechanical Properties/Hall-Petch equation.md"
+    "Mechanics structures and materials/Materials/5 Mechanical Properties/grain boundary strengthening.md"
   ]
 }
