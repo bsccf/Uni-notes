@@ -46,3 +46,10 @@ i_4 =& I_3
 > - The sign of the pd of the component is descided by the direction of the pd arrow relative to the current loop arrow.
 > - The pd accross the component is worked out using the current on that branch
 > - The current on the branch is worked out using the sum of the adjasent loop currents
+> 
+> We can rewrite the equations into the following form:
+> $$
+\begin{align*}
+V = 
+\end{align*}
+$$
