@@ -19,6 +19,6 @@ We can start to predict how the cross section of the beam changes with this stra
 We can also use [[Hooke's law]], now lets do some meht:
 
 $$ \begin{align*}
-\epsilon_{xx} &=  & \epsilon_{xx} &= \frac{y}{R}\\
-&
+\epsilon_{yy} &= \dfrac{\sigma_{yy}}{E}  & \epsilon_{yy} = \epsilon_{yy} &= -v \epsilon_{xx} & \epsilon_{xx} &= \frac{y}{R}\\
+\epsilon_{yy} &= \dfrac{\sigma_{yy}}{E}
 \end{align*} $$
