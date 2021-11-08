@@ -31,4 +31,9 @@ $$ \begin{align*}
 F =& \frac{E}{R} \int \int y \cdot dy\cdot dz\\
  =& 0
 \end{align*} $$
-Further $\frac{E}{R} \neq 0$ because E is [[modulus of elasticity]] and R is the radius of the circle that the beam's being modelled as [[longitudinal strain in a beam#]]
+Further $\frac{E}{R} \neq 0$ because E is [[modulus of elasticity]] and R is the radius of the circle that the beam's being modelled ([[deformation due to bending in beams#Assumptions|look here if confused]]). So that means that we can simplify to:
+$$ \begin{align*}
+0 =& \int \int y \cdot dy\cdot dz\\
+\end{align*} $$
+
+### Implications
