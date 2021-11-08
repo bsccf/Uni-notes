@@ -14,3 +14,5 @@ It should also be noted that since stress=0 the length of the neutral surface is
 #### Neutral axis
 This is just the line that the neutral surface makes with the cross section of a beam:
 ![[Pasted image 20211108094317.png]]
+
+![[neutral axis position]]
