@@ -10,3 +10,6 @@ We have made some progress in how stress/straing is applied on a material at dif
 ![[Pasted image 20211108122435.png]]
 So if any of that confused you, well you are about to [[experience pain|suffer]], god that embed is disgusting (click on it pussy).
 
+### Integration solves all problems
+![[finding ]]
+
