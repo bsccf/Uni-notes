@@ -15,4 +15,4 @@ We can start to predict how the cross section of the beam changes with this stra
 
 ![[Pasted image 20211108111242.png]]
 
-We can also use [[hookes]]
+We can also use [[Hooke's law]]
