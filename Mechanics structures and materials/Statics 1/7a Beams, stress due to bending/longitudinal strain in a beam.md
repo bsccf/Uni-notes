@@ -32,5 +32,10 @@ $$ \begin{align*}
 \end{align*} $$
 
 #### Implications
+> ### $$ \epsilon_{xx} = \frac{y}{R} $$
+>> where:
+>> $\epsilon_{xx}=$ 
+>> $y=$ Verticle 
+>> $R=$ Radius of the circle arc representing the beam
 What this tells us is that strain varies linearly with distance away from the neutral surface.
 ![[Pasted image 20211108101315.png]]

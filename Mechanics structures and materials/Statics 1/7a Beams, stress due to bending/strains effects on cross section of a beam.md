@@ -9,3 +9,6 @@ If we look at how strain varies through the depth of a beam, [[longitudinal stra
 
 ![[poisson's ratio#^43d8df]]
 
+Producing $\epsilon_{yy} = -v\epsilon_{xx}$
+
+![[Pasted image 20211108111242.png]]
