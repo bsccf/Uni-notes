@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 1/7a Beams, stress due to bending/Stress due to bending notes.md",
+            "file": "Mechanics structures and materials/Statics 1/7a Beams, stress due to bending/deformation due to bending in beams.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 1/7a Beams, stress due to bending/Stress due to bending notes.md",
+                "file": "Mechanics structures and materials/Statics 1/7a Beams, stress due to bending/deformation due to bending in beams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,7 @@
   },
   "active": "77968dddc0bb47bb",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Statics 1/7a Beams, stress due to bending/deformation due to bending in beams.md",
     "Mechanics structures and materials/Statics 1/7a Beams, stress due to bending/Stress due to bending notes.md",
     "Mechanics structures and materials/Statics 1/Statics 1 read order.md",
     "Electrical and electronic systems/6a Mesh analysis/mesh analysis method.md",
@@ -122,7 +123,6 @@
     "Electrical and electronic systems/Electrical read order.md",
     "Electrical and electronic systems/5b Electrical Resonance/electrical resonance.md",
     "Electrical and electronic systems/5b Electrical Resonance/electrical reactance.md",
-    "Electrical and electronic systems/5a Inductors/inductor.md",
-    "Electrical and electronic systems/5a Inductors/Indictors notes.md"
+    "Electrical and electronic systems/5a Inductors/inductor.md"
   ]
 }
