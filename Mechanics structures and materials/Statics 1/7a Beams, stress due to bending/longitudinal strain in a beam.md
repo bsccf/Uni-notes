@@ -15,7 +15,7 @@ We will work under the same assumptions as from [[deformation due to bending in 
 ![[Pasted image 20211108095704.png]]
 
 If we get a general equation for [[Strain|strain]] ($\epsilon_{xx}$) on the surface A' B':
-$$ \epsilon_{xx} = \frac{A'B'-AB}{AB} $$
+$$ \epsilon_{xx} = \frac{A'B'-AB}{AB} $$ ^234340
 
 Here $AB$ represents the origional dimentions of the beam so since the [[neutral surface and neutral axis|neutral surface]] is equivilent and equal:
 $$ \begin{align*}
@@ -34,8 +34,13 @@ $$ \begin{align*}
 #### Implications
 > ### $$ \epsilon_{xx} = \frac{y}{R} $$
 >> where:
->> $\epsilon_{xx}=$ 
->> $y=$ Verticle 
+>> $\epsilon_{xx}=$ Longitudinal strain
+>> $y=$ Verticle distance from [[neutral surface and neutral axis|neutral surface]]
 >> $R=$ Radius of the circle arc representing the beam
+^a731ed
+
 What this tells us is that strain varies linearly with distance away from the neutral surface.
 ![[Pasted image 20211108101315.png]]
+
+
+
