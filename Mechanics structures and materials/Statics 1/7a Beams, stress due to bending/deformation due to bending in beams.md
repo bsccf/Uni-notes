@@ -15,4 +15,5 @@ Then apply a bending moment to it:
 You can get an intuitive feeling that it would compress towords the top and stretch towords the bottom, but as you can see the plane cross section remains strait.
 
 ### Assumptions
-Of course in reality everything has unexpected behaviour, so for analysis
+Of course in reality everything has [[random idk|unexpected behaviour]], so for analysis we are going to work under some assumtions:
+- 
