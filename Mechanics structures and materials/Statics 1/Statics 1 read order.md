@@ -14,3 +14,4 @@ tags: ["NotesPage"]
 8) Look in file 6a and see examples
 9) [[Relationships between distributed load, shear force and bending moment]]
 10) [[Stress due to bending notes]]
+11) [[Bending of beams notes]]
