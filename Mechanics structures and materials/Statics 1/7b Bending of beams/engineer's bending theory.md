@@ -7,3 +7,4 @@ tags: ["Question","QFormat3"]
 ## Engineer's bending theory
 We have made some progress in how stress/straing is applied on a material at different points using [[strains effects on cross section of a beam]], but this dosn't really work if we want to find stress over a given area:
 ![[Pasted image 20211108122435.png]]
+So if any of that confused you, well you are about to [[experience pain|suffer]].
