@@ -43,6 +43,6 @@ If we think about what:
 $$ \begin{align*}
 0 =& \int \int y \cdot dy\cdot dz\\
 \end{align*} $$
-Actually means, it is the total 
+Actually means, it is where the total area above a line on the cross section equals the total area below. Since we know this line to be defined as the [[neutral surface and neutral axis|neutral axis]], we can extend the definition of the neutral axis to be a line that passes through a beam cross sections centre of area.
 
 ![[Pasted image 20211108131114.png]]
