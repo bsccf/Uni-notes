@@ -5,8 +5,7 @@ tags: ["Question","QFormat3"]
 
 #### What is
 ## Strains effects on cross section of a beam
-
-![[Pasted image 20211108111242.png]]
+### Math
 
 If we look at how strain varies through the depth of a beam, [[longitudinal strain in a beam#Implications]]. 
 
@@ -19,6 +18,12 @@ We can start to predict how the cross section of the beam changes with this stra
 We can also use [[Hooke's law]], now lets do some meht:
 
 $$ \begin{align*}
-\epsilon_{yy} &= \dfrac{\sigma_{yy}}{E}  & \epsilon_{yy} = \epsilon_{yy} &= -v \epsilon_{xx} & \epsilon_{xx} &= \frac{y}{R}\\
-\epsilon_{yy} &= \dfrac{\sigma_{yy}}{E}
+\sigma_{yy} &= E\epsilon_{yy} & \epsilon_{yy} = \epsilon_{yy} &= -v \epsilon_{xx} & \epsilon_{xx} &= \frac{y}{R}\\
+\sigma_{yy} &=-v E  \epsilon_{xx}\\
+&=   \frac{-v Ey}{R}
 \end{align*} $$
+
+### Implications
+![[Pasted image 20211108112926.png]]
+![[Pasted image 20211108111242.png]]
+
