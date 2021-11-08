@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["stress"]
 tags: ["Question","QFormat3"]
 ---
 

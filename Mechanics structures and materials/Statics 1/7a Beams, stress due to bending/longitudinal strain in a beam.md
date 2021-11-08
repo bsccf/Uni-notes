@@ -13,3 +13,5 @@ We will work under the same assumptions as from [[deformation due to bending in 
 
 ### Ma(e)th
 ![[Pasted image 20211108095704.png]]
+
+If we get a general equation for [[Strain|strain]] ($\epsilon_{xx}$) on the surface A' 
