@@ -37,3 +37,4 @@ $$ \begin{align*}
 \end{align*} $$
 
 ### Implications
+![[neutral axis position]]
