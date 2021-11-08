@@ -13,4 +13,6 @@ This is a measure of the [[poisson effect]], it is the ratio of the lateral and 
 >> $\epsilon_z=$ lateral strain
 >> $\epsilon_y=$ axial strain
 
+^43d8df
+
 Basically it measures how much the material will contract given an elongation, most materials have a possions ratio between 0 and 0.5.
