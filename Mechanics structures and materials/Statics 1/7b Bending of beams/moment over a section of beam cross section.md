@@ -11,8 +11,10 @@ Look the method is basically just what we did in [[force over a section of beam 
 
 We also multiply the force of a given point by it's distance away from the [[neutral surface and neutral axis|neutral axis]]:
 $$ \begin{align*}
-M =&\\
+M =& \int \int F_{yx}y \cdot dy\cdot dz &\\
 =& \frac{E}{R} \int \int yy \cdot dy\cdot dz\\
 =& \frac{E}{R} \int \int y^{2} \cdot dy\cdot dz
 \end{align*} $$
 Giving us the anticlockwise moment, pog!
+
+![[second moment of area]]
