@@ -12,3 +12,10 @@ $$ F = \sigma_{xx}(dy\cdot dz) $$
 But getting the force of a neglibible sized points kinda useless (shock), now if only there was some method... something that could find the area enclosed by a graph, if only that existed. It would be amazing.
 Well guess what, it's called calculus and you already knew that, remember when you [[kekekkw|asked your teacher]] "but when will I use this?" well now (bitch).
 
+$$ \begin{align*}
+F =& \int \int \sigma_{xx}\cdot dy\cdot dz & \sigma_{xx} =& \frac{Ey}{R}\\
+F =& \int \int \frac{Ey}{R} \cdot dy\cdot dz\\
+F =& \int \int \frac{Ey}{R} \cdot dy\cdot dz
+\end{align*} $$
+
+I used [[youngs modulus]] and [[longitudinal strain in a beam#Implications]]
