@@ -7,6 +7,8 @@ tags: ["Question","QFormat3"]
 ## Engineer's bending theory
 ### The equation you care about
 
+Also note that this equation is only true for pure bending (when shear force is zero), but it still acts as a resonably accurate approximation even when this isn't the case, so you can still use it when there is a shear force.
+
 > ### $$ \frac{M}{I} = \frac{\sigma}{y} = \frac{E}{R} $$
 >> where:
 >> $M=$ anticlockwise moment about the [[neutral surface and neutral axis|neutral axis]]  
