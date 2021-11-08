@@ -19,6 +19,6 @@ $$ \epsilon_{xx} = \frac{A'B'-AB}{AB} $$
 
 Here $AB$ represents the origional dimentions of the beam so since the [[neutral surface and neutral axis|neutral surface]] is equivilent and equal:
 $$ \begin{align*}
-AB &= A_0'B_0' = Rd\theta \\
-\epsilon_{xx} &= \frac{A'B'-A_0'B_0'}{A_0'B_0'}
+AB = A_0'B_0' = Rd\theta
 \end{align*} $$
+Note that $Rd\theta$ uses radians
