@@ -5,4 +5,5 @@ tags: ["Question","QFormat3"]
 
 #### What is
 ## Engineer's bending theory
-We have made some progress in how stress is applied
+We have made some progress in how stress/straing is applied on a material at different points using [[strains effects on cross section of a beam]], but this dosn't really work if we want to find stress over a given area:
+![[Pasted image 20211108122435.png]]
