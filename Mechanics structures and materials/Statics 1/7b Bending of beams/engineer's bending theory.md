@@ -19,9 +19,6 @@ Also note that this equation is only true for pure bending (when shear force is 
 >> $E=$ [[modulus of elasticity]]
 >> $R=$ Radius of circle
 
-### Example
-![[Pasted image 20211108150034.png]]
-
 ### Prooving this madness
 We have made some progress in how stress/straing is applied on a material at different points using [[strains effects on cross section of a beam]], but this dosn't really work if we want to find stress over a given area:
 ![[Pasted image 20211108122435.png]]
