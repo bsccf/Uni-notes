@@ -16,4 +16,7 @@ You can get an intuitive feeling that it would compress towords the top and stre
 
 ### Assumptions
 Of course in reality everything has [[random idk|unexpected behaviour]], so for analysis we are going to work under some assumtions:
+- The plane cross section remains a plane under loading conditions
+- The beam is bent into a circular arc
+- The radius of curviture of the circle is large compared to the depth of the beam
 - 
