@@ -18,5 +18,10 @@ You can get an intuitive feeling that it would compress towords the top and stre
 Of course in reality everything has [[random idk|unexpected behaviour]], so for analysis we are going to work under some assumtions:
 - The plane cross section remains a plane under loading conditions
 - The beam is bent into a circular arc
-- The radius of curviture of the circle is large compared to the depth of the beam
-- 
+- The radius of curviture of the circle is large compared to the thickness of the beam
+- Tensile and compressive stresses act longitudionaly
+- The beam is expressing linear elastic behaviour and has the same [[youngs modulus]] for both tension and compression
+
+#### Explenation of what that means
+This is what we mean by "modelling it as a circular arc", this is exagerated though. In reality we would model it as a much more gentle curve.
+![[Pasted image 20211108091957.png]]
