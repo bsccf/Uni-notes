@@ -7,11 +7,8 @@
         "id": "532436aeb835e75c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Mechanics structures and materials/Statics 1/7b Bending of beams/engineer's bending theory.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 1/7b Bending of beams/engineer's bending theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",

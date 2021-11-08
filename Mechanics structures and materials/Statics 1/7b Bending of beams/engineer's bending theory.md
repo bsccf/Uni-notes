@@ -11,7 +11,7 @@ tags: ["Question","QFormat3"]
 >> where:
 >> $M=$ anticlockwise moment about the [[neutral surface and neutral axis|neutral axis]]  
 >> $I_{zz}=I=\int \int y^{2} \cdot dy\cdot dz=$ The resistance to bending due to the geometry of the beams cross section
->> $\sigma=$stress
+>> $\sigma=$ stress
 >> $y=$ displacement from [[neutral surface and neutral axis|neutral axis]]
 >> $E=$ [[modulus of elasticity]]
 >> $R=$ Radius of circle
