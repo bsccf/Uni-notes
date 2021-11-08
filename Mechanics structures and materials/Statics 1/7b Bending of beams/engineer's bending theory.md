@@ -13,3 +13,4 @@ So if any of that confused you, well you are about to [[experience pain|suffer]]
 ### Integration solves all problems
 ![[force over a section of beam cross section]]
 
+![[moment over a section of beam cross section]]
