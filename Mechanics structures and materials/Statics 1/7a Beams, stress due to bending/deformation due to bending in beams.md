@@ -25,3 +25,11 @@ Of course in reality everything has [[random idk|unexpected behaviour]], so for 
 #### Explenation of what that means
 This is what we mean by "modelling it as a circular arc", this is exagerated though. In reality we would model it as a much more gentle curve.
 ![[Pasted image 20211108091957.png]]
+
+This is the origional beam segment that gets defomed in the image above.
+![[Pasted image 20211108092144.png]]
+
+As you can see the top gets compressed and the bottoms in tension, of course depending on the way the moments and [[shear stress]] is applied will change where it is under compression and tension.
+
+### Neutral surface and neutral axis
+![[neutral surface and neutral axis]]
