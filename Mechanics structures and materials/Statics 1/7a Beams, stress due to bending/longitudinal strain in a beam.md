@@ -21,4 +21,14 @@ Here $AB$ represents the origional dimentions of the beam so since the [[neutral
 $$ \begin{align*}
 AB = A_0'B_0' = Rd\theta
 \end{align*} $$
-Note that $Rd\theta$ uses radians
+also:
+$$ A'B' = (R+y)d\theta $$
+Note that $Rd\theta$ uses radians, and subbing back into the strain equation:
+
+$$ \begin{align*}
+\epsilon_{xx} &= \frac{(R+y)d\theta-Rd\theta}{Rd\theta}\\
+&= \frac{(R+y)-R}{R}\\
+&= \frac{y}{R}
+\end{align*} $$
+
+#### Imp
