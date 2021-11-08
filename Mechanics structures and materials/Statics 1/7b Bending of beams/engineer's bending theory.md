@@ -14,3 +14,7 @@ So if any of that confused you, well you are about to [[experience pain|suffer]]
 ![[force over a section of beam cross section]]
 
 ![[moment over a section of beam cross section]]
+
+### What it actually is
+The resaults of all of this mess can be summarized as:
+$$ \frac{M}{I} = \sig $$

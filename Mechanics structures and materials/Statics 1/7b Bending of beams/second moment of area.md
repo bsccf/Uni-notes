@@ -13,5 +13,5 @@ Refer to [[moment over a section of beam cross section]] for proof and stuff.
 >> where:
 >> $M=$ anticlockwise moment about the [[neutral surface and neutral axis|neutral axis]]  
 >> $E=$ [[modulus of elasticity]]
->> $R=$ Radius of circle ()
+>> $R=$ Radius of circle
 >> $I_{zz}=I=\int \int y^{2} \cdot dy\cdot dz=$ The resistance to bending due to the geometry of the beams cross section
