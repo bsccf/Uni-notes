@@ -37,4 +37,12 @@ $$ \begin{align*}
 \end{align*} $$
 
 ### Implications
-![[neutral axis position]]
+#### [[neutral axis position|Neutral axis position]]
+
+If we think about what:
+$$ \begin{align*}
+0 =& \int \int y \cdot dy\cdot dz\\
+\end{align*} $$
+Actually means, it is the total 
+
+![[Pasted image 20211108131114.png]]
