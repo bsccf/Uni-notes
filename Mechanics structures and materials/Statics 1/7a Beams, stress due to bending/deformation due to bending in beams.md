@@ -34,4 +34,4 @@ As you can see the top gets compressed and the bottoms in tension, of course dep
 ### Strain
 ![[longitudinal strain in a beam]]
 
-![[]]
+![[strains effects on cross section of a beam]]
