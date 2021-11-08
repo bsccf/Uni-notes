@@ -31,4 +31,6 @@ $$ \begin{align*}
 &= \frac{y}{R}
 \end{align*} $$
 
-#### Imp
+#### Implications
+What this tells us is that strain varies linearly with distance away from the neutral surface.
+![[Pasted image 20211108101315.png]]
