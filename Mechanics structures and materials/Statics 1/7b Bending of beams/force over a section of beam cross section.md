@@ -25,4 +25,10 @@ F =& \frac{E}{R} \int \int y \cdot dy\cdot dz
 
 Also note that $\int \int y \cdot dy\cdot dz$ is known as the [[first moment of area]].
 
-#### Force equ
+#### Force equilibrium
+But we know that the total force acting on the cross section must be 0 because it's in equalibrium:
+$$ \begin{align*}
+F =& \frac{E}{R} \int \int y \cdot dy\cdot dz\\
+ =& 0
+\end{align*} $$
+Further $\frac{E}{R} \neq 0$ because E is [[modulus of elasticity]] and R is the radius of the circle that the beam's being modelled as [[longitudinal strain in a beam#]]
