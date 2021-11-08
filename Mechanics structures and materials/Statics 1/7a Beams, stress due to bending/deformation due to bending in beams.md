@@ -31,5 +31,5 @@ This is the origional beam segment that gets defomed in the image above.
 
 As you can see the top gets compressed and the bottoms in tension, of course depending on the way the moments and [[shear stress]] is applied will change where it is under compression and tension.
 
-### Neutral surface and neutral axis
-![[neutral surface and neutral axis]]
+### Longitudional strain
+![[longitudinal strain in a beam]]
