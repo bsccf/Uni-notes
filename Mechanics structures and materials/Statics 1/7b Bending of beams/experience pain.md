@@ -1,6 +1,6 @@
-![[video1-5.mp4#loop#play]]
+![[video1-5.mp4#loop&play]]
 ![[Among_Us_Reference.mp4#play]]
-![[SPOILER_When_the_Neco_Arc_is_sus.mp4#play]]
+![[SPOILER_When_the_Neco_Arc_is_sus.mp4#loop&play]]
 ![[video07.mov]]
 ![[yt1s.com_-_Amogus.mp4]]
 ![[XiaoYing_Video_1624323946155-1.mp4]]
