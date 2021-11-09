@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
-            "mode": "preview"
+            "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 4.5/Lift and stuff glide angle idk.md",
+            "mode": "source"
           }
         }
       }
@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 134
+    "width": 287
   },
   "right": {
     "id": "12c168c46d609ed6",
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
+                "file": "SESA1015/unordered/Flight mechanics/Flight mechanics 4.5/Lift and stuff glide angle idk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "ab02500863a8b720",
   "lastOpenFiles": [
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 4.5/Lift and stuff glide angle idk.md",
     "SESA1015/unordered/Flight mechanics/Mechanics of flight.md",
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 4/minimum power speed.md",
     "Mechanics structures and materials/Statics 1/7b Bending of beams/engineer's bending theory.md",
     "Mechanics structures and materials/Statics 1/7a Beams, stress due to bending/deformation due to bending in beams.md",
     "Mechanics structures and materials/Statics 1/7a Beams, stress due to bending/longitudinal strain in a beam.md",
     "Electrical and electronic systems/3a Circuit analysis/factors that effect resistivity.md",
     "Electrical and electronic systems/3a Circuit analysis/resistivity.md",
-    "conflict-files-obsidian-git.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 4/steady flight and true airspeed.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
