@@ -47,5 +47,13 @@
       "key": "K"
     }
   ],
-  "editor:insert-link": []
+  "editor:insert-link": [],
+  "templater-obsidian:Templates/SESA question F3.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "K"
+    }
+  ]
 }
