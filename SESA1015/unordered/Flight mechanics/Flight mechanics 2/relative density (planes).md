@@ -5,8 +5,8 @@ tags: ["Question","QFormat3"]
 
 #### What is
 ## Relative density (planes)
-> $$ \rho_r = \frac{\rho}{\rho_0} $$ 
+> ### $$ \sigma = \frac{\rho}{\rho_0} $$ 
 >> where:
+>> $\sigma=$ relative density
 >> $\rho=$ local air density
 >> $\rho_0=$ air density at sea level
->> $\rho_r=$ relative density
