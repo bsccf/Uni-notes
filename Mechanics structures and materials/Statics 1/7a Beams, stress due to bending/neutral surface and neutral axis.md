@@ -16,3 +16,5 @@ This is just the line that the neutral surface makes with the cross section of a
 ![[Pasted image 20211108094317.png]]
 
 ![[neutral axis position]]
+
+Also note that the total moments above and below don't need to be equal, which is really annoying because I thought that was the case and it would have [[simplified my working.]]
