@@ -7,8 +7,11 @@
         "id": "ab02500863a8b720",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "SESA1015/unordered/Flight mechanics/endurance and range of jet aircraft.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SESA1015/unordered/Flight mechanics/endurance and range of jet aircraft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
