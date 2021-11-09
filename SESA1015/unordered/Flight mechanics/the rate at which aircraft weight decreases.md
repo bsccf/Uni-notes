@@ -6,7 +6,7 @@ tags: ["Question","QFormat3"]
 #### How can you get
 ## The rate at which aircraft weight decreases
 ### Introduction
-Unless you are drone striking an orphanage the only reason your plane should really be loosing weight is through fuel consumption, and here's a real shocker fuel consumption is determined by... engines. (atleast I hope so)
+Unless you are drone striking an orphanage the only reason your plane should really be loosing weight is through fuel consumption, and here's a real shocker fuel consumption is determined by... engines. (at least I hope so)
 
 So we need a nice way of expressing fuel consumption in terms of thrust, to do this we use [[specific fuel consumption (aircraft)]].
 
@@ -37,3 +37,4 @@ $$\begin{align*}
 >> $\frac{C_D}{C_L}^{-1}=$ [[lift to drag ratio]]
 
 #### Elaboration on conditions
+It is a assumed that the [[lift to drag ratio]] is constant, but this requires flight at a constant angle of attack.
