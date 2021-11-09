@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/unordered/Flight mechanics/cruise pattern.md",
+            "file": "SESA1015/unordered/Flight mechanics/the rate at which aircraft weight decreases.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/unordered/Flight mechanics/cruise pattern.md",
+                "file": "SESA1015/unordered/Flight mechanics/the rate at which aircraft weight decreases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,13 +114,13 @@
   },
   "active": "e6657b4e207aede9",
   "lastOpenFiles": [
+    "SESA1015/unordered/Flight mechanics/the rate at which aircraft weight decreases.md",
     "SESA1015/unordered/Flight mechanics/cruise pattern.md",
     "Templates/SESA question F3.md",
-    "Templates/SESA Notes.md",
-    "Templates/MEE chapter root file.md",
-    "Templates/Maths equation highlighted.md",
     "Templates/SESA Simple def.md",
-    "SESA1015/unordered/Flight mechanics/the rate at which aircraft weight decreases.md",
+    "Templates/Maths equation highlighted.md",
+    "Templates/MEE chapter root file.md",
+    "Templates/SESA Notes.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 4/lift to drag ratio.md",
     "Templates/latex multiline eq.md",
     "SESA1015/unordered/Flight mechanics/Untitled.md"

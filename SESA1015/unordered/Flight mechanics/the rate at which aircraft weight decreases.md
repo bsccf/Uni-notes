@@ -47,3 +47,4 @@ Here we have the choice of changing:
 -  true airspeed
 -  angle of attack ([[Effect of angle on lift coefficient|see why]])
 How these things are changed throughout the flight is called the [[cruise pattern]].
+
