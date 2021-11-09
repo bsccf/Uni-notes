@@ -22,5 +22,13 @@
       ],
       "key": "'"
     }
+  ],
+  "templater-obsidian:Templates/latex multiline eq.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": ";"
+    }
   ]
 }

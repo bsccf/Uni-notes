@@ -20,7 +20,6 @@ Well we know that:
 
 So lets sub that into out [[specific fuel consumption (aircraft)|s.f.c]] equation.
 
-
 $$\begin{align*}
-    &= <% tp.file.cursor(1) %>
+    &= 
 \end{align*}$$
