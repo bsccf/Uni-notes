@@ -41,7 +41,9 @@ It is a assumed that the [[lift to drag ratio]] is constant, but this requires l
 
 So to decrease lift, we need to change atleast one of the values which determine it:
 ![[Lift equation#^1f2714]]
+
 Here we have the choice of changing:
 - density
 -  true airspeed
 -  angle of attack ([[Effect of angle on lift coefficient|see why]])
+How these things are changed throughout the flight is called the [[cruise pattern]].
