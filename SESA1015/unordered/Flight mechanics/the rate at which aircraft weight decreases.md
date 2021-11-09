@@ -37,9 +37,11 @@ $$\begin{align*}
 >> $\frac{C_D}{C_L}^{-1}=$ [[lift to drag ratio]]
 
 #### Elaboration on conditions
-It is a assumed that the [[lift to drag ratio]] is constant, but this requires:
-- Flight at a constant angle of attack
-- Lift to decrease as weight decreases (fuel use)
+It is a assumed that the [[lift to drag ratio]] is constant, but this requires lift to decrease as weight decreases (fuel use).
+
 So to decrease lift, we need to change atleast one of the values which determine it:
 ![[Lift equation#^1f2714]]
-Here we have the choice of density, true airspeed and
+Here we have the choice of changing:
+- density
+-  true airspeed
+-  angle of attack ([[Effect of angle on lift coefficient|see why]])
