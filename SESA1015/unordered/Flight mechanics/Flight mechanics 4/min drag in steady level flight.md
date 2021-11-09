@@ -30,4 +30,6 @@ This also shows that minimum drag is independent of density, which can be seen o
 
 ![[Pasted image 20211101222531.png]]
 
+Really important to note that minimum drag dosn't acctually change with altitude, meaning your thrust dosn't change... so if you fly at a really high altitude you can go faster without increasing fuel consumption. This is what we call [[very based|"based"]].
+
 (this is lots of maths so lets [[lmao just shitposting|look at important work]])
