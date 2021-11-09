@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 1/7b Bending of beams/engineer's bending theory.md",
-            "mode": "preview"
+            "file": "SESA1015/unordered/Flight mechanics/Mechanics of flight.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Resistance",
+                "query": "suffer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 1/7b Bending of beams/engineer's bending theory.md",
+                "file": "SESA1015/unordered/Flight mechanics/Mechanics of flight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,7 @@
   },
   "active": "ab02500863a8b720",
   "lastOpenFiles": [
+    "SESA1015/unordered/Flight mechanics/Mechanics of flight.md",
     "Mechanics structures and materials/Statics 1/7b Bending of beams/engineer's bending theory.md",
     "Mechanics structures and materials/Statics 1/7a Beams, stress due to bending/deformation due to bending in beams.md",
     "Mechanics structures and materials/Statics 1/7a Beams, stress due to bending/longitudinal strain in a beam.md",
@@ -122,7 +123,6 @@
     "SESA1015/unordered/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
     "conflict-files-obsidian-git.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 4/steady flight and true airspeed.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 4/Steady level flight.md",
-    "SESA1015/unordered/Flight mechanics/Flight mechanics 2/Lift coefficient.md"
+    "SESA1015/unordered/Flight mechanics/Flight mechanics 4/Steady level flight.md"
   ]
 }
