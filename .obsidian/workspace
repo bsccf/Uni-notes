@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 1/7b Bending of beams/Bending of beams notes.md",
+            "file": "Mechanics structures and materials/Statics 1/7a Beams, stress due to bending/deformation due to bending in beams.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 1/7b Bending of beams/Bending of beams notes.md",
+                "file": "Mechanics structures and materials/Statics 1/7a Beams, stress due to bending/deformation due to bending in beams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +110,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233,
-    "collapsed": true
+    "width": 233
   },
   "active": "ab02500863a8b720",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Statics 1/7a Beams, stress due to bending/deformation due to bending in beams.md",
+    "Mechanics structures and materials/Statics 1/7a Beams, stress due to bending/longitudinal strain in a beam.md",
     "Mechanics structures and materials/Statics 1/7b Bending of beams/Bending of beams notes.md",
     "Mechanics structures and materials/Statics 1/7b Bending of beams/engineer's bending theory.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 4.5/Lift and stuff glide angle idk.md",
     "SESA1015/unordered/Flight mechanics/Mechanics of flight.md",
     "SESA1015/unordered/Flight mechanics/Flight mechanics 4/minimum power speed.md",
-    "Mechanics structures and materials/Statics 1/7a Beams, stress due to bending/deformation due to bending in beams.md",
-    "Mechanics structures and materials/Statics 1/7a Beams, stress due to bending/longitudinal strain in a beam.md",
     "Electrical and electronic systems/3a Circuit analysis/factors that effect resistivity.md",
     "Electrical and electronic systems/3a Circuit analysis/resistivity.md"
   ]
