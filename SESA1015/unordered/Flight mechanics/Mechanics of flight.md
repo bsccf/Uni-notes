@@ -10,6 +10,7 @@ Given lecture notes: [[SESA1015 lectures_2020.pdf]]
 Read order:
 1) [[The atmospheric environment. fundamental convepts and definitions]]
 2)  [[Typical aerodynamic characteristincs for conventional aircraft]]
+3) [[calculating minimum drag]]
 
 Example question:
 ![[AERODYNAMIC.mp4]]
