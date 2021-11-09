@@ -12,3 +12,5 @@ So we need a nice way of expressing fuel consumption interms of thrust, to do th
 
 ![[specific fuel consumption (aircraft)]]
 
+### Maths
+
