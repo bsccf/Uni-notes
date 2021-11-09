@@ -14,5 +14,13 @@
       ],
       "key": "B"
     }
+  ],
+  "editor:toggle-spellcheck": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "'"
+    }
   ]
 }

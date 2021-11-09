@@ -7,5 +7,6 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
   "autoConvertHtml": false,
-  "attachmentFolderPath": "images"
+  "attachmentFolderPath": "images",
+  "spellcheck": false
 }
