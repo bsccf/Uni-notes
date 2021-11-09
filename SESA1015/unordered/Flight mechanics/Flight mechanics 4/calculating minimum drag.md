@@ -57,6 +57,8 @@ Hence focusing on speed:
 ![[Pasted image 20211101214128.png]]
 This equation $D = A'V^{2} + \frac{B'}{V^{2}}$ implies that there are 2 possible speeds for any given drag/thrust, this is true to an extent but in reality many of the slower speeds become impossible when [[stalling speed]] is considered.
 
+It should also be noted that min drag occurs when [[profile drag coefficient|profile drag]] = [[induced drag coefficient|induced drag]].
+
 #### Calculating minimum drag
 Finally, now just use [[MEE Differentiation 1|Differentiation]]:
 
