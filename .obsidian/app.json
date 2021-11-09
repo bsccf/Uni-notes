@@ -6,5 +6,6 @@
   "readableLineLength": false,
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "autoConvertHtml": false
+  "autoConvertHtml": false,
+  "attachmentFolderPath": "images"
 }
