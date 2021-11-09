@@ -22,5 +22,8 @@ So lets sub that into out [[specific fuel consumption (aircraft)|s.f.c]] equatio
 
 $$\begin{align*}
   \frac{dW(t)}{dt}  &= -sT\\
-&= -sD
+&= -sD\\
+&= -s \frac{D}{L}L\\
+&= -s \frac{D}{L}W & \frac{L}{D} &= \frac{C_L}{C_D} [[endurance and range of jet aircraft]] \\
+&= -s \frac{C_D}{C_L}W
 \end{align*}$$
