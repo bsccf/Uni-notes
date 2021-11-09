@@ -8,11 +8,11 @@ tags: ["Question","QFormat3"]
 ### Introduction
 Unless you are drone striking an orphanage the only reason your plane should really be loosing weight is through fuel consumption, and here's a real shocker fuel consumption is determined by... engines. (atleast I hope so)
 
-So we need a nice way of expressing fuel consumption interms of thrust, to do this we use [[specific fuel consumption (aircraft)]].
+So we need a nice way of expressing fuel consumption in terms of thrust, to do this we use [[specific fuel consumption (aircraft)]].
 
 ![[specific fuel consumption (aircraft)]]
 
-### When in equalibrium
+### When in equilibrium
 Well we know that:
 - Thrust = Drag
 - Lift = Weight
@@ -27,4 +27,13 @@ $$\begin{align*}
 &= -s \frac{C_D}{C_L}W
 \end{align*}$$
 
-Hence:
+#### Derived equation
+
+> ### $$ \frac{dW(t)}{dt} = -sW \frac{C_D}{C_L} $$ 
+>> where:
+>> $s=$ [[specific fuel consumption (aircraft)|specific fuel consumption]] 
+>> $W(t)=$ weight at a given time
+>> $W=$ Current total aircraft weight
+>> $\frac{C_D}{C_L}^{-1}=$ [[lift to drag ratio]]
+
+#### Elaboration on conditions
