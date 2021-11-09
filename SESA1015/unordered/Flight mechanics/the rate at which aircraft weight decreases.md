@@ -21,5 +21,6 @@ Well we know that:
 So lets sub that into out [[specific fuel consumption (aircraft)|s.f.c]] equation.
 
 $$\begin{align*}
-    &= 
+  \frac{dW(t)}{dt}  &= -sT\\
+&= -sD
 \end{align*}$$
