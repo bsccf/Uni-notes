@@ -55,5 +55,13 @@
       ],
       "key": "K"
     }
+  ],
+  "obsidian-zoom:zoom-in": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "."
+    }
   ]
 }
