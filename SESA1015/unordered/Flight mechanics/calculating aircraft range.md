@@ -13,7 +13,5 @@ $$\begin{align*}
    \frac{dW(t)}{dt} &= -sT\\
 & & W=&T & L=&W\\
 \frac{dW(t)}{dt} &= -sD &   &  &  1=&\frac{W}{L}\\
-\frac{dW(t)}{dt} &= -sD \frac{W}{L}\\
-&= \frac{dW}{dx} \frac{dx}{dt}\\
-&= \frac{dw}{dx} V
+\frac{dW(t)}{dt} &= -s \frac{WD}{L}\\
 \end{align*}$$
