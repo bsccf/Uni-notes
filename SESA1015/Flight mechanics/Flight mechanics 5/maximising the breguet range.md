@@ -11,6 +11,7 @@ We know that the [[Breguet range equation]] allows us to calculate aircraft rang
 ### Math time
 ![[Breguet range equation#^20c05c]]
 
-
+We know $T/\sigma=k$ from [[jet thrust variation in the stratosphere]].
 
 $R = \frac{1}{s} \frac{VL}{D} \ln\left(1+\frac{W_f}{W_s}\right)$
+
