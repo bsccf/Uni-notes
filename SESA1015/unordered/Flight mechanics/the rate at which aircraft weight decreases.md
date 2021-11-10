@@ -27,6 +27,8 @@ $$\begin{align*}
 &= -s \frac{C_D}{C_L}W
 \end{align*}$$
 
+^5fbc62
+
 #### Derived equation
 
 > ### $$ \frac{dW(t)}{dt} = -sW \frac{C_D}{C_L} $$ 
@@ -50,4 +52,3 @@ Here we have the choice of changing:
 -  angle of attack ([[Effect of angle on lift coefficient|see why]])
 -  
 How these things are changed throughout the flight is called the [[cruise pattern]].
-

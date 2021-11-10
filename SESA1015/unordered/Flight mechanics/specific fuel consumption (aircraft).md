@@ -16,4 +16,6 @@ Given as an equation relating to thrust:
 >> $T=$ Thrust
 >> $s=$ [[specific fuel consumption (aircraft)|specific fuel consumption]]
 
+^1d3da2
+
 So specific fuel consumption is basically a measure of an aircrafts engine efficiency, with smaller values meaning greater efficiency.
