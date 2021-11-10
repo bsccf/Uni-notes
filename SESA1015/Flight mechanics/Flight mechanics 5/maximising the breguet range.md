@@ -1,5 +1,5 @@
 ---
-aliases: ["maxamising aircraft range"]
+aliases: ["maxamising aircraft range","max breguet range speed"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -42,9 +42,19 @@ let \: 0&= \dfrac{{\pi}AC_{Do}-2KC_L^2}{{\pi}A\left(\frac{KC_L^2}{{\pi}A}+C_{Do}
 C_L &= \frac{C_{L_{MD}}}{\sqrt{2}}
 \end{align*}$$
 
-Since $V&\propto \frac{1}{\sqrt{C_D}}$:
+Here we used [[min drag lift coefficient in steady level flight]] to get $C_{L_{MD}}$
+
+Since $V \propto \frac{1}{\sqrt{C_D}}$:
 $$\begin{align*}
-  V_{opt\:range}  &= [4]\sqrt{2} V_MD
+  V_{opt\:range}  &= \sqrt[4]{2} V_{MD}
 \end{align*}$$
 
-Here we used [[min drag lift coefficient in steady level flight]] to get $C_{L_{MD}}$
+### Implications
+
+Hence we now know that the speed that gives the maximum breguest range is the [[min drag speed in steady level flight|min drag speed]]
+
+> ### $$  = $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
