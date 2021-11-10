@@ -26,5 +26,5 @@ k\sigma &= \frac{1}{2}( \rho_0 \sigma ) V^{2} S C_D\\
 \end{align*}$$
 
 Now to find the value of $C_L$ that achieves max range we need to differentiate $\frac{1}{\sqrt{C_D}} \frac{C_L}{C_D}$ with respect to $C_L$, then make that equal 0 to get the turning point.
-(if you have been paying attention $C_D$ is a function of $C_L$ so this is about to become a [[hahaha I am in pain|shitstorm]])
+(if you have been paying attention $C_D$ is a function of $C_L$ so this is about to become a [[hahaha I am in pain|shitstorm]].
 
