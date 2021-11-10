@@ -59,6 +59,3 @@ $$\begin{align*}
 $V_{MD}$ varies with altitude so $V_{opt\:range}$ will also do so, this has further implications when you consider that some [[cruise pattern|cruise climb techniques]] change altitudes. So a truely optimum flight path is one at this optimum speed at as high an altitude possible.
 
 [[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah|this took me a day to finish, all these notes... it's so annoying how unlinked everything in my refrence material is! Cool off with mememes]]
-
-You know what, fuck it you get to listen to this:
-![[final_60ab9dae96c7c5006142d87c_917341.mp4#play&loop]]
