@@ -40,4 +40,9 @@ Now consider that during flight the weight of fuel decreases, but total weight s
 
 This pattern is the [[cruise pattern|cruise climb technique]].
 
-It can 
+We can relate these values and how they change using the [[lift equation]].
+$$\begin{align*}
+   L&=\frac{1}{2}\rho V^{2}SC_L\\
+&= W & \rho&=\sigma \rho_0 \\
+ W&=\frac{1}{2}(\sigma \rho_0) V^{2}SC_L
+\end{align*}$$
