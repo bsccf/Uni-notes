@@ -17,5 +17,10 @@ In reality the weight of the aircraft isn't just fuel, it also contains "aircraf
 ![[weight of an aircraft]]
 
 ### Maths
-Now we have starting conditions defined and rate of chang
+Now we have starting conditions defined and rate of change, you can guess what comes next. Intergration! (fun)
 
+$$\begin{align*}
+    \frac{dW}{dt} &= -sW \frac{C_D}{C_L}\\
+\int \frac{1}{W} dW &= -s \frac{C_D}{C_L} \int  1 dt\\
+\ln(W) &= -s \frac{C_D}{C_L} t + k
+\end{align*}$$
