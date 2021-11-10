@@ -49,5 +49,8 @@ $$\begin{align*}
 \ln(W) &= -\frac{s}{V} \frac{D}{L}x + \ln(W_f+W_s)\\
 \ln\left(\frac{W}{W_f+W_s}\right) &= -\frac{s}{V} \frac{D}{L}x\\
 - \frac{V}{s} \frac{L}{D} \ln\left(\frac{W}{W_f+W_s}\right) &= x\\
-&
+\therefore \frac{V}{s} \frac{L}{D} \ln\left(1+\frac{W_f}{W_s}\right) &= x\\
 \end{align*}$$
+
+#### Final equation
+![[Breguet range equation]]
