@@ -29,6 +29,7 @@ Now to find the value of $C_L$ that achieves max range we need to differentiate 
 (if you have been paying attention $C_D$ is a function of $C_L$ so this is about to become a [[hahaha I am in pain|shitstorm]].
 
 $$\begin{align*}
-  \frac{1}{\sqrt{C_D}} \frac{C_L}{C_D} &= \dfrac{C_L}{C_D^{\frac{3}{2}}}\\
-&= 
+  \frac{1}{\sqrt{C_D}} \frac{C_L}{C_D} &= \dfrac{C_L}{C_D^{\frac{3}{2}}} & C_D &= C_{Do} + \dfrac{K(C_L)^{2}}{\pi A}\\
+&= \dfrac{C_L}{(C_{Do} + \dfrac{K(C_L)^{2}}{\pi A})^{\frac{3}{2}}}\\
+&= \dfrac{C_L}{(C_{Do} + \dfrac{K(C_L)^{2}}{\pi A})^{\frac{3}{2}}}
 \end{align*}$$
