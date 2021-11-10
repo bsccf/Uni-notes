@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/unordered/Flight mechanics/calculating aircraft fuel at a given time.md",
+            "file": "SESA1015/unordered/Flight mechanics/weight of an aircraft.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/unordered/Flight mechanics/calculating aircraft fuel at a given time.md",
+                "file": "SESA1015/unordered/Flight mechanics/weight of an aircraft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,7 @@
   },
   "active": "e6657b4e207aede9",
   "lastOpenFiles": [
+    "SESA1015/unordered/Flight mechanics/weight of an aircraft.md",
     "SESA1015/unordered/Flight mechanics/calculating aircraft fuel at a given time.md",
     "SESA1015/unordered/Flight mechanics/endurance and range of jet aircraft.md",
     "SESA1015/unordered/Flight mechanics/the rate at which aircraft weight decreases.md",
@@ -122,7 +123,6 @@
     "Templates/SESA question F3.md",
     "Templates/SESA Simple def.md",
     "Templates/Maths equation highlighted.md",
-    "Templates/MEE chapter root file.md",
-    "Templates/SESA Notes.md"
+    "Templates/MEE chapter root file.md"
   ]
 }
