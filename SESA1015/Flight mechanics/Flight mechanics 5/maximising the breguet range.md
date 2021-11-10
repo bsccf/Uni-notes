@@ -16,7 +16,10 @@ We know $T/\sigma=k$ from [[jet thrust variation in the stratosphere]]:
 $$\begin{align*}
    T = D &= \frac{1}{2}\rho V^{2} S C_D\\
 &  & T&=k\sigma & \rho&=\rho_0 \sigma\\
-k\sigma &= \frac{1}{2}( \rho_0 \sigma ) V^{2} S C_D
+k\sigma &= \frac{1}{2}( \rho_0 \sigma ) V^{2} S C_D\\
+& & \therefore V^{2}C_D&=constant\\
+& & also \: V&\propto \frac{1}{\sqrt{C_D}}\\
+&
 \end{align*}$$
 
 
