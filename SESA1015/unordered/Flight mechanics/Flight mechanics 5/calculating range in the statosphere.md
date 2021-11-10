@@ -18,7 +18,7 @@ We basically just combine:
 
 $$\begin{align*}
   R &= \frac{1}{s} \frac{VL}{D} \ln\left(1+\frac{W_f}{W_s}\right) & V&=Ma\\
-\therefore R &= \frac{a}{s} \frac{ML}{D} \ln\left(1+\frac{W_f}{W_s}\right)
+\therefore R &= \frac{}{s} \frac{(aM)L}{D} \ln\left(1+\frac{W_f}{W_s}\right)
 \end{align*}$$
 
-Currently the maximum mach number jets
+For current generation jets the maximum mach number we can reach is about 0.82 before shock waves start screwing with our aerodynamics. So yeah, physics don't like us having nice things like free speed.

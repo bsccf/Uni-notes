@@ -16,3 +16,5 @@ All the embeds will be focused on flight only, ignoring the costs of fuel for ta
 ![[comparing maximum range and maximum endurance]]
 
 ![[calculating range in the statosphere]]
+
+![[]]
