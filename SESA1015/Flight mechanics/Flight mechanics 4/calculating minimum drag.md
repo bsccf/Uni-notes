@@ -74,6 +74,8 @@ $$ \begin{align*}
 ### Min drag equations
 ![[min drag speed in steady level flight]]
 
+![[min drag lift coefficient in steady level flight]]
+
 ![[min drag in steady level flight]]
 
 ![[max lift to drag ratio]]
