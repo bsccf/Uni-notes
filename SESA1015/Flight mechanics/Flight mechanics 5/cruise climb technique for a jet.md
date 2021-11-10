@@ -33,4 +33,11 @@ $$\begin{align*}
 \therefore \frac{T_1}{T_2}&=\frac{\sigma_1}{\sigma_2} 
 \end{align*}$$
 
-Now consider that during flight the weight of fuel decreases, but total weight still equals lift. Since V and $C_L$ are constant
+Now consider that during flight the weight of fuel decreases, but total weight still equals lift. Since V and $C_L$ are constant then:
+1) total weight decreases
+2) height increases
+3) relative density decreases
+
+This pattern is the [[cruise pattern|cruise climb technique]].
+
+It can 

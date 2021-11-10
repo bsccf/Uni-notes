@@ -17,4 +17,5 @@ Here we have the choice of changing:
 
 How these things are changed throughout the flight is called the [[cruise pattern]]/cruise climb technique.
 
-Further information on determining [[cruise climb technique for a jet]].
+### Examples of techniques
+- [[cruise climb technique for a jet]]
