@@ -12,12 +12,12 @@ To calculate the fuel at a given time we need to know the rate at which fuel is 
 ![[the rate at which aircraft weight decreases#^5a7c77]]
 
 #### Weight
-In reality the weight of the aircraft isn't just fuel, it also contains "aircraft bits" (that's the technical term) and sometimes valuble cargo such as the cocane bricks hidden inside the chairs. So for this we need to describe what makes up the aircrafts weight:
+In reality the weight of the aircraft isn't just fuel, it also contains "aircraft bits" (that's the technical term) and sometimes valuable cargo such as the cocaine bricks hidden inside the chairs. So for this we need to describe what makes up the aircrafts weight:
 
 ![[weight of an aircraft]]
 
 ### Maths
-Now we have starting conditions defined and rate of change, you can guess what comes next. Intergration! (fun)
+Now we have starting conditions defined and rate of change, you can guess what comes next. Integration! (fun)
 
 $$\begin{align*}
     \frac{dW}{dt} &= -sW \frac{C_D}{C_L}\\
@@ -36,13 +36,13 @@ t &=\frac{1}{s} \frac{C_L}{C_D}  \ln( 1+\frac{W_f}{W_s })
 
 ^d0cc24
 
-#### Endurace equation
+#### Endurance equation
 ![[endurance]]
 
 ![[endurance equation]]
 
 #### Implications
-Now we have an equation for endurance we can see that to maxamise endurace you need:
-- As small a [[specific fuel consumption (aircraft)|s.f.c]] as possible 
-- As high [[lift to drag ratio]] as possible. So you need a 
-- As high a $W_f/W_s$ as possible. So you need to use light materials and optamise the structure to be as light as possible
+Now we have an equation for endurance we can see that to malaise endurance you need:
+- As small a [[specific fuel consumption (aircraft)|s.f.c]] as possible. So you need as efficient engines as possible.
+- As high [[lift to drag ratio]] as possible. So you need very efficient aerodynamic characteristics.
+- As high a $W_f/W_s$ as possible. So you need to use light materials and optimize the structure to be as light as possible.
