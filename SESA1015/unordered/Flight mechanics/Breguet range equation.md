@@ -1,11 +1,13 @@
 ---
-aliases: ["range equation"]
+aliases: ["aircraft range equation"]
 tags: ["Question","QFormat3"]
 ---
 
 #### What is the
 ## Breguet range equation
 ### Equation
+It is an equation that can be used to find the total ange of an aircraft.
+
 > ### $$R = \frac{V}{s} \frac{L}{D} \ln\left(1+\frac{W_f}{W_s}\right)$$ 
 >> where:
 >> $R=$ range
@@ -18,4 +20,5 @@ tags: ["Question","QFormat3"]
 #### Assumptions
 It assumes that the cruise is preformed at a constant $\frac{VL}{Ds}$
 
-###
+### Implications
+This tells us what is needed to maxamise the range fuel efficiency
