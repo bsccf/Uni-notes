@@ -38,8 +38,8 @@ let \: 0&= \dfrac{{\pi}AC_{Do}-2KC_L^2}{{\pi}A\left(\frac{KC_L^2}{{\pi}A}+C_{Do}
 0&={\pi}AC_{Do}-2KC_L^2\\
  2KC_L^2&={\pi}AC_{Do}\\
  C_L^2&=\frac{{\pi}AC_{Do}}{2K}\\
- C_L&=\sqrt{\frac{{\pi}AC_{Do}}{2K}}\\
-C_{L_{MD}} &= \frac{1}{\sqrt{ \frac{ K}{ \pi A} \cdot \frac{ 1 }{ C_{Do} }   } }
+ C_L&=\sqrt{\frac{{\pi}AC_{Do}}{2K}} & C_{L_{MD}} &= \sqrt{\frac{\pi AC_{Do}}{ K  } } \\
+&&
 \end{align*}$$
 
 Here we used [[min drag lift coefficient in steady level flight]]
