@@ -6,3 +6,5 @@
 >> $\frac{C_L}{C_D}=$ [[lift to drag ratio]]
 >> $W_f=$ weight of fuel at start
 >> $W_s=$ dry weight
+
+^76741c

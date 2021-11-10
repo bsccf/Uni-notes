@@ -21,4 +21,7 @@ It is an equation that can be used to find the total ange of an aircraft.
 It assumes that the cruise is preformed at a constant $\frac{VL}{Ds}$
 
 ### Implications
-This tells us what is needed to maxamise the range fuel efficiency
+This tells us what is needed to maxamise the range fuel efficiency of an aircraft:
+- Low $s$, the engines need to be as efficient as possible
+- Maximum $\frac{VL}{D}$, good aerodynamics
+- Maximum $W_f/W_s$, good structural design to minamise dry weight
