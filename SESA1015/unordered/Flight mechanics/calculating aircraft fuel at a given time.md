@@ -33,3 +33,8 @@ W &=e^{ -s \frac{C_D}{C_L} t + k} \\
 \ln(\frac{W}{(W_s+W_f) })\frac{C_L}{C_D} \frac{-1}{s} &=  t\\
 t &=\frac{1}{s} \frac{C_L}{C_D}  \ln( 1+\frac{W_f}{(W_s) })
 \end{align*}$$
+
+^d0cc24
+
+#### Final form
+![[endurance equation]]
