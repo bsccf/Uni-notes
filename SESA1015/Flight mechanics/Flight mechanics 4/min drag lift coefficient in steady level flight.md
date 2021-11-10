@@ -21,5 +21,6 @@ $$\begin{align*}
 > ### $$ C_{L_{MD}} = \frac{1}{\sqrt{ \frac{ K}{ \pi A} \cdot \frac{ 1 }{ C_{Do} }   } } $$ 
 >> where:
 >> $C_{L_{MD}}=$ lift coefficient at minimum drag
->> $K=$
->> $=$
+>> $K=$ [[induced drag coefficient|a constant related to wing planform]]
+>> $A=$ [[Wing aspect ratio]]
+>> $C_{Do}=$ [[profile drag coefficient]]
