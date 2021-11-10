@@ -1,4 +1,7 @@
 {
   "baseFontSize": 14,
-  "cssTheme": "Moonlight"
+  "cssTheme": "Deep Work",
+  "enabledCssSnippets": [
+    "truncc"
+  ]
 }

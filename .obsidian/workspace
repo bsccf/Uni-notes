@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287
+    "width": 251
   },
   "right": {
     "id": "12c168c46d609ed6",
@@ -82,7 +82,7 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
