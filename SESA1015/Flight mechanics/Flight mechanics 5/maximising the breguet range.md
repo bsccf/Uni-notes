@@ -11,6 +11,8 @@ We know that the [[Breguet range equation]] allows us to calculate aircraft rang
 ### Math time
 ![[Breguet range equation#^20c05c]]
 
+So to maxamise range we need to maxamise $\frac{VL}{D}$, so lets start by getting an equation interms of that.
+
 We know $T/\sigma=k$ from [[jet thrust variation in the stratosphere]]:
 
 $$\begin{align*}
@@ -23,6 +25,5 @@ k\sigma &= \frac{1}{2}( \rho_0 \sigma ) V^{2} S C_D\\
 \therefore \frac{VL}{D} &\propto \frac{1}{\sqrt{C_D}} \frac{C_L}{C_D} \\
 \end{align*}$$
 
-
-$R = \frac{1}{s} \frac{VL}{D} \ln\left(1+\frac{W_f}{W_s}\right)$
+Now to find the value of $C_L$ that achieves max range we need to differentiate $\frac{1}{\sqrt{C_D}} \frac{C_L}{C_D}$ with respect to $C_L$, then make that equal 0 to get the turning point.
 
