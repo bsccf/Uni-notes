@@ -37,4 +37,7 @@ t &=\frac{1}{s} \frac{C_L}{C_D}  \ln( 1+\frac{W_f}{W_s })
 ^d0cc24
 
 #### Final form
+![[endurance]]
+
 ![[endurance equation]]
+
