@@ -36,6 +36,8 @@ $$\begin{align*}
 >> $W=$ Current total aircraft weight
 >> $\frac{C_D}{C_L}^{-1}=$ [[lift to drag ratio]]
 
+^5a7c77
+
 #### Elaboration on conditions
 It is a assumed that the [[lift to drag ratio]] is constant, but this requires lift to decrease as weight decreases (fuel use).
 
