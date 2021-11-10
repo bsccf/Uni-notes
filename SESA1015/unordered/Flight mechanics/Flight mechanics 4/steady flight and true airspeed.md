@@ -16,13 +16,12 @@ $M_{CG}=0$
 
 #### Calculations
 
-We know:
+We know the lift equation is:
 ![[Lift equation#^1f2714]]
-is the lift equation, so $L = W = \frac{1}{2}\rho V^{2}S C_L$
 
 So given we are in steady flight at a constant altitude, the only thing that determins lift is V.
 
-Also since $C_L$ [[Effect of angle on lift coefficient| is largely effected by ]]$\alpha$ we can assume that the angle of attack is constant.
+Also since $C_L$ [[Effect of angle on lift coefficient| is largely effected by ]] $\alpha$ we can assume that the angle of attack is constant.
 Using the lift equation and rearranging to get V as the subject:
 
 $$ \sqrt \frac{2W}{\rho S C_L} = V $$ ^9455eb
