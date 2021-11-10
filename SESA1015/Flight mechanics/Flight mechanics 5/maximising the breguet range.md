@@ -38,5 +38,6 @@ $$\begin{align*}
 & & 0=&{\pi}AC_{Do}-2KC_L^2\\
 & & 2KC_L^2=&{\pi}AC_{Do}\\
 & & C_L^2=&\frac{{\pi}AC_{Do}}{2K}\\
-& & C_L=&\sqrt{\frac{{\pi}AC_{Do}}{2K}}
+& & C_L=&\sqrt{\frac{{\pi}AC_{Do}}{2K}}\\
+&= 
 \end{align*}$$
