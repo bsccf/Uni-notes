@@ -51,10 +51,9 @@ $$\begin{align*}
 
 ### Implications
 
-Hence we now know that the speed that gives the maximum breguest range is the [[min drag speed in steady level flight|min drag speed]]
-
-> ### $$  = $$ 
+> ### $$ V_{opt\:range} = \sqrt[4]{2} V_{MD} \approx 1.189 V_{MD} $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $V_{opt\:range}=$ speed that offers the optimum range
+>> $V_{MD}=$ [[min drag speed in steady level flight|min drag speed]]
+
+$V_{MD}$ varies with altitude so $V_{opt\:range}$ will also do so, this has further implications when you consider that [[fligh]]
