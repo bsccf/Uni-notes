@@ -23,5 +23,6 @@ $$\begin{align*}
    \frac{L}{D} &= \frac{C_L}{D_D}\\
 &= \dfrac{C_L}{C_{D0} + \dfrac{KC_L^{2}}{\pi A} } 
 \end{align*}$$
-will also be constant. ([[Drag coefficient|where we got the equation from]])
+hence $\frac{C_L}{C_{D0} + \frac{KC_L^{2}}{\pi A} }$ will also be constant. ([[Drag coefficient|where we got the equation from]])
 
+Now if we recall the [[Breguet range equation]]: $R = \frac{1}{s} \frac{VL}{D} \ln\left(1+\frac{W_f}{W_s}\right)$
