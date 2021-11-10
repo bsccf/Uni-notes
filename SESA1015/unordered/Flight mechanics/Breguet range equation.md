@@ -8,7 +8,7 @@ tags: ["Question","QFormat3"]
 ### Equation
 It is an equation that can be used to find the total ange of an aircraft.
 
-> ### $$R = \frac{V}{s} \frac{L}{D} \ln\left(1+\frac{W_f}{W_s}\right)$$ 
+> ### $$R = \frac{1}{s} \frac{VL}{D} \ln\left(1+\frac{W_f}{W_s}\right)$$ 
 >> where:
 >> $R=$ range
 >> $V=$ [[True airspeed]]
@@ -16,6 +16,8 @@ It is an equation that can be used to find the total ange of an aircraft.
 >> $\frac{L}{D}=$ [[lift to drag ratio]]
 >> $W_f=$ starting fuel weight
 >> $W_s=$ dry aircraft weight
+
+^20c05c
 
 #### Assumptions
 It assumes that the cruise is preformed at a constant $\frac{VL}{Ds}$
