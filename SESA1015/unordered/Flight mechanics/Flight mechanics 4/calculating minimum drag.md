@@ -1,14 +1,14 @@
 ---
-aliases: [""]
+aliases: ["minimum drag"]
 tags: ["Question","QFormat3"]
 ---
 
 #### How would you go about
 ## Calculating minimum drag
 ### Conditions
-We can work under the same assumtions from [[steady flight and true airspeed#Conditions]].
+We can work under the same assumptions from [[steady flight and true airspeed#Conditions]].
 
-### Calcualations
+### Calculations
 We know that drag can be found using:
 ![[Drag equation#^33fc8d]]
 
