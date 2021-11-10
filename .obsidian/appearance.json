@@ -1,13 +1,4 @@
 {
-<<<<<<< HEAD
-  "baseFontSize": 30,
-=======
   "baseFontSize": 16,
->>>>>>> parent of 56fdc69 (vault backup: 2021-11-10 21:22:22)
-  "cssTheme": "Cybertron",
-  "theme": "obsidian",
-  "translucency": false,
-  "enabledCssSnippets": [
-    "truncc"
-  ]
+  "cssTheme": "Obsidianite"
 }
