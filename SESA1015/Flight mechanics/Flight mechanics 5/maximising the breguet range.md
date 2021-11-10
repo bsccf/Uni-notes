@@ -56,4 +56,6 @@ $$\begin{align*}
 >> $V_{opt\:range}=$ speed that offers the optimum range
 >> $V_{MD}=$ [[min drag speed in steady level flight|min drag speed]]
 
-$V_{MD}$ varies with altitude so $V_{opt\:range}$ will also do so, this has further implications when you consider that [[fligh]]
+$V_{MD}$ varies with altitude so $V_{opt\:range}$ will also do so, this has further implications when you consider that some [[cruise pattern|cruise climb techniques]] change altitudes. So a truely optimum flight path is one at this optimum speed at as high an altitude possible.
+
+[[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah|this took me a day to finish, all these notes... it's so annoying how unlinked everything in my refrence material is! Cool off with mememes]]
