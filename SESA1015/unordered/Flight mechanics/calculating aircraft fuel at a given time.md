@@ -23,6 +23,12 @@ $$\begin{align*}
     \frac{dW}{dt} &= -sW \frac{C_D}{C_L}\\
 \int \frac{1}{W} dW &= -s \frac{C_D}{C_L} \int  1 dt\\
 \ln(W) &= -s \frac{C_D}{C_L} (t + k)\\
-W &=e^{ -s \frac{C_D}{C_L} (t + k)} & at\:t=0,\:\:\:W&=W_s+W_f\\\\
-&= 
+W &=e^{ -s \frac{C_D}{C_L} t + k} \\
+&= ke^{ -s \frac{C_D}{C_L} t }& at\:t=0,\:\:\:W&=W_s+W_f\\
+& & W_s+W_f &= k e^{0}\\
+& & W_s+W_f &= k\\
+&= (W_s+W_f)e^{ -s \frac{C_D}{C_L} t }\\
+\frac{W}{(W_s+W_f) }&=e^{ -s \frac{C_D}{C_L} t }\\
+\ln(\frac{W}{(W_s+W_f) })&=-s \frac{C_D}{C_L} t\\
+\ln(\frac{W}{(W_s+W_f) })\frac{C_L}{C_D}&=-s  t
 \end{align*}$$
