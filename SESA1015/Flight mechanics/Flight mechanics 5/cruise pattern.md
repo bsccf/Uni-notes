@@ -16,3 +16,5 @@ Here we have the choice of changing:
 -  angle of attack ([[Effect of angle on lift coefficient|see why]])
 
 How these things are changed throughout the flight is called the [[cruise pattern]]/cruise climb technique.
+
+Further information on determining [[cruise climb technique for a jet]].
