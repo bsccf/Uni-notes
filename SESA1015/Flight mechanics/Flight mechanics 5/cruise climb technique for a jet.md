@@ -37,10 +37,10 @@ Now consider that during flight the weight of fuel decreases, but total weight s
 1) total weight decreases
 2) height increases
 3) relative density decreases
-4) thrust decreases
-5) the aircraft continues to fly at a constant speed
+4) thrust decrease and drag decrease
+6) the aircraft continues to fly at a constant speed
 
-This pattern is the [[cruise pattern|cruise climb technique]].
+This pattern is the [[cruise pattern|cruise climb technique]], and this one is very common for most long haul airlines.
 
 We can relate these values and how they change using the [[lift equation]].
 $$\begin{align*}
