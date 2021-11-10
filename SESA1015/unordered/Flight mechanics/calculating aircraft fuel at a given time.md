@@ -22,5 +22,7 @@ Now we have starting conditions defined and rate of change, you can guess what c
 $$\begin{align*}
     \frac{dW}{dt} &= -sW \frac{C_D}{C_L}\\
 \int \frac{1}{W} dW &= -s \frac{C_D}{C_L} \int  1 dt\\
-\ln(W) &= -s \frac{C_D}{C_L} t + k
+\ln(W) &= -s \frac{C_D}{C_L} (t + k)\\
+-\ln(W)\frac{C_L}{sC_D}+ k &= t \\
+-\ln(W)\frac{C_L}{C_D} \frac{1}{s}+ k &= t 
 \end{align*}$$
