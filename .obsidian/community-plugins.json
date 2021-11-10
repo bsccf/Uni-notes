@@ -2,5 +2,10 @@
   "templater-obsidian",
   "sliding-panes-obsidian",
   "quick-latex",
-  "obsidian-git"
+  "obsidian-git",
+  "media-extended",
+  "obsidian-languagetool-plugin",
+  "obsidian-jupyter",
+  "better-word-count",
+  "table-editor-obsidian"
 ]
