@@ -37,6 +37,8 @@ Now consider that during flight the weight of fuel decreases, but total weight s
 1) total weight decreases
 2) height increases
 3) relative density decreases
+4) thrust decreases
+5) the aircraft continues to fly at a constant speed
 
 This pattern is the [[cruise pattern|cruise climb technique]].
 
@@ -46,3 +48,4 @@ $$\begin{align*}
 &= W & \rho&=\sigma \rho_0 \\
  W&=\frac{1}{2}(\sigma \rho_0) V^{2}SC_L
 \end{align*}$$
+
