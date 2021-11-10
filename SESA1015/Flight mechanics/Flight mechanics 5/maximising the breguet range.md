@@ -39,7 +39,12 @@ let \: 0&= \dfrac{{\pi}AC_{Do}-2KC_L^2}{{\pi}A\left(\frac{KC_L^2}{{\pi}A}+C_{Do}
  2KC_L^2&={\pi}AC_{Do}\\
  C_L^2&=\frac{{\pi}AC_{Do}}{2K}\\
  C_L&=\sqrt{\frac{{\pi}AC_{Do}}{2K}} & C_{L_{MD}} &= \sqrt{\frac{\pi AC_{Do}}{ K  } } \\
-&&
+C_L &= \frac{C_{L_{MD}}}{\sqrt{2}}
 \end{align*}$$
 
-Here we used [[min drag lift coefficient in steady level flight]]
+Since $V&\propto \frac{1}{\sqrt{C_D}}$:
+$$\begin{align*}
+  V_{opt\:range}  &= [4]\sqrt{2} V_MD
+\end{align*}$$
+
+Here we used [[min drag lift coefficient in steady level flight]] to get $C_{L_{MD}}$

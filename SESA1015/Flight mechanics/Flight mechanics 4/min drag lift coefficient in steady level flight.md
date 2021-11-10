@@ -1,10 +1,10 @@
 ---
-aliases: [""]
+aliases: ["C_{L_{MD}}","C_LMD"]
 tags: ["Question","QFormat3"]
 ---
 
 #### What is the
-## Min drag lift coefficient in steady level flight
+## Min drag lift coefficient in steady level flight ($C_{L_{MD}}$)
 ### Maths
 We use:
 ![[min drag speed in steady level flight#^c26ec7]]
