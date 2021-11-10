@@ -15,3 +15,17 @@ $$\begin{align*}
 \frac{dW(t)}{dt} &= -sD &   &  &  1=&\frac{W}{L}\\
 \frac{dW(t)}{dt} &= -s \frac{WD}{L}\\
 \end{align*}$$
+
+Also:
+
+$$\begin{align*}
+  \frac{dW(t)}{dt}  &= \\
+&= \frac{dW}{dx} \frac{dx}{dt}\\
+&= \frac{dW}{dx} V
+\end{align*}$$
+
+Equating these two resaults:
+
+$$\begin{align*}
+   \frac{dW}{dx} V &= 
+\end{align*}$$
