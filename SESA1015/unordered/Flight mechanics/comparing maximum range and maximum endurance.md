@@ -13,7 +13,8 @@ tags: ["Question","QFormat3"]
 
 ### Comparison
 
-Although very simular there is a key difference in the speed they occur at:
-- Maximum endurance requires maximum $L/D$
-- Maximum range requires maximum $VL/D$
+Although very simular there is a key difference in how speed effects the equation:
+- Maximum endurance requires maximum constant $L/D$
+- Maximum range requires maximum constant $VL/D$
 
+This means choosing between maximising range or maxamising endur
