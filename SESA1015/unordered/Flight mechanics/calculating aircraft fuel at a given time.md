@@ -36,8 +36,13 @@ t &=\frac{1}{s} \frac{C_L}{C_D}  \ln( 1+\frac{W_f}{W_s })
 
 ^d0cc24
 
-#### Final form
+#### Endurace equation
 ![[endurance]]
 
 ![[endurance equation]]
 
+#### Implications
+Now we have an equation for endurance we can see that to maxamise endurace you need:
+- As small a [[specific fuel consumption (aircraft)|s.f.c]] as possible 
+- As high [[lift to drag ratio]] as possible. So you need a 
+- As high a $W_f/W_s$ as possible. So you need to use light materials and optamise the structure to be as light as possible
