@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/Flight mechanics 4/min drag speed in steady level flight.md",
-            "mode": "source"
+            "file": "SESA1015/Flight mechanics/Flight mechanics 4/min drag lift coefficient in steady level flight.md",
+            "mode": "preview"
           }
         }
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 4/min drag speed in steady level flight.md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 4/min drag lift coefficient in steady level flight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,8 +115,8 @@
   },
   "active": "c0f20e4babfff327",
   "lastOpenFiles": [
-    "SESA1015/Flight mechanics/Flight mechanics 4/min drag speed in steady level flight.md",
     "SESA1015/Flight mechanics/Flight mechanics 4/min drag lift coefficient in steady level flight.md",
+    "SESA1015/Flight mechanics/Flight mechanics 4/min drag speed in steady level flight.md",
     "SESA1015/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/Lift coefficient.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/lift equation.md",
