@@ -39,5 +39,5 @@ $$\begin{align*}
 & & 2KC_L^2=&{\pi}AC_{Do}\\
 & & C_L^2=&\frac{{\pi}AC_{Do}}{2K}\\
 & & C_L=&\sqrt{\frac{{\pi}AC_{Do}}{2K}}\\
-&= 
+C_{L_{MD}} = \frac{1}{\sqrt{ \frac{ K}{ \pi A} \cdot \frac{ 1 }{ C_{Do} }   } }
 \end{align*}$$
