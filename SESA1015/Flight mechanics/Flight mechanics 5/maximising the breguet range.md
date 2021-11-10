@@ -17,10 +17,10 @@ $$\begin{align*}
    T = D &= \frac{1}{2}\rho V^{2} S C_D\\
 &  & T&=k\sigma & \rho&=\rho_0 \sigma\\
 k\sigma &= \frac{1}{2}( \rho_0 \sigma ) V^{2} S C_D\\
-k\sigma &= \frac{1}{2}( \rho_0 \sigma ) V^{2} S C_D\\
+\frac{2k}{S\rho_0 }  &=V^{2} C_D\\
 \therefore V^{2}C_D&=constant\\
-& & also \: V&\propto \frac{1}{\sqrt{C_D}} & \frac{C_L}{C_D}&=1 \\
-& & \therefore \frac{VL}{D} \propto \frac{1}{\sqrt{C_D}} \frac{C_L}{C_D} \\
+ \therefore V&\propto \frac{1}{\sqrt{C_D}} & \frac{C_L}{C_D}&=1 \\
+\therefore \frac{VL}{D} &\propto \frac{1}{\sqrt{C_D}} \frac{C_L}{C_D} \\
 \end{align*}$$
 
 
