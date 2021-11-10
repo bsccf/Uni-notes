@@ -17,4 +17,4 @@ All the embeds will be focused on flight only, ignoring the costs of fuel for ta
 
 ![[calculating range in the statosphere]]
 
-![[]]
+![[cruise climb technique for a jet]]
