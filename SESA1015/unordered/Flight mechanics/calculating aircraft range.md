@@ -33,6 +33,16 @@ $$\begin{align*}
 \frac{dW}{dx} &= - \frac{s}{V} \frac{D}{L}W
 \end{align*}$$
 
-We now have an equation relating the rate of change of weight over distance, assuming that $\frac{s}{V}$ and $\frac{D}{L}$
+We now have an equation relating the rate of change of weight over distance, assuming that $\frac{s}{V}$ and $\frac{D}{L}$ are constant that is.
 
 #### Integration time
+So lets start to integrate:
+
+$$\begin{align*}
+  \frac{dW}{dx} &= - \frac{s}{V} \frac{D}{L}W\\
+\int \frac{1}{W}dW &= \int - \frac{s}{V} \frac{D}{L}dx\\
+\int \frac{1}{W}dW &= -\frac{s}{V} \frac{D}{L} \int 1 dx\\
+\ln(W) &= -\frac{s}{V} \frac{D}{L}x + k
+\end{align*}$$
+
+We then 

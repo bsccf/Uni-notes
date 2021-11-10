@@ -12,3 +12,5 @@ This equation tells you everything you need to know:
 >> $W=$ Total aircraft weight 
 >> $W_s=$ Weight of dry aircraft
 >> $W_f=$ Weight of fuel
+
+At the start of the 
