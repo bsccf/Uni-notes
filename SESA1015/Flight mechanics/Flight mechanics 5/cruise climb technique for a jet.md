@@ -27,4 +27,10 @@ hence $\frac{C_L}{C_{D0} + \frac{KC_L^{2}}{\pi A} }$ will also be constant. ([[D
 
 Now since we know that $L/D$ is constant and that $V$ is constant we can use the [[Breguet range equation]]: $R = \frac{1}{s} \frac{VL}{D} \ln\left(1+\frac{W_f}{W_s}\right)$
 
-In the stratosphere the temperature is assumed to be constant and the thrust of a turbo-jet
+In the stratosphere the temperature is assumed to be constant and the thrust ($T$) of a turbo-jet engine at a fixed throttle is assumed to be proportional to the [[relative density (planes)|relative density]] ($\sigma$):
+$$\begin{align*}
+   T &= k\sigma\\
+\therefore \frac{T_1}{T_2}&=\frac{\sigma_1}{\sigma_2} 
+\end{align*}$$
+
+Now consider that during flight the weight of fuel decreases, but total weight still equals lift. Since V and $C_L$ are constant
