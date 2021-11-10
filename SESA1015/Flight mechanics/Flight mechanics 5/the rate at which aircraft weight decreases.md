@@ -44,7 +44,7 @@ $$\begin{align*}
 It is a assumed that the [[lift to drag ratio]] is constant, but this requires lift to decrease as weight decreases (fuel use).
 
 So to decrease lift, we need to change atleast one of the values which determine it:
-![[Lift equation#^1f2714]]
+![[lift equation#^1f2714]]
 
 Here we have the choice of changing:
 - density

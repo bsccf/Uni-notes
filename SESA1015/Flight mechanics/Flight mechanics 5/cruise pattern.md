@@ -8,7 +8,7 @@ tags: ["Question","QFormat3"]
 Basically to maintain a constant [[lift to drag ratio]] your lift needs to decrease with your weight [[the rate at which aircraft weight decreases|because of fuel being burned]].
 
 So to decrease lift, we need to change atleast one of the values which determine it:
-![[Lift equation#^1f2714]]
+![[lift equation#^1f2714]]
 
 Here we have the choice of changing:
 - density

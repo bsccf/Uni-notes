@@ -21,7 +21,7 @@ You should be able to identitfy the names of all the forces acting on a basic pl
 ![[Basic aircraft freebody diagram]]
 
 The lift can then be determined using:
-![[Lift equation]]
+![[lift equation]]
 
 Simularly:
 ![[Drag equation]]

@@ -5,7 +5,7 @@ tags: ["Question","QFormat3"]
 
 #### What is a
 ## Lift to drag ratio
-This is the ratio between a objects [[Lift equation|lift]] and [[Drag equation|drag]]:
+This is the ratio between a objects [[lift equation|lift]] and [[Drag equation|drag]]:
 
 $L = \frac{1}{2}\rho V^{2}S C_L$
 

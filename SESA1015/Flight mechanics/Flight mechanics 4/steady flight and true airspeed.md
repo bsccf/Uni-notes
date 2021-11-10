@@ -17,7 +17,7 @@ $M_{CG}=0$
 #### Calculations
 
 We know the lift equation is:
-![[Lift equation#^1f2714]]
+![[lift equation#^1f2714]]
 
 So given we are in steady flight at a constant altitude, the only thing that determins lift is V.
 
