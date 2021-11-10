@@ -13,4 +13,4 @@ This equation tells you everything you need to know:
 >> $W_s=$ Weight of dry aircraft
 >> $W_f=$ Weight of fuel
 
-At the start of the 
+At the start of the journey the fuel is at a maximum. 

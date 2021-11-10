@@ -42,7 +42,9 @@ $$\begin{align*}
   \frac{dW}{dx} &= - \frac{s}{V} \frac{D}{L}W\\
 \int \frac{1}{W}dW &= \int - \frac{s}{V} \frac{D}{L}dx\\
 \int \frac{1}{W}dW &= -\frac{s}{V} \frac{D}{L} \int 1 dx\\
-\ln(W) &= -\frac{s}{V} \frac{D}{L}x + k
+\ln(W) &= -\frac{s}{V} \frac{D}{L}x + k\\
+& & at\:x=0,\:\:W=W_f+W_s &\\
+& & \ln(W_f+W_s) &= -\frac{s}{V} \frac{D}{L}0 + k\\
+& & \ln(W_f+W_s) &= k\\
+&
 \end{align*}$$
-
-We then 
