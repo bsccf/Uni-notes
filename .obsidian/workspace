@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
-            "mode": "preview"
+            "file": "SESA1015/Flight mechanics/Flight mechanics 5/maximising the breguet range.md",
+            "mode": "source"
           }
         }
       },
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 5/maximising the breguet range.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,8 +127,8 @@
   },
   "active": "c0f20e4babfff327",
   "lastOpenFiles": [
-    "SESA1015/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/maximising the breguet range.md",
+    "SESA1015/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/Drag coefficient.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/hahaha I am in pain.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/endurance and range of jet aircraft.md",
