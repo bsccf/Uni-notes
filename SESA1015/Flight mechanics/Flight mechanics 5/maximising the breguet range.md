@@ -35,5 +35,6 @@ $$\begin{align*}
 \frac{d}{dC_L} \cdot \frac{1}{\sqrt{C_D}} \frac{C_L}{C_D} &= \frac{d}{dC_L} \cdot C_L (C_{Do} + \dfrac{ K}{\pi A}(C_L)^{2})^{-\frac{3}{2}}\\
 &= \dfrac{{\pi}AC_{Do}-2Kx^2}{{\pi}A\left(\frac{Kx^2}{{\pi}A}+C_{Do}\right)^\frac{5}{2}}\\
 & & 0=& \dfrac{{\pi}AC_{Do}-2Kx^2}{{\pi}A\left(\frac{Kx^2}{{\pi}A}+C_{Do}\right)^\frac{5}{2}} \\
-& & 0=
+& & 0=&{\pi}AC_{Do}-2Kx^2\\
+& & 2Kx^2=&{\pi}AC_{Do}
 \end{align*}$$
