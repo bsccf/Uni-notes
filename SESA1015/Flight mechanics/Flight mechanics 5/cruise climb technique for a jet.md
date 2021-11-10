@@ -17,9 +17,11 @@ To keep lift equal to weight as the fuel is burned we therefore must change one 
 
 The technique we are focusing on here is going to assume that true airspeed and angle of attack are constant [[Effect of angle on lift coefficient|(because lift coefficient's a function of angle of attack)]].
 
-#### Math
+#### Calculating changes required
 If $C_L$ is constant then:
 $$\begin{align*}
    \frac{L}{D} &= \frac{C_L}{D_D}\\
-&= \frac{C_L}{C} 
+&= \dfrac{C_L}{C_{D0} + \dfrac{KC_L^{2}}{\pi A} } 
 \end{align*}$$
+will also be constant. ([[Drag coefficient|where we got the equation from]])
+
