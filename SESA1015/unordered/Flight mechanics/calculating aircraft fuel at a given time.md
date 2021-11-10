@@ -24,5 +24,6 @@ $$\begin{align*}
 \int \frac{1}{W} dW &= -s \frac{C_D}{C_L} \int  1 dt\\
 \ln(W) &= -s \frac{C_D}{C_L} (t + k)\\
 -\ln(W)\frac{C_L}{sC_D}+ k &= t \\
--\ln(W)\frac{C_L}{C_D} \frac{1}{s}+ k &= t 
+-\ln(W)\frac{C_L}{C_D} \frac{1}{s}+ k &= t & at\:t=0,\:\:\: k=&W=W_s+W_f\\
+-\ln(W)\frac{C_L}{C_D} \frac{1}{s}+W&=
 \end{align*}$$
