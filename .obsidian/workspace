@@ -7,8 +7,11 @@
         "id": "c0f20e4babfff327",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "SESA1015/Flight mechanics/Flight mechanics 5/maximising the breguet range.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SESA1015/Flight mechanics/Flight mechanics 5/maximising the breguet range.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
