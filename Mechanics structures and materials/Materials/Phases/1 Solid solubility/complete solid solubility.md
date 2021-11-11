@@ -4,5 +4,6 @@ tags: ["Question","QFormat3"]
 ---
 
 #### What is
-## complete solid solubility
-both elements completely interchange with eachother across crystolographic structure ac
+## Complete solid solubility
+both elements completely interchange with eachother across crystolographic structure across the entire range of compositions.
+This is where both elements completely [[Diffusion notes|diffuse]] into eachother to form

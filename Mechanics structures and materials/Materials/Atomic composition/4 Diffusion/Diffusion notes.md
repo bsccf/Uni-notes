@@ -1,5 +1,5 @@
 ---
-aliases: ["diffusion"]
+aliases: ["diffusion","diffuse"]
 tags: ["NotesPage"]
 ---
 
