@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["crystal structure"]
 tags: ["NotesPage"]
 ---
 
