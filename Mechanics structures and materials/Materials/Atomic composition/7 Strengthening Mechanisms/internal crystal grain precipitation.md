@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["precipitation"]
 tags: ["Question","QFormat3"]
 ---
 
