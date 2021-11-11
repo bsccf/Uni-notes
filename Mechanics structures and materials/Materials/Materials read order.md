@@ -5,6 +5,7 @@ tags: ["NotesPage"]
 
 # Materials read order
 
+### Atomic composition (not sure about name)
 1) [[Atoms and types of bonding]]
 2) [[Crystal Structures]]
 3) [[Crystal planes and directions]]
@@ -12,3 +13,6 @@ tags: ["NotesPage"]
 5) [[Mechanical Properties notes]]
 6) [[Defects, dislocations and plastic deformation notes]]
 7) [[Stengthening Mechanisms notes]]
+
+
+### 

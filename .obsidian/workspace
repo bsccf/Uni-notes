@@ -7,8 +7,11 @@
         "id": "2f84ffaf4a83081e",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Mechanics structures and materials/Materials/Materials read order.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mechanics structures and materials/Materials/Materials read order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +106,7 @@
   },
   "active": "2f84ffaf4a83081e",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Materials/Materials read order.md",
     "SESA1015/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
     "SESA1015/Flight mechanics/Mechanics of flight read order.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/endurance and range of jet aircraft.md",
@@ -110,7 +115,6 @@
     "SESA1015/Flight mechanics/Flight mechanics 5/cruise pattern.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/maximising the breguet range.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah.md",
-    "SESA1015/Flight mechanics/Flight mechanics 4/min drag lift coefficient in steady level flight.md",
-    "SESA1015/Flight mechanics/Flight mechanics 5/cruise climb technique for a jet.md"
+    "SESA1015/Flight mechanics/Flight mechanics 4/min drag lift coefficient in steady level flight.md"
   ]
 }
