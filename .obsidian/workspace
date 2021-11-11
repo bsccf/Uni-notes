@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-11-11.md",
+            "file": "SESA1015/Flight mechanics/Flight mechanics 4.5/Lift and stuff glide angle idk.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-11-11.md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 4.5/Lift and stuff glide angle idk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +107,7 @@
   },
   "active": "2f84ffaf4a83081e",
   "lastOpenFiles": [
+    "SESA1015/Flight mechanics/Flight mechanics 4.5/Lift and stuff glide angle idk.md",
     "2021-11-11.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/endurance and range of jet aircraft.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/cruise climb technique for a jet.md",
@@ -115,7 +116,6 @@
     "Mechanics structures and materials/Materials/Phases/1 Solid solubility/immiscible.md",
     "Mechanics structures and materials/Materials/Phases/1 Solid solubility/Solid solubility notes.md",
     "Mechanics structures and materials/Materials/Phases/1 Solid solubility/phase diagram.md",
-    "Mechanics structures and materials/Materials/Atomic composition/7 Strengthening Mechanisms/cold work hardening.md",
-    "Mechanics structures and materials/Materials/Atomic composition/7 Strengthening Mechanisms/precipitation hardening.md"
+    "Mechanics structures and materials/Materials/Atomic composition/7 Strengthening Mechanisms/cold work hardening.md"
   ]
 }
