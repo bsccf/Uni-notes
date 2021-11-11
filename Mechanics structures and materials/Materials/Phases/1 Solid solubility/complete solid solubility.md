@@ -8,7 +8,7 @@ tags: ["Question","QFormat3"]
 ### Definition
 This is where both elements completely [[Diffusion notes|diffuse]] into eachother, to form a [[Crystal Structures|crystal structure]] without any [[internal crystal grain precipitation|precipitation]] occuring in the crystal, for the entire range of possible compositions.
 
-So fo
+So for a [[phase diagram]] to show complete solid solubility the elements that are being combined must 
 
 ![[Pasted image 20211111130825.png]]
 
