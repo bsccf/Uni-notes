@@ -8,7 +8,10 @@ tags: ["Question","QFormat3"]
 ### Definition
 This is where both elements completely [[Diffusion notes|diffuse]] into eachother, to form a [[Crystal Structures|crystal structure]] without any [[internal crystal grain precipitation|precipitation]] occuring in the crystal, for the entire range of possible compositions.
 
+So fo
+
 ![[Pasted image 20211111130825.png]]
 
 ### [[phase diagram|Phase diagram]] appearence
 
+![[Pasted image 20211111131024.png]]

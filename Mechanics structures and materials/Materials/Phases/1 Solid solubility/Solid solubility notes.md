@@ -5,6 +5,6 @@ tags: ["NotesPage"]
 
 # Solid solubility
 
-![[complete solid solubility]]
-
 ![[phase diagram]]
+
+![[complete solid solubility]]

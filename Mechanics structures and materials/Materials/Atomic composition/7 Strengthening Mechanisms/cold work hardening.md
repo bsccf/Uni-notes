@@ -19,3 +19,6 @@ It works because [[dislocations]] tangle together making it harder for them to m
 
 The dislocations have this problem because they often form in the same orientation due to the way the stress is applied, this leads to dislocations lineing up and repelling eachother isntead of annihilating eachother.
 ![[Pasted image 20211105162350.png]]
+
+### Example
+![[1237_805aed371575319f.webm]]
