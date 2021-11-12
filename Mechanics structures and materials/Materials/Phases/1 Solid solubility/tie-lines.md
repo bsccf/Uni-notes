@@ -15,4 +15,5 @@ These are used to determine the relative amounts of two states in a [[phase diag
 > $C_L=$ Composition of the liquid parts ($L$) of this mixture
 > $C_\alpha=$ Composition of the solid parts ($\alpha$) of this mixture
 
-So the 
+#### Lever rule
+To determine the quantity of each phase at a given point using the lever rule.
