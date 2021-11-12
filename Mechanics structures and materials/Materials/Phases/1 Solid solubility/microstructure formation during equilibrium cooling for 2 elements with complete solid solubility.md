@@ -15,3 +15,5 @@ You start by drawing a line that describes the change in conditions occuring whe
 
 #### Example
 ![[Pasted image 20211112202005.png]]
+
+Here you start out in the liquid state, and progress downward. You change temperature slow enough that it
