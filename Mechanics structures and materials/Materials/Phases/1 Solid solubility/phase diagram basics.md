@@ -12,7 +12,9 @@ A phase diagram is a diagram that shows the composition of a material at a given
 - Lines show seperation between different material states
 
 ### Methods of analysis
-These are some basic methods useful for gathering information about the state
+These are some basic methods useful for gathering information about the state of the material at a point on the phase diagram:
+- [[tie-lines]]
+- [[lever rule]]
 
 ### Example
 ![[Pasted image 20211112164440.png]]
