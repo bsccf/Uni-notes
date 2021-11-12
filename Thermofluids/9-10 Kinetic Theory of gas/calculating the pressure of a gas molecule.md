@@ -45,5 +45,12 @@ $$\begin{align*}
 In reallity the particle is moving in 3D, and $u \frac{1}{\sqrt{3}}=u_x$ (think about it interms of components of a 3D vector):
 $$\begin{align*}
    p &= \frac{m_a(u \frac{1}{\sqrt{3}})^{2}}{V}\\
-&= \frac{m_a u^{2}}{3V}
+&= \frac{m_a \bar{u^{2}} }{3V}
+\end{align*}$$
+
+There are also N number of particles so total pressure is:
+$$\begin{align*}
+   p &= \frac{N m_a \bar{u^{2}} }{3V}\\
+pV &= \frac{N m_a \bar{u^{2}} }{3}\\
+&= \frac{2}{3} (\frac{1}{2} N m_a \bar{u^{2}} )
 \end{align*}$$
