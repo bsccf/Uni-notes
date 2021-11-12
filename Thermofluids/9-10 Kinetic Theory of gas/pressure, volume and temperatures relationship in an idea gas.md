@@ -23,4 +23,8 @@ pV=\frac{2N}{3}\frac{3}{2} k_B T&\\
 This is a form of the [[ideal gas law]].
 
 ### Relating to mol
-Finally we can relate the [[Boltzmann constant]] to the [[universal gas constant]]
+Finally we can relate the [[Boltzmann constant]] to the [[universal gas constant]] with $R=N_A k_B$ producing a more useful form of the [[ideal gas law]]:
+
+$$\begin{align*}
+   pV &= 
+\end{align*}$$

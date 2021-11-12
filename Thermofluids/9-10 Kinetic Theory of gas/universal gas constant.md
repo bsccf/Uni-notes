@@ -4,7 +4,7 @@ tags: ["Question","QFormat3"]
 ---
 
 #### What is the
-## Universal gas constant (R)
+## Universal gas constant ($R$)
 
 > ### $$ R = 8.314472 = N_A k_B$$ 
 >> where:
