@@ -11,9 +11,14 @@ A phase diagram is a diagram that shows the composition of a material at a given
 - It is assumed that there is enough time when moving position on the diagram for everything to alwayse be in equalibrium (basically for a real world change to map accuratly it must occur slowly)
 - Lines show seperation between different material states
 
+### Methods of analysis
+These are some basic methods useful for gathering information about the state
+
 ### Example
 ![[Pasted image 20211112164440.png]]
 
-Here this is a graph of two elements with [[complete solid solubility]]
+Here this is a graph of two elements with [[complete solid solubility]], the state is described with labels as well as symbols, the area that contains a mixture of solid ($\alpha$) and liquid ($L$) is labelled $\alpha+L$.
 
 ![[solidus line]]
+
+![[liquidus line]]
