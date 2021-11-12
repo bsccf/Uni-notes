@@ -20,7 +20,7 @@ momentum before + momentum change = momentum after
 
 $$\begin{align*}
    m_a u_x + -2 m_a u_x &= - m_a u_x\\
- \therefore momentum\:excerted\:on\:wall=2m_a u_x  
+ \therefore momentum\:excerted\:on\:wall=2m_a u_x&  
 \end{align*}$$
 
 Now we have the momentum excerted on the wall during one collision but we need to know the number of collisions per second with this specific wall. The number of collisions per second with this wall will be:
@@ -52,5 +52,7 @@ There are also N number of particles so total pressure is:
 $$\begin{align*}
    p &= \frac{N m_a \bar{u^{2}} }{3V}\\
 pV &= \frac{N m_a \bar{u^{2}} }{3}\\
-&= \frac{2}{3} (\frac{1}{2} N m_a \bar{u^{2}} )
+&= \frac{2N}{3} (\frac{1}{2}  m_a \bar{u^{2}} )\\
+\therefore\:pV&=\frac{2N}{3}KE_{particle}
 \end{align*}$$
+
