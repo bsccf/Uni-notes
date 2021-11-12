@@ -5,6 +5,7 @@ tags: ["Question","QFormat3"]
 
 #### How can we relate
 ## Pressure, volume and temperatures relationship in an idea gas
+### Pv and Temperature
 Using [[calculating the pressure of a gas molecule|this proof]] along with [[relationship between temperature and kinetic energy of particles|this equation]]
 
 ![[calculating the pressure of a gas molecule#^3c65ed]]
@@ -20,3 +21,6 @@ pV=\frac{2N}{3}\frac{3}{2} k_B T&\\
 \end{align*}$$
 
 This is a form of the [[ideal gas law]].
+
+### Relating to mol
+Finally we can relate the [[Boltzmann constant]] to the [[universal gas constant]]
