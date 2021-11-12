@@ -42,7 +42,8 @@ $$\begin{align*}
 &=\frac{m_au_x^{2}}{V}
 \end{align*}$$
 
-In reallity the particle is moving in 3D, and $u=u_x \frac{1}{\sqrt{3}}$ (think about it interms of components of a 3D vector):
+In reallity the particle is moving in 3D, and $u \frac{1}{\sqrt{3}}=u_x$ (think about it interms of components of a 3D vector):
 $$\begin{align*}
-    &= 
+   p &= \frac{m_a(u \frac{1}{\sqrt{3}})^{2}}{V}\\
+&= \frac{m_a u^{2}}{3V}
 \end{align*}$$
