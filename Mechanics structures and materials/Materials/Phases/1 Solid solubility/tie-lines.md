@@ -11,4 +11,9 @@ These are used to determine the relative amounts of two states in a [[phase diag
 ### Example
 ![[Pasted image 20211112165534.png]]
 
-$C_O=$ Composition of alloy at B (as a )
+> On this tie line:
+> $C_O=$ Composition of alloy at B (as a total nickle percentage)
+> $C_L=$ Composition of the liquid parts of this mixture
+> $C_\alpha=$ Composition of the solid parts of this mixture
+
+So the 
