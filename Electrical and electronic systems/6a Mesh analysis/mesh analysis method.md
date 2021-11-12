@@ -5,7 +5,7 @@ tags: ["Question","QFormat3"]
 
 #### What is the
 ## Mesh analysis method
-
+# WRONG, redo from onenote notes
 ### Method
 
 1) Mark your diagram according to the [[ciruit analysis sign convention]]
