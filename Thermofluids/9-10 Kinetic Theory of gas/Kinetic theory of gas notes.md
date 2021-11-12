@@ -5,4 +5,7 @@ tags: ["NotesPage"]
 
 # Kinetic theory of gas
 ### Intro
-Boyle and some other p
+Boyle and some other people made equations, which are redundent. We have a better one so honestly forget about them. Too many names for seperate equations that don't deserve to be seperate.
+![[dansen.mp4#play&loop]]
+
+### Useful things
