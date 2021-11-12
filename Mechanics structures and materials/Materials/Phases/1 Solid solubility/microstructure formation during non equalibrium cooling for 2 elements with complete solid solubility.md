@@ -11,4 +11,6 @@ If you want an indepth method refer to [[microstructure formation during equilib
 
 When you don't have eqalibrium conditions there isn't sufficiant time for the Ni to diffuse within the alloy, this causes distinct layers to form around the [[Nucleation (crystal)|nulcleation]] sites. This process that creates jawbreaker looking things is called coring.
 
-###
+#### Reminder that this is useful
+A good understanding of [[phase diagram basics|phase diagram]]s allows for better manipulation of structures:
+![[MemeFeedBot.mp4]]
