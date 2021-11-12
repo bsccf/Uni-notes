@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/9-10 Kinetic Theory of gas/ideal gas law.md",
-            "mode": "preview"
+            "file": "Thermofluids/9-10 Kinetic Theory of gas/Van der Waals equation.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/9-10 Kinetic Theory of gas/ideal gas law.md",
+                "file": "Thermofluids/9-10 Kinetic Theory of gas/Van der Waals equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "0084d044baa5b1b5",
   "lastOpenFiles": [
+    "Thermofluids/9-10 Kinetic Theory of gas/Van der Waals equation.md",
     "Thermofluids/9-10 Kinetic Theory of gas/ideal gas law.md",
     "Thermofluids/9-10 Kinetic Theory of gas/Cringe.md",
     "Thermofluids/9-10 Kinetic Theory of gas/this is the technical term.md",
@@ -114,7 +115,6 @@
     "Thermofluids/9-10 Kinetic Theory of gas/universal gas constant.md",
     "Thermofluids/9-10 Kinetic Theory of gas/relationship between temperature and kinetic energy of particles.md",
     "Thermofluids/9-10 Kinetic Theory of gas/specific gas constant.md",
-    "Thermofluids/9-10 Kinetic Theory of gas/engineers are simply based.md",
-    "Thermofluids/9-10 Kinetic Theory of gas/Avagadros number.md"
+    "Thermofluids/9-10 Kinetic Theory of gas/engineers are simply based.md"
   ]
 }

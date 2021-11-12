@@ -12,7 +12,7 @@ It's proved in [[pressure, volume and temperatures relationship in an idea gas|t
 2) The volume of the particles is negligible compared to the total volume
 3) The force between adjacent particles is negligible
 
-These hold true for most common situations, but high temp's, pressures or densitys can [[this is the technical term|fuck it up]].
+These hold true for most common situations, but high temp's, pressures or densitys can [[this is the technical term|fuck it up]]. When this occurs you can usually use the [[Van der Waals equation]].
 
 ### Useful (Based) forms of the equation
 
