@@ -10,3 +10,5 @@ tags: ["NotesPage"]
 ![[phase diagram basics]]
 
 ![[tie-lines]]
+
+![[how tie lines shift during cooling]]
