@@ -19,5 +19,8 @@ When it hits a wall it bounces off with an equal but negative momentum so:
 momentum before + momentum change = momentum after
 
 $$\begin{align*}
-   m_a u_x + -m_a u_x &=  
+   m_a u_x + -2 m_a u_x &= - m_a u_x\\
+ \therefore momentum\:excerted\:on\:wall=2m_a u_x  
 \end{align*}$$
+
+Now we have the momentum excerted on the wall during one collision but we need to know the number of collisions per second. The number of collisions per second is equal to th
