@@ -40,3 +40,4 @@ pV   &= mRT
 \end{align*}$$
 
 By the way R is the [[individual gas constant]].
+
