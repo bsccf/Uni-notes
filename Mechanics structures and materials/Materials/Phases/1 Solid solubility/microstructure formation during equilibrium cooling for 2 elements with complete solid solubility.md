@@ -16,4 +16,4 @@ You start by drawing a line that describes the change in conditions occuring whe
 #### Example
 ![[Pasted image 20211112202005.png]]
 
-Here you start out in the liquid state, and progress downward. You change temperature slow enough that it
+Here you start out in the liquid state, and progress downward. You change temperature slow enough that it is alwayse in equalibrium conditions. Initialy you start with [[Nucleation (crystal)|nulcleation]] occuring then those crystals grow as dendrites, until you reach point d where there is no liquid left and at e it has become a solid crystal.
