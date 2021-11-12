@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["phase diagram"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -16,5 +16,4 @@ A phase diagram is a diagram that shows the composition of a material at a given
 
 Here this is a graph of two elements with [[complete solid solubility]]
 
-#### Solidus line
 ![[solidus line]]
