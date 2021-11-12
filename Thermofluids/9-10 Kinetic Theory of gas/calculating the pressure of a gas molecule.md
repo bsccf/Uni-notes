@@ -31,12 +31,15 @@ t &= \frac{2L}{u_x}
 
 Recalling $F=\frac{mv-mu}{t}$:
 $$\begin{align*}
-   F &= \frac{2m_au_x}{\frac{2L}{u_x} }\\
-&= \frac{m_au_x^2}{L}
+   F &= \frac{2m_au_x}{\frac{2L}{u_x} } \\
+&= \frac{m_au_x^{2}}{L}
 \end{align*}$$
 
 We also know $p = \frac{F}{A}$:
 $$\begin{align*}
-   p &= \frac{\frac{m_au_x^{2}{L}}}{L^{2}}\\
-&= \frac{\frac{m_au_x^{2}{L}}}{L^{2}}
+   p &= \frac{\frac{m_au_x^{2}}{L}}{L^{2}}\\
+&= \frac{m_au_x^{2}}{L^{3}}\\
+&=\frac{m_au_x^{2}}{V}
 \end{align*}$$
+
+In reallity the particle is moving in 3D, 
