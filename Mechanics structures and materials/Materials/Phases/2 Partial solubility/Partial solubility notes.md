@@ -3,5 +3,5 @@ aliases: [""]
 tags: ["NotesPage"]
 ---
 
-# Partial solubility notes
+# Partial solubility
 
