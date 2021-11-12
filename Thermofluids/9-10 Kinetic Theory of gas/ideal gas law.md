@@ -20,6 +20,6 @@ It's proved in [[pressure, volume and temperatures relationship in an idea gas|t
 >> $p=$ Pressure of gas
 >> $V=$ Volume of gas
 >> $n=$ mol of gas
->> $R=$ [[universal gas constant]]
+>> $R_u=$ [[universal gas constant]]
 >> $T=$ Temperature
 

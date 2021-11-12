@@ -23,8 +23,11 @@ pV=\frac{2N}{3}\frac{3}{2} k_B T&\\
 This is a form of the [[ideal gas law]].
 
 ### Relating to mol
-Finally we can relate the [[Boltzmann constant]] to the [[universal gas constant]] with $R=N_A k_B$ producing a more useful form of the [[ideal gas law]]:
+Finally we can relate the [[Boltzmann constant]] to the [[universal gas constant]] with $R_u=N_A k_B$ producing a more useful form of the [[ideal gas law]]:
 
 $$\begin{align*}
-   pV &= nRT
+   pV &= nR_uT
 \end{align*}$$
+
+### Relating to mass
+All of these are kinda useless for engineers, because we don't count the number of particles we work with. We use kg, because [[engineers are simply based]].
