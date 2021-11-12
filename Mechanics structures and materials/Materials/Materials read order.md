@@ -17,4 +17,4 @@ tags: ["NotesPage"]
 
 ### Phase diagrams and stuff?
 1) [[Solid solubility notes]]
-2) [[Partial solubility]]
+2) [[Partial solubility notes]]
