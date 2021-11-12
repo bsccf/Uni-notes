@@ -9,6 +9,6 @@ An alternative to the [[ideal gas law]], for when the assumptions can't be met. 
 
 > ### $$ RT = \left( \frac{p+a}{v^{2}} \right)(v-b) $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $=$ look it up later and fill this in 
+>> $a=$ gas specific constant
+>> $b=$ gas specific constant
