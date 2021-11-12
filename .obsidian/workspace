@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/Phases/1 Solid solubility/Solid solubility notes.md",
-            "mode": "preview"
+            "file": "Mechanics structures and materials/Materials/Phases/1 Solid solubility/phase diagram basics.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/Phases/1 Solid solubility/Solid solubility notes.md",
+                "file": "Mechanics structures and materials/Materials/Phases/1 Solid solubility/phase diagram basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,8 @@
   },
   "active": "2f84ffaf4a83081e",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Materials/Phases/1 Solid solubility/phase diagram basics.md",
+    "Mechanics structures and materials/Materials/Phases/1 Solid solubility/tie-lines.md",
     "Mechanics structures and materials/Materials/Phases/1 Solid solubility/Solid solubility notes.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/Drag equation.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/Drag coefficient.md",
@@ -113,8 +115,6 @@
     "SESA1015/Flight mechanics/Flight mechanics 2/lift equation.md",
     "SESA1015/Flight mechanics/Flight mechanics 4/wing loading.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing aspect ratio.md",
-    "2021-11-11.md",
-    "SESA1015/Flight mechanics/Flight mechanics 4/min drag speed in steady level flight.md",
-    "SESA1015/Flight mechanics/Flight mechanics 4/minimum power speed.md"
+    "2021-11-11.md"
   ]
 }
