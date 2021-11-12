@@ -33,6 +33,8 @@ $$\begin{align*}
 All of these are kinda useless for engineers, because we don't count the number of particles we work with. We use kg, because [[engineers are simply based]].
 
 $$\begin{align*}
-  & &  m_u &= \frac{m}{n}\\
-pV &= nR_uT
+  pV &= nR_uT &  m_u &= \frac{m}{n} &  R&= \frac{R_u}{m_u} \\
+pV m_u  &= \frac{m}{n} nR_uT & Rm_u&=R_u\\
+pV   &= \frac{m}{m_u} Rm_uT\\
+pV   &= mRT
 \end{align*}$$
