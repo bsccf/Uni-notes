@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/Flight mechanics 2/Drag equation.md",
+            "file": "Mechanics structures and materials/Materials/Phases/1 Solid solubility/Solid solubility notes.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lift equa",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -56,8 +56,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -77,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 2/Drag equation.md",
+                "file": "Mechanics structures and materials/Materials/Phases/1 Solid solubility/Solid solubility notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +106,7 @@
   },
   "active": "2f84ffaf4a83081e",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Materials/Phases/1 Solid solubility/Solid solubility notes.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/Drag equation.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/Drag coefficient.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/Lift coefficient.md",
@@ -115,7 +115,6 @@
     "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing aspect ratio.md",
     "2021-11-11.md",
     "SESA1015/Flight mechanics/Flight mechanics 4/min drag speed in steady level flight.md",
-    "SESA1015/Flight mechanics/Flight mechanics 4/minimum power speed.md",
-    "SESA1015/Flight mechanics/Flight mechanics 4/calculating minimum drag.md"
+    "SESA1015/Flight mechanics/Flight mechanics 4/minimum power speed.md"
   ]
 }
