@@ -10,11 +10,11 @@ It's proved in [[pressure, volume and temperatures relationship in an idea gas|t
 ### Assumptions
 1) The particles are rigid, with no momentum or time being lost during collisions
 2) The volume of the particles is negligible compared to the total volume
-3) The force between adjacent particles is neglibile
+3) The force between adjacent particles is negligible
 
-These hold true for most common situations, but high temp's, pressures and densitys can [[this is the technical term|fuck it up]].
+These hold true for most common situations, but high temp's, pressures or densitys can [[this is the technical term|fuck it up]].
 
-### Useful forms of the equation
+### Useful (Based) forms of the equation
 
 > ### $$ p\rho =  RT $$ 
 >> where:
@@ -31,7 +31,8 @@ These hold true for most common situations, but high temp's, pressures and densi
 >> $R=$ [[individual gas constant|specific gas constant]]
 >> $T=$ Temperature
 
-### Trash forms of the equation
+### Trash (Cringe) forms of the equation
+![[Cringe]]
 
 > ### $$ pV = Nk_B T $$ 
 >> where:
