@@ -17,8 +17,15 @@ These are used to determine the relative amounts of two states in a [[phase diag
 
 #### Description of real world situation
 If you had a container that had copper and nickle in it (same as diagram above) then this is what the points above would be:
-> $C_O=$ The % weight of the contents of the container that is nickle
-> $C_L-$ The content
+> $C_O=$ The % of the weight of the contents of the container that is nickle
+> $C_L-$ The % of the weight of the liquid inside the container that is nickle
+> $C_\alpha$ The % of the weight of the solid inside the container that is nickle
 
 #### Lever rule
-To determine the quantity of each phase at a given point using the lever rule.
+To determine the quantity of each phase at a given point we use the lever rule, simply put:
+
+> ### $$ Amount\:of\:phase =  $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
