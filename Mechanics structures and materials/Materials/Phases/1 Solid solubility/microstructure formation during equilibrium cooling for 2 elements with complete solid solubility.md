@@ -8,6 +8,7 @@ tags: ["Question","QFormat3"]
 As alloys cool solids tend to form as dendrites:
 ![[Pasted image 20211112201330.png]]
 
-### Predicting formation 
+### Predicting formation using [[phase diagram basics|phase diagrams]]
 ![[Pasted image 20211112202005.png]]
 
+Refering to th
