@@ -23,4 +23,14 @@ $$\begin{align*}
  \therefore momentum\:excerted\:on\:wall=2m_a u_x  
 \end{align*}$$
 
-Now we have the momentum excerted on the wall during one collision but we need to know the number of collisions per second. The number of collisions per second is equal to th
+Now we have the momentum excerted on the wall during one collision but we need to know the number of collisions per second with this specific wall. The number of collisions per second with this wall will be:
+$$\begin{align*}
+   u_x &= \frac{2L}{t}\\
+t &= \frac{2L}{u_x} 
+\end{align*}$$
+
+Recalling $F=\frac{mv-mu}{t}$:
+$$\begin{align*}
+   F &= \frac{2m_a}{\frac{2L}{u_x} }\\
+&= m_a u_x
+\end{align*}$$
