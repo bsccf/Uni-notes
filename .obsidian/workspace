@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jet",
+                "query": "min drag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -55,7 +55,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -107,6 +108,7 @@
   "active": "2f84ffaf4a83081e",
   "lastOpenFiles": [
     "SESA1015/Flight mechanics/SESA1015 lectures_2020.pdf",
+    "SESA1015/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
     "Electrical and electronic systems/6a Mesh analysis/mesh analysis method.md",
     "2021-11-11.md",
     "conflict-files-obsidian-git.md",
@@ -114,7 +116,6 @@
     "SESA1015/Flight mechanics/Flight mechanics 5/endurance and range of jet aircraft.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/cruise climb technique for a jet.md",
     "Mechanics structures and materials/Materials/Phases/1 Solid solubility/complete solid solubility.md",
-    "Mechanics structures and materials/Materials/Phases/1 Solid solubility/miscibility.md",
-    "Mechanics structures and materials/Materials/Phases/1 Solid solubility/immiscible.md"
+    "Mechanics structures and materials/Materials/Phases/1 Solid solubility/miscibility.md"
   ]
 }
