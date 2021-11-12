@@ -11,3 +11,5 @@ Boyle and some other people made equations, which are redundent. We have a bette
 ### Useful things
 
 ![[calculating the pressure of a gas molecule]]
+
+![[pressure, volume and temperatures relationship in an idea gas]]

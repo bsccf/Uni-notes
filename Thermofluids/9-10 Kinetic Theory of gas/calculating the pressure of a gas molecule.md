@@ -65,4 +65,4 @@ pV &= \frac{N m_a \bar{u^{2}} }{3}\\
 >> $N=$ Number of gas particles
 >> $KE_{particle}=$ KE of a single particle
 
-This equation isn't super useful but we can refine it into [[pressure, volume and temperature relationship in an idea gas|something useful once we consider temperitures relation to particle KE]].
+This equation isn't super useful but we can refine it into [[pressure, volume and temperatures relationship in an idea gas|something useful once we consider temperitures relation to particle KE]].
