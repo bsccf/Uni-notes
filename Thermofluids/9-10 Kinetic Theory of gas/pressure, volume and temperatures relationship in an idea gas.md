@@ -11,7 +11,9 @@ tags: ["Question","QFormat3"]
 
 I wonder how these equations combine :thinking: :
 $$\begin{align*}
-   &KE_{particle}& = \frac{3}{2} k_B T\\
-pV&=\frac{2N}{3}KE_{particle}&\\
-&=
+   KE_{particle}& = \frac{3}{2} k_B T\\
+pV=\frac{2N}{3}KE_{particle}&\\
+pV=\frac{2N}{3}\frac{3}{2} k_B T&\\
+\therefore pV = Nk_B T
 \end{align*}$$
+
