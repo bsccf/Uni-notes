@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/Phases/1 Solid solubility/complete solid solubility.md",
-            "mode": "preview"
+            "file": "2021-11-11.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lift coeffi",
+                "query": "jet",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214
+    "width": 183
   },
   "right": {
     "id": "12c168c46d609ed6",
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/Phases/1 Solid solubility/complete solid solubility.md",
+                "file": "2021-11-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,19 +102,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233
+    "width": 233,
+    "collapsed": true
   },
   "active": "2f84ffaf4a83081e",
   "lastOpenFiles": [
+    "2021-11-11.md",
+    "SESA1015/Flight mechanics/Flight mechanics 4.5/Lift and stuff glide angle idk.md",
+    "SESA1015/Flight mechanics/Flight mechanics 5/endurance and range of jet aircraft.md",
+    "SESA1015/Flight mechanics/Flight mechanics 5/cruise climb technique for a jet.md",
     "Mechanics structures and materials/Materials/Phases/1 Solid solubility/complete solid solubility.md",
     "Mechanics structures and materials/Materials/Phases/1 Solid solubility/miscibility.md",
     "Mechanics structures and materials/Materials/Phases/1 Solid solubility/immiscible.md",
     "Mechanics structures and materials/Materials/Phases/1 Solid solubility/Solid solubility notes.md",
     "Mechanics structures and materials/Materials/Phases/1 Solid solubility/phase diagram.md",
-    "Mechanics structures and materials/Materials/Atomic composition/7 Strengthening Mechanisms/cold work hardening.md",
-    "Mechanics structures and materials/Materials/Atomic composition/7 Strengthening Mechanisms/precipitation hardening.md",
-    "Mechanics structures and materials/Materials/Atomic composition/7 Strengthening Mechanisms/internal crystal grain precipitation.md",
-    "Mechanics structures and materials/Materials/Atomic composition/2 Crystal Structures/Crystal Structures.md",
-    "Mechanics structures and materials/Materials/Atomic composition/4 Diffusion/Diffusion notes.md"
+    "Mechanics structures and materials/Materials/Atomic composition/7 Strengthening Mechanisms/cold work hardening.md"
   ]
 }
