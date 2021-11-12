@@ -31,6 +31,12 @@ t &= \frac{2L}{u_x}
 
 Recalling $F=\frac{mv-mu}{t}$:
 $$\begin{align*}
-   F &= \frac{2m_a}{\frac{2L}{u_x} }\\
-&= m_a u_x
+   F &= \frac{2m_au_x}{\frac{2L}{u_x} }\\
+&= \frac{m_au_x^2}{L}
+\end{align*}$$
+
+We also know $p = \frac{F}{A}$:
+$$\begin{align*}
+   p &= \frac{\frac{m_au_x^{2}{L}}}{L^{2}}\\
+&= \frac{\frac{m_au_x^{2}{L}}}{L^{2}}
 \end{align*}$$
