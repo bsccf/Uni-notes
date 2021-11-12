@@ -42,4 +42,7 @@ $$\begin{align*}
 &=\frac{m_au_x^{2}}{V}
 \end{align*}$$
 
-In reallity the particle is moving in 3D, 
+In reallity the particle is moving in 3D, and $u=u_x \frac{1}{\sqrt{3}}$ (think about it interms of components of a 3D vector):
+$$\begin{align*}
+    &= 
+\end{align*}$$
