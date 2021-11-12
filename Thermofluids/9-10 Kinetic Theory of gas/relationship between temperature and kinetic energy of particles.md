@@ -12,4 +12,6 @@ tags: ["Question","QFormat3"]
 >> $k_b=$ [[Boltzmann constant]]
 >> $T=$ Temperature (Kelvin)
 
-In reallity temperature isn't really a thing
+^2669d3
+
+In reallity temperature isn't really a thing, it's just how we describe kinetic energy from the atomic scale in the macroscopic level.
