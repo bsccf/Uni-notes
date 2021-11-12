@@ -14,5 +14,5 @@ So for a [[phase diagram basics]] to show complete solid solubility the elements
 
 ### [[phase diagram basics|Phase diagram]] appearence
 
-![[Pasted image 20211111131024.png]]
+![[Pasted image 20211111131024.png]] ^894108
 
