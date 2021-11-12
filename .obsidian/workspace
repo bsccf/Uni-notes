@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/Flight mechanics 2/Drag coefficient.md",
+            "file": "SESA1015/Flight mechanics/Flight mechanics 4/min drag speed in steady level flight.md",
             "mode": "preview"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 2/Drag coefficient.md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 4/min drag speed in steady level flight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,11 +108,11 @@
   },
   "active": "2f84ffaf4a83081e",
   "lastOpenFiles": [
+    "SESA1015/Flight mechanics/Flight mechanics 4/min drag speed in steady level flight.md",
+    "SESA1015/Flight mechanics/Flight mechanics 4/minimum power speed.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/Drag coefficient.md",
     "SESA1015/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
     "SESA1015/Flight mechanics/Flight mechanics 3/induced drag coefficient.md",
-    "SESA1015/Flight mechanics/Flight mechanics 4/min drag speed in steady level flight.md",
-    "SESA1015/Flight mechanics/Flight mechanics 4/minimum power speed.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/relative density (planes).md",
     "SESA1015/Flight mechanics/SESA1015 lectures_2020.pdf",
     "Electrical and electronic systems/6a Mesh analysis/mesh analysis method.md",
