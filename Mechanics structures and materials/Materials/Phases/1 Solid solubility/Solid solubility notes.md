@@ -12,3 +12,5 @@ tags: ["NotesPage"]
 ![[tie-lines]]
 
 ![[how tie lines shift during cooling]]
+
+![[microstructure formation during equilibrium cooling for complete solid solubility]]

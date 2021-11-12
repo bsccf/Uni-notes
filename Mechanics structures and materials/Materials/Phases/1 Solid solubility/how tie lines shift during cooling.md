@@ -9,4 +9,4 @@ tags: ["Question","QFormat3"]
 
 ![[Pasted image 20211112172029.png]]
 
-Here you can apply the [[lever rule]] to find that the amount of solid keeps increasing while the amou
+Here you can apply the [[lever rule]] to find that the amount of solid keeps increasing while the amount of liquid keeps decreasing as the temp drops, untill you cross the [[solidus line]] and it is 100% solid.
