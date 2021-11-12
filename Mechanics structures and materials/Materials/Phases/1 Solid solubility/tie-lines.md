@@ -24,8 +24,11 @@ If you had a container that had copper and nickle in it (same as diagram above) 
 #### Lever rule
 To determine the quantity of each phase at a given point we use the lever rule, simply put:
 
-> ### $$ Amount\:of\:phase =  $$ 
->> where:
->> $=$ 
->> $=$
->> $=$
+> ### $$ Amount\:of\:phase = \frac{opposite\:length}{overall\:length} $$ 
+
+Using the current example:
+Fraction that is solid = $\dfrac{C_0-C_L}{C_\alpha-C_L}$
+Fraction that is liquid = $\dfrac{C_\alpha-C_0}{C_\alpha-C_L}$
+
+(Fraction that is solid) + (Fraction that is liquid) = 1
+Because... well think about it.
