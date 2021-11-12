@@ -1,9 +1,14 @@
 ---
-aliases: ["microstructures, basic non equalibrium cooling"]
+aliases: ["microstructures, basic non equalibrium cooling","coring"]
 tags: ["Question","QFormat3"]
 ---
 
 #### Describe what occurs throughout
 ## Microstructure formation during non equalibrium cooling for 2 elements with complete solid solubility
-If you want a method refer to [[microstructure formation during equilibrium cooling for 2 elements with complete solid solubility|this]]
+If you want an indepth method refer to [[microstructure formation during equilibrium cooling for 2 elements with complete solid solubility|this]].
 
+![[Pasted image 20211112211012.png]]
+
+When you don't have eqalibrium conditions there isn't sufficiant time for the Ni to diffuse within the alloy, this causes distinct layers to form around the [[Nucleation (crystal)|nulcleation]] sites. This process that creates jawbreaker looking things is called coring.
+
+###
