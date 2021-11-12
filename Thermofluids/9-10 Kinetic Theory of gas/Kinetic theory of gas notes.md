@@ -9,3 +9,5 @@ Boyle and some other people made equations, which are redundent. We have a bette
 ![[dansen.mp4#play&loop]]
 
 ### Useful things
+
+![[calculating the pressure of a gas molecule]]
