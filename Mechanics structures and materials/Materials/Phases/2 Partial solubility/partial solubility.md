@@ -22,3 +22,4 @@ The limits of solubility are:
 - $C_{\alpha E }$ limit of Sn in Pb
 - $C_{\beta E}$ limit of Pb in Sn
 
+Basically the sections on the diagram that contain $\alpha and\beta$ are the area
