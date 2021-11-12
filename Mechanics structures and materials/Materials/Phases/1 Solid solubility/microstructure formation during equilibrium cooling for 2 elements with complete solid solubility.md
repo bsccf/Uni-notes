@@ -5,11 +5,13 @@ tags: ["Question","QFormat3"]
 
 #### How do you predict
 ## Microstructure formation during equilibrium cooling for 2 elements with complete solid solubility
+#### Useful sidenote
 As alloys cool solids tend to form as dendrites:
 ![[Pasted image 20211112201330.png]]
 
 ### Predicting formation using [[phase diagram basics|phase diagrams]]
+#### Description
+You start by drawing a line that describes the change in conditions occuring when forming the material (usually a change in temperature), then you look at how the microscopic structures change under the conditions untill you reach the final conditions and now have your state defined.
 
-You start by drawing a line that describes the change in conditions occuring when forming the material (usually a change in temperature), then you look at how the microscopic structures change under the conditions untill you reach the final conditions and now have your stat
-
+#### Example
 ![[Pasted image 20211112202005.png]]
