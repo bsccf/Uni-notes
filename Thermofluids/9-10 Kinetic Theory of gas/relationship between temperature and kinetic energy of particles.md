@@ -8,6 +8,8 @@ tags: ["Question","QFormat3"]
 
 > ### $$ KE_{particle} = \frac{3}{2} k_B T $$ 
 >> where:
->> $KE_{particle}=$ The kinetic energy of a particle
->> $k_b=$
->> $T=$
+>> $KE_{particle}=$ The average kinetic energy of a particle
+>> $k_b=$ [[Boltzmann constant]]
+>> $T=$ Temperature (Kelvin)
+
+In reallity temperature isn't really a thing
