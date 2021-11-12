@@ -58,11 +58,13 @@ pV &= \frac{N m_a \bar{u^{2}} }{3}\\
 
 #### Finally giving
 
-> ### $$ pV&=\frac{2N}{3}KE_{particle} $$ 
+> ### $$ pV=\frac{2N}{3}KE_{particle} $$ 
 >> where:
 >> $p=$ Pressure excerted on walls
 >> $V=$ Volume of container
 >> $N=$ Number of gas particles
 >> $KE_{particle}=$ KE of a single particle
+
+^3c65ed
 
 This equation isn't super useful but we can refine it into [[pressure, volume and temperatures relationship in an idea gas|something useful once we consider temperitures relation to particle KE]].
