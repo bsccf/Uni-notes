@@ -14,11 +14,12 @@ tags: ["Question","QFormat3"]
 	2) Add the $I_x \cdot (\sum\limits R_n)$ to the left side of the equation
 	3) Subtract all of the adjasent loop currents $I_n \cdot (\sum\limits R_n)$ from the left side of the equation
 As an equation:
-> ### $$ I_x \cdot \left\sum\limits (R_n\right)- \sum\limits (I_n \cdot (\sum\limits R_n)) = $$ 
+> ### $$ I_x \cdot \left(\sum\limits R_n\right)- \left(\sum\limits I_n \cdot \left(\sum\limits R_n\right) \right) = \sum\limits V_n $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $I_x=$ The focused loop current 
+>> $I_n=$ Any loop current that touches the focused loop current
+>> $R_n=$ All components between the focused loop current and the other selected 
+>> $V_n=$
 
 ### Example
 Find expressions for the resistances in this circuit:
