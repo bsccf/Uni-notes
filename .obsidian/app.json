@@ -8,5 +8,5 @@
   "newFileLocation": "current",
   "autoConvertHtml": false,
   "attachmentFolderPath": "images",
-  "spellcheck": false
+  "spellcheck": true
 }

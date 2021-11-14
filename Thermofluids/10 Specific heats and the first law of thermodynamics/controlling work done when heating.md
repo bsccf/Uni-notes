@@ -44,6 +44,3 @@ $$ \begin{align*}
 
 ![[relationship between constant volume and constant pressure specific heat capacitys]]
 
-We can then form: $C_P=C_V+R$ 
-
-Here $C_P$ is the [[specific heat capacity]] for a constant pressure, and $C_V$ is the [[specific heat capacity]] for a constant volume.
