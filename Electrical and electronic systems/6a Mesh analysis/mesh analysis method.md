@@ -47,8 +47,7 @@ $$ I_1( R_4 + R_2 + R_1 ) - I_2(R_1) - I_3(R_2) = 0 $$
 
 
 3) > Pog
-> 
-$$\begin{align*}
+> $$\begin{align*}
 \begin{pmatrix}
 ( R_4 + R_2 + R_1 ) & -(R_1) & -(R_2) \\ 
 -(R_1) & ( R_1 + R_3 ) & -( R_3 ) \\ 
@@ -57,13 +56,13 @@ $$\begin{align*}
  I_1 \\ I_2 \\ I_3 
 \end{pmatrix}  &= 
 \begin{pmatrix} 0 \\ V \\ 0 \end{pmatrix}\\
-\begin{pmatrix}
+\begin{pmatrix} 
+ I_1 \\ I_2 \\ I_3 
+\end{pmatrix}  &= \begin{pmatrix}
 ( R_4 + R_2 + R_1 ) & -(R_1) & -(R_2) \\ 
 -(R_1) & ( R_1 + R_3 ) & -( R_3 ) \\ 
 -(R_2) & -(R_3) & ( R_2 + R_5 + R_3 )
-\end{pmatrix}\begin{pmatrix} 
- I_1 \\ I_2 \\ I_3 
-\end{pmatrix}  &= 
+\end{pmatrix}^{-1}
 \begin{pmatrix} 0 \\ V \\ 0 \end{pmatrix}
 \end{align*}$$
 > And done, holy shit that took ages to write out. 
