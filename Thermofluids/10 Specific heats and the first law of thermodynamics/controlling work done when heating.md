@@ -33,6 +33,8 @@ $\therefore e_u =C_V T$ is only true for atoms.
 
 $$\begin{align*}
    \frac{pV}{T} &= k & E&=F\Delta x & F &= pA & \Delta x &= \frac{\Delta V}{A} \\
-\frac{p (V+\Delta V)}{(T+\Delta T)} &= k & E&= \\
-p (V+\Delta V) &= k (T+\Delta T)
+\frac{p (V+\Delta V)}{(T+\Delta T)} &= k & &=pA\Delta x \\
+p (V+\Delta V) &= k (T+\Delta T) &   &= pA\frac{\Delta V}{A}\\
+ \Delta V &= \frac{k}{p} (T+\Delta T) - V & &= p\Delta V\\
+& & &= p\left( \frac{k}{p} \left(T+\Delta T\right)-V \right)
 \end{align*}$$
