@@ -14,12 +14,12 @@ tags: ["Question","QFormat3"]
 	2) Add the $I_x \cdot (\sum\limits R_n)$ to the left side of the equation
 	3) Subtract all of the adjasent loop currents $I_n \cdot (\sum\limits R_n)$ from the left side of the equation
 As an equation:
-> ### $$ I_x \cdot \left(\sum\limits R_n\right)- \left(\sum\limits I_n \cdot \left(\sum\limits R_n\right) \right) = \sum\limits V_n $$ 
+> ### $$ I_x \cdot \sum\limits \left(R_n\right)- \sum\limits \left(I_n \cdot \sum\limits \left(R_n\right) \right) = \sum\limits V_n $$ 
 >> where:
 >> $I_x=$ The focused loop current 
 >> $I_n=$ Any loop current that touches the focused loop current
->> $R_n=$ All components between the focused loop current and the other selected 
->> $V_n=$
+>> $R_n=$ All components between the focused loop current and the other selected loop current
+>> $V_n=$ Any known pds, taking direction relative to $I_x$
 
 ### Example
 Find expressions for the resistances in this circuit:
@@ -29,8 +29,9 @@ Find expressions for the resistances in this circuit:
 ![[Pasted image 20211113235757.png]]
 
 2) 
-> $$ - I_1(R_1) + I_2(R_3+R_1) - I_3(R_3) = V $$
->$$  $$
+> Selecting $I_1$:
+> 1) $$ ? = V $$
+> 2) $$ I_1( R_4 ) + ? = V $$
 > - The sign of the pd of the component is descided by the direction of the pd arrow relative to the current loop arrow.
 > - The pd accross the component is worked out using the current on that branch
 > - The current on the branch is worked out using the sum of the adjasent loop currents
