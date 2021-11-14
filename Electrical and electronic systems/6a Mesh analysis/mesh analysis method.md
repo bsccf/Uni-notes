@@ -14,7 +14,7 @@ tags: ["Question","QFormat3"]
 	2) Add the $I_x \cdot (\sum\limits R_n)$ to the left side of the equation
 	3) Subtract all of the adjasent loop currents $I_n \cdot (\sum\limits R_n)$ from the left side of the equation
 As an equation:
-> ### $$ I_x \cdot \sum\limits \left(R_n\right)- \sum\limits \left(I_n \cdot \sum\limits \left(R_n\right) \right) = \sum\limits V_n $$ 
+> ### $$ I_x \cdot \sum\limits \left(R_n\right)- \sum\limits \left(I_n \cdot \sum\limits \left(R_n\right) \right) = \sum\limits \left(V_n\right) $$ 
 >> where:
 >> $I_x=$ The focused loop current 
 >> $I_n=$ Any loop current that touches the focused loop current
@@ -30,8 +30,11 @@ Find expressions for the resistances in this circuit:
 
 2) 
 > Selecting $I_1$:
-> 1) $$ ? = V $$
-> 2) $$ I_1( R_4 ) + ? = V $$
+> 1) There are no known p.d's on this loop current so it is just 0
+$$ ? = 0 $$
+> 2) 
+$$ I_1( R_4 + R_2 + R_1 ) + ? = 0 $$
+> 3) $$ I_1( R_4 + R_2 + R_1 ) - I_2(R_1+R_3) - I_3(R_2+R_5+R_3) = 0 $$
 > - The sign of the pd of the component is descided by the direction of the pd arrow relative to the current loop arrow.
 > - The pd accross the component is worked out using the current on that branch
 > - The current on the branch is worked out using the sum of the adjasent loop currents
