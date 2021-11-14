@@ -30,4 +30,8 @@ e_u &=C_V T
 $\therefore e_u =C_V T$ is only true for atoms.
 
 ### Constant pressure and work done
-If we imagine 
+
+$$\begin{align*}
+   \frac{pV}{T} &= k & F &= pA\\
+\frac{p \Delta V}{T} &= 
+\end{align*}$$
