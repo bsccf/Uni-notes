@@ -41,19 +41,12 @@ $$ ? = 0 $$
 $$ I_1( R_4 + R_2 + R_1 ) + ? = 0 $$
 > 3) $I_2,I_3$ each only share one component with $I_1$
 $$ I_1( R_4 + R_2 + R_1 ) - I_2(R_1) - I_3(R_2) = 0 $$
-> This will take too long if I give a detailed 
+> This will take too long if I give a detailed desc for each so I'm going to skip steps for $I_2,I_3$:
+> $$ I_2( R_1 + R_3 ) - I_1 (R_1) - I_3( R_3 ) = V $$
+> $$ I_3( R_2 + R_5 + R_3 ) - I_1(R_2) - I_2(R_3) = 0 $$
 
 
-> $$
-\begin{align*}
-V &= I_1 (R_1+R_3) &&+ I_2 (-R_3) &&+ I_3 (-R_1)\\
-0 &= I_1 (R_3) &&+ I_2 (R_3-R_2) &&+ I_3 (-R_5-R_2)\\
-0 &= I_1 (R_1) &&+ I_2 (R_2) &&+ I_3 (-R_1-R_2-R_4)
-\end{align*}$$
-> 
-> This can then be easily converted into matrix form:
-> 
-> $$
+3) $$
 \begin{align*}
 \begin{pmatrix} V \\ 0 \\ 0 \end{pmatrix} &= \begin{pmatrix} (R_1+R_3) &  (-R_3) & (-R_1) \\ (R_3) & (R_3-R_2)  & (-R_5-R_2) \\ (R_1) &  (R_2) & (-R_1-R_2-R_4) \end{pmatrix}\begin{pmatrix} I_1 \\  I_2 \\ I_3 \end{pmatrix}\\
 \begin{pmatrix} (R_1+R_3) &  (-R_3) & (-R_1) \\ (R_3) & (R_3-R_2)  & (-R_5-R_2) \\ (R_1) &  (R_2) & (-R_1-R_2-R_4) \end{pmatrix}^{-1}\begin{pmatrix} V \\ 0 \\ 0 \end{pmatrix} &= \begin{pmatrix} I_1 \\  I_2 \\ I_3 \end{pmatrix}
