@@ -9,9 +9,16 @@ tags: ["Question","QFormat3"]
 ### Method
 
 1) Draw "loop currents" around each loop (these arn't real currents but help with analysis, at any given point the sum of adjacent loop currents will equal the real current). They should all be clockwise.
-2) For each loop repeat the following steps (note that $I_x$ refers to the focused loop current and $I_n$ refers to non focused currents and $R$):
+2) For each loop repeat the following steps (note that $I_x$ refers to the focused loop current and $I_n$ refers to non focused currents and $R_n$ is any resistor on the focused loop current):
 	1) Add all known p.ds together on the right side of the equation taking direction relative to the focused loop current
-	2) Add the $I_x \cdot (R_x)$ to the left side
+	2) Add the $I_x \cdot (\sum\limits R_n)$ to the left side of the equation
+	3) Subtract all of the adjasent loop currents $I_n \cdot (\sum\limits R_n)$ from the left side of the equation
+As an equation:
+> ### $$ I_x \cdot \left\sum\limits (R_n\right)- \sum\limits (I_n \cdot (\sum\limits R_n)) = $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
 
 ### Example
 Find expressions for the resistances in this circuit:
