@@ -38,4 +38,4 @@ $$ \begin{align*}
 &= p \Delta V & p\Delta V&=mR\Delta T\\
 &= mR\Delta T
 \end{align*}  $$
-
+(hE)
