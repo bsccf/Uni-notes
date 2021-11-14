@@ -9,38 +9,17 @@ tags: ["Question","QFormat3"]
 ### Method
 
 1) Draw "loop currents" around each loop (these arn't real currents but help with analysis, at any given point the sum of adjacent loop currents will equal the real current). They should all be clockwise.
-3) Get equations according to [[Kirchov's voltage law]]
+2) Get equations according to [[Kirchov's voltage law]] around each loop current
 
 ### Example
 Find expressions for the resistances in this circuit:
 ![[Pasted image 20211107153425.png]]
 
-1) First we mark the diagram according to [[ciruit analysis sign convention]]
-![[Pasted image 20211107153334.png]]
+1) We draw loop currents.
+![[Pasted image 20211113235757.png]]
 
-2) Then we draw loop currents.
-![[Pasted image 20211107153309.png]]
-
-3) Now we can get equations:
-> Loop 1:
-> $$ \begin{align*}
-i_1 =& I_1 - I_3\\
-i_3 =& I_1 - I_2
-\end{align*} $$
-> $$ V - R_1(I_1-I_3) - R_3 (I_1-I_2) = 0$$
-> 
-> Loop 2:
-> $$ \begin{align*}
-i_2 =& I_2 - I_3\\
-i_5 =& I_2
-\end{align*} $$
-> $$ R_3(I_1-I_2) - R_2(I_2-I_3) - R_5 (I_3) = 0$$
-> 
-> Loop 3:
-> $$ \begin{align*}
-i_4 =& I_3
-\end{align*} $$
-> $$ R_1(I_1-I_3) + R_2(I_2-I_3) - R_4 (I_3) = 0$$
+2) 
+> $$ R_1() = V $$
 >
 > - The sign of the pd of the component is descided by the direction of the pd arrow relative to the current loop arrow.
 > - The pd accross the component is worked out using the current on that branch
