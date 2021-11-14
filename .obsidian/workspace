@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/10 Specific heats and the first law of thermodynamics/controlling work done when heating.md",
-            "mode": "source"
+            "file": "Thermofluids/9 Kinetic theory of gas/ideal gas law.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/10 Specific heats and the first law of thermodynamics/controlling work done when heating.md",
+                "file": "Thermofluids/9 Kinetic theory of gas/ideal gas law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "06463f8044fbb51c",
   "lastOpenFiles": [
+    "Thermofluids/9 Kinetic theory of gas/ideal gas law.md",
+    "Thermofluids/9 Kinetic theory of gas/pressure, volume and temperatures relationship in an idea gas.md",
+    "Thermofluids/9 Kinetic theory of gas/calculating the pressure of a gas molecule.md",
     "Thermofluids/10 Specific heats and the first law of thermodynamics/controlling work done when heating.md",
     "Thermofluids/10 Specific heats and the first law of thermodynamics/internal energy.md",
     "Thermofluids/10 Specific heats and the first law of thermodynamics/equation for change in internal energy.md",
     "Thermofluids/10 Specific heats and the first law of thermodynamics/Specific heats, work done and the first law of thermodynamics notes.md",
     "Thermofluids/10 Specific heats and the first law of thermodynamics/heat.md",
     "Thermofluids/10 Specific heats and the first law of thermodynamics/thermodynamic work.md",
-    "Electrical and electronic systems/simplifieing simple circuits.md",
-    "Electrical and electronic systems/Thevenins equivalent circuit notes.md",
-    "Electrical and electronic systems/Electrical read order.md",
-    "Electrical and electronic systems/6a Mesh analysis/mesh analysis method.md"
+    "Electrical and electronic systems/simplifieing simple circuits.md"
   ]
 }
