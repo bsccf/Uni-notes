@@ -34,7 +34,7 @@ These hold true for most common situations, but high temp's, pressures or densit
 ### Trash (Cringe) forms of the equation
 ![[Cringe]]
 
-> ### $$ pV = Nk_B T \: or \: E =\frac{3}{2}Nk_B T $$ 
+> ### $$ pV = Nk_B T \:\:\: or \:\:\: E =\frac{3}{2}Nk_B T $$ 
 >> where:
 >> $p=$ Pressure of gas
 >> $V=$ Volume of gas

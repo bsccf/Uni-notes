@@ -20,5 +20,8 @@ So if you instead heat something at a constant volume in a sealed container then
 
 If we now do some more detailed math to express this:
 $$\begin{align*}
-    &= 
+  E &=\frac{3}{2}Nk_B T\\
+E_u &= \frac{3}{2} k_B T\\
+&= m C_V T\\
+e_u &=C_V T
 \end{align*}$$
