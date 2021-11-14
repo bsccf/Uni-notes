@@ -1,8 +1,7 @@
 ---
 aliases: [""]
-tags: ["Question","QFormat3"]
+tags: ["NotesPage"]
 ---
 
-#### What is
-## Thevenins equivalent circuit notes
-Desc
+# Thevenins equivalent circuit notes
+I dislike the name, not sure why but it just feels annoying "Thevenins".
