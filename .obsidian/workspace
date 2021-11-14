@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/10 Specific heats and the first law of thermodynamics/internal energy.md",
+            "file": "Thermofluids/10 Specific heats and the first law of thermodynamics/controlling work done when heating.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/10 Specific heats and the first law of thermodynamics/internal energy.md",
+                "file": "Thermofluids/10 Specific heats and the first law of thermodynamics/controlling work done when heating.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +106,8 @@
   },
   "active": "06463f8044fbb51c",
   "lastOpenFiles": [
-    "Thermofluids/10 Specific heats and the first law of thermodynamics/internal energy.md",
     "Thermofluids/10 Specific heats and the first law of thermodynamics/controlling work done when heating.md",
+    "Thermofluids/10 Specific heats and the first law of thermodynamics/internal energy.md",
     "Thermofluids/10 Specific heats and the first law of thermodynamics/equation for change in internal energy.md",
     "Thermofluids/10 Specific heats and the first law of thermodynamics/Specific heats, work done and the first law of thermodynamics notes.md",
     "Thermofluids/10 Specific heats and the first law of thermodynamics/heat.md",
