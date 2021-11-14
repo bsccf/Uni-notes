@@ -11,4 +11,7 @@ tags: ["Question","QFormat3"]
 - Must only consist of resistors (that obey [[Ohms law]]), voltage sources and current sources
 
 #### Theory
-The method is based on the fact that any "black box" circuit that meets the above requirements can be represented as j
+The method is based on the fact that any "black box" circuit that meets the above requirements can be represented as just a single voltage source and resistor in series:
+![[Pasted image 20211114114408.png]]
+
+#### M
