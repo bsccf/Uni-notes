@@ -5,7 +5,6 @@ tags: ["Question","QFormat3"]
 
 #### What is the
 ## Mesh analysis method
-# Still not 100% complete but the method is correct and does work!
 ### Method
 
 1) > Draw "loop currents" around each loop (these arn't real currents but help with analysis, at any given point the sum of adjacent loop currents will equal the real current). They should all be clockwise.
