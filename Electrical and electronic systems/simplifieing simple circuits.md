@@ -49,5 +49,5 @@ I=&0.5A
 &= 11V 
 \end{align*} $$
 
-Hence:
+Hence (also note that the current from earlyer is gone, that's because it was only valid during those specific calculations):
 ![[Pasted image 20211114121052.png]]
