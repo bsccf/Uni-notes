@@ -9,8 +9,9 @@ tags: ["Question","QFormat3"]
 ### Method
 
 1) Draw "loop currents" around each loop (these arn't real currents but help with analysis, at any given point the sum of adjacent loop currents will equal the real current). They should all be clockwise.
-2) For each loop repeat the following steps:
-	1) Add all known p.ds together on the right side of the equation
+2) For each loop repeat the following steps (n):
+	1) Add all known p.ds together on the right side of the equation taking direction relative to the focused loop current
+	2) Add the $I_x \cdot R_x$ of the 
 
 ### Example
 Find expressions for the resistances in this circuit:
