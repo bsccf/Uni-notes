@@ -8,3 +8,5 @@ tags: ["NotesPage"]
 ![[controlling work done when heating]]
 
 ![[specific heat ratio]]
+
+![[common values for specific heat ratio]]
