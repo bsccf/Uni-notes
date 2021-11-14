@@ -33,4 +33,7 @@ The method is based on the fact that any "black box" circuit that meets the abov
 R=&\dfrac{1}{\dfrac{1}{4+6}+ \dfrac{1}{2}}  \\
 =& \frac{5}{3} \Omega
 \end{align*}$$
-> aw
+
+3) > Now cutting $\vec{AB}$ so that $R_{AB} = \inf$
+> ![[Pasted image 20211114120431.png]] 
+> 
