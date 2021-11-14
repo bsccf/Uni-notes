@@ -5,4 +5,10 @@ tags: ["Question","QFormat3"]
 
 #### What's the method for
 ## Simplifieing simple circuits
-Any ci
+### Method
+#### Requirements
+- Must be represented in a way that it has 2 terminals
+- Must only consist of resistors (that obey [[Ohms law]]), voltage sources and current sources
+
+#### Theory
+The method is based on the fact that any "black box" circuit that meets the above requirements can be represented as j
