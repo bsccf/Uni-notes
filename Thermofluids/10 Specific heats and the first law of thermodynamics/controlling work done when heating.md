@@ -38,4 +38,8 @@ $$ \begin{align*}
 &= p \Delta V & p\Delta V&=mR\Delta T\\
 &= mR\Delta T
 \end{align*}  $$
-(hE)
+(Here we used a form of the [[ideal gas law]])
+
+We can then form: $C_P=C_V+R$ (notes dosn't give us what $C_V$ is so that's great, when I have time I'll come back to this and elaborate)
+
+Here $C_P$
