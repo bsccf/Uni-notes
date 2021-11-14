@@ -10,3 +10,6 @@ tags: ["NotesPage"]
 ![[specific heat ratio]]
 
 ![[common values for specific heat ratio]]
+
+![[first law of thermodynamics]]
+
