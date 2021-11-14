@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/4a Capacitors/Capacitors.md",
+            "file": "Electrical and electronic systems/5a Inductors/Indictors notes.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/4a Capacitors/Capacitors.md",
+                "file": "Electrical and electronic systems/5a Inductors/Indictors notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,8 @@
   },
   "active": "06463f8044fbb51c",
   "lastOpenFiles": [
+    "Electrical and electronic systems/5a Inductors/Indictors notes.md",
+    "Electrical and electronic systems/5a Inductors/inductance.md",
     "Electrical and electronic systems/4a Capacitors/Capacitors.md",
     "Electrical and electronic systems/4a Capacitors/capacitance.md",
     "Electrical and electronic systems/4b Capacitor charging derivation/Capacitor charging derivation.md",
@@ -113,8 +115,6 @@
     "Thermofluids/10 Specific heats and the first law of thermodynamics/controlling work done when heating.md",
     "Thermofluids/10 Specific heats and the first law of thermodynamics/first law of thermodynamics.md",
     "Thermofluids/10 Specific heats and the first law of thermodynamics/common values for specific heat ratio.md",
-    "Thermofluids/10 Specific heats and the first law of thermodynamics/specific heat ratio.md",
-    "Thermofluids/10 Specific heats and the first law of thermodynamics/specific heat capacity.md",
-    "Thermofluids/10 Specific heats and the first law of thermodynamics/relationship between constant volume and constant pressure specific heat capacitys.md"
+    "Thermofluids/10 Specific heats and the first law of thermodynamics/specific heat ratio.md"
   ]
 }
