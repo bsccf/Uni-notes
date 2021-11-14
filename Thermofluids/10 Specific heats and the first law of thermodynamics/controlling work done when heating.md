@@ -30,5 +30,12 @@ e_u &=C_V T
 $\therefore e_u =C_V T$ is only true for atoms.
 
 ### Constant pressure and work done
+![[Pasted image 20211114154323.png]]
 The energy used when expanding one face of a box is:
-$$ \Delta W = F \Delta x =  $$
+$$ \begin{align*}
+\Delta W &= F \Delta x\\
+&= pA \Delta x\\
+&= p \Delta V & p\Delta V&=mR\Delta T\\
+&= mR\Delta T
+\end{align*}  $$
+
