@@ -29,6 +29,8 @@ e_u &=C_V T
 \end{align*}$$
 $\therefore e_u =C_V T$ is only true for atoms.
 
+$C_V$ is the [[specific heat capacity]] for a constant volume.
+
 ### Constant pressure and work done
 ![[Pasted image 20211114154323.png]]
 The energy used when expanding one face of a box is:
@@ -40,6 +42,6 @@ $$ \begin{align*}
 \end{align*}  $$
 (Here we used a form of the [[ideal gas law]])
 
-We can then form: $C_P=C_V+R$ (notes dosn't give us what $C_V$ is so that's great, when I have time I'll come back to this and elaborate)
+We can then form: $C_P=C_V+R$ 
 
-Here $C_P$ is the [[specific heat capacity]].
+Here $C_P$ is the [[specific heat capacity]] for a constant pressure, and $C_V$ is the [[specific heat capacity]] for a constant volume.
