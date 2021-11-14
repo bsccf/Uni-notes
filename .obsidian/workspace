@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/10 Specific heats and the first law of thermodynamics/heat.md",
-            "mode": "source"
+            "file": "Thermofluids/10 Specific heats and the first law of thermodynamics/equation for change in internal energy.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/10 Specific heats and the first law of thermodynamics/heat.md",
+                "file": "Thermofluids/10 Specific heats and the first law of thermodynamics/equation for change in internal energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "06463f8044fbb51c",
   "lastOpenFiles": [
-    "Thermofluids/10 Specific heats and the first law of thermodynamics/heat.md",
     "Thermofluids/10 Specific heats and the first law of thermodynamics/equation for change in internal energy.md",
+    "Thermofluids/10 Specific heats and the first law of thermodynamics/heat.md",
+    "Thermofluids/10 Specific heats and the first law of thermodynamics/thermodynamic work.md",
     "Thermofluids/10 Specific heats and the first law of thermodynamics/Specific heats, work done and the first law of thermodynamics notes.md",
     "Electrical and electronic systems/simplifieing simple circuits.md",
     "Electrical and electronic systems/Thevenins equivalent circuit notes.md",
     "Electrical and electronic systems/Electrical read order.md",
     "Electrical and electronic systems/6a Mesh analysis/mesh analysis method.md",
     "Electrical and electronic systems/6a Mesh analysis/Mesh analysis notes.md",
-    "Electrical and electronic systems/6a Mesh analysis/ciruit analysis sign convention.md",
-    "Mechanics structures and materials/Statics 1/7b Bending of beams/Bending of beams notes.md"
+    "Electrical and electronic systems/6a Mesh analysis/ciruit analysis sign convention.md"
   ]
 }
