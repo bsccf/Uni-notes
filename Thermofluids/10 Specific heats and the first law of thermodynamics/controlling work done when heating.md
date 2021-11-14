@@ -42,4 +42,4 @@ $$ \begin{align*}
 
 We can then form: $C_P=C_V+R$ (notes dosn't give us what $C_V$ is so that's great, when I have time I'll come back to this and elaborate)
 
-Here $C_P$
+Here $C_P$ is the [[specific heat capacity]].
