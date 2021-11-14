@@ -29,4 +29,6 @@ e_u &=C_V T
 \end{align*}$$
 $\therefore e_u =C_V T$ is only true for atoms.
 
-Here $C_V$ is [[specific heat]]
+Here $C_V$ is [[specific heat capacity]]
+
+### Constant pressure and work done
