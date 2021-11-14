@@ -18,10 +18,15 @@ We know according to the [[ideal gas law]] that if you increase somethings tempe
 #### Heating at constant volume
 So if you instead heat something at a constant volume in a sealed container then no work is done on the container ($E=Fx$) with no change in distance no work can be done. Hence more of the [[heat]] is used to increase internal energy and hence temperature.
 
+#### Gas internal energy
 If we now do some more detailed math to express this:
 $$\begin{align*}
-  E &=\frac{3}{2}Nk_B T\\
-E_u &= \frac{3}{2} k_B T\\
+  E_u &=\frac{3}{2}Nk_B T\\
+ &= \frac{3}{2} k_B T\\
+&= \frac{3}{2} mRT\\
 &= m C_V T\\
 e_u &=C_V T
 \end{align*}$$
+$\therefore e_u =C_V T$ is only true for atoms.
+
+Here $C_V$ is [[specific heat]]
