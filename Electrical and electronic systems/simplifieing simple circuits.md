@@ -17,7 +17,7 @@ The method is based on the fact that any "black box" circuit that meets the abov
 #### Method
 1) Identify the part of the circuit you are going to simplify
 2) Find it's resistance between the two terminals by ignoring voltage sources and current sources
-3) Find the [[potential difference|voltage]] across it
+3) Find the [[potential difference|voltage]] of the representative voltage source (V)
 
 ### Example
  ![[Pasted image 20211114115018.png]]
@@ -28,4 +28,9 @@ The method is based on the fact that any "black box" circuit that meets the abov
 
 2) > Start by ignoring current sources and voltage sorces 
 > ![[Pasted image 20211114115356.png]]
-> So $R=(\frac{1}{\frac{1}{4+6}+ \frac{1}{2}}  )$
+> So: 
+> $$\begin{align*}
+R=&\dfrac{1}{\dfrac{1}{4+6}+ \dfrac{1}{2}}  \\
+=& \frac{5}{3} \Omega
+\end{align*}$$
+> aw
