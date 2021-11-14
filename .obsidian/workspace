@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/10 Specific heats and the first law of thermodynamics/Specific heats, work done and the first law of thermodynamics notes.md",
-            "mode": "source"
+            "file": "Electrical and electronic systems/4a Capacitors/Capacitors.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/10 Specific heats and the first law of thermodynamics/Specific heats, work done and the first law of thermodynamics notes.md",
+                "file": "Electrical and electronic systems/4a Capacitors/Capacitors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "06463f8044fbb51c",
   "lastOpenFiles": [
+    "Electrical and electronic systems/4a Capacitors/Capacitors.md",
+    "Electrical and electronic systems/4a Capacitors/capacitance.md",
+    "Electrical and electronic systems/4b Capacitor charging derivation/Capacitor charging derivation.md",
     "Thermofluids/10 Specific heats and the first law of thermodynamics/Specific heats, work done and the first law of thermodynamics notes.md",
     "Thermofluids/10 Specific heats and the first law of thermodynamics/controlling work done when heating.md",
     "Thermofluids/10 Specific heats and the first law of thermodynamics/first law of thermodynamics.md",
     "Thermofluids/10 Specific heats and the first law of thermodynamics/common values for specific heat ratio.md",
     "Thermofluids/10 Specific heats and the first law of thermodynamics/specific heat ratio.md",
     "Thermofluids/10 Specific heats and the first law of thermodynamics/specific heat capacity.md",
-    "Thermofluids/10 Specific heats and the first law of thermodynamics/relationship between constant volume and constant pressure specific heat capacitys.md",
-    "Thermofluids/10 Specific heats and the first law of thermodynamics/perfect gas.md",
-    "Thermofluids/9 Kinetic theory of gas/ideal gas law.md",
-    "Thermofluids/9 Kinetic theory of gas/pressure, volume and temperatures relationship in an idea gas.md"
+    "Thermofluids/10 Specific heats and the first law of thermodynamics/relationship between constant volume and constant pressure specific heat capacitys.md"
   ]
 }
