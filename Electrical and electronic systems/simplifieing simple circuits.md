@@ -1,5 +1,5 @@
 ---
-aliases: ["Thevenin equivalent circuits","I still dislike that name, so he dons't be to be the file name"]
+aliases: ["Thevenin equivalent circuits","I still dislike that name, so he dons't be to be the file name","Thevinins theorem"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -20,4 +20,10 @@ The method is based on the fact that any "black box" circuit that meets the abov
 3) Find the [[potential difference|voltage]] across it
 
 ### Example
+ ![[Pasted image 20211114115018.png]]
  
+ 1) > First we identify the circuit we want to simplify
+ > ![[Pasted image 20211114115154.png]]
+> Which is baiscall everything except that resistor
+
+2) 
