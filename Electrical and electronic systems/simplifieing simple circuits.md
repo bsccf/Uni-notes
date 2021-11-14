@@ -50,3 +50,4 @@ I=&0.5A
 \end{align*} $$
 
 Hence:
+![[Pasted image 20211114121052.png]]
