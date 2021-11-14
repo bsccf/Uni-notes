@@ -9,7 +9,7 @@ tags: ["Question","QFormat3"]
 ### Method
 
 1) Draw "loop currents" around each loop (these arn't real currents but help with analysis, at any given point the sum of adjacent loop currents will equal the real current). They should all be clockwise.
-2) Get equations according to [[Kirchov's voltage law]] around each loop current
+2) Get equati
 
 ### Example
 Find expressions for the resistances in this circuit:
@@ -19,8 +19,8 @@ Find expressions for the resistances in this circuit:
 ![[Pasted image 20211113235757.png]]
 
 2) 
-> $$ R_1() = V $$
->
+> $$ V + I_1(R_1) - I_2(R_3+R_1) + I_3(R_3) = 0 $$
+>$$  $$
 > - The sign of the pd of the component is descided by the direction of the pd arrow relative to the current loop arrow.
 > - The pd accross the component is worked out using the current on that branch
 > - The current on the branch is worked out using the sum of the adjasent loop currents
