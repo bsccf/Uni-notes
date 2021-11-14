@@ -16,4 +16,5 @@ So to effectively heat something with the goal of increasing temperature, you wa
 We know according to the [[ideal gas law]] that if you increase somethings temperature then it's pressure or volume will also increase ($\frac{pV}{T}=k$) but when a container expands whether that be in something like a baloon or a piston work is done to expand that volume, this work done decreases the energy that goes into heating the substance.
 
 #### Heating at constant volume
-So if you instead heat something at a constant volume in a sealed container then no work is done on the conti
+So if you instead heat something at a constant volume in a sealed container then no work is done on the container ($E=Fx$) with no change in distance no work can be done. Hence more of the [[heat]] is used to increase internal energy and hence temperature.
+
