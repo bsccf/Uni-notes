@@ -46,9 +46,11 @@ $$ I_1( R_4 + R_2 + R_1 ) - I_2(R_1) - I_3(R_2) = 0 $$
 > $$ I_3( R_2 + R_5 + R_3 ) - I_1(R_2) - I_2(R_3) = 0 $$
 
 
-3) $$
-\begin{align*}
-\begin{pmatrix} V \\ 0 \\ 0 \end{pmatrix} &= \begin{pmatrix} (R_1+R_3) &  (-R_3) & (-R_1) \\ (R_3) & (R_3-R_2)  & (-R_5-R_2) \\ (R_1) &  (R_2) & (-R_1-R_2-R_4) \end{pmatrix}\begin{pmatrix} I_1 \\  I_2 \\ I_3 \end{pmatrix}\\
-\begin{pmatrix} (R_1+R_3) &  (-R_3) & (-R_1) \\ (R_3) & (R_3-R_2)  & (-R_5-R_2) \\ (R_1) &  (R_2) & (-R_1-R_2-R_4) \end{pmatrix}^{-1}\begin{pmatrix} V \\ 0 \\ 0 \end{pmatrix} &= \begin{pmatrix} I_1 \\  I_2 \\ I_3 \end{pmatrix}
+3) > Pog
+> 
+$$\begin{align*}
+\begin{pmatrix} 
+ I_1 \\ I_2 \\ I_3 
+\end{pmatrix}
 \end{align*}$$
 > And done, holy shit that took ages to write out. 
