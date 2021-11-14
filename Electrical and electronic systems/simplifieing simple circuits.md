@@ -17,7 +17,7 @@ The method is based on the fact that any "black box" circuit that meets the abov
 #### Method
 1) Identify the part of the circuit you are going to simplify
 2) Find it's resistance between the two terminals by ignoring voltage sources and current sources
-3) Find the [[potential difference|voltage]] of the representative voltage source (V)
+3) Find the [[potential difference|voltage]] of the representative voltage source ($V_{TH}$) by finding it's open circuit voltage
 
 ### Example
  ![[Pasted image 20211114115018.png]]
