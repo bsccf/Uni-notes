@@ -33,5 +33,8 @@ $$\begin{align*}
 x &= -\frac{2}{s \cdot SC_D} \cdot \sqrt{ \frac{\rho S C_L}{2} } \int  \sqrt\frac{1}{W} \cdot dW\\
 &= -\frac{1}{s C_D} \cdot \sqrt{ \frac{2\rho C_L}{S} } \int  \frac{1}{\sqrt W} \cdot dW\\
 &= -\frac{1}{s C_D} \cdot \sqrt{ \frac{2\rho C_L}{S} } \cdot 2\ln(\sqrt W) + c \\\\
-&= \frac{2}{s C_D} \cdot \sqrt{ \frac{2\rho C_L}{S} } \cdot \ln\left(\sqrt {\frac{W_s+W_f}{W}}\right)
+&= \frac{2}{s C_D} \cdot \sqrt{ \frac{2\rho C_L}{S} } \cdot \ln\left(\sqrt {\frac{W_s+W_f}{W}}\right)\\
+&= \frac{1}{s C_D} \cdot \sqrt{ \frac{2\rho C_L}{S} } \cdot \ln\left( {\frac{W_s+W_f}{W}}\right)\\
 \end{align*}$$
+
+$$\therefore R = \frac{1}{s C_D} \cdot \sqrt{ \frac{2\rho C_L}{S} } \cdot \ln\left(1+ {\frac{W_f}{W_s}}\right)$$
