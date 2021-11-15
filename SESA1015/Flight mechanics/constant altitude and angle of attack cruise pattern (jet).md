@@ -58,9 +58,12 @@ C_L^{\frac{1}{2}} \frac{2K}{\pi A} C_L &= \left(C_{D0}+\frac{K}{\pi A}C_L^{2}\ri
 \therefore C_{D0} &= 3C_{Di} \:\:\:\: at\:max\:R\\
 \end{align*}$$
 
+Note $C_{D0} = 3C_{Di}$
+
 $$\begin{align*}
    D &= \frac{1}{2} \rho S V^{2} C_D & C_D &= C_{Di} + C_{Do} & C_{D0} &= 3C_{Di} \\
 & & C_D &= 4C_{Di}\\
-D &= \frac{1}{2} \rho S V^{2} 4C_{Di} & W &= \frac{1}{2} \rho V^{2} S C_L \\
-&= \frac{1}{2} \rho S V^{2} 4 
+T &= \frac{1}{2} \rho S V^{2} 4C_{Di} & W &= \frac{1}{2} \rho V^{2} S C_L \\
+  &= \frac{1}{2} \rho S V^{2} 4\dfrac{K(C_L)^{2}}{\pi A} & \rho S C_L V^{2}=\sqrt\frac{2W}{}\\
+&= \frac{1}{2} \rho S V^{2} 4\dfrac{K(C_L)^{2}}{\pi A}
 \end{align*}$$
