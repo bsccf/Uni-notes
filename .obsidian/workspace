@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "SESA1015/Flight mechanics/constant altitude and angle of attack cruise pattern (jet).md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -102,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233
+    "width": 234
   },
   "active": "ffbb546b02207820",
   "lastOpenFiles": [
