@@ -35,3 +35,7 @@ $$\begin{align*}
 &= \int \int   y^{2}   \cdot dydz + 2b\cdot 0+ b^{2}\cdot A\\
 &= \int \int   y^{2}   \cdot dydz + Ab^{2}
 \end{align*}$$
+
+### Implications
+$I_{z'z'} = I_{zz} + Ab^{2}$ So you can increase the value of $Ab^{2}$ to increase the $I_{z'z'}$ and since we know that $ \sigma = \frac{My}{I} $
+[[engineer's bending theory]]
