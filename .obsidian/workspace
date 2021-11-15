@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/4b Capacitor charging derivation/Capacitor charging derivation.md",
+            "file": "Mechanics structures and materials/Statics 1/7b Bending of beams/Bending of beams notes.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/4b Capacitor charging derivation/Capacitor charging derivation.md",
+                "file": "Mechanics structures and materials/Statics 1/7b Bending of beams/Bending of beams notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "06463f8044fbb51c",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Statics 1/7b Bending of beams/Bending of beams notes.md",
+    "Mechanics structures and materials/Statics 1/7b Bending of beams/engineer's bending theory.md",
+    "Mechanics structures and materials/Statics 1/7b Bending of beams/moment over a section of beam cross section.md",
+    "Mechanics structures and materials/Statics 1/7b Bending of beams/kekekkw.md",
+    "Mechanics structures and materials/Statics 1/7b Bending of beams/force over a section of beam cross section.md",
+    "Mechanics structures and materials/Statics 1/7b Bending of beams/first moment of area.md",
     "Electrical and electronic systems/4b Capacitor charging derivation/Capacitor charging derivation.md",
     "Electrical and electronic systems/5a Inductors/Indictors notes.md",
     "Electrical and electronic systems/5a Inductors/inductance.md",
-    "Electrical and electronic systems/4a Capacitors/Capacitors.md",
-    "Electrical and electronic systems/4a Capacitors/capacitance.md",
-    "Thermofluids/10 Specific heats and the first law of thermodynamics/Specific heats, work done and the first law of thermodynamics notes.md",
-    "Thermofluids/10 Specific heats and the first law of thermodynamics/controlling work done when heating.md",
-    "Thermofluids/10 Specific heats and the first law of thermodynamics/first law of thermodynamics.md",
-    "Thermofluids/10 Specific heats and the first law of thermodynamics/common values for specific heat ratio.md",
-    "Thermofluids/10 Specific heats and the first law of thermodynamics/specific heat ratio.md"
+    "Electrical and electronic systems/4a Capacitors/Capacitors.md"
   ]
 }
