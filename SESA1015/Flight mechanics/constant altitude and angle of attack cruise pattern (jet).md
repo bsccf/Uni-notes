@@ -71,6 +71,12 @@ C_{Lmax} &= \sqrt{\frac{C_{Do}}{\frac{3K}{\pi A}}}\\
 &\approx 1.316 V_{minDrag}
 \end{align*}$$
 
+Now subbing back into our $R$ equation:
+
+$$\begin{align*}
+    R &= \frac{1}{s} \cdot \sqrt{ \frac{2\rho }{S} } \cdot \frac{\sqrt{C_L}}{C_D} \cdot \ln\left(1+ {\frac{W_f}{W_s}}\right) & C_{Lmax} &= \sqrt{\frac{C_{Do}}{\frac{3K}{\pi A}}}
+\end{align*}$$
+
 #### Implications
 The optimum speed for maximising range without changing altitude occurs at 1.316 times the [[min drag speed in steady level flight|min drag speed]].
 

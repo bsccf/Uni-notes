@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/inaccuracys when modelling cruise patterns.md",
-            "mode": "source"
+            "file": "SESA1015/Flight mechanics/constant altitude and angle of attack cruise pattern (jet).md",
+            "mode": "preview"
           }
         }
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/inaccuracys when modelling cruise patterns.md",
+                "file": "SESA1015/Flight mechanics/constant altitude and angle of attack cruise pattern (jet).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,9 +107,9 @@
   },
   "active": "ffbb546b02207820",
   "lastOpenFiles": [
+    "SESA1015/Flight mechanics/constant altitude and angle of attack cruise pattern (jet).md",
     "SESA1015/Flight mechanics/inaccuracys when modelling cruise patterns.md",
     "SESA1015/Flight mechanics/compresibility drag.md",
-    "SESA1015/Flight mechanics/constant altitude and angle of attack cruise pattern (jet).md",
     "SESA1015/Flight mechanics/lift coefficient at min drag.md",
     "SESA1015/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
     "SESA1015/Flight mechanics/Flight mechanics 4/min drag speed in steady level flight.md",
