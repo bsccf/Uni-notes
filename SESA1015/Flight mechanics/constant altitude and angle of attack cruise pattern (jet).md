@@ -25,21 +25,21 @@ $$\begin{align*}
 \therefore \frac{dW}{dx} \frac{dx}{dt} = \frac{dW}{dx}V &=
 \end{align*}$$
 $$\begin{align*}
-   \frac{dW}{dx}V &= -sD & V=&\sqrt\frac{2W}{\rho S C_L} & D &= \frac{1}{2}V^{2}SC_D \\
-\frac{dW}{dx} &= -s\frac{1}{2}V^{2}SC_D\\
-&= -s\frac{1}{2}VSC_D\\
-&= -\frac{s \cdot SC_D}{2} \sqrt\frac{2W}{\rho S C_L}\\
-\int 1 \cdot dx &= -\int \frac{2}{s \cdot SC_D} \sqrt\frac{\rho S C_L}{2W} \cdot dW\\
-x &= -\frac{2}{s \cdot SC_D} \cdot \sqrt{ \frac{\rho S C_L}{2} } \int  \sqrt\frac{1}{W} \cdot dW\\
-&= -\frac{1}{s C_D} \cdot \sqrt{ \frac{2\rho C_L}{S} } \int  \frac{1}{\sqrt W} \cdot dW\\
-&= -\frac{1}{s C_D} \cdot \sqrt{ \frac{2\rho C_L}{S} } \cdot 2\ln(\sqrt W) + c \\\\
-&= \frac{2}{s C_D} \cdot \sqrt{ \frac{2\rho C_L}{S} } \cdot \ln\left(\sqrt {\frac{W_s+W_f}{W}}\right)\\
-&= \frac{1}{s C_D} \cdot \sqrt{ \frac{2\rho C_L}{S} } \cdot \ln\left( {\frac{W_s+W_f}{W}}\right)\\
+   \frac{dW}{dx}V &= -sD & V=&\sqrt\frac{2W}{\rho S C_L} & D &= \frac{1}{2}V^{2}\rho SC_D \\
+\frac{dW}{dx} &= -s\frac{1}{2}V^{2}SC_D \rho\\
+&= -s\frac{1}{2}VSC_D \rho\\
+&= -\frac{s \cdot SC_D \rho}{2} \sqrt\frac{2W}{\rho S C_L}\\
+\int 1 \cdot dx &= -\int \frac{2}{s \cdot SC_D \rho} \sqrt\frac{\rho S C_L}{2W} \cdot dW\\
+x &= -\frac{2}{s \cdot SC_D \rho} \cdot \sqrt{ \frac{\rho S C_L}{2} } \int  \sqrt\frac{1}{W} \cdot dW\\
+&= -\frac{1}{s C_D \rho} \cdot \sqrt{ \frac{2\rho C_L}{S} } \int  \frac{1}{\sqrt W} \cdot dW\\
+&= -\frac{1}{s C_D \rho} \cdot \sqrt{ \frac{2\rho C_L}{S} } \cdot 2\ln(\sqrt W) + c \\\\
+&= \frac{2}{s C_D \rho} \cdot \sqrt{ \frac{2\rho C_L}{S} } \cdot \ln\left(\sqrt {\frac{W_s+W_f}{W}}\right)\\
+&= \frac{1}{s C_D \rho} \cdot \sqrt{ \frac{2\rho C_L}{S} } \cdot \ln\left( {\frac{W_s+W_f}{W}}\right)\\
 \end{align*}$$
 
 $$\begin{align*}
-\therefore R &= \frac{1}{s C_D} \cdot \sqrt{ \frac{2\rho C_L}{S} } \cdot \ln\left(1+ {\frac{W_f}{W_s}}\right)\\
-&= \frac{1}{s} \cdot \sqrt{ \frac{2\rho }{S} } \cdot \frac{\sqrt{C_L}}{C_D} \cdot \ln\left(1+ {\frac{W_f}{W_s}}\right)
+\therefore R &= \frac{1}{s C_D \rho} \cdot \sqrt{ \frac{2\rho C_L}{S} } \cdot \ln\left(1+ {\frac{W_f}{W_s}}\right)\\
+&= \frac{1}{s} \cdot \sqrt{ \frac{2 }{S\rho} } \cdot \frac{\sqrt{C_L}}{C_D} \cdot \ln\left(1+ {\frac{W_f}{W_s}}\right)
 \end{align*}$$
 
 So to maxamise $R$ we must find when $\frac{\sqrt{C_L}}{C_D}$ is at a maximum.
@@ -75,7 +75,7 @@ C_{Lmax} &= \sqrt{\frac{C_{Do}}{\frac{3K}{\pi A}}}\\
 Now subbing back into our $R$ equation:
 
 $$\begin{align*}
-    R &= \frac{1}{s} \cdot \sqrt{ \frac{2\rho }{S} } \cdot \frac{\sqrt{C_L}}{C_D} \cdot \ln\left(1+ {\frac{W_f}{W_s}}\right) & C_{Lmax} &= \sqrt{\frac{C_{Do}}{\frac{3K}{\pi A}}} & C_D &= C_{Do} + C_{Di} & C_{Do} &= 3C_{Di}\\
+    R &= \frac{1}{s} \cdot \sqrt{ \frac{2 }{S\rho} } \cdot \frac{\sqrt{C_L}}{C_D} \cdot \ln\left(1+ {\frac{W_f}{W_s}}\right) & C_{Lmax} &= \sqrt{\frac{C_{Do}}{\frac{3K}{\pi A}}} & C_D &= C_{Do} + C_{Di} & C_{Do} &= 3C_{Di}\\
 & & C_{Lmax} &= \sqrt{\frac{C_{Do}\pi A}{3K}} & C_D &= \frac{4}{3} C_{Do} \\
 &= \frac{1}{s} \cdot \sqrt{ \frac{2\rho }{S} } \cdot \frac{\sqrt{\sqrt{\frac{C_{Do}\pi A}{3K}}}}{\frac{4}{3} C_{Do}} \cdot \ln\left(1+ {\frac{W_f}{W_s}}\right)\\
 &= \frac{3}{4s} \cdot \sqrt{ \frac{2\rho }{S} } \cdot \sqrt[4]{\frac{C_{Do}\pi A}{3K(C_{Do})^{4}}}  \cdot \ln\left(1+ {\frac{W_f}{W_s}}\right)\\
