@@ -65,8 +65,9 @@ Now if we use the resault above and the [[lift coefficient at min drag]]:
 $$\begin{align*}
 C_{Lmax} &= \sqrt{\frac{C_{Do}}{\frac{3K}{\pi A}}}\\
 &= \frac{1}{\sqrt3} \sqrt{\frac{C_{Do}\pi A}{K}} & C_{LminD} &= \sqrt\frac{C_{Do}\pi A}{K}\\
-&= \frac{1}{\sqrt3} C_{LminD} & &
-& & recall\:that\: V&\propto \frac{1}{\sqrt C_L}
-
+&= \frac{1}{\sqrt3} C_{LminD} \\
+& & V \propto \frac{1}{\sqrt C_L}\\
+\therefore V_{cruise} &= \sqrt[4]{3} V_{minDrag}\\
+&\approx 1.316 V_{minDrag}
 \end{align*}$$
 
