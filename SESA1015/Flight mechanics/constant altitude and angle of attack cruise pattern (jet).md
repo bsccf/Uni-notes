@@ -56,7 +56,8 @@ C_L^{\frac{1}{2}} \frac{2K}{\pi A} C_L &= \left(C_{D0}+\frac{K}{\pi A}C_L^{2}\ri
 
 3\dfrac{K(C_L)^{2}}{\pi A}  &= C_{D0} & C_{Di}&=\dfrac{K(C_L)^{2}}{\pi A} \\
 \therefore C_{D0} &= 3C_{Di} \:\:\:\: at\:max\:R\\
-& & &\\
-&
 \end{align*}$$
 
+$$\begin{align*}
+    &= 
+\end{align*}$$
