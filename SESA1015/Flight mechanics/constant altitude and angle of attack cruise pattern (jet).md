@@ -59,5 +59,8 @@ C_L^{\frac{1}{2}} \frac{2K}{\pi A} C_L &= \left(C_{D0}+\frac{K}{\pi A}C_L^{2}\ri
 \end{align*}$$
 
 $$\begin{align*}
-   D &= \frac{1}{2} S V^{2} C_D 
+   D &= \frac{1}{2} \rho S V^{2} C_D & C_D &= C_{Di} + C_{Do} & C_{D0} &= 3C_{Di} \\
+& & C_D &= 4C_{Di}\\
+D &= \frac{1}{2} \rho S V^{2} 4C_{Di} & W &= \frac{1}{2} \rho  C_L \\
+&= \frac{1}{2} \rho S V^{2} 4 
 \end{align*}$$
