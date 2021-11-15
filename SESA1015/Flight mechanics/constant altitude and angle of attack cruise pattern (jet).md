@@ -19,4 +19,4 @@ $$\begin{align*}
 We must be varying the speed to control lift as weight changes, so $V=\sqrt\frac{2W}{\rho S C_L}$
 
 ### Maths time
-
+We know from [[specific fuel consumption (aircraft)|specific fuel consumption]]:
