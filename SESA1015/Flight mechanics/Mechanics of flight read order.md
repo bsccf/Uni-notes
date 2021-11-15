@@ -12,6 +12,7 @@ Read order:
 2)  [[Typical aerodynamic characteristincs for conventional aircraft]]
 3) [[calculating minimum drag]]
 4) [[endurance and range of jet aircraft]]
+5) [[range at constant altitude and constant angle of attack]]
 
 Example question:
 ![[AERODYNAMIC.mp4]]
