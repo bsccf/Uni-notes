@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/constant altitude and angle of attack cruise pattern (jet).md",
-            "mode": "source"
+            "file": "SESA1015/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
+            "mode": "preview"
           }
         }
       },
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/constant altitude and angle of attack cruise pattern (jet).md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +118,7 @@
   },
   "active": "ffbb546b02207820",
   "lastOpenFiles": [
+    "SESA1015/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
     "SESA1015/Flight mechanics/constant altitude and angle of attack cruise pattern (jet).md",
     "SESA1015/Flight mechanics/Flight mechanics 2/Drag coefficient.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/cruise pattern.md",
@@ -126,7 +127,6 @@
     "SESA1015/Flight mechanics/Mechanics of flight read order.md",
     "Mechanics structures and materials/Statics 1/8b parallel axis theorem/based method for finding second moment.md",
     "Mechanics structures and materials/Statics 1/8b parallel axis theorem/parallel axis theorem and other example.md",
-    "Mechanics structures and materials/Statics 1/8b parallel axis theorem/parallel axis theorem.md",
-    "Mechanics structures and materials/Statics 1/7b Bending of beams/engineer's bending theory.md"
+    "Mechanics structures and materials/Statics 1/8b parallel axis theorem/parallel axis theorem.md"
   ]
 }
