@@ -47,7 +47,9 @@ So to maxamise $R$ we must find when $\frac{\sqrt{C_L}}{C_D}$ is at a maximum, w
 Hence we will need equations for the [[Drag coefficient]] and the [[Lift coefficient]].
 
 $$\begin{align*}
-   \frac{\sqrt{C_L}}{C_D}&  &  W &= \frac{1}{2}\rho V^{2}S C_L   &  C_D &= C_{Do} + \dfrac{K(C_L)^{2}}{\pi A}\\
-\frac{\sqrt{C_L}}{C_D}&  &  \frac{2W}{\rho V^{2}S} &=  C_L   &  &\\
-&= \frac{\sqrt{ \frac{2W}{\rho V^{2}S} }}{C_D} & & &  C_D &= C_{Do} + \dfrac{K(\frac{2W}{\rho V^{2}S})^{2}}{\pi A}
+   &  &  W &= \frac{1}{2}\rho V^{2}S C_L   &  C_D &= C_{Do} + \dfrac{K(C_L)^{2}}{\pi A}\\
+&  &  \frac{2W}{\rho V^{2}S} &=  C_L   &  &\\
+\frac{\sqrt{C_L}}{C_D}&= \frac{\sqrt{ \frac{2W}{\rho V^{2}S} }}{C_D} & & &  C_D &= C_{Do} + \dfrac{K(\frac{2W}{\rho V^{2}S})^{2}}{\pi A}\\
+&= \frac{\sqrt{ \frac{2W}{\rho V^{2}S} }}{C_{Do} + \dfrac{K(\frac{2W}{\rho V^{2}S})^{2}}{\pi A}}\\
+ \frac{\sqrt{C_L}}{C_D} &= \frac{d}{dC_L} \cdot \frac{\sqrt{ \frac{2W}{\rho V^{2}S} }}{C_{Do} + \dfrac{K(\frac{2W}{\rho V^{2}S})^{2}}{\pi A}}
 \end{align*}$$
