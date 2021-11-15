@@ -73,4 +73,4 @@ C_{Lmax} &= \sqrt{\frac{C_{Do}}{\frac{3K}{\pi A}}}\\
 
 #### Implications
 The optimum speed for maximising range without changing altitude occurs at 1.316 times the [[min drag speed in steady level flight|min drag speed]].
-Though that said the true value is different as this analysis has not taken into account the
+Though that said the true value is different as this analysis has not taken into account compressibility drag, which means in reality optimum cruise heights and are greater in real situations. When accounting for the [[compresibility drag]] rise that occurs at high [[Mach number]]s it becomes desirable to increase altitude maintaining an almost constant mach number till drag is minamised; this decrease in 
