@@ -10,4 +10,5 @@ Suppose you want to use on of the [[standard results for second moment of area]]
 
 ![[Pasted image 20211115094724.png]]
 
-But instead is on the axis $z'$ 
+But instead has centre:
+- $y' = y+b$
