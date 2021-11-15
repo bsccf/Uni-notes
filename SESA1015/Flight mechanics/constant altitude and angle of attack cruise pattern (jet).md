@@ -58,11 +58,12 @@ C_L^{\frac{1}{2}} \frac{2K}{\pi A} C_L &= \left(C_{D0}+\frac{K}{\pi A}C_L^{2}\ri
 \therefore C_{D0} &= 3C_{Di} \:\:\:\: at\:max\:R\\
 \end{align*}$$
 
-Note $C_{D0} = 3C_{Di}$
+Note $C_{D0} = 3C_{Di}$.
+
+Now if we use the resault above and the [[lift coefficient at min drag]]
 
 $$\begin{align*}
 C_{Lmax} &= \sqrt{\frac{C_{D0}}{\frac{3K}{\pi A}}}\\
-&= \frac{1}{\sqrt3} \sqrt{\frac{C_{D0}}{\frac{K}{\pi A}}} & C_{LminD} &= \sqrt\frac{C_{Do}\pi A}{K}
+&= \frac{1}{\sqrt3} \sqrt{\frac{C_{Do}\pi A}{K}} & C_{LminD} &= \sqrt\frac{C_{Do}\pi A}{K}\\
+&= \frac{1}{\sqrt3} C_{LminD}
 \end{align*}$$
-
-If we compare this to the [[lift coefficient at min drag]]
