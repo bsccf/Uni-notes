@@ -12,3 +12,6 @@ Suppose you want to use on of the [[standard results for second moment of area]]
 
 But instead has centre:
 - $y' = y+b$
+- $z' = z+a$
+These *parrallel axis* are ment to be used instead, see where this is going?
+
