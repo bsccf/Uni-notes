@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "06463f8044fbb51c",
+        "id": "a8e2eaf4cb0ec537",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -104,7 +104,7 @@
     "direction": "horizontal",
     "width": 233
   },
-  "active": "06463f8044fbb51c",
+  "active": "a8e2eaf4cb0ec537",
   "lastOpenFiles": [
     "Mechanics structures and materials/Statics 1/8b parallel axis theorem/parallel axis theorem.md",
     "Mechanics structures and materials/Statics 1/8b parallel axis theorem/parallel axis theorem notes.md",
