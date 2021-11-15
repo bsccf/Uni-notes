@@ -88,8 +88,14 @@ The optimum speed for maximising range without changing altitude occurs at 1.316
 > ### $$ R_{max} = \frac{3}{2s} \cdot \sqrt{ \frac{2 }{S\rho} } \cdot \sqrt[4]{\frac{\pi A}{3K(C_{Do})^{3}}}  \cdot \ln\left(1+ {\frac{W_f}{W_s}}\right) $$ 
 >> where:
 >> $R_{max}=$  The max range for constant altitude flight
+>> $S=$ [[Wing plan area|Gross wing area]]
+>> $s=$ [[specific fuel consumption (aircraft)|s.f.c]]
+>> $\rho=$ air density
+>> $A=$ [[Wing aspect ratio]]
 
-This tells us to get the best range 
+This tells us to get the best range we need to:
+- fly at a high altitude.
+- minamise 
 
 ![[inaccuracys when modelling cruise patterns]]
 
