@@ -48,22 +48,25 @@ Hence we will need equations for the [[Drag coefficient]]
 $$\begin{align*}
    &   &  C_D &= C_{Do} + \dfrac{K(C_L)^{2}}{\pi A}\\
  \frac{d}{dC_L} \cdot\frac{\sqrt{C_L}}{C_D}&=  \frac{d}{dC_L} \cdot\frac{\sqrt{ C_L }}{C_{Do} + \dfrac{K(C_L)^{2}}{\pi A}} & \\
-&= \frac{\left(C_{D0}+\frac{K}{\pi A}C_L^{2}\right) \frac{1}{2} C_L^{\frac{-1}{2}} - C_L^{\frac{1}{2}} \frac{2K}{\pi A} C_L}{ \left(C_{D0} + \frac{K}{\pi A} C_L^{2}\right)^2 }\\
-0 &= \left(C_{D0}+\frac{K}{\pi A}C_L^{2}\right) \frac{1}{2} C_L^{\frac{-1}{2}} - C_L^{\frac{1}{2}} \frac{2K}{\pi A} C_L\\
-C_L^{\frac{1}{2}} \frac{2K}{\pi A} C_L &= \left(C_{D0}+\frac{K}{\pi A}C_L^{2}\right) \frac{1}{2} C_L^{\frac{-1}{2}}\\
+&= \frac{\left(C_{Do}+\frac{K}{\pi A}C_L^{2}\right) \frac{1}{2} C_L^{\frac{-1}{2}} - C_L^{\frac{1}{2}} \frac{2K}{\pi A} C_L}{ \left(C_{Do} + \frac{K}{\pi A} C_L^{2}\right)^2 }\\
+0 &= \left(C_{Do}+\frac{K}{\pi A}C_L^{2}\right) \frac{1}{2} C_L^{\frac{-1}{2}} - C_L^{\frac{1}{2}} \frac{2K}{\pi A} C_L\\
+C_L^{\frac{1}{2}} \frac{2K}{\pi A} C_L &= \left(C_{Do}+\frac{K}{\pi A}C_L^{2}\right) \frac{1}{2} C_L^{\frac{-1}{2}}\\
 
-4C_L^{2} \frac{K}{\pi A}  &= C_{D0}+\frac{K}{\pi A}C_L^{2}\\
+4C_L^{2} \frac{K}{\pi A}  &= C_{Do}+\frac{K}{\pi A}C_L^{2}\\
 
-3\dfrac{K(C_L)^{2}}{\pi A}  &= C_{D0} & C_{Di}&=\dfrac{K(C_L)^{2}}{\pi A} \\
-\therefore C_{D0} &= 3C_{Di} \:\:\:\: at\:max\:R\\
+3\dfrac{K(C_L)^{2}}{\pi A}  &= C_{Do} & C_{Di}&=\dfrac{K(C_L)^{2}}{\pi A} \\
+\therefore C_{Do} &= 3C_{Di} \:\:\:\: at\:max\:R\\
 \end{align*}$$
 
-Note $C_{D0} = 3C_{Di}$.
+Note $C_{Do} = 3C_{Di}$.
 
-Now if we use the resault above and the [[lift coefficient at min drag]]
+Now if we use the resault above and the [[lift coefficient at min drag]]:
 
 $$\begin{align*}
-C_{Lmax} &= \sqrt{\frac{C_{D0}}{\frac{3K}{\pi A}}}\\
+C_{Lmax} &= \sqrt{\frac{C_{Do}}{\frac{3K}{\pi A}}}\\
 &= \frac{1}{\sqrt3} \sqrt{\frac{C_{Do}\pi A}{K}} & C_{LminD} &= \sqrt\frac{C_{Do}\pi A}{K}\\
-&= \frac{1}{\sqrt3} C_{LminD}
+&= \frac{1}{\sqrt3} C_{LminD} & &
+& & recall\:that\: V&\propto \frac{1}{\sqrt C_L}
+
 \end{align*}$$
+
