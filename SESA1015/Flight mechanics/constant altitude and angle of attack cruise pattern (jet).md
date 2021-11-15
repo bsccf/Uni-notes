@@ -74,9 +74,11 @@ C_{Lmax} &= \sqrt{\frac{C_{Do}}{\frac{3K}{\pi A}}}\\
 Now subbing back into our $R$ equation:
 
 $$\begin{align*}
-    R &= \frac{1}{s} \cdot \sqrt{ \frac{2\rho }{S} } \cdot \frac{\sqrt{C_L}}{C_D} \cdot \ln\left(1+ {\frac{W_f}{W_s}}\right) & C_{Lmax} &= \sqrt{\frac{C_{Do}}{\frac{3K}{\pi A}}} & C_D &= C_{Do} + \dfrac{K(C_L)^{2}}{\pi A} & C_{Do} &= 3C_{Di}\\
+    R &= \frac{1}{s} \cdot \sqrt{ \frac{2\rho }{S} } \cdot \frac{\sqrt{C_L}}{C_D} \cdot \ln\left(1+ {\frac{W_f}{W_s}}\right) & C_{Lmax} &= \sqrt{\frac{C_{Do}}{\frac{3K}{\pi A}}} & C_D &= C_{Do} + C_{Di} & C_{Do} &= 3C_{Di}\\
 & & C_{Lmax} &= \sqrt{\frac{C_{Do}\pi A}{3K}} & C_D &= \frac{4}{3} C_{Do} \\
-&= 
+&= \frac{1}{s} \cdot \sqrt{ \frac{2\rho }{S} } \cdot \frac{\sqrt{\sqrt{\frac{C_{Do}\pi A}{3K}}}}{\frac{4}{3} C_{Do}} \cdot \ln\left(1+ {\frac{W_f}{W_s}}\right)\\
+&= \frac{1}{s} \cdot \sqrt{ \frac{8\rho }{3S} } \cdot \sqrt[4]{\frac{C_{Do}\pi A}{3K(C_{Do})^{4}}}  \cdot \ln\left(1+ {\frac{W_f}{W_s}}\right)\\
+&= \frac{1}{s} \cdot \sqrt{ \frac{8\rho }{3S} } \cdot \sqrt[4]{\frac{\pi A}{3K(C_{Do})^{3}}}  \cdot \ln\left(1+ {\frac{W_f}{W_s}}\right)
 \end{align*}$$
 
 #### Implications
