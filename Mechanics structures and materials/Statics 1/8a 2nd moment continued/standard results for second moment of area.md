@@ -20,3 +20,11 @@ To do the proof you need to integrate using polar coordinates.
 
 ### Rectangle
 ![[Pasted image 20211115093453.png]]
+
+[[proof of second moment of area of a rectangle]]
+
+> ### $$ I_{zz} = \frac{bd^{3}}{12} $$ 
+>> where:
+>> $I_{zz}=$ [[second moment of area]] 
+>> $b=$ width of rectangle
+>> $d=$ height of rectangle
