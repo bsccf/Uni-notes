@@ -95,7 +95,8 @@ The optimum speed for maximising range without changing altitude occurs at 1.316
 
 This tells us to get the best range we need to:
 - fly at a high altitude.
-- minamise 
+- minamise wing area
+- maxamise aspect ratio
 
 ![[inaccuracys when modelling cruise patterns]]
 
