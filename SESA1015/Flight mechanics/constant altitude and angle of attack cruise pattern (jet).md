@@ -48,5 +48,5 @@ Hence we will need equations for the [[Drag coefficient]].
 $$\begin{align*}
    &   &  C_D &= C_{Do} + \dfrac{K(C_L)^{2}}{\pi A}\\
  \frac{d}{dC_L} \cdot\frac{\sqrt{C_L}}{C_D}&=  \frac{d}{dC_L} \cdot\frac{\sqrt{ C_L }}{C_{Do} + \dfrac{K(C_L)^{2}}{\pi A}} & \\
-&= 
+&= \frac{\left(\frac{C_{D0}+K}{\pi A}C_L^{2}\right) \frac{1}{2} C_L^{\frac{-1}{2}} - C_L^{\frac{1}{2}} \frac{2K}{\pi A} C_L}{}
 \end{align*}$$
