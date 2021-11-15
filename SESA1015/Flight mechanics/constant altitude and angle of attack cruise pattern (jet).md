@@ -97,8 +97,7 @@ This tells us to get the best range we need to:
 - fly at a high altitude.
 - minamise wing area
 - maxamise aspect ratio
+- minamise dry weight
+- minamise [[specific fuel consumption (aircraft)|s.f.c]]
 
 ![[inaccuracys when modelling cruise patterns]]
-
-You can see the effect of the mach number on the lift coefficient:
-![[Pasted image 20211115222446.png]]
