@@ -33,4 +33,4 @@ Combining them:
 &= 1658750 mm^{4} 
 \end{align*}$$
 
-#### The __based__ method
+#### The [[based method for finding second moment|__based__ method]] 

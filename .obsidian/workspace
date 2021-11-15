@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 1/8b parallel axis theorem/parallel axis theorem and other example.md",
+            "file": "Mechanics structures and materials/Statics 1/8b parallel axis theorem/based method for finding second moment.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 1/8b parallel axis theorem/parallel axis theorem and other example.md",
+                "file": "Mechanics structures and materials/Statics 1/8b parallel axis theorem/based method for finding second moment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "a8e2eaf4cb0ec537",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Statics 1/8b parallel axis theorem/based method for finding second moment.md",
     "Mechanics structures and materials/Statics 1/8b parallel axis theorem/parallel axis theorem and other example.md",
     "Mechanics structures and materials/Statics 1/8b parallel axis theorem/parallel axis theorem.md",
     "Mechanics structures and materials/Statics 1/7b Bending of beams/engineer's bending theory.md",
@@ -114,7 +115,6 @@
     "Mechanics structures and materials/Statics 1/8a 2nd moment continued/2nd moment continued notes.md",
     "Mechanics structures and materials/Statics 1/8a 2nd moment continued/standard results for second moment of area.md",
     "Mechanics structures and materials/Statics 1/8a 2nd moment continued/proof of second moment of area of a rectangle.md",
-    "Mechanics structures and materials/Statics 1/7b Bending of beams/second moment of area.md",
-    "Mechanics structures and materials/Statics 1/8a 2nd moment continued/point of highest stress in a beam cross section.md"
+    "Mechanics structures and materials/Statics 1/7b Bending of beams/second moment of area.md"
   ]
 }
