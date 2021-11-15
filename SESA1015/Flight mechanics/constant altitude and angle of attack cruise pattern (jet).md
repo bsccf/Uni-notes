@@ -100,3 +100,5 @@ This tells us to get the best range we need to:
 
 ![[inaccuracys when modelling cruise patterns]]
 
+You can see the effect of the mach number on the lift coefficient:
+![[Pasted image 20211115222446.png]]
