@@ -5,6 +5,7 @@ tags: ["Question","QFormat3"]
 
 #### What is the
 ## Parallel axis theorem
+An example can be found at [[parallel axis theorem and other example#Using the parallel axis theorem]]
 ### Equation
 
 > ### $$ I_{z'z'} = I_{zz} + Ab^{2} $$ 
