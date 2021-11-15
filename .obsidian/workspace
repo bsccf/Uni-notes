@@ -108,6 +108,7 @@
   "active": "ffbb546b02207820",
   "lastOpenFiles": [
     "SESA1015/Flight mechanics/inaccuracys when modelling cruise patterns.md",
+    "SESA1015/Flight mechanics/compresibility drag.md",
     "SESA1015/Flight mechanics/constant altitude and angle of attack cruise pattern (jet).md",
     "SESA1015/Flight mechanics/lift coefficient at min drag.md",
     "SESA1015/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
@@ -115,7 +116,6 @@
     "SESA1015/Flight mechanics/Flight mechanics 2/Drag coefficient.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/cruise pattern.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/cruise climb with constant speed.md",
-    "SESA1015/Flight mechanics/range at constant altitude and constant angle of attack.md",
-    "SESA1015/Flight mechanics/Mechanics of flight read order.md"
+    "SESA1015/Flight mechanics/range at constant altitude and constant angle of attack.md"
   ]
 }
