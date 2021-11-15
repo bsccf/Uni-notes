@@ -13,7 +13,7 @@ An example can be found at [[parallel axis theorem and other example#Using the p
 >> $I_{z'z'}=$ [[second moment of area]] around z'
 >> $I_{zz}=$ [[second moment of area]]
 >> $A=$ Area of shape
->> $b=$ Seperation between centre line of shape and [[neutral surface and neutral axis|neutral axis]]
+>> $b=$ Separation between center line of shape and [[neutral surface and neutral axis|neutral axis]]
 
 ### Setup
 Suppose you want to use on of the [[standard results for second moment of area]] for a shape that isn't on the [[neutral surface and neutral axis|neutral axis]]:
@@ -24,7 +24,7 @@ But instead has centre:
 - $y' = y+b$
 - $z' = z+a$
 
-These *parrallel axis* are ment to be used instead, see where this is going?
+These *parallel axis* are meant to be used instead, see where this is going?
 
 ### Maths
 $$\begin{align*}
@@ -37,5 +37,11 @@ $$\begin{align*}
 \end{align*}$$
 
 ### Implications
-$I_{z'z'} = I_{zz} + Ab^{2}$ So you can increase the value of $Ab^{2}$ to increase the $I_{z'z'}$ and since we know that $ \sigma = \frac{My}{I} $
-[[engineer's bending theory]]
+$I_{z'z'} = I_{zz} + Ab^{2}$ So you can increase the value of $Ab^{2}$ to increase the $I_{z'z'}$ and since we know that $\sigma = \frac{My}{I_{z'z'}}$ (from [[engineer's bending theory]]), we can drastically decrease the stress for the same quantity of material by spacing it out:
+
+- Hence a hollow cylinder is much stronger than it's equivalent massed solid one
+- Hence an I beam is much stronger than a solid square beam for its equivalent massed one
+
+![[Pasted image 20211115103138.png]]
+
+Allowing for lighter and stronger structures, 
