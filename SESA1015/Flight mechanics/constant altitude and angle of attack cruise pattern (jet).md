@@ -25,5 +25,8 @@ $$\begin{align*}
 \therefore \frac{dW}{dx} \frac{dx}{dt} = \frac{dW}{dx}V &=
 \end{align*}$$
 $$\begin{align*}
-    & & L &= W = \frac{1}{2}\rho V^{2} S C_L & D &= \frac{1}{2}V^{2}S
+   \frac{dW}{dx}V &= -sD & V=&\sqrt\frac{2W}{\rho S C_L} & D &= \frac{1}{2}V^{2}SC_D \\
+\frac{dW}{dx} &= -s\frac{1}{2}V^{2}SC_D\\
+&= -s\frac{1}{2}VSC_D\\
+&= \sqrt\frac{2W}{\rho S C_L}
 \end{align*}$$
