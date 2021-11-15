@@ -20,5 +20,8 @@ These *parrallel axis* are ment to be used instead, see where this is going?
 $$\begin{align*}
    I_{z'z'} &= \int \int (y+b)^{2} \cdot dydz\\
 &= \int \int   y^{2}+2by+b^{2}   \cdot dydz\\
-&= \int \int   y^{2}   \cdot dydz + 2b \int \int  y  \cdot dydz + b^{2}\int \int 1 \cdot dydz
+&= \int \int   y^{2}   \cdot dydz + 2b \int \int  y  \cdot dydz + b^{2}\int \int 1 \cdot dydz\\
+& & 0 &= \int \int  y  \cdot dydz& Area &= \int \int 1 \cdot dydz\\
+&= \int \int   y^{2}   \cdot dydz + 2b\cdot 0+ b^{2}\cdot A\\
+&= \int \int   y^{2}   \cdot dydz + Ab^{2}
 \end{align*}$$
