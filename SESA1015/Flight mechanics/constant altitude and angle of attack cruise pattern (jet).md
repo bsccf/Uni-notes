@@ -61,13 +61,7 @@ C_L^{\frac{1}{2}} \frac{2K}{\pi A} C_L &= \left(C_{D0}+\frac{K}{\pi A}C_L^{2}\ri
 Note $C_{D0} = 3C_{Di}$
 
 $$\begin{align*}
-   D &= \frac{1}{2} \rho S V^{2} C_D & C_D &= C_{Di} + C_{Do} & C_{D0} &= 3C_{Di} \\
-& & C_D &= 4C_{Di}\\
-T &= \frac{1}{2} \rho S V^{2} 4C_{Di} & W &= \frac{1}{2} \rho V^{2} S C_L \\
-  &= \frac{1}{2} \rho S V^{2} 4\dfrac{K(C_L)^{2}}{\pi A} &  C_L = \frac{2W}{ \rho SV^{2}}\\
-&= \frac{1}{2} \rho S V^{2} 4\dfrac{K(\frac{2W}{ \rho SV^{2}})^{2}}{\pi A}\\
-&=    \dfrac{8KW^{2} }{\pi \rho ASV^{2} }\\
-V &= \sqrt{ \dfrac{8KW^{2} }{\pi \rho AS T }}
+C_{Lmax} = \sqrt{\frac{C_{D0}}{\frac{3K}{\pi A}}}
 \end{align*}$$
 
 If we compare this to the [[min drag speed in steady level flight]]
