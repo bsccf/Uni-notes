@@ -85,5 +85,11 @@ $$\begin{align*}
 #### Implications
 The optimum speed for maximising range without changing altitude occurs at 1.316 times the [[min drag speed in steady level flight|min drag speed]].
 
+> ### $$ R_{max} = \frac{3}{2s} \cdot \sqrt{ \frac{2 }{S\rho} } \cdot \sqrt[4]{\frac{\pi A}{3K(C_{Do})^{3}}}  \cdot \ln\left(1+ {\frac{W_f}{W_s}}\right) $$ 
+>> where:
+>> $R_{max}=$  The max range for constant altitude flight
+
+This tells us to get the best range 
+
 ![[inaccuracys when modelling cruise patterns]]
 
