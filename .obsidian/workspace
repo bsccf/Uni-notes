@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 1/8b parallel axis theorem/parallel axis theorem.md",
+            "file": "Mechanics structures and materials/Statics 1/8b parallel axis theorem/parallel axis theorem notes.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 1/8b parallel axis theorem/parallel axis theorem.md",
+                "file": "Mechanics structures and materials/Statics 1/8b parallel axis theorem/parallel axis theorem notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +106,8 @@
   },
   "active": "a8e2eaf4cb0ec537",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Statics 1/8b parallel axis theorem/parallel axis theorem.md",
     "Mechanics structures and materials/Statics 1/8b parallel axis theorem/parallel axis theorem notes.md",
+    "Mechanics structures and materials/Statics 1/8b parallel axis theorem/parallel axis theorem.md",
     "Mechanics structures and materials/Statics 1/Statics 1 read order.md",
     "Mechanics structures and materials/Statics 1/8a 2nd moment continued/2nd moment continued notes.md",
     "Mechanics structures and materials/Statics 1/8a 2nd moment continued/standard results for second moment of area.md",

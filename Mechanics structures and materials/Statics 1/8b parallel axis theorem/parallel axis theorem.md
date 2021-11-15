@@ -5,6 +5,15 @@ tags: ["Question","QFormat3"]
 
 #### What is the
 ## Parallel axis theorem
+### Equation
+
+> ### $$ I_{z'z'} = I_{zz} + Ab^{2} $$ 
+>> where:
+>> $I_{z'z'}=$ [[second moment of area]] around z'
+>> $I_{zz}=$ [[second moment of area]]
+>> $A=$ Area of shape
+>> $b=$ Seperation between centre line of shape and [[neutral surface and neutral axis|neutral axis]]
+
 ### Setup
 Suppose you want to use on of the [[standard results for second moment of area]] for a shape that isn't on the [[neutral surface and neutral axis|neutral axis]]:
 
