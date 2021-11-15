@@ -44,4 +44,7 @@ $I_{z'z'} = I_{zz} + Ab^{2}$ So you can increase the value of $Ab^{2}$ to increa
 
 ![[Pasted image 20211115103138.png]]
 
-Allowing for lighter and stronger structures, 
+Allowing for lighter and stronger structures. (which matters when your on an aero course huh, I know shocking)
+
+#### Example of excellent engineering:
+![[pussymobile.jpg]]
