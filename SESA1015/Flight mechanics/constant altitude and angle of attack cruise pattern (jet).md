@@ -28,5 +28,7 @@ $$\begin{align*}
    \frac{dW}{dx}V &= -sD & V=&\sqrt\frac{2W}{\rho S C_L} & D &= \frac{1}{2}V^{2}SC_D \\
 \frac{dW}{dx} &= -s\frac{1}{2}V^{2}SC_D\\
 &= -s\frac{1}{2}VSC_D\\
-&= \sqrt\frac{2W}{\rho S C_L}
+&= -\frac{s \cdot SC_D}{2} \sqrt\frac{2W}{\rho S C_L}\\
+\int 1 \cdot dx &= \int \frac{2}{s \cdot SC_D} \sqrt\frac{\rho S C_L}{2W} \cdot dW\\
+&= \int \frac{2}{} \sqrt\frac{\rho S C_L}{2W(s \cdot SC_D)^{2}} \cdot dW
 \end{align*}$$
