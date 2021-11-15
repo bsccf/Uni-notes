@@ -43,3 +43,9 @@ $$\begin{align*}
 \end{align*}$$
 
 So to maxamise $R$ we must find when $\frac{\sqrt{C_L}}{C_D}$ is at a maximum, which occurs a specific speed.
+
+Hence we will need equations for the [[Drag coefficient]] and the [[Lift coefficient]].
+
+$$\begin{align*}
+   \frac{\sqrt{C_L}}{C_D}&  W &= \frac{1}{2}\rho V^{2}S C_L   &   C_{Do} + \dfrac{K(C_L)^{2}}{\pi A}
+\end{align*}$$
