@@ -61,7 +61,8 @@ C_L^{\frac{1}{2}} \frac{2K}{\pi A} C_L &= \left(C_{D0}+\frac{K}{\pi A}C_L^{2}\ri
 Note $C_{D0} = 3C_{Di}$
 
 $$\begin{align*}
-C_{Lmax} = \sqrt{\frac{C_{D0}}{\frac{3K}{\pi A}}}
+C_{Lmax} &= \sqrt{\frac{C_{D0}}{\frac{3K}{\pi A}}}\\
+&= \frac{1}{\sqrt3} \sqrt{\frac{C_{D0}}{\frac{K}{\pi A}}}
 \end{align*}$$
 
 If we compare this to the [[min drag speed in steady level flight]]
