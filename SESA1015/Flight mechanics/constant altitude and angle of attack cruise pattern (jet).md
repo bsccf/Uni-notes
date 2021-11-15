@@ -20,3 +20,10 @@ We must be varying the speed to control lift as weight changes, so $V=\sqrt\frac
 
 ### Maths time
 We know from [[specific fuel consumption (aircraft)|specific fuel consumption]]:
+$$\begin{align*}
+   \frac{dW}{dt} = -sT &= -sD\\
+\therefore \frac{dW}{dx} \frac{dx}{dt} = \frac{dW}{dx}V &=
+\end{align*}$$
+$$\begin{align*}
+    & & L &= W = \frac{1}{2}\rho V^{2} S C_L & D &= \frac{1}{2}V^{2}S
+\end{align*}$$
