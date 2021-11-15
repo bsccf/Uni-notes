@@ -43,7 +43,7 @@ $$\begin{align*}
 \end{align*}$$
 
 So to maxamise $R$ we must find when $\frac{\sqrt{C_L}}{C_D}$ is at a maximum.
-Hence we will need equations for the [[Drag coefficient]] and [[calculating minimum drag|minimum drag]]
+Hence we will need equations for the [[Drag coefficient]] 
 
 $$\begin{align*}
    &   &  C_D &= C_{Do} + \dfrac{K(C_L)^{2}}{\pi A}\\
@@ -54,6 +54,6 @@ C_L^{\frac{1}{2}} \frac{2K}{\pi A} C_L &= \left(C_{D0}+\frac{K}{\pi A}C_L^{2}\ri
 
 4C_L^{2} \frac{K}{\pi A}  &= C_{D0}+\frac{K}{\pi A}C_L^{2}\\
 
-3C_L^{2} \frac{K}{\pi A}  &= C_{D0} & &\\
-\therefore C_{D0} &= 3C_L^{2} \frac{K}{\pi A}
+3\dfrac{K(C_L)^{2}}{\pi A}  &= C_{D0} & C_{Di}&=\dfrac{K(C_L)^{2}}{\pi A} \\
+\therefore C_{D0} &= 3C_{Di} \:\:\:\: at\:max\:R
 \end{align*}$$
