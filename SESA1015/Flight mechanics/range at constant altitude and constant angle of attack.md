@@ -5,4 +5,4 @@ tags: ["NotesPage"]
 
 # Range at constant altitude and constant angle of attack
 
-![[cruise ]]
+![[constant altitude and angle of attack cruise pattern]]
