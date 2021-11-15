@@ -22,5 +22,15 @@ I_{zz} &= \frac{bd^{3}}{12}\\
 
 For area (2) and (3):
 > $$\begin{align*}
-I_{zz} &= \frac{bd^{3}}{12} + 
+I_{zz} &= \frac{bd^{3}}{12} + h^{2}A\\
+&= \frac{(60)(5)^{3}}{12} + (47.5)^{2}(60\cdot 5)\\
+&= 677500
 \end{align*}$$
+
+Combining them:
+> $$\begin{align*}
+   I_{zz} &= 303750 + 2(677500)\\
+&= 1658750 mm^{4} 
+\end{align*}$$
+
+#### The __based__ method
