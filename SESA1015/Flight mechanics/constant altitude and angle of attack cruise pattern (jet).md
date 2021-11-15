@@ -59,5 +59,5 @@ C_L^{\frac{1}{2}} \frac{2K}{\pi A} C_L &= \left(C_{D0}+\frac{K}{\pi A}C_L^{2}\ri
 \end{align*}$$
 
 $$\begin{align*}
-    &= 
+   D &= \frac{1}{2} S V^{2} C_D 
 \end{align*}$$
