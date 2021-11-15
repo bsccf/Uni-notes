@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "C_{Do}",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
