@@ -19,4 +19,4 @@ How these things are changed throughout the flight is called the [[cruise patter
 
 ### Examples of techniques
 - [[cruise climb with constant speed]]
-- [[constant altitude and angle of attack cruise pattern]]
+- [[constant altitude and angle of attack cruise pattern (jet)]]

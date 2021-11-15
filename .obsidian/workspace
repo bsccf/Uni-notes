@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/constant altitude and angle of attack cruise pattern.md",
+            "file": "SESA1015/Flight mechanics/constant altitude and angle of attack cruise pattern (jet).md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/constant altitude and angle of attack cruise pattern.md",
+                "file": "SESA1015/Flight mechanics/constant altitude and angle of attack cruise pattern (jet).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
   },
   "active": "a8e2eaf4cb0ec537",
   "lastOpenFiles": [
-    "SESA1015/Flight mechanics/constant altitude and angle of attack cruise pattern.md",
+    "SESA1015/Flight mechanics/constant altitude and angle of attack cruise pattern (jet).md",
     "SESA1015/Flight mechanics/Flight mechanics 5/cruise pattern.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/cruise climb with constant speed.md",
     "SESA1015/Flight mechanics/range at constant altitude and constant angle of attack.md",
