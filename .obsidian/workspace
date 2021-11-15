@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/lift coefficient at min drag.md",
+            "file": "SESA1015/Flight mechanics/constant altitude and angle of attack cruise pattern (jet).md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "min drag",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/lift coefficient at min drag.md",
+                "file": "SESA1015/Flight mechanics/constant altitude and angle of attack cruise pattern (jet).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,10 +108,10 @@
   },
   "active": "ffbb546b02207820",
   "lastOpenFiles": [
+    "SESA1015/Flight mechanics/constant altitude and angle of attack cruise pattern (jet).md",
     "SESA1015/Flight mechanics/lift coefficient at min drag.md",
     "SESA1015/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
     "SESA1015/Flight mechanics/Flight mechanics 4/min drag speed in steady level flight.md",
-    "SESA1015/Flight mechanics/constant altitude and angle of attack cruise pattern (jet).md",
     "SESA1015/Flight mechanics/Flight mechanics 2/Drag coefficient.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/cruise pattern.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/cruise climb with constant speed.md",

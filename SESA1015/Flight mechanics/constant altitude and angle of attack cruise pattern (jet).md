@@ -62,7 +62,7 @@ Note $C_{D0} = 3C_{Di}$
 
 $$\begin{align*}
 C_{Lmax} &= \sqrt{\frac{C_{D0}}{\frac{3K}{\pi A}}}\\
-&= \frac{1}{\sqrt3} \sqrt{\frac{C_{D0}}{\frac{K}{\pi A}}}
+&= \frac{1}{\sqrt3} \sqrt{\frac{C_{D0}}{\frac{K}{\pi A}}} & C_{LminD} &= \sqrt\frac{C_{Do}\pi A}{K}
 \end{align*}$$
 
 If we compare this to the [[lift coefficient at min drag]]
