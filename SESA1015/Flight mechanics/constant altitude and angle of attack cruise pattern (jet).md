@@ -64,6 +64,8 @@ $$\begin{align*}
    D &= \frac{1}{2} \rho S V^{2} C_D & C_D &= C_{Di} + C_{Do} & C_{D0} &= 3C_{Di} \\
 & & C_D &= 4C_{Di}\\
 T &= \frac{1}{2} \rho S V^{2} 4C_{Di} & W &= \frac{1}{2} \rho V^{2} S C_L \\
-  &= \frac{1}{2} \rho S V^{2} 4\dfrac{K(C_L)^{2}}{\pi A} & \rho S C_L V^{2}=\sqrt\frac{2W}{}\\
-&= \frac{1}{2} \rho S V^{2} 4\dfrac{K(C_L)^{2}}{\pi A}
+  &= \frac{1}{2} \rho S V^{2} 4\dfrac{K(C_L)^{2}}{\pi A} &  C_L = \frac{2W}{ \rho SV^{2}}\\
+&= \frac{1}{2} \rho S V^{2} 4\dfrac{K(\frac{2W}{ \rho SV^{2}})^{2}}{\pi A}\\
+&= 8   \dfrac{KW^{2} }{\pi \rho ASV^{2} }\\
+&= 
 \end{align*}$$
