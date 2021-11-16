@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/constant altitude and angle of attack cruise pattern (jet).md",
+            "file": "SESA1015/Flight mechanics/Flight mechanics 5/cruise climb with constant speed.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/constant altitude and angle of attack cruise pattern (jet).md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 5/cruise climb with constant speed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,8 @@
   },
   "active": "2f84ffaf4a83081e",
   "lastOpenFiles": [
+    "SESA1015/Flight mechanics/Flight mechanics 5/cruise climb with constant speed.md",
+    "SESA1015/Flight mechanics/Flight mechanics 5/cruise pattern.md",
     "SESA1015/Flight mechanics/constant altitude and angle of attack cruise pattern (jet).md",
     "SESA1015/Flight mechanics/Mechanics of flight read order.md",
     "Electrical and electronic systems/Electrical read order.md",
@@ -113,8 +115,6 @@
     "SESA1015/Flight mechanics/Flight mechanics 5/calculating aircraft fuel at a given time.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah.md",
     "Electrical and electronic systems/6a Mesh analysis/mesh analysis method.md",
-    "conflict-files-obsidian-git.md",
-    "2021-11-11.md",
-    "SESA1015/Flight mechanics/Flight mechanics 4.5/Lift and stuff glide angle idk.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
