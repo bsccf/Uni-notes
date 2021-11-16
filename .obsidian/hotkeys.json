@@ -63,5 +63,13 @@
       ],
       "key": "."
     }
+  ],
+  "templater-obsidian:Templates/SESA Simple def.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "J"
+    }
   ]
 }

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/6a Mesh analysis/mesh analysis method.md",
-            "mode": "source"
+            "file": "SESA1015/Flight mechanics/Flight mechanics 5/endurance and range of jet aircraft.md",
+            "mode": "preview"
           }
         }
       }
@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 183
+    "width": 243
   },
   "right": {
     "id": "12c168c46d609ed6",
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/6a Mesh analysis/mesh analysis method.md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 5/endurance and range of jet aircraft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,20 +102,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233,
-    "collapsed": true
+    "width": 233
   },
   "active": "2f84ffaf4a83081e",
   "lastOpenFiles": [
-    "Electrical and electronic systems/6a Mesh analysis/mesh analysis method.md",
-    "2021-11-11.md",
-    "conflict-files-obsidian-git.md",
-    "SESA1015/Flight mechanics/Flight mechanics 4.5/Lift and stuff glide angle idk.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/endurance and range of jet aircraft.md",
+    "SESA1015/Flight mechanics/Flight mechanics 5/calculating aircraft fuel at a given time.md",
+    "SESA1015/Flight mechanics/Flight mechanics 5/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah.md",
+    "Electrical and electronic systems/6a Mesh analysis/mesh analysis method.md",
+    "conflict-files-obsidian-git.md",
+    "2021-11-11.md",
+    "SESA1015/Flight mechanics/Flight mechanics 4.5/Lift and stuff glide angle idk.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/cruise climb technique for a jet.md",
     "Mechanics structures and materials/Materials/Phases/1 Solid solubility/complete solid solubility.md",
-    "Mechanics structures and materials/Materials/Phases/1 Solid solubility/miscibility.md",
-    "Mechanics structures and materials/Materials/Phases/1 Solid solubility/immiscible.md",
-    "Mechanics structures and materials/Materials/Phases/1 Solid solubility/Solid solubility notes.md"
+    "Mechanics structures and materials/Materials/Phases/1 Solid solubility/miscibility.md"
   ]
 }

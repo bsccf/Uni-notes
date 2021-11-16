@@ -4,7 +4,7 @@ tags: ["Question","QFormat3"]
 ---
 
 #### What is
-## Cruise climb technique for a jet
+## Cruise climb with constant speed for a jet
 #### Introduction
 So we already know [[cruise pattern|the problem]] that [[cruise pattern|cruise climb technique]] is trying to solve.
 
