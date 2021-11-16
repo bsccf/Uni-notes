@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/Flight mechanics 5/Breguet range equation.md",
+            "file": "SESA1015/Flight mechanics/Flight mechanics 5/endurance and range of jet aircraft.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 5/Breguet range equation.md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 5/endurance and range of jet aircraft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "2f84ffaf4a83081e",
   "lastOpenFiles": [
-    "SESA1015/Flight mechanics/Flight mechanics 5/Breguet range equation.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/endurance and range of jet aircraft.md",
+    "SESA1015/Flight mechanics/Flight mechanics 5/calculating range in the statosphere.md",
+    "SESA1015/Flight mechanics/Flight mechanics 5/Breguet range equation.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/endurance.md",
     "SESA1015/Flight mechanics/Mechanics of flight read order.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/cruise climb with constant speed.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/cruise pattern.md",
     "SESA1015/Flight mechanics/constant altitude and angle of attack cruise pattern (jet).md",
     "Electrical and electronic systems/Electrical read order.md",
-    "SESA1015/Flight mechanics/Flight mechanics 5/calculating aircraft fuel at a given time.md",
-    "SESA1015/Flight mechanics/Flight mechanics 5/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah.md"
+    "SESA1015/Flight mechanics/Flight mechanics 5/calculating aircraft fuel at a given time.md"
   ]
 }
