@@ -21,6 +21,9 @@ Labels:
 This occurs when forming steels before the eutectoid point.
 ![[Pasted image 20211117201417.png]]
 
-1) Transition from $\gamma$ to $\gamma+\alpha$ 
+1) Transition from $\gamma$ to $\gamma+\alpha$, here [[Nucleation (crystal)|nulcleation]] of $\alpha$ starts around the $\gamma$ grain boundarys
+2) The $\alpha$ continues to grow
+3) The $\alpha$ is basically fully formed
+4) The temperature is too low for $\gamma$ to be stable it turns into [[pearlite]]
 
 #### [[hypereutectoid|Hypereutectiod]] Steel
