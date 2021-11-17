@@ -7,7 +7,7 @@ tags: ["Question","QFormat3"]
 ## Max lift to drag ratio
 Max [[lift to drag ratio]] is ezz, so lets get the equation for min drag:
 
-![[min drag in steady level flight#^]]
+![[min drag in steady level flight#^146970]]
 
 (this is super ez since $W=L$)
 
@@ -16,6 +16,8 @@ $$ \begin{align*}
 \frac{L}{D_{min}} &= \frac{1}{2} \sqrt{  \frac{1}{C_{Do}} \cdot \frac{ \pi A }{K }  }
 \end{align*} $$ 
 
-Remember since $L=W$ and weight dosn't change (in our model) L is constant
+Remember since $L=W$.
 
-> $$ (L/D)_{max} = \frac{1}{2} \sqrt{  \frac{1}{C_{Do}} \cdot \frac{ \pi A }{K }  } $$ 
+> ### $$ (L/D)_{max} = \frac{1}{2} \sqrt{  \frac{1}{C_{Do}} \cdot \frac{ \pi A }{K }  } $$ 
+
+^570509

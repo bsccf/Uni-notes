@@ -24,6 +24,8 @@ D_{min} &=  2\sqrt{   \frac{ \rho S C_{Do}2 K W^{2} }{2\pi A\rho S}  }  \\
 
 > $$D_{min} = 2W \sqrt{  C_{Do} \cdot \frac{ K  }{\pi A}  } $$ 
 
+^146970
+
 ^a7c57b
 ### Implications
 
