@@ -20,3 +20,8 @@ Precipitation strengthening is possible if the line of solid solubility slopes s
 
 The shaded area is where precipitation hardening can be preformed as it is where heat treatment can be used to move between the phases.
 
+### 3 stage heat treatment
+
+
+#### Example
+![[Pasted image 20211117211452.png]]
