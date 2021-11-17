@@ -85,8 +85,9 @@ $$\begin{align*}
 #### Implications
 The optimum speed for maximising range without changing altitude occurs at 1.316 times the [[min drag speed in steady level flight|min drag speed]].
 
-> ### $$ R_{max} = \frac{3}{2s} \cdot \sqrt{ \frac{2 }{S\rho} } \cdot \sqrt[4]{\frac{\pi A}{3K(C_{Do})^{3}}}  \cdot \ln\left(1+ {\frac{W_f}{W_s}}\right) $$ 
-> ### $$ C_{LRmax} = \sqrt{\frac{C_{Do}\pi A}{3K}} $$
+> ### $$ R_{max} = \frac{3}{2s} \cdot \sqrt{ \frac{2 }{S\rho} } \cdot \sqrt[4]{\frac{\pi A}{3K(C_{Do})^{3}}}  \cdot \ln\left(1+ {\frac{W_f}{W_s}}\right) = \frac{2}{s} \cdot \sqrt{ \frac{2 }{S\rho} } \cdot \frac{\sqrt{C_{LRmax}}}{C_D} \cdot \ln\left(1+ {\frac{W_f}{W_s}}\right)$$ 
+> #### $$ C_{LRmax} = \sqrt{\frac{C_{Do}\pi A}{3K}} $$
+> #### $$ V_{cruise} = \sqrt[4]{3}\cdot V_{minDrag} $$
 >> where:
 >> $R_{max}=$  The max range for constant altitude flight
 >> $C_{Lmax} =$ The coefficient of lift at max range
@@ -94,6 +95,7 @@ The optimum speed for maximising range without changing altitude occurs at 1.316
 >> $s=$ [[specific fuel consumption (aircraft)|s.f.c]]
 >> $\rho=$ air density
 >> $A=$ [[Wing aspect ratio]]
+>> $C_{Do}=$ [[form drag]] coefficient
 
 This tells us to get the best range we need to:
 - fly at a high altitude.
