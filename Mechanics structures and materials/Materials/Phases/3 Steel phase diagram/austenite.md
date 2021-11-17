@@ -3,5 +3,7 @@ aliases: [""]
 tags: ["Question","QFormat4"]
 ---
 ### Austenite
-This is a [[FCC]] crystal lattice of iron with carbon in its interstitial sites.
-It is stable at high temperatures.
+It is a form of steel with:
+- This is a [[FCC]] crystal lattice of iron.
+- Has carbon in its interstitial sites.
+- It is stable at high temperatures.
