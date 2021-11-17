@@ -23,6 +23,9 @@ Though the form above is pretty useless, so we can convert it to a more useful f
 
 ![[propeller combined efficiency]]
 
+We know that to maintain a steady speed drag=thrust and P=Fv so $P=DV$, subbing that into the equations:
+
 $$\begin{align*}
-  \frac{dW(t)}{dt} &= -Ps' & 
+  & & \eta P' &= P & P &= DV\\
+\frac{dW(t)}{dt} &= -Ps' & 
 \end{align*}$$
