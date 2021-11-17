@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/Flight mechanics 6/Breguet range equation (piston engine).md",
+            "file": "SESA1015/Flight mechanics/Flight mechanics 4/max lift to drag ratio.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 6/Breguet range equation (piston engine).md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 4/max lift to drag ratio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "ffbb546b02207820",
   "lastOpenFiles": [
-    "SESA1015/Flight mechanics/Flight mechanics 6/Breguet range equation (piston engine).md",
+    "SESA1015/Flight mechanics/Flight mechanics 4/max lift to drag ratio.md",
+    "SESA1015/Flight mechanics/Flight mechanics 4/min drag in steady level flight.md",
     "SESA1015/Flight mechanics/Flight mechanics 6/maxamising range for a piston engined aircraft.md",
+    "SESA1015/Flight mechanics/Flight mechanics 4/lift to drag ratio.md",
+    "SESA1015/Flight mechanics/Flight mechanics 6/Breguet range equation (piston engine).md",
+    "SESA1015/Flight mechanics/Flight mechanics 6/fuel consumption of a piston engined aircraft.md",
     "SESA1015/Flight mechanics/Flight mechanics 6/range at constant altitude and constant angle of attack.md",
     "SESA1015/Flight mechanics/Mechanics of flight read order.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/endurance and range of jet aircraft.md",
-    "SESA1015/Flight mechanics/Flight mechanics 6/fuel consumption of a piston engined aircraft.md",
-    "SESA1015/Flight mechanics/Flight mechanics 5/Breguet range equation (jets).md",
-    "SESA1015/Flight mechanics/Flight mechanics 6/constant altitude and angle of attack cruise pattern (jet).md",
-    "SESA1015/Flight mechanics/Flight mechanics 6/range of a piston engined aircraft.md",
-    "SESA1015/Flight mechanics/Flight mechanics 6/propeller combined efficiency.md"
+    "SESA1015/Flight mechanics/Flight mechanics 5/Breguet range equation (jets).md"
   ]
 }

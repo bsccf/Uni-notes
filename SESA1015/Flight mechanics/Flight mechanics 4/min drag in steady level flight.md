@@ -13,6 +13,8 @@ Using the equations from [[calculating minimum drag]]:
 >> $A'=$ constant
 >> $B'=$ constant
 
+^2a220b
+
 Subbing in for A n B:
 $$\begin{align*}
 D_{min} &=  2\sqrt{   \frac{ \rho S C_{Do}2 K W^{2} }{2\pi A\rho S}  }  \\
