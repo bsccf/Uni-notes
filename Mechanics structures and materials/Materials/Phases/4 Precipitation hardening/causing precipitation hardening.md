@@ -28,9 +28,11 @@ The shaded area is where precipitation hardening can be preformed as it is where
 What is actually happening on the atomic level at these stages is:
 1) It starts in a normal solid phase
 2) It crosses the [[solvus line]] too quickly for diffusion to occur along grain boundarys, so the dissolved substance cannot escape the lattice its trapped in because the temperature is too low.
-3) It is hot enough for diffusion to occur but not enough for the 
+3) It is hot enough for diffusion to occur but not enough for the foregin atom's to diffuse into grain boundaries so instead you get [[internal crystal grain precipitation]]. You can control the length of time and temperature to control the size of the precipitates that form within the structure.
 
 #### Example
 ![[Pasted image 20211117211452.png]]
 ![[Pasted image 20211117212436.png]]
 
+This is stage 3, longer 
+![[Pasted image 20211117213142.png]]
