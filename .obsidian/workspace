@@ -10,7 +10,18 @@
           "type": "markdown",
           "state": {
             "file": "SESA1015/Flight mechanics/Flight mechanics 6/fuel consumption of a piston engined aircraft.md",
-            "mode": "source"
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "391d77e09e8f3626",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "SESA1015/Flight mechanics/Flight mechanics 5/endurance and range of jet aircraft.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 6/fuel consumption of a piston engined aircraft.md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 5/endurance and range of jet aircraft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,16 +115,16 @@
     "direction": "horizontal",
     "width": 234
   },
-  "active": "ffbb546b02207820",
+  "active": "391d77e09e8f3626",
   "lastOpenFiles": [
+    "SESA1015/Flight mechanics/Flight mechanics 5/endurance and range of jet aircraft.md",
+    "SESA1015/Flight mechanics/Mechanics of flight read order.md",
+    "SESA1015/Flight mechanics/Flight mechanics 6/range at constant altitude and constant angle of attack.md",
+    "SESA1015/Flight mechanics/Flight mechanics 6/constant altitude and angle of attack cruise pattern (jet).md",
+    "SESA1015/Flight mechanics/Flight mechanics 6/range of a piston engined aircraft.md",
     "SESA1015/Flight mechanics/Flight mechanics 6/fuel consumption of a piston engined aircraft.md",
     "SESA1015/Flight mechanics/Flight mechanics 6/propeller combined efficiency.md",
-    "SESA1015/Flight mechanics/Flight mechanics 6/range of a piston engined aircraft.md",
-    "SESA1015/Flight mechanics/Flight mechanics 6/constant altitude and angle of attack cruise pattern (jet).md",
-    "SESA1015/Flight mechanics/Flight mechanics 6/range at constant altitude and constant angle of attack.md",
     "conflict-files-obsidian-git.md",
-    "SESA1015/Flight mechanics/Mechanics of flight read order.md",
-    "SESA1015/Flight mechanics/Flight mechanics 5/endurance and range of jet aircraft.md",
     "SESA1015/Flight mechanics/Flight mechanics 6/inaccuracys when modelling cruise patterns.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/cruise pattern.md"
   ]

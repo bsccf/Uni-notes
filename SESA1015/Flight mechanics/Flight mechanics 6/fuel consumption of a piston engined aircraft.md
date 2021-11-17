@@ -31,5 +31,7 @@ $$\begin{align*}
 \frac{dW(t)}{dt} &= \frac{P}{\eta}s'\\
 \frac{dW(t)}{dt} &= \frac{DV}{\eta}s' & 1=\frac{W}{L}\\
 \frac{dW(t)}{dt} &= \frac{DV}{\eta}s'\cdot\frac{W}{L}\\
-\frac{dW(t)}{dt} &= \frac{V}{\eta}s'\cdot\frac{D}{L}W
+\frac{dW(t)}{dt} &= V\frac{s'}{\eta}\cdot\frac{D}{L}W
 \end{align*}$$
+
+Now we can integrate 
