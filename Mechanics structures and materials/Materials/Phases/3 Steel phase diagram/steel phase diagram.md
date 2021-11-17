@@ -17,6 +17,6 @@ Labels:
 - ($\gamma$) [[austenite]]
 - ($\alpha$) [[ferrite]]
 
-#### [[hypoeutectoid|Hypoeutectoid]] Steel
+#### [[hypoeutectoid state|Hypoeutectoid]] Steel
 
-#### [[hypereutectoid|Hypereutectiod]] Steel
+#### [[hypereutectoid state|Hypereutectiod]] Steel
