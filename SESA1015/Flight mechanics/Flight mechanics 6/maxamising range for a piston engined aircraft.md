@@ -29,3 +29,5 @@ R_{max} =& \frac{\eta}{s'}\frac{1}{2} \sqrt{  \frac{1}{C_{Do}} \cdot \frac{ \pi 
 >> $(L/D)_{max}=$ [[max lift to drag ratio]]
 >> $W_1=$ Starting weight
 >> $W_2=$ Final weight 
+
+This occurs at [[calculating minimum drag|minimum drag]], so it occurs at the [[min drag speed in steady level flight]] and so all the implications of that also apply to this.
