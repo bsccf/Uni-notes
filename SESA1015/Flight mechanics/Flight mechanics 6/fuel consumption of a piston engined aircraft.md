@@ -36,5 +36,9 @@ $$\begin{align*}
 -\int \frac{L}{WD}\frac{\eta}{s'} dW &=\int 1 dx\\
 -\frac{\eta}{s'}\cdot\frac{L}{D}\int \frac{1}{W}  dW &=\int 1 dx\\
 -\frac{\eta}{s'}\cdot\frac{L}{D} \ln(W) + k  dW &= R\\
-R &= \frac{\eta}{s'}\cdot\frac{L}{D} \ln( 1 + W_ )
+R &= \frac{\eta}{s'}\frac{L}{D}\cdot \ln\left( 1 + \frac{W_1}{W_2} \right)
 \end{align*}$$
+
+### Conclusion
+This is just the [[Breguet range equation]] but for propeller aircraft:
+![[Breguet range equation (piston engine)]]
