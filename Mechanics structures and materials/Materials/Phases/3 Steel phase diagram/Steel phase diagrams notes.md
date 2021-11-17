@@ -8,4 +8,4 @@ tags: ["NotesPage"]
 
 ![[steel phase diagram]]
 
-![[properties of steels]]
+![[mechanical properties of steel from phase content]]
