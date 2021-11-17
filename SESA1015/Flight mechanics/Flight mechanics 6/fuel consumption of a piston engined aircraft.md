@@ -21,8 +21,7 @@ So now to get fuel per second to thrust per second we need to covert power to th
 ### Converting to thrust
 Though the form above is pretty useless, so we can convert it to a more useful form by converting power into thrust.
 
-#### Propeller combined efficient
-First we 
+![[propeller combined efficiency]]
 
 $$\begin{align*}
   \frac{dW(t)}{dt} &= -Ps' & 
