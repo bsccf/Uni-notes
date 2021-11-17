@@ -21,7 +21,9 @@ Precipitation strengthening is possible if the line of solid solubility slopes s
 The shaded area is where precipitation hardening can be preformed as it is where heat treatment can be used to move between the phases.
 
 ### 3 stage heat treatment
-
+1) You start at a desireable temperature in the solid phase
+2) You cool the substance incredibly quickly (usually water quenching) so it passes the [[solvus line]] and drops to a temperature too low for internal diffusion
+3) 
 
 #### Example
 ![[Pasted image 20211117211452.png]]
