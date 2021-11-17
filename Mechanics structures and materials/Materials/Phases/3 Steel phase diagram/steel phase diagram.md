@@ -27,3 +27,7 @@ This occurs when forming steels before the eutectoid point.
 4) The temperature is too low for $\gamma$ to be stable it turns into [[pearlite]]
 
 #### [[hypereutectoid|Hypereutectiod]] Steel
+This occurs when forming steels after the eutectoid point.
+![[Pasted image 20211117204216.png]]
+
+It's basically the same process but with $Fe_3 C$ [[Nucleation (crystal)|nulcleation]] around grain boundarys instead of $\alpha$

@@ -7,3 +7,5 @@ tags: ["NotesPage"]
 ![[phases and microconsitiuents within steel]]
 
 ![[steel phase diagram]]
+
+![[properties of steels]]
