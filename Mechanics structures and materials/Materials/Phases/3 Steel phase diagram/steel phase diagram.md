@@ -8,7 +8,7 @@ tags: ["Question","QFormat3"]
 ### Definitions
 ![[eutectoid reaction]]
 
-### The diagram
+### The diagram and its phases
 ![[Pasted image 20211117171632.png]]
 
 Labels:
@@ -16,3 +16,7 @@ Labels:
 - (\*\*) A [[eutectoid reaction]] where $\gamma$ transitions to $\alpha + Fe_3 C$
 - ($\gamma$) [[austenite]]
 - ($\alpha$) [[ferrite]]
+
+#### [[hypoeutectoid|Hypoeutectoid]] Steel
+
+#### [[hypereutectoid|Hypereutectiod]] Steel

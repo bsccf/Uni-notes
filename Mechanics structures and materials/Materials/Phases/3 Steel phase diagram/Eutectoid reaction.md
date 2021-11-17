@@ -18,4 +18,4 @@ It occurs because the temperature is too low for the substance to remain dissolv
 
 The lameller structure minimises the diffusion distance for the carbon atoms creating the structure.
 
-[[Nucleation (crystal)|Nulcleation]] occurs at the grain boundary because they contain many vacancies making them energetically favourable to start at, the high temperature also helps this diffusion occur
+[[Nucleation (crystal)|Nulcleation]] occurs at the grain boundary because they contain many vacancies making them energetically favourable to start at, the high temperature also helps this diffusion occur.
