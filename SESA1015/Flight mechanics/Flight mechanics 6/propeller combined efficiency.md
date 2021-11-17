@@ -7,7 +7,7 @@ tags: ["Question","QFormat3"]
 ## Propeller combined efficiency
 This is the efficiency of the propeller+transmission when converting power into thrust:
 
-> ### $$ n =  $$ 
+> ### $$ \frac{dW(t)}{dt} = - \frac{1}{\eta} $$ 
 >> where:
 >> $=$ 
 >> $=$
