@@ -18,5 +18,9 @@ Labels:
 - ($\alpha$) [[ferrite]]
 
 #### [[hypoeutectoid|Hypoeutectoid]] Steel
+This occurs when forming steels before the eutectoid point.
+![[Pasted image 20211117201417.png]]
+
+1) Transition from $\gamma$ to $\gamma+\alpha$ 
 
 #### [[hypereutectoid|Hypereutectiod]] Steel
