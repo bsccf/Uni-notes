@@ -4,11 +4,11 @@ tags: ["Question","QFormat3"]
 ---
 
 #### What is
-## Propeller combined efficiency
+## Propeller combined efficiency ($\eta$)
 This is the efficiency of the propeller+transmission when converting power into thrust:
 
-> ### $$ T =  $$ 
+> ### $$ P'\eta = P $$ 
 >> where:
->> $\frac{dW(t)}{dt}=$ Rate of change of weight (fuel)
->> $P=$ Power
->> $\eta=$ [[fuel consumption of a piston engined aircraft|specific fuel consumption (engine)]]
+>> $\eta=$ Efficiency of propeller+transmission
+>> $P=$ Power converted to thrust
+>> $P'=$ Total power in
