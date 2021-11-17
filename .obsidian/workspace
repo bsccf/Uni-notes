@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "endurance",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -108,13 +108,13 @@
   "lastOpenFiles": [
     "SESA1015/Flight mechanics/Flight mechanics 6/maxamising endurance for a piston engined aircraft.md",
     "SESA1015/Flight mechanics/Flight mechanics 6/range at constant altitude and constant angle of attack.md",
+    "SESA1015/Flight mechanics/Flight mechanics 6/range of a piston engined aircraft.md",
+    "SESA1015/Flight mechanics/Flight mechanics 6/fuel consumption of a piston engined aircraft.md",
+    "SESA1015/Flight mechanics/Flight mechanics 5/endurance equation.md",
+    "SESA1015/Flight mechanics/Flight mechanics 5/calculating aircraft fuel at a given time.md",
     "SESA1015/Flight mechanics/Flight mechanics 6/maxamising range for a piston engined aircraft.md",
     "SESA1015/Flight mechanics/Flight mechanics 4/max lift to drag ratio.md",
     "SESA1015/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
-    "SESA1015/Flight mechanics/Flight mechanics 6/Breguet range equation (piston engine).md",
-    "SESA1015/Flight mechanics/Flight mechanics 4/min drag in steady level flight.md",
-    "SESA1015/Flight mechanics/Flight mechanics 4/lift to drag ratio.md",
-    "SESA1015/Flight mechanics/Flight mechanics 6/fuel consumption of a piston engined aircraft.md",
-    "SESA1015/Flight mechanics/Mechanics of flight read order.md"
+    "SESA1015/Flight mechanics/Flight mechanics 6/Breguet range equation (piston engine).md"
   ]
 }
