@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["age hardening"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -23,7 +23,12 @@ The shaded area is where precipitation hardening can be preformed as it is where
 ### 3 stage heat treatment
 1) You start at a desireable temperature in the solid phase
 2) You cool the substance incredibly quickly (usually water quenching) so it passes the [[solvus line]] and drops to a temperature too low for internal diffusion
-3) 
+3) You heat it back up to the correct temperature to allow age hardening to occur via controlled amounts of diffusion
+
+What is actually happening on the atomic level at these stages is:
+1) It starts 
 
 #### Example
 ![[Pasted image 20211117211452.png]]
+![[Pasted image 20211117212436.png]]
+
