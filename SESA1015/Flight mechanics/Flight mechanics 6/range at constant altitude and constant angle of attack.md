@@ -8,3 +8,5 @@ tags: ["NotesPage"]
 ![[constant altitude and angle of attack cruise pattern (jet)]]
 
 ![[range of a piston engined aircraft]]
+
+![[maxamising range for a piston engined aircraft]]
