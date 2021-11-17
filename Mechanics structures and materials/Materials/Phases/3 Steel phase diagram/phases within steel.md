@@ -5,4 +5,18 @@ tags: ["Question","QFormat3"]
 
 #### What are the
 ## Phases within steel
-There are quite a few of these, they have different lattice structures and prope
+### Types
+There are quite a few of these, they have different lattice structures and properties and stuff so pay attention, the phases are:
+- [[austenite]]
+- [[ferrite]]
+- [[cementite]]
+- [[pearlite]]
+
+### More detail
+![[austenite]]
+
+![[ferrite]]
+
+![[cementite]]
+
+![[pearlite]]
