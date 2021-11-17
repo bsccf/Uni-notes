@@ -7,11 +7,8 @@
         "id": "ffbb546b02207820",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Mechanics structures and materials/Materials/Phases/3 Steel phase diagram/mechanical properties of steel from phase content.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/Phases/3 Steel phase diagram/mechanical properties of steel from phase content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +102,8 @@
   },
   "active": "ffbb546b02207820",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Materials/Phases/4 Precipitation hardening/Precipitation hardening notes.md",
+    "Mechanics structures and materials/Materials/Materials read order.md",
     "Mechanics structures and materials/Materials/Phases/3 Steel phase diagram/mechanical properties of steel from phase content.md",
     "Mechanics structures and materials/Materials/Phases/3 Steel phase diagram/Steel phase diagrams notes.md",
     "Mechanics structures and materials/Materials/Phases/3 Steel phase diagram/steel phase diagram.md",
@@ -113,8 +111,6 @@
     "Mechanics structures and materials/Materials/Phases/3 Steel phase diagram/hypereutectoid.md",
     "Mechanics structures and materials/Materials/Phases/3 Steel phase diagram/eutectoid reaction.md",
     "Mechanics structures and materials/Materials/Phases/3 Steel phase diagram/phases and microconsitiuents within steel.md",
-    "Mechanics structures and materials/Materials/Phases/3 Steel phase diagram/phase (materials).md",
-    "Mechanics structures and materials/Materials/Phases/3 Steel phase diagram/ferrite.md",
-    "Mechanics structures and materials/Materials/Phases/3 Steel phase diagram/cementite.md"
+    "Mechanics structures and materials/Materials/Phases/3 Steel phase diagram/phase (materials).md"
   ]
 }
