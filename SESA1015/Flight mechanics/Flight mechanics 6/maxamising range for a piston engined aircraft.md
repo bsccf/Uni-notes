@@ -19,3 +19,13 @@ $$\begin{align*}
    R =& \frac{\eta}{s'}\frac{L}{D}\cdot \ln\left( \frac{W_1}{W_2} \right)  & (L/D)_{max} &= \frac{1}{2} \sqrt{  \frac{1}{C_{Do}} \cdot \frac{ \pi A }{K }  }\\
 R_{max} =& \frac{\eta}{s'}\frac{1}{2} \sqrt{  \frac{1}{C_{Do}} \cdot \frac{ \pi A }{K }  }\cdot \ln\left( \frac{W_1}{W_2} \right)
 \end{align*}$$
+
+### Conclusion
+> ### $$ R_{max} = \frac{\eta}{s'}(L/D)_{max}\cdot \ln\left( \frac{W_1}{W_2} \right) \:\:=\:\: \frac{\eta}{s'}\frac{1}{2} \sqrt{  \frac{1}{C_{Do}} \cdot \frac{ \pi A }{K }  }\cdot \ln\left( \frac{W_1}{W_2} \right) $$ 
+>> where:
+>> $R_{max} =$ Max range
+>> $\eta=$ [[propeller combined efficiency]]
+>> $s'=$ [[fuel consumption of a piston engined aircraft|specific fuel consumption (engine)]]
+>> $(L/D)_{max}=$ [[max lift to drag ratio]]
+>> $W_1=$ Starting weight
+>> $W_2=$ Final weight 
