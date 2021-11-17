@@ -34,4 +34,6 @@ So:
 >> $V_{MP}=$ Speed at minimum power
 >> $V_{MD}=$ [[min drag speed in steady level flight]]
 
+^6d5ee2
+
 Hence the min power speed is less than the min drag speed.
