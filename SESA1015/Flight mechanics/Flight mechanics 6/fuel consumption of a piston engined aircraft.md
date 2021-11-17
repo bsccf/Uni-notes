@@ -33,5 +33,8 @@ $$\begin{align*}
 \frac{dW(t)}{dt} &= -\frac{DV}{\eta}s'\cdot\frac{W}{L}\\
 \frac{dW(t)}{dt} &= -V\frac{s'}{\eta}\cdot\frac{WD}{L}\\
 \frac{dW(t)}{dt} &=- \frac{dx}{dt}\frac{s'}{\eta}\cdot\frac{WD}{L}\\
-\frac{dW(t)}{dt} &=- \frac{dx}{dt}\frac{s'}{\eta}\cdot\frac{WD}{L}
+-\int \frac{L}{WD}\frac{\eta}{s'} dW &=\int 1 dx\\
+-\frac{\eta}{s'}\cdot\frac{L}{D}\int \frac{1}{W}  dW &=\int 1 dx\\
+-\frac{\eta}{s'}\cdot\frac{L}{D} \ln(W) + k  dW &= R\\
+R &= \frac{\eta}{s'}\cdot\frac{L}{D} \ln( 1 + W_ )
 \end{align*}$$
