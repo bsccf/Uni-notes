@@ -5,7 +5,10 @@ tags: ["Question","QFormat3"]
 
 #### What is a
 ## Eutectoid reaction
+### What it looks like
 This is like a eutectic reaction interms of the appearence of the structure it forms:
 ![[Pasted image 20211117172417.png]]
 
-It occurs because the temperature is too low for the 
+
+### Why it occurs
+It occurs because the temperature is too low for the substance to remain dissolved so you get [[Nucleation (crystal)|nulcleation]] at grain boundaries
