@@ -4,4 +4,4 @@ tags: ["NotesPage"]
 ---
 
 # Precipitation hardening notes
-[[precipitation hardening]]
+![[age hardening]]

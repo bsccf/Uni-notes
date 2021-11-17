@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/Atomic composition/7 Strengthening Mechanisms/precipitation hardening.md",
-            "mode": "preview"
+            "file": "Mechanics structures and materials/Materials/Phases/4 Precipitation hardening/age hardening.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/Atomic composition/7 Strengthening Mechanisms/precipitation hardening.md",
+                "file": "Mechanics structures and materials/Materials/Phases/4 Precipitation hardening/age hardening.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "ffbb546b02207820",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Materials/Atomic composition/7 Strengthening Mechanisms/precipitation hardening.md",
+    "Mechanics structures and materials/Materials/Phases/4 Precipitation hardening/age hardening.md",
     "Mechanics structures and materials/Materials/Phases/4 Precipitation hardening/Precipitation hardening notes.md",
+    "Mechanics structures and materials/Materials/Atomic composition/7 Strengthening Mechanisms/precipitation hardening.md",
+    "Mechanics structures and materials/Materials/Atomic composition/6 Defects, dislocations and plastic deformation/dislocation motion.md",
+    "Mechanics structures and materials/Materials/Atomic composition/6 Defects, dislocations and plastic deformation/edge dislocation.md",
     "Mechanics structures and materials/Materials/Atomic composition/7 Strengthening Mechanisms/internal crystal grain precipitation.md",
     "Mechanics structures and materials/Materials/Materials read order.md",
     "Mechanics structures and materials/Materials/Phases/3 Steel phase diagram/mechanical properties of steel from phase content.md",
     "Mechanics structures and materials/Materials/Phases/3 Steel phase diagram/Steel phase diagrams notes.md",
-    "Mechanics structures and materials/Materials/Phases/3 Steel phase diagram/steel phase diagram.md",
-    "Mechanics structures and materials/Materials/Phases/3 Steel phase diagram/hypoeutectoid.md",
-    "Mechanics structures and materials/Materials/Phases/3 Steel phase diagram/hypereutectoid.md",
-    "Mechanics structures and materials/Materials/Phases/3 Steel phase diagram/eutectoid reaction.md"
+    "Mechanics structures and materials/Materials/Phases/3 Steel phase diagram/steel phase diagram.md"
   ]
 }
