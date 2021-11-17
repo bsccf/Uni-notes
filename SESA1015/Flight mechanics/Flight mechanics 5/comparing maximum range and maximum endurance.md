@@ -8,8 +8,8 @@ tags: ["Question","QFormat3"]
 #### [[endurance equation|Endurance equation]] (max time for fuel)
 ![[endurance equation#^76741c]]
 
-#### [[Breguet range equation]] (max distance for fuel)
-![[Breguet range equation#^20c05c]]
+#### [[Breguet range equation (jets)]] (max distance for fuel)
+![[Breguet range equation (jets)#^20c05c]]
 
 ### Comparison
 

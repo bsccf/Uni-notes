@@ -53,4 +53,4 @@ $$\begin{align*}
 \end{align*}$$
 
 #### Final equation
-![[Breguet range equation]]
+![[Breguet range equation (jets)]]

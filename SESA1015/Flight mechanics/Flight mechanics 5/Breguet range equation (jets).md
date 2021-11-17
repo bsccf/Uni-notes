@@ -5,6 +5,8 @@ tags: ["Question","QFormat3"]
 
 #### What is the
 ## Breguet range equation
+Note this is different to the [[Breguet range equation (piston engine)]]
+
 ### Equation
 It is an equation that can be used to find the total ange of an aircraft.
 

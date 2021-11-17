@@ -12,7 +12,7 @@ We can also assume that speed of sound is constant according to [[International 
 
 #### Applying this to range equation
 We basically just combine:
-![[Breguet range equation#^20c05c]]
+![[Breguet range equation (jets)#^20c05c]]
 
 ![[Mach number#^7ad944]]
 

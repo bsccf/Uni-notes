@@ -25,7 +25,7 @@ $$\begin{align*}
 \end{align*}$$
 hence $\frac{C_L}{C_{D0} + \frac{KC_L^{2}}{\pi A} }$ will also be constant. ([[Drag coefficient|where we got the equation from]])
 
-Now since we know that $L/D$ is constant and that $V$ is constant we can use the [[Breguet range equation]]: $R = \frac{1}{s} \frac{VL}{D} \ln\left(1+\frac{W_f}{W_s}\right)$
+Now since we know that $L/D$ is constant and that $V$ is constant we can use the [[Breguet range equation (jets)]]: $R = \frac{1}{s} \frac{VL}{D} \ln\left(1+\frac{W_f}{W_s}\right)$
 
 In the stratosphere the temperature is assumed to be constant and the thrust ($T$) of a turbo-jet engine at a fixed throttle is assumed to be proportional to the [[relative density (planes)|relative density]] ($\sigma$):
 $$\begin{align*}

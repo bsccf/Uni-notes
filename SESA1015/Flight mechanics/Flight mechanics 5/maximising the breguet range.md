@@ -6,10 +6,10 @@ tags: ["Question","QFormat3"]
 #### Whats the method for
 ## Maximising the breguet range
 ### Introduction
-We know that the [[Breguet range equation]] allows us to calculate aircraft range, but we can use maths to find how to get a maximum value for a given fuel load.
+We know that the [[Breguet range equation (jets)]] allows us to calculate aircraft range, but we can use maths to find how to get a maximum value for a given fuel load.
 
 ### Math time
-![[Breguet range equation#^20c05c]]
+![[Breguet range equation (jets)#^20c05c]]
 
 So to maxamise range we need to maxamise $\frac{VL}{D}$, so lets start by getting an equation interms of that.
 

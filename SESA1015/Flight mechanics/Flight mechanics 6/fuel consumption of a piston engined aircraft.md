@@ -40,5 +40,6 @@ R &= \frac{\eta}{s'}\frac{L}{D}\cdot \ln\left( 1 + \frac{W_1}{W_2} \right)
 \end{align*}$$
 
 ### Conclusion
-This is just the [[Breguet range equation]] but for propeller aircraft:
+This is known as the [[Breguet range equation (piston engine)]] but for propeller aircraft:
 ![[Breguet range equation (piston engine)]]
+
