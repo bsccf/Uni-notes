@@ -27,5 +27,9 @@ We know that to maintain a steady speed drag=thrust and P=Fv so $P=DV$, subbing 
 
 $$\begin{align*}
   & & \eta P' &= P & P &= DV\\
-\frac{dW(t)}{dt} &= -Ps' & 
+\frac{dW(t)}{dt} &= -P's' &  P' &= \frac{P}{\eta}\\
+\frac{dW(t)}{dt} &= \frac{P}{\eta}s'\\
+\frac{dW(t)}{dt} &= \frac{DV}{\eta}s' & 1=\frac{W}{L}\\
+\frac{dW(t)}{dt} &= \frac{DV}{\eta}s'\cdot\frac{W}{L}\\
+\frac{dW(t)}{dt} &= \frac{V}{\eta}s'\cdot\frac{D}{L}W
 \end{align*}$$
