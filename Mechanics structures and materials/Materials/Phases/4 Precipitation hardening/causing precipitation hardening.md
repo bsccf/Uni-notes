@@ -34,5 +34,12 @@ What is actually happening on the atomic level at these stages is:
 ![[Pasted image 20211117211452.png]]
 ![[Pasted image 20211117212436.png]]
 
-This is stage 3, longer 
+This is stage 3, longer ageing creates larger precipitates.
 ![[Pasted image 20211117213142.png]]
+
+### Time, temp and peak strength
+Here you can see how overaging can lead to precipitates that are too large, which allows for them to be cut and decreases yield strength:
+![[Pasted image 20211117213342.png]]
+
+
+![[Pasted image 20211117213503.png]]
