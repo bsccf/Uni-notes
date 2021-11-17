@@ -26,7 +26,9 @@ The shaded area is where precipitation hardening can be preformed as it is where
 3) You heat it back up to the correct temperature to allow age hardening to occur via controlled amounts of diffusion
 
 What is actually happening on the atomic level at these stages is:
-1) It starts 
+1) It starts in a normal solid phase
+2) It crosses the [[solvus line]] too quickly for diffusion to occur along grain boundarys, so the dissolved substance cannot escape the lattice its trapped in because the temperature is too low.
+3) It is hot enough for diffusion to occur but not enough for the 
 
 #### Example
 ![[Pasted image 20211117211452.png]]
