@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["specific fuel consumption (engine)"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -7,5 +7,12 @@ tags: ["Question","QFormat3"]
 ## Fuel consumption of a piston engined aircraft
 Unlike jets that use [[specific fuel consumption (aircraft)]], piston engines have their sfc measured in different units:
 - sfc (aircraft), $Newtons(Fuel)/Second\cdot Netwon(Thrust)$
-- sfc (engine), $Newtons(Fuel)$
+- sfc (engine), $Newtons(Fuel)/Second \cdot Power$
 
+So now to get fuel per second to thrust per second we need to covert power to thrust, this is done through a propeller.
+
+> ### $$ \frac{dW(t)}{dt} = Ps' $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
