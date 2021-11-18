@@ -57,7 +57,9 @@ V\frac{C_L}{C_D}& & \sqrt\frac{2k}{S\rho_0 C_D}  &=V  & C_{L_{maxR}}&=\sqrt{\fra
 &=  \frac{\sqrt{\dfrac{ k}{\rho_0}\dfrac{{\pi}AC_{Do} }{ S C_DK}} }  {C_D} & & & & & &= C_{Do} + \dfrac{C_{Do}}{2}\\
 && & & & & &=\dfrac{3C_{Do}}{2}\\
 &= \frac{\sqrt{\dfrac{ k}{\rho_0}\dfrac{{\pi}AC_{Do} }{ S \dfrac{3C_{Do}}{2} K}} }  {\dfrac{3C_{Do}}{2}}\\
-&= \frac{\sqrt{\dfrac{ k}{\rho_0}\dfrac{2{\pi}A }{ S 3 K}} }  {\dfrac{3C_{Do}}{2}}
+&= \frac{2\sqrt{\dfrac{ k}{\rho_0}\dfrac{2{\pi}A }{ 3S  K}} }  {3C_{Do}}\\
+&= \frac{2 }  {3C_{Do}}\cdot \sqrt{\dfrac{ k}{\rho_0}\dfrac{2{\pi}A }{ 3S  K}}\\
+&= \frac{2 }  {3C_{Do}}\cdot \sqrt{\dfrac{ k}{\rho_0}\dfrac{2{\pi}A }{ 3S  K}}
 \end{align*}$$
 
 #### Subbing back to get max range equation
