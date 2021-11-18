@@ -52,8 +52,9 @@ $$\begin{align*}
 #### Subbing back to get max range equation
 
 $$\begin{align*}
-    D &= \frac{1}{2}\rho V^{2} S C_D\\
-&
+   & & D &= \frac{1}{2}\rho V^{2} S C_D\\
+R =& \frac{1}{s} V \frac{C_L}{C_D} \ln\left(1+\frac{W_f}{W_s}\right) & \sqrt \frac{2D}{\rho S C_D} &= V & C_{L_maxR}&=\sqrt{\frac{{\pi}AC_{Do}}{2K}}\\
+R =& \frac{1}{s} V \frac{C_L}{C_D} \ln\left(1+\frac{W_f}{W_s}\right)
 \end{align*}$$
 
 ### Implications
