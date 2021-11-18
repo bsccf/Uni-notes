@@ -14,7 +14,7 @@ This is caused from the downwash the wing uses to produce lift, it increases in 
 >> $C_L =$ [[Lift coefficient]]
 
 ^4d0b00
-
+([[]])
 The constant $k$ from above can be calculated using:
 
 > $$ k = \frac{K}{\pi A} $$ 
