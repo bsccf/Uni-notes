@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["diffusion rate"]
 tags: ["Question","QFormat3"]
 ---
 

@@ -41,5 +41,5 @@ This is stage 3, longer ageing creates larger precipitates.
 Here you can see how overaging can lead to precipitates that are too large, which allows for them to be cut and decreases yield strength:
 ![[Pasted image 20211117213342.png]]
 
-
+Higher temperatures increases the atom's energy allowing a higher [[temperatures effect on diffusion|diffusion rate]] but this also reduces peak strength as seen below:
 ![[Pasted image 20211117213503.png]]
