@@ -53,7 +53,7 @@ $$\begin{align*}
 
 $$\begin{align*}
    & & D &= \frac{1}{2}\rho V^{2} S C_D\\
-R =& \frac{1}{s} V \frac{C_L}{C_D} \ln\left(1+\frac{W_f}{W_s}\right) & \sqrt \frac{2D}{\rho S C_D} &= V & C_{L_maxR}&=\sqrt{\frac{{\pi}AC_{Do}}{2K}}\\
+R =& \frac{1}{s} V \frac{C_L}{C_D} \ln\left(1+\frac{W_f}{W_s}\right) & \sqrt \frac{2D}{\rho S C_D} &= V & C_{L_{maxR}}&=\sqrt{\frac{{\pi}AC_{Do}}{2K}} & C_D &= C_{Do} + \dfrac{K(C_L)^{2}}{\pi A}\\
 R =& \frac{1}{s} V \frac{C_L}{C_D} \ln\left(1+\frac{W_f}{W_s}\right)
 \end{align*}$$
 
