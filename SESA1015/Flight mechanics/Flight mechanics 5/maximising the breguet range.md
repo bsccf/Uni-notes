@@ -63,10 +63,11 @@ $$\begin{align*}
 \end{align*}$$
 
 #### Subbing back to get max range equation
+Remember that $T/\sigma=k$ from [[jet thrust variation in the stratosphere|this]]
 
 $$\begin{align*}
 R_{max} =& \frac{1}{s} (V \frac{C_L}{C_D})_{max} \ln\left(1+\frac{W_f}{W_s}\right)\\
-R_{max} =& \frac{1}{s} \frac{2 }  {3C_{Do}}\cdot \sqrt{\dfrac{ k}{\rho_0} \dfrac{2}{3S} \dfrac{{\pi}A }{  K}} \ln\left(1+\frac{W_f}{W_s}\right)\\
+R_{max} =& \frac{1}{s} \frac{2 }  {3C_{Do}}\cdot \sqrt{\dfrac{ k}{\rho_0} \dfrac{2}{3S} \dfrac{{\pi}A }{  K}} \cdot \ln\left(1+\frac{W_f}{W_s}\right)\\
 \end{align*}$$
 
 ### Implications
