@@ -54,9 +54,10 @@ $$\begin{align*}
 V\frac{C_L}{C_D}& & \sqrt\frac{2k}{S\rho_0 C_D}  &=V  & C_{L_{maxR}}&=\sqrt{\frac{{\pi}AC_{Do}}{2K}} & C_D &= C_{Do} + \dfrac{K(C_L)^{2}}{\pi A}\\
 &=  \frac{\sqrt\frac{2k}{S\rho_0 C_D} \cdot \sqrt{\frac{{\pi}AC_{Do}}{2K}}}{C_D} & & & & & &= C_{Do} + \dfrac{K(\sqrt{\frac{{\pi}AC_{Do}}{2K}})^{2}}{\pi A}\\
 &=  \frac{\sqrt\frac{2k{\pi}AC_{Do}}{S\rho_0 C_D2K} }  {C_D} & & & & & &= C_{Do} + \dfrac{K\pi AC_{Do}}{\pi A2K}\\
-&=  \frac{\sqrt\frac{ k{\pi}AC_{Do} }{ S\rho_0 C_DK} }  {C_D} & & & & & &= C_{Do} + \dfrac{C_{Do}}{2}\\
+&=  \frac{\sqrt{\dfrac{ k}{\rho_0}\dfrac{{\pi}AC_{Do} }{ S C_DK}} }  {C_D} & & & & & &= C_{Do} + \dfrac{C_{Do}}{2}\\
 && & & & & &=\dfrac{3C_{Do}}{2}\\
-&= \frac{\sqrt\frac{2k}{S\rho_0 \frac{3C_{Do}}{2}} \sqrt{\frac{{\pi}AC_{Do}}{2K}}}{\frac{3C_{Do}}{2}}
+&= \frac{\sqrt{\dfrac{ k}{\rho_0}\dfrac{{\pi}AC_{Do} }{ S \dfrac{3C_{Do}}{2} K}} }  {\dfrac{3C_{Do}}{2}}\\
+&= \frac{\sqrt{\dfrac{ k}{\rho_0}\dfrac{2{\pi}A }{ S 3 K}} }  {\dfrac{3C_{Do}}{2}}
 \end{align*}$$
 
 #### Subbing back to get max range equation
