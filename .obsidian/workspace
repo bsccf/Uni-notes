@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/Flight mechanics 5/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah.md",
-            "mode": "preview"
+            "file": "SESA1015/Flight mechanics/Flight mechanics 5/cruise climb with constant speed.md",
+            "mode": "source"
           }
         }
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 5/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah.md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 5/cruise climb with constant speed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,11 +107,11 @@
   },
   "active": "ffbb546b02207820",
   "lastOpenFiles": [
+    "SESA1015/Flight mechanics/Flight mechanics 5/cruise climb with constant speed.md",
+    "SESA1015/Flight mechanics/Flight mechanics 5/maximising the breguet range, varying altitude for constant speed.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah.md",
-    "SESA1015/Flight mechanics/Flight mechanics 5/maximising the breguet range.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/Breguet range equation (jets).md",
     "SESA1015/Flight mechanics/Flight mechanics 5/calculating range in the statosphere.md",
-    "SESA1015/Flight mechanics/Flight mechanics 5/cruise climb with constant speed.md",
     "SESA1015/Flight mechanics/Flight mechanics 6/constant altitude and angle of attack cruise pattern (jet).md",
     "SESA1015/Flight mechanics/Flight mechanics 5/cruise pattern.md",
     "SESA1015/Flight mechanics/Flight mechanics 6/maxamising range for a piston engined aircraft.md",
