@@ -82,6 +82,7 @@ R_{max} =& \frac{1}{s} \frac{2 }  {3C_{Do}}\cdot \sqrt{\dfrac{ k}{\rho_0} \dfrac
 >> $A=$ [[Wing aspect ratio]]
 >> $K=$ [[induced drag coefficient#^fce277|Constant related to wing shape]]
 >> $me=$ [[in pain]]
+>> $\ln\left(1+\frac{W_f}{W_s}\right)=\ln\left(\frac{W_1}{W_2}\right)$
 
 > ### $$ V_{opt\:range} = \sqrt[4]{2} V_{MD} \approx 1.189 V_{MD} $$ 
 >> where:
