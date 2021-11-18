@@ -53,7 +53,10 @@ $$\begin{align*}
 $$\begin{align*}
 V\frac{C_L}{C_D}& & \sqrt\frac{2k}{S\rho_0 C_D}  &=V  & C_{L_{maxR}}&=\sqrt{\frac{{\pi}AC_{Do}}{2K}} & C_D &= C_{Do} + \dfrac{K(C_L)^{2}}{\pi A}\\
 &=  \frac{\sqrt\frac{2k}{S\rho_0 C_D} \cdot \sqrt{\frac{{\pi}AC_{Do}}{2K}}}{C_D} & & & & & &= C_{Do} + \dfrac{K(\sqrt{\frac{{\pi}AC_{Do}}{2K}})^{2}}{\pi A}\\
-&& & & & & &= C_{Do} + \dfrac{K({\frac{{\pi}AC_{Do}}{2K}})^{2}}{\pi A}
+&& & & & & &= C_{Do} + \dfrac{K\pi AC_{Do}}{\pi A2K}\\
+&& & & & & &= C_{Do} + \dfrac{C_{Do}}{2}\\
+&& & & & & &=\dfrac{3C_{Do}}{2}\\
+&= \frac{\sqrt\dfrac{2k}{S\rho_0 \dfrac{3C_{Do}}{2}} \cdot \sqrt{\frac{{\pi}AC_{Do}}{2K}}}{\dfrac{3C_{Do}}{2}}
 \end{align*}$$
 
 #### Subbing back to get max range equation
