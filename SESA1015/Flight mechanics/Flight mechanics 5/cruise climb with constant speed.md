@@ -46,6 +46,6 @@ We can relate these values and how they change using the [[lift equation]].
 $$\begin{align*}
    L&=\frac{1}{2}\rho V^{2}SC_L\\
 &= W & \rho&=\sigma \rho_0 \\
- W&=\frac{1}{2}(\sigma \rho_0) V^{2}SC_L
+\therefore W&=\frac{1}{2}(\sigma \rho_0) V^{2}SC_L
 \end{align*}$$
 
