@@ -49,6 +49,13 @@ $$\begin{align*}
   V_{opt\:range}  &= \sqrt[4]{2} V_{MD}
 \end{align*}$$
 
+#### Subbing back for $(VL/D)_{max}$
+$$\begin{align*}
+V\frac{C_L}{C_D}& & \sqrt\frac{2k}{S\rho_0 C_D}  &=V  & C_{L_{maxR}}&=\sqrt{\frac{{\pi}AC_{Do}}{2K}} & C_D &= C_{Do} + \dfrac{K(C_L)^{2}}{\pi A}\\
+&= \sqrt\frac{2k}{S\rho_0 C_D} \cdot \sqrt{\frac{{\pi}AC_{Do}}{2K}} /(C_{Do} + \dfrac{K(C_L)^{2}}{\pi A})\\
+adw
+\end{align*}$$
+
 #### Subbing back to get max range equation
 
 $$\begin{align*}
