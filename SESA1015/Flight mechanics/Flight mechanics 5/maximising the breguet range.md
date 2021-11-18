@@ -49,6 +49,13 @@ $$\begin{align*}
   V_{opt\:range}  &= \sqrt[4]{2} V_{MD}
 \end{align*}$$
 
+#### Subbing back to get max range equation
+
+$$\begin{align*}
+    D &= \frac{1}{2}\rho V^{2} S C_D\\
+&
+\end{align*}$$
+
 ### Implications
 
 > ### $$ V_{opt\:range} = \sqrt[4]{2} V_{MD} \approx 1.189 V_{MD} $$ 
