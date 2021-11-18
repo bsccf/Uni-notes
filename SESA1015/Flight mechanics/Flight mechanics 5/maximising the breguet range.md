@@ -74,10 +74,14 @@ R_{max} =& \frac{1}{s} \frac{2 }  {3C_{Do}}\cdot \sqrt{\dfrac{ k}{\rho_0} \dfrac
 
 > ### $$R_{max} = \frac{1}{s} \frac{2 }  {3C_{Do}}\cdot \sqrt{\dfrac{ k}{\rho_0} \dfrac{2}{3S} \dfrac{{\pi}A }{  K}} \cdot \ln\left(1+\frac{W_f}{W_s}\right)$$ 
 >> where:
+>> $S=$ [[Wing plan area|Gross wing area]] 
+>> $s=$ [[specific fuel consumption (aircraft)|s.f.c]]
+>> $C_{Do}=$ [[profile drag coefficient]]
+>> $k=$  [[jet thrust variation in the stratosphere|constant from this]]
+>> $\rho_0=$ [[International Standard Atmosphere|Sea level air density]]
+>> $A=$ [[Wing aspect ratio]]
+>> $K=$ [[induced drag coefficient#^fce277|Constant related to wing shape]]
 >> $me=$ [[in pain]]
->> $S=$ 
->> $=$
->> $=$
 
 > ### $$ V_{opt\:range} = \sqrt[4]{2} V_{MD} \approx 1.189 V_{MD} $$ 
 >> where:
