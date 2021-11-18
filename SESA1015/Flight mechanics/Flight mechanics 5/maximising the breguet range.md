@@ -4,7 +4,7 @@ tags: ["Question","QFormat3"]
 ---
 
 #### Whats the method for
-## Maximising the breguet range
+## Maximising the breguet range (in the stratosphere)
 ### Introduction
 We know that the [[Breguet range equation (jets)]] allows us to calculate aircraft range, but we can use maths to find how to get a maximum value for a given fuel load.
 
@@ -51,7 +51,7 @@ $$\begin{align*}
 
 #### Subbing back for $(VL/D)_{max}$
 $$\begin{align*}
-V\frac{C_L}{C_D}& & \sqrt\frac{2k}{S\rho_0 C_D}  &=V  & C_{L_{maxR}}&=\sqrt{\frac{{\pi}AC_{Do}}{2K}} & C_D &= C_{Do} + \dfrac{K(C_L)^{2}}{\pi A}\\
+(V\frac{C_L}{C_D})_{max}  &= & \sqrt\frac{2k}{S\rho_0 C_D}  &=V  & C_{L_{maxR}}&=\sqrt{\frac{{\pi}AC_{Do}}{2K}} & C_D &= C_{Do} + \dfrac{K(C_L)^{2}}{\pi A}\\
 &=  \frac{\sqrt\frac{2k}{S\rho_0 C_D} \cdot \sqrt{\frac{{\pi}AC_{Do}}{2K}}}{C_D} & & & & & &= C_{Do} + \dfrac{K(\sqrt{\frac{{\pi}AC_{Do}}{2K}})^{2}}{\pi A}\\
 &=  \frac{\sqrt\frac{2k{\pi}AC_{Do}}{S\rho_0 C_D2K} }  {C_D} & & & & & &= C_{Do} + \dfrac{K\pi AC_{Do}}{\pi A2K}\\
 &=  \frac{\sqrt{\dfrac{ k}{\rho_0}\dfrac{{\pi}AC_{Do} }{ S C_DK}} }  {C_D} & & & & & &= C_{Do} + \dfrac{C_{Do}}{2}\\
@@ -59,15 +59,14 @@ V\frac{C_L}{C_D}& & \sqrt\frac{2k}{S\rho_0 C_D}  &=V  & C_{L_{maxR}}&=\sqrt{\fra
 &= \frac{\sqrt{\dfrac{ k}{\rho_0}\dfrac{{\pi}AC_{Do} }{ S \dfrac{3C_{Do}}{2} K}} }  {\dfrac{3C_{Do}}{2}}\\
 &= \frac{2\sqrt{\dfrac{ k}{\rho_0}\dfrac{2{\pi}A }{ 3S  K}} }  {3C_{Do}}\\
 &= \frac{2 }  {3C_{Do}}\cdot \sqrt{\dfrac{ k}{\rho_0}\dfrac{2{\pi}A }{ 3S  K}}\\
-&= \frac{2 }  {3C_{Do}}\cdot \sqrt{\dfrac{ k}{\rho_0}\dfrac{2{\pi}A }{ 3S  K}}
+&= \frac{2 }  {3C_{Do}}\cdot \sqrt{\dfrac{ k}{\rho_0} \dfrac{2}{3S} \dfrac{{\pi}A }{  K}}
 \end{align*}$$
 
 #### Subbing back to get max range equation
 
 $$\begin{align*}
-R =& \frac{1}{s} V \frac{C_L}{C_D} \ln\left(1+\frac{W_f}{W_s}\right) & \frac{2k}{S\rho_0 }  &=V^{2} C_D \\
-R_{max}=& \frac{1}{s} (V \frac{C_L}{C_D})_{max} \ln\left(1+\frac{W_f}{W_s}\right) & \sqrt\frac{2k}{S\rho_0 C_D}  &=V  & C_{L_{maxR}}&=\sqrt{\frac{{\pi}AC_{Do}}{2K}} & C_D &= C_{Do} + \dfrac{K(C_L)^{2}}{\pi A}\\
-R =& \frac{1}{s} V \frac{C_L}{C_D} \ln\left(1+\frac{W_f}{W_s}\right)
+R_{max} =& \frac{1}{s} (V \frac{C_L}{C_D})_{max} \ln\left(1+\frac{W_f}{W_s}\right)\\
+R_{max} =& \frac{1}{s} \frac{2 }  {3C_{Do}}\cdot \sqrt{\dfrac{ k}{\rho_0} \dfrac{2}{3S} \dfrac{{\pi}A }{  K}} \ln\left(1+\frac{W_f}{W_s}\right)\\
 \end{align*}$$
 
 ### Implications
