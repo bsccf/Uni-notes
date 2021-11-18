@@ -72,6 +72,13 @@ R_{max} =& \frac{1}{s} \frac{2 }  {3C_{Do}}\cdot \sqrt{\dfrac{ k}{\rho_0} \dfrac
 
 ### Implications
 
+> ### $$R_{max} = \frac{1}{s} \frac{2 }  {3C_{Do}}\cdot \sqrt{\dfrac{ k}{\rho_0} \dfrac{2}{3S} \dfrac{{\pi}A }{  K}} \cdot \ln\left(1+\frac{W_f}{W_s}\right)$$ 
+>> where:
+>> $me=$ [[in pain]]
+>> $=$ 
+>> $=$
+>> $=$
+
 > ### $$ V_{opt\:range} = \sqrt[4]{2} V_{MD} \approx 1.189 V_{MD} $$ 
 >> where:
 >> $V_{opt\:range}=$ speed that offers the optimum range
