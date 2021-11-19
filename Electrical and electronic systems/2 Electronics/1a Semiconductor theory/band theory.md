@@ -5,5 +5,5 @@ tags: ["Question","QFormat3"]
 
 #### What is
 ## Band theory
-Electrons in atoms are governed by rules which regulate their range of possible 
-energy states.
+Electron distrobution of an atom can be described using it's [[electron configuration]], with low [[electron shell]]s being filled first.
+![[Pasted image 20211119132123.png]]
