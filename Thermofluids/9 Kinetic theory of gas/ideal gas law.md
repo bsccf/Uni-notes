@@ -14,6 +14,8 @@ It's proved in [[pressure, volume and temperatures relationship in an idea gas|t
 
 These hold true for most common situations, but high temp's, pressures or densitys can [[this is the technical term|fuck it up]]. When this occurs you can usually use the [[Van der Waals equation]].
 
+Also in an ideal gas temperature is a function of internal energy of the gas, so if there is no change in total internal energy (no work is done) then temperature dosn't change.
+
 ### Useful (Based) forms of the equation
 
 > ### $$ p\rho =  RT $$ 
