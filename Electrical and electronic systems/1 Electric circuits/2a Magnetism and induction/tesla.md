@@ -15,6 +15,6 @@ It can be expressed mathamaticly according to the force excerted on a charged pa
 >> $Wb=$ [[weber (unit)]]
 >> $m=$ meter
 >> $N=$ Newton
->> $A=$ [[electric current|amp]]
+>> $A=$ [[Electric current|amp]]
 
 The force is due to the [[Lorentz's force law|lorentz force]]

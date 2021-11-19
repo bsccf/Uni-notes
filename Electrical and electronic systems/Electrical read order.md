@@ -4,6 +4,7 @@ tags: ["NotesPage"]
 ---
 # Stuff
 
+### Electric circuits
 1) [[Electrostatics notes]]
 2) [[Electric current notes]]
 3) [[Magnetism and induction notes]]
@@ -16,3 +17,5 @@ tags: ["NotesPage"]
 10) [[Electrical resonance notes]]
 11) [[Mesh analysis notes]]
 12) [[Thevenins equivalent circuit notes]]
+
+### Electronics

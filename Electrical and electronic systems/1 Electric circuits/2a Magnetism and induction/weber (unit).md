@@ -13,4 +13,4 @@ Weber is a unit of [[magnetic flux]].
 >> $T=$ [[tesla]]
 >> $m=$ meter
 >> $N=$ Newton
->> $A=$ [[electric current|ampere]]
+>> $A=$ [[Electric current|ampere]]

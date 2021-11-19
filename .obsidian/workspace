@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/9 Kinetic theory of gas/ideal gas law.md",
+            "file": "Electrical and electronic systems/Electrical read order.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/9 Kinetic theory of gas/ideal gas law.md",
+                "file": "Electrical and electronic systems/Electrical read order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "8ce2a94610dfc0bf",
   "lastOpenFiles": [
+    "Electrical and electronic systems/Electrical read order.md",
+    "Electrical and electronic systems/1 Electric circuits/7a not done/simplifieing simple circuits.md",
+    "Electrical and electronic systems/1 Electric circuits/7a not done/Thevenins equivalent circuit notes.md",
     "Thermofluids/9 Kinetic theory of gas/ideal gas law.md",
     "Thermofluids/9 Kinetic theory of gas/Kinetic theory of gas notes.md",
     "Thermofluids/10 Specific heats and the first law of thermodynamics/Specific heats, work done and the first law of thermodynamics notes.md",
     "Thermofluids/Thermofluids read order.md",
     "SESA1015/Flight mechanics/Flight mechanics 3/induced drag coefficient.md",
     "SESA1015/Flight mechanics/Flight mechanics 3/you use this a supprising amount.md",
-    "SESA1015/Flight mechanics/Flight mechanics 2/Drag coefficient.md",
-    "SESA1015/Flight mechanics/Flight mechanics 4/wing loading.md",
-    "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing aspect ratio.md",
-    "SESA1015/Flight mechanics/Flight mechanics 5/calculating range in the statosphere.md"
+    "SESA1015/Flight mechanics/Flight mechanics 2/Drag coefficient.md"
   ]
 }

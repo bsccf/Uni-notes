@@ -7,6 +7,6 @@ tags: ["NotesPage"]
 
 ![[current flow in wires and solutions]]
 
-![[electric current]]
+![[Electric current]]
 
 ![[power in circuits]]
