@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/SESA Notes.md",
+            "file": "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/Semiconductor theory notes.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/SESA Notes.md",
+                "file": "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/Semiconductor theory notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,8 +107,8 @@
   },
   "active": "8ce2a94610dfc0bf",
   "lastOpenFiles": [
-    "Templates/SESA Notes.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/Semiconductor theory notes.md",
+    "Templates/SESA Notes.md",
     "Electrical and electronic systems/Electrical read order.md",
     "Electrical and electronic systems/1 Electric circuits/7a not done/simplifieing simple circuits.md",
     "Electrical and electronic systems/1 Electric circuits/7a not done/Thevenins equivalent circuit notes.md",
