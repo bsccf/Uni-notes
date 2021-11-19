@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/10 Specific heats and the first law of thermodynamics/Specific heats, work done and the first law of thermodynamics notes.md",
+            "file": "Thermofluids/9 Kinetic theory of gas/Kinetic theory of gas notes.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/10 Specific heats and the first law of thermodynamics/Specific heats, work done and the first law of thermodynamics notes.md",
+                "file": "Thermofluids/9 Kinetic theory of gas/Kinetic theory of gas notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "8ce2a94610dfc0bf",
   "lastOpenFiles": [
-    "Thermofluids/10 Specific heats and the first law of thermodynamics/Specific heats, work done and the first law of thermodynamics notes.md",
+    "Thermofluids/9 Kinetic theory of gas/Kinetic theory of gas notes.md",
     "Thermofluids/Thermofluids read order.md",
+    "Thermofluids/10 Specific heats and the first law of thermodynamics/Specific heats, work done and the first law of thermodynamics notes.md",
     "Thermofluids/9 Kinetic theory of gas/ideal gas law.md",
     "SESA1015/Flight mechanics/Flight mechanics 3/induced drag coefficient.md",
     "SESA1015/Flight mechanics/Flight mechanics 3/you use this a supprising amount.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/Drag coefficient.md",
     "SESA1015/Flight mechanics/Flight mechanics 4/wing loading.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing aspect ratio.md",
-    "SESA1015/Flight mechanics/Flight mechanics 5/calculating range in the statosphere.md",
-    "SESA1015/Flight mechanics/Flight mechanics 5/maximising the breguet range (in the stratosphere).md"
+    "SESA1015/Flight mechanics/Flight mechanics 5/calculating range in the statosphere.md"
   ]
 }
