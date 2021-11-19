@@ -3,7 +3,5 @@ aliases: [""]
 tags: ["NotesPage"]
 ---
 
-# <% tp.file.title %>
+# Semiconductor theory
 
-### Intro and co
-- 

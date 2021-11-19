@@ -19,3 +19,4 @@ tags: ["NotesPage"]
 12) [[Thevenins equivalent circuit notes]]
 
 ### Electronics
+1) [[Semiconductor theory notes]]

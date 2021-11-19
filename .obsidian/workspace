@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/Electrical read order.md",
+            "file": "Templates/SESA Notes.md",
             "mode": "source"
           }
         }
@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208
+    "width": 158
   },
   "right": {
     "id": "12c168c46d609ed6",
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/Electrical read order.md",
+                "file": "Templates/SESA Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +107,8 @@
   },
   "active": "8ce2a94610dfc0bf",
   "lastOpenFiles": [
+    "Templates/SESA Notes.md",
+    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/Semiconductor theory notes.md",
     "Electrical and electronic systems/Electrical read order.md",
     "Electrical and electronic systems/1 Electric circuits/7a not done/simplifieing simple circuits.md",
     "Electrical and electronic systems/1 Electric circuits/7a not done/Thevenins equivalent circuit notes.md",
@@ -114,8 +116,6 @@
     "Thermofluids/9 Kinetic theory of gas/Kinetic theory of gas notes.md",
     "Thermofluids/10 Specific heats and the first law of thermodynamics/Specific heats, work done and the first law of thermodynamics notes.md",
     "Thermofluids/Thermofluids read order.md",
-    "SESA1015/Flight mechanics/Flight mechanics 3/induced drag coefficient.md",
-    "SESA1015/Flight mechanics/Flight mechanics 3/you use this a supprising amount.md",
-    "SESA1015/Flight mechanics/Flight mechanics 2/Drag coefficient.md"
+    "SESA1015/Flight mechanics/Flight mechanics 3/induced drag coefficient.md"
   ]
 }
