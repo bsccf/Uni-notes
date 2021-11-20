@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/Fermi-Dirac statistics.md",
+            "file": "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/fermi function.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/Fermi-Dirac statistics.md",
+                "file": "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/fermi function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,8 +107,8 @@
   },
   "active": "8ce2a94610dfc0bf",
   "lastOpenFiles": [
-    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/Fermi-Dirac statistics.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/fermi function.md",
+    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/Fermi-Dirac statistics.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/fermi level.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/me falling in the rabbit hole.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/fermi energy.md",
