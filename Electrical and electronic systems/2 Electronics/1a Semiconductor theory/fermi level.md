@@ -9,5 +9,9 @@ Fermi level is the energy level for the collection of particles at absolute zero
 
 The fermi level is the thermodynamic work required to add one electron to the body. 
 
+#### Refrence point when determining fermi level
+Simular the temperature, fermi level needs to be defined relative to another, here we use [[fermi energy]].
+![[fermi energy]]
+
 #### Application to [[band theory]]
 In [[band theory]] the fermi level can be considered th
