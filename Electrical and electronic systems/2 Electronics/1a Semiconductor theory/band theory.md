@@ -18,3 +18,6 @@ In a solid where you have a huge number of atoms forming a [[Crystal Structures|
 The gaps between the bands are energy ranges that the [[molecular orbitals]] can't occupy and so are left empty.
 
 ### Band structure
+As you can see, by increasing the space between atom's there are less shared shells, hence less [[molecular orbitals]] and so the bands shrink.
+![[Pasted image 20211120095924.png]]
+

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/band theory.md",
+            "file": "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/molecular orbitals.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/band theory.md",
+                "file": "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/molecular orbitals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,8 +107,8 @@
   },
   "active": "8ce2a94610dfc0bf",
   "lastOpenFiles": [
-    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/band theory.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/molecular orbitals.md",
+    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/band theory.md",
     "Mechanics structures and materials/Materials/Atomic composition/2 Crystal Structures/Crystal Structures.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/Pauli Exclusion Principle.md",
     "Templates/SESA question F3.md",
