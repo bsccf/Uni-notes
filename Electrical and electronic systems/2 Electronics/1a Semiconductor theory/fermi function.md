@@ -16,4 +16,6 @@ The Fermi function f(E) gives the probability that a given available electron en
 
 ![[300px-Fermi.gif]]
 
-As you can see by the graph as temperature approaches abosulute zero the energy distobution of electrons becomes more and more uniform, this is around the [[fermi energy]].
+As you can see by the graph as temperature approaches abosulute zero the energy distobution of electrons becomes more and more uniform, this is around the [[fermi level]].
+
+![[Pasted image 20211120112659.png]]
