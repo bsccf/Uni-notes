@@ -22,6 +22,8 @@ As you can see, by increasing the space between atom's there are less shared she
 ![[Pasted image 20211120095924.png]]
 
 #### Types of band
-In a conductor you can get:
+In a solid you have the:
 - [[valence and conduction bands|conduction band]]
 - [[valence and conduction bands|valence band]]
+
+The 
