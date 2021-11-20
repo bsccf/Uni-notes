@@ -5,7 +5,7 @@ tags: ["Question","QFormat3"]
 
 #### Define
 ## Fermi level ($E_F$ or $\mu$)
-Fermi level is the energy level for the collection of particles at absolute zero temperature. For electron's in atoms it would be the highest 
+Fermi level 
 
 The fermi level is the thermodynamic work required to add one electron to the body. 
 
