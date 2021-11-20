@@ -9,14 +9,13 @@ tags: ["Question","QFormat3"]
 
 At higher temperatures a certain fraction of electrons will have energy levels above the [[fermi level]], electrons that achieve this fall into the [[valence and conduction bands|conduction band]].
 
+![[Pasted image 20211120110408.png]]
 
+The fraction above the fermi level is can be determined using the [[fermi function]]
 
 #### Refrence point when determining fermi level
 Simular the temperature, fermi level needs to be defined relative to another, here we use [[fermi energy]].
 ![[fermi energy]]
 
-#### Application to [[band theory]]
-In [[band theory]] the fermi level can be considered th
-
 ## Holy shit that was a deep research rabbit hole
-![[me falling in]]
+[[me falling in the rabbit hole]]
