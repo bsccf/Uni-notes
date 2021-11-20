@@ -21,3 +21,5 @@ The gaps between the bands are energy ranges that the [[molecular orbitals]] can
 As you can see, by increasing the space between atom's there are less shared shells, hence less [[molecular orbitals]] and so the bands shrink.
 ![[Pasted image 20211120095924.png]]
 
+#### Types of band
+In a conductor there 
