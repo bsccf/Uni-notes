@@ -26,4 +26,4 @@ In a solid you have the:
 - [[valence and conduction bands|conduction band]]
 - [[valence and conduction bands|valence band]]
 
-The 
+The position of these band's vary depending on if the material is a conductor or semiconductor.
