@@ -13,5 +13,5 @@ The reason for electrons having to occupy different shells is explained using [[
 
 #### Consiquences in solids
 Now you have a bunch of atoms packed close together and electrons begin to be shared between shells of adjasent atom's so the possibility of electrons overfilling electron shells exists, which is where [[band theory]] comes in.
-Thing is molecules have this issue, when two atoms combine to form a diatomic molecule the solution is each atomic orbital splitting into two molecular orbitals of different energy, this allows the electons in the former atom orbits to occupy the new structure without sharing the same energy.
-In a solid where you have a huge number of atoms forming a [[Crystal Structures|crystal lattice]]
+Thing is molecules have this issue, when two atoms combine to form a diatomic molecule the solution is each atomic orbital splitting into two [[molecular orbitals]] of different energy, this allows the electons in the former atom orbits to occupy the new structure without sharing the same energy.
+In a solid where you have a huge number of atoms forming a [[Crystal Structures|crystal lattice]] you have the issue described above, so each atom also uses [[molecular orbitals]], each with a different energy (but very little energy differences between those in the same band). Since there are so many atom's on a macroscopic level we can appriximate these energy levels
