@@ -11,13 +11,13 @@ This image gives a general idea of the distributions of the electron capacity at
 
 ![[Pasted image 20211121154546.png]]
 
-Also note before reading on [[band theory and electric current]].
+Also read this [[band theory and electric current]].
 
 ### Conductors
 As you can see for conductors the potential energy levels of electrons has a continuous region that covers the [[fermi level]], this means that you will always (above absolute zero) have some electrons in the [[valence and conduction bands|conduction band]] meaning that current's can easily be transfered through the material as the electrons can move through the material.
 
 ### Insulator
-Insulators have a very large space between the [[valence and conduction bands|conduction band]] and the [[valence and conduction bands|valence band]] so to get electrons into the [[valence and conduction bands|conduction band]] requires a very high [[potential difference]] across the material.
+Insulators have a very large space between the [[valence and conduction bands|conduction band]] and the [[valence and conduction bands|valence band]] so to get electrons into the [[valence and conduction bands|conduction band]] they require lots of energy, this can be in the form of a very high [[potential difference]].
 
 ### Semi conductors
 Semiconductors have a very small space between the [[valence and conduction bands|valence band]] and [[valence and conduction bands|conduction band]] meaning for a tiny [[potential difference]] there will not be enough energy to move an electron between these [[band theory|bands]] but a high enough [[potential difference]] can. 
