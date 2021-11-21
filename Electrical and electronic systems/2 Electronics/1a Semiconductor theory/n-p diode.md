@@ -36,4 +36,8 @@ You can see that effect here, (it's all starting to come together {pog}).
 #### IV graph
 ![[Pasted image 20211121234522.png]]
 
-You can see stuff, there is the reverse leakage current there too. Yeah, th
+You can see stuff, there is the reverse leakage current there too. Yeah, that exists (I want to [[go to sleep]], nope I'm drawing the line. Finishing this is future me's problem, god I would hate to be that guy).
+
+(future me here, past me you are a dick.)
+
+('procrastination future me' here, 'past future me' fuck you. Now I have even more work to do but I will spare 'future future future m')
