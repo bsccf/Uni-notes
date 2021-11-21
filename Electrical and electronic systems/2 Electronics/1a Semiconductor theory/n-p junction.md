@@ -24,3 +24,5 @@ Note that the equilibrium field strength reached is highly dependent on temperat
 ![[Pasted image 20211121203231.png]]
 
 #### 
+A complicated picture emerges where holes on both sides of the boundary become (mostly) filled by electrons originating predominantly from the conduction band.  In the 
+case of silicon, electron energy lost by the ‘jump’ from conduction to valence band is given up to the crystal as vibrational energy. Occasionally the energy is converted into a photon due to the electrons changing energy levels, this is how [[light emitting diode]]s work.
