@@ -9,3 +9,4 @@ tags: ["Question","QFormat3"]
 
 [[light emitting diode]]
 
+[[n-p diode]]
