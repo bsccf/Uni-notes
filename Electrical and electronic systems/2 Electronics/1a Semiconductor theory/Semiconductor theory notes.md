@@ -14,3 +14,5 @@ tags: ["NotesPage"]
 ![[doping semiconductors]]
 
 ![[n-p junction]]
+
+![[n-p diode]]

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/n-p junction.md",
-            "mode": "preview"
+            "file": "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/n-p diode.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/n-p junction.md",
+                "file": "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/n-p diode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "6a1c730fe75ec8fc",
   "lastOpenFiles": [
-    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/n-p junction.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/n-p diode.md",
+    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/Semiconductor theory notes.md",
+    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/n-p junction.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/Depletion region.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/diode.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/light emitting diode.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/shiposting.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/the internet.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/does this happen.md",
-    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/Semiconductor theory notes.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/doping semiconductors.md"
   ]
 }
