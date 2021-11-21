@@ -11,6 +11,8 @@ This image gives a general idea of the distributions of the electron capacity at
 
 ![[Pasted image 20211121154546.png]]
 
+Also note before reading on [[band theory and electric current]].
+
 ### Conductors
 As you can see for conductors the potential energy levels of electrons has a continuous region that covers the [[fermi level]], this means that you will always (above absolute zero) have some electrons in the [[valence and conduction bands|conduction band]] meaning that current's can easily be transfered through the material as the electrons can move through the material.
 
