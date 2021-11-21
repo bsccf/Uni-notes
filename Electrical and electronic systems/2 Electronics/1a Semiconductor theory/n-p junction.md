@@ -10,4 +10,8 @@ Looking back at [[doping semiconductors]], here's a big brain question: what hap
 
 Nah something much more intresting, we get an [[n-p junction]] (who could have seen that coming?!) it is clearly the best resault as this means that computers exist meaning that we get [[the internet]] and hence [[shiposting]].
 
-### Important 
+### Important bits
+#### Charge
+Although the total charge is neutral, when the two materials make contact:
+- The electrons near the boundary will diffuse from the higher concentration ([[doping semiconductors|n-type]]) to the lower concentration ([[doping semiconductors|p-type]])
+- In a simul
