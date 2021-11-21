@@ -32,5 +32,6 @@ Since the charge carriers are electrons the charge carriers are negative, hence 
 
 In the n-type material, the electrons are called [[majority charge carriers]] and holes (caused by random thermal excitations) are called [[minority charge carriers]].
 
-### Example
+#### More diagrams
+![[Pasted image 20211121180416.png]]
 

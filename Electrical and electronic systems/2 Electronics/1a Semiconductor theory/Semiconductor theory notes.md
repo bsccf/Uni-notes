@@ -12,3 +12,5 @@ tags: ["NotesPage"]
 ![[band theory]]
 
 ![[doping semiconductors]]
+
+![[n-p junction]]
