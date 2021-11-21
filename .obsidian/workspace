@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/doping semiconductors.md",
+            "file": "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/intrinsic semiconductor.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/doping semiconductors.md",
+                "file": "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/intrinsic semiconductor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "6a1c730fe75ec8fc",
   "lastOpenFiles": [
+    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/intrinsic semiconductor.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/doping semiconductors.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/band theory and electric current.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/valence and conduction bands in conductors, insulators and semiconductors.md",
@@ -114,7 +115,6 @@
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/band theory.md",
     "Electrical and electronic systems/Electrical read order.md",
     "Thermofluids/11 Processes, paths and reversibility/cycle for a gas.md",
-    "Thermofluids/11 Processes, paths and reversibility/Processes, paths and reversibility notes.md",
-    "Thermofluids/11 Processes, paths and reversibility/reversibility (thermofluids).md"
+    "Thermofluids/11 Processes, paths and reversibility/Processes, paths and reversibility notes.md"
   ]
 }
