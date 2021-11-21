@@ -15,4 +15,8 @@ Nah something much more intresting, we get an [[n-p junction]] (who could have s
 Although the total charge is neutral, when the two materials make contact:
 - The electrons near the boundary will diffuse from the higher concentration ([[doping semiconductors|n-type]]) to the lower concentration ([[doping semiconductors|p-type]])
 - In a simular way the holes in the [[valence and conduction bands|valence band]] will move from a high concentration ([[doping semiconductors|p-type]]) to the lower concentration ([[doping semiconductors|n-type]]).
--  The p-type semiconductor is now 
+-  The p-type semiconductor is now negatively charged and the n-type is positively charged (total charge remains neutral but there are clear concentrations of charge within the material)
+-  Consequently an [[electric field]] is now formed between the n-type towords the p-type
+-  This electric field will continue to grow in magnitude until the strength of the field is equivilent to the strength of the concentration gradient moving charges (an equi)
+
+![[Pasted image 20211121203231.png]]
