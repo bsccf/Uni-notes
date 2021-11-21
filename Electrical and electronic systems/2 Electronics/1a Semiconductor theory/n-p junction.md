@@ -30,5 +30,10 @@ A complicated picture emerges where holes on both sides of the boundary become (
 case of silicon, electron energy lost by the ‘jump’ from conduction to valence band is given up to the crystal as vibrational energy. 
 Occasionally the energy is converted into a photon due to the electrons changing energy levels, this is how [[light emitting diode]]s work.
 
+![[Pasted image 20211121225911.png]]
 
-![[n-p diode]]
+This shows the energy bands in the p-type material now slightly raised above those in the n-type material. This is a consequence of the [[electric field]] (E) also shown. 
+Negatively-charged electrons that attempt to migrate across the boundary from n-type to p-type conduction bands will need to migrate to significantly higher energy levels if they are not already in a higher energy state. (They are basically being repelled by the negative charge that has accumulated on the p-type side of the boundary and therefore only the most energetic will successfully cross to the p-type conduction band). 
+Those electrons that ultimately combine with holes will subsequently give up some of their energy after crossing the boundary.
+
+![[Depletion region]]
