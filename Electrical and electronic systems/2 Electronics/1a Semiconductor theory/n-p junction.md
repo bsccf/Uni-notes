@@ -1,5 +1,5 @@
 ---
-aliases: ["diode"]
+aliases: ["n-p diode"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -11,7 +11,7 @@ Looking back at [[doping semiconductors]], here's a big brain question: what hap
 Nah something much more intresting, we get an [[n-p junction]] (who could have seen that coming?!) it is clearly the best resault as this means that computers exist meaning that we get [[the internet]] and hence [[shiposting]].
 
 ### Important bits
-So basically an n-p junction is a diode.
+So basically an n-p junction is a type of diode.
 
 #### Electric field formation and charge
 Although the total charge is neutral, when the two materials make contact:
@@ -23,10 +23,13 @@ Although the total charge is neutral, when the two materials make contact:
 
 Note that the equilibrium field strength reached is highly dependent on temperature (recall the [[fermi function]]) due to this effecting the amount of electrons in [[valence and conduction bands|conduction band]]s. 
 
-![[Pasted image 20211121203231.png]]
+![[Pasted image 20211121204503.png]]
 
 #### Energy changes
 A complicated picture emerges where holes on both sides of the boundary become (mostly) filled by electrons originating predominantly from the conduction band.  In the 
 case of silicon, electron energy lost by the ‘jump’ from conduction to valence band is given up to the crystal as vibrational energy. 
 Occasionally the energy is converted into a photon due to the electrons changing energy levels, this is how [[light emitting diode]]s work.
 
+
+
+![[Pasted image 20211121203231.png]]
