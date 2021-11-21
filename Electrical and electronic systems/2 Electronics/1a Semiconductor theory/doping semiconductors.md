@@ -15,8 +15,7 @@ Doping semiconductors involves adding impurities to them to increase their charg
 ![[extrinsic semiconductor]]
 
 #### P-Type doping
-This is where you produce an excess of electrons, so some can be in the [[valence and conduction bands|conduction band]] at room temperature.
-Allowing electrons in the [[valence and conduction bands|conduction band]] to act as charge carryers.
+This is where you produce an excess of electrons, by adding atom's that have more electrons than those which make up the rest of the [[Crystal Structures|crystal lattice]], these atoms also are [[substitutional atom]]s; since they have excess electrons but can's use them all bonding with their neighbors the electron is free an
 
 ![[Pasted image 20211121162637.png]]
 
