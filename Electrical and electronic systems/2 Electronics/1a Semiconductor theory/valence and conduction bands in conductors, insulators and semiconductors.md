@@ -21,5 +21,4 @@ Insulators have a very large space between the [[valence and conduction bands|co
 
 ### Semi conductors
 Semiconductors have a very small space between the [[valence and conduction bands|valence band]] and [[valence and conduction bands|conduction band]] meaning for a tiny [[potential difference]] there will not be enough energy to move an electron between these [[band theory|bands]] but a high enough [[potential difference]] can. 
-We also know from the [[fermi function]] that an increase in temperature increases the distrobution of electrons in the [[valence and conduction bands|conduction band]], so for certain materials it becomes possible to make components were their resistance decreases with temperature (within limits).
-
+We also know from the [[fermi function]] that an increase in temperature increases the distrobution of electrons in the [[valence and conduction bands|conduction band]], so for certain materials it becomes possible to make components were their resistance decreases with temperature (within limits) as electrons gain the energy needed to move to the [[valence and conduction bands|conduction band]].
