@@ -7,11 +7,8 @@
         "id": "6a1c730fe75ec8fc",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/doping semiconductors.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/doping semiconductors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
