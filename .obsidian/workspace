@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/valence and conduction bands in conductors, insulators and semiconductors.md",
-            "mode": "source"
+            "file": "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/fermi function.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/valence and conduction bands in conductors, insulators and semiconductors.md",
+                "file": "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/fermi function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,16 +102,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234,
-    "collapsed": true
+    "width": 234
   },
   "active": "8ce2a94610dfc0bf",
   "lastOpenFiles": [
-    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/valence and conduction bands in conductors, insulators and semiconductors.md",
-    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/band theory.md",
-    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/valence and conduction bands.md",
-    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/fermi level.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/fermi function.md",
+    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/valence and conduction bands.md",
+    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/band theory.md",
+    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/valence and conduction bands in conductors, insulators and semiconductors.md",
+    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/fermi level.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/Fermi-Dirac statistics.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/me falling in the rabbit hole.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/fermi energy.md",
