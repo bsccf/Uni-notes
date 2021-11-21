@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/11 Processes, paths and reversibility/cycle for a gas.md",
-            "mode": "source"
+            "file": "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/valence and conduction bands in conductors, insulators and semiconductors.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/11 Processes, paths and reversibility/cycle for a gas.md",
+                "file": "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/valence and conduction bands in conductors, insulators and semiconductors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "6a1c730fe75ec8fc",
   "lastOpenFiles": [
+    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/valence and conduction bands in conductors, insulators and semiconductors.md",
+    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/band theory.md",
+    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/Semiconductor theory notes.md",
+    "Electrical and electronic systems/Electrical read order.md",
     "Thermofluids/11 Processes, paths and reversibility/cycle for a gas.md",
     "Thermofluids/11 Processes, paths and reversibility/Processes, paths and reversibility notes.md",
     "Thermofluids/11 Processes, paths and reversibility/reversibility (thermofluids).md",
     "Thermofluids/11 Processes, paths and reversibility/process (thermofluids).md",
     "Thermofluids/11 Processes, paths and reversibility/cycle (themofluids).md",
-    "Thermofluids/cycles (themofluids).md",
-    "Thermofluids/paths (thermofluids).md",
-    "Thermofluids/Thermofluids read order.md",
-    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/valence and conduction bands in conductors, insulators and semiconductors.md",
-    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/band theory.md"
+    "Thermofluids/cycles (themofluids).md"
   ]
 }
