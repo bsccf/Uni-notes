@@ -6,9 +6,10 @@ tags: ["NotesPage"]
 # Processes, paths and reversibility notes
 
 #### Intro and contents
-- [[path (thermofluids)]]
+- [[process (thermofluids)]]
 - [[cycle (themofluids)]]
 - [[reversibility (thermofluids)]]
 
 ## Expanded articles
-![[path (thermofluids)]]
+![[process (thermofluids)]]
+
