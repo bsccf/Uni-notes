@@ -22,3 +22,8 @@ The negatively-charged free electrons in the n-type material are attracted towar
 In comparisan when in forward bias, with a supply voltage of opposite polarity. The free electrons drift in the opposite direction towards the more positive supply, and the holes drift towards the more negative supply. 
 Holes and electrons meet in the depletion region were electrons from the n-type material ‘drop’ into the holes and continue drifting across the p-type material (or in other words, the holes in the p-type move towards the n-type material). Current is now allowed to flow. As can be seen, the depletion region still exists but is less wide than if the supply is either reversed or not connected at all.
 
+The effect of the [[electric field]] that exists across the [[depletion region]] needs to be considered. Given its direction, it opposes current in the forward bias, hence there is a ‘step’ in the potential across a [[diode]]. In the case of a silicon diode in forward bias, this is about 0.7 Volts and for a germanium diode about 0.3 Volts. (Diodes are mostly fabricated with silicon although germanium is also sometimes used.) This means that for a forward-biased silicon diode, our supply voltage needs to be at least about 0.7 Volts in order to produce current flow. 
+
+![[Pasted image 20211121234021.png]]
+
+You can se
