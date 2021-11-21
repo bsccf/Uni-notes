@@ -10,3 +10,4 @@ This image gives a general idea of the distrobutions of the electron capacitys a
 ![[Pasted image 20211120101235.png]]
 
 ### Conductors
+As you can see for conductors the potential energy levels of electrons has a continous region that covers the [[fermi level]], this means that you will alwayse (above absolute zero) have some electrons in the [[valence and conduction bands|conduction band]]
