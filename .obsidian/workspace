@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/n-p junction.md",
+            "file": "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/does this happen.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/n-p junction.md",
+                "file": "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/does this happen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "6a1c730fe75ec8fc",
   "lastOpenFiles": [
+    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/does this happen.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/n-p junction.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/Semiconductor theory notes.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/doping semiconductors.md",
@@ -114,7 +115,6 @@
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/extrinsic semiconductor.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/intrinsic semiconductor.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/minority charge carriers.md",
-    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/majority charge carriers.md",
-    "Mechanics structures and materials/Materials/Atomic composition/7 Strengthening Mechanisms/interstitial atom.md"
+    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/majority charge carriers.md"
   ]
 }
