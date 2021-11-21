@@ -15,4 +15,5 @@ With a [[potential difference]] first applied one way, then the opposite way, be
 
 ![[Pasted image 20211121232607.png]]
 
-The negatively-charged free electrons in the n-type material are attracted towards the more positive terminal of the supply, and the positively-charged holes in the p-type material are attracted towards the more negative terminal of the supply. Consequently, after a small transient movement of charge, current cannot flow due to the separation of electrons and holes. (However, it has to be mentioned that the current isn’t exactly zero because of thermal effects of electrons).
+The negatively-charged free electrons in the n-type material are attracted towards the more positive terminal of the supply, and the positively-charged holes in the p-type material are attracted towards the more negative terminal of the supply. Consequently, after a small transient movement of charge, current cannot flow due to the separation of electrons and holes. (However, the current isn’t exactly zero because of thermal effects of electrons jumping between [[valence and conduction bands]]).
+
