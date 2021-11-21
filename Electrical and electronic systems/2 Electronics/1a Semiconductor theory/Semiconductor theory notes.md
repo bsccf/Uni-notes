@@ -10,3 +10,5 @@ tags: ["NotesPage"]
 
 ## Expanded articles
 ![[band theory]]
+
+![[doping semiconductors]]
