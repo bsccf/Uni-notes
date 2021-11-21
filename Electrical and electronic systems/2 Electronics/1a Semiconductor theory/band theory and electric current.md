@@ -5,3 +5,4 @@ tags: ["Question","QFormat3"]
 
 #### Describe the connection between
 ## Band theory and electric current
+In order for a current
