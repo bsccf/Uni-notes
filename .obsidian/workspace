@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/11 Processes, paths and reversibility/process (thermofluids).md",
+            "file": "Thermofluids/11 Processes, paths and reversibility/Processes, paths and reversibility notes.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/11 Processes, paths and reversibility/process (thermofluids).md",
+                "file": "Thermofluids/11 Processes, paths and reversibility/Processes, paths and reversibility notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +106,8 @@
   },
   "active": "8ce2a94610dfc0bf",
   "lastOpenFiles": [
-    "Thermofluids/11 Processes, paths and reversibility/process (thermofluids).md",
     "Thermofluids/11 Processes, paths and reversibility/Processes, paths and reversibility notes.md",
+    "Thermofluids/11 Processes, paths and reversibility/process (thermofluids).md",
     "Thermofluids/11 Processes, paths and reversibility/cycle (themofluids).md",
     "Thermofluids/11 Processes, paths and reversibility/reversibility (thermofluids).md",
     "Thermofluids/cycles (themofluids).md",
