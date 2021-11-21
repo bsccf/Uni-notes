@@ -1,5 +1,5 @@
 ---
-aliases: ["n-p diode"]
+aliases: [""]
 tags: ["Question","QFormat3"]
 ---
 
@@ -31,5 +31,4 @@ case of silicon, electron energy lost by the ‘jump’ from conduction to valen
 Occasionally the energy is converted into a photon due to the electrons changing energy levels, this is how [[light emitting diode]]s work.
 
 
-
-![[Pasted image 20211121203231.png]]
+![[n-p diode]]
