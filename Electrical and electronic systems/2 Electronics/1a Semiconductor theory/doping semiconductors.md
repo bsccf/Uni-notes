@@ -5,7 +5,7 @@ tags: ["Question","QFormat3"]
 
 #### What's the reason for
 ## Doping semiconductors
-### Introduction
+### Theory
 We already know how semiconductors can conduct current from [[valence and conduction bands in conductors, insulators and semiconductors]].
 
 Doping semiconductors involves adding impurities to them to increase their charge carrier count to create an [[extrinsic semiconductor]].
@@ -15,7 +15,7 @@ Doping semiconductors involves adding impurities to them to increase their charg
 ![[extrinsic semiconductor]]
 
 #### P-Type doping
-This is where you produce an excess of electrons, so some will always be in the [[valence and conduction bands|conduction band]].
+This is where you produce an excess of electrons, so some can be in the [[valence and conduction bands|conduction band]] at room temperature.
 Allowing electrons in the [[valence and conduction bands|conduction band]] to act as charge carryers.
 
 ![[Pasted image 20211121162637.png]]
@@ -25,3 +25,5 @@ This is where you create an excess of electon holes in the [[valence and conduct
 Allowing electons in the [[valence and conduction bands|valence band]] to act  as charge carryers.
 
 ![[Pasted image 20211121162617.png]]
+
+### Example
