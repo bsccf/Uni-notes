@@ -20,9 +20,12 @@ This also means we can define deflection ($v$) as a function of $x$ hence $v(x)$
 Ok so since we are modelling the beam as a circular arc, it can be drawn as the following:
 ![[Pasted image 20211122110014.png]]
 
-Since the circular arc is assumed to be very large, we can say that $ds \approx dx$ and we also know that $\tan \theta = \frac{dv}{dx} \approx \theta$ so:
+Since the circular arc is assumed to be very large, we can say that $ds \approx dx$.
+We also know that $\tan \theta = \frac{dv}{dx} \approx \theta$.
+And since $ds$ is the base of a right angled triangle $ds\approx R d\theta$
+
 $$\begin{align*}
-    \frac{dv}{dx} &\approx \theta & ds &\approx dx\\
+   && \frac{dv}{dx} &= \theta & ds &= dx & ds &= R d\theta\\
 \frac{dv}{ds} &= \theta\\
 dv &= \theta\cdot ds\\
 &
