@@ -7,3 +7,6 @@ tags: ["NotesPage"]
 ## Example 1
 ![[Pasted image 20211122121434.png]]
 
+![[Pasted image 20211122121536.png]]
+
+Here I multiplied 
