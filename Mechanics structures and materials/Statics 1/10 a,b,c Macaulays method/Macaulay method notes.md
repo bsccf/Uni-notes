@@ -10,4 +10,6 @@ tags: ["NotesPage"]
 Oh that's why...
 
 ## The Macaulary method
-Ok so if we look back at our examples in [[deflec]]
+### The Macaulary method
+#### The Macaulary method
+![[the Macaulary method]]
