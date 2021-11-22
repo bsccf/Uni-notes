@@ -27,5 +27,16 @@ And since $ds$ is the base of a right angled triangle $ds\approx R d\theta$
 $$\begin{align*}
    && \frac{dv}{dx} &= \theta & ds &= dx & ds &= R d\theta\\
 && \frac{d^{2}v}{dx^{2}} &= d\theta & & & \frac{1}{R} &= \frac{d\theta}{ds} \\
-\frac{1}{R} &= \frac{d\theta}{ds} = \frac{d^{2}v}{dx^{2}}\\
+\frac{1}{R} &= \pm \frac{d\theta}{ds} = \pm \frac{d^{2}v}{dx^{2}}\\
 \end{align*}$$
+(to be honest I'm not really sure how we get that? This is what the notes say and they don't really explain so that's just great huh)
+The sign depends on convention used.
+
+We can recall from [[engineer's bending theory]] that:
+![[engineer's bending theory#^6fb9ef]]
+
+$$\begin{align*}
+    \frac{1}{R} &= \frac{M}{EI} & \frac{1}{R} &= \frac{d^{2}v}{dx^{2}}\\
+&
+\end{align*}$$
+
