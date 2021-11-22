@@ -26,8 +26,7 @@ And since $ds$ is the base of a right angled triangle $ds\approx R d\theta$
 
 $$\begin{align*}
    && \frac{dv}{dx} &= \theta & ds &= dx & ds &= R d\theta\\
-&& \frac{d^{2}v}{dx^{2}} &= d\theta & & & \frac{ds}{R} &= d\theta \\
+&& \frac{d^{2}v}{dx^{2}} &= d\theta & & & \frac{1}{R} &= \frac{d\theta}{ds} \\
 \frac{d^{2}v}{dx^{2}} &= \frac{ds}{R}\\
-dv &= \theta\cdot ds\\
 &
 \end{align*}$$
