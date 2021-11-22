@@ -15,8 +15,8 @@ When we measure deflection we take it in respect to the origional strait beam's 
 >> $M=$ Moment 
 >> $E=$ [[youngs modulus]]
 >> $I=$ [[second moment of area]] 
->> $v=$ Displacement from strait positio
->> $x=$
+>> $v=$ Displacement from strait position
+>> $x=$ Distance along the beam
 
 ### Proof
 Since we are modelling under the same assumptions as those for [[engineer's bending theory]], we can assume the distance to the [[neutral surface and neutral axis|neutral axis]] of the beam is $R$:
@@ -51,3 +51,11 @@ $$\begin{align*}
 \therefore M &= -EI \frac{d^{2}v}{dx^{2}}
 \end{align*}$$
 
+#### Integration time
+This equation isn't all that useful, so we use [[MEE Intergration 1|Intergration]], yay!
+
+$$\begin{align*}
+  M &= -EI \frac{d^{2}v}{dx^{2}}\\
+-\frac{1}{EI}\int M \cdot dx &= \int \frac{d^{2}v}{dx^{2}} \cdot dx\\
+&
+\end{align*}$$
