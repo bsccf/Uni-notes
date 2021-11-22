@@ -15,17 +15,18 @@ Ok so if we look back at our [[Deflection in beams notes]] and the example that 
 You can see things become a massive pain in the ass when this sort of stuff get's introduced, so this [[chad called Macaulary]] realized that we can simplify things with... a method, not sure you know the name, but it is:
 
 ### The Macaulary method
+![[step function]]
 
-> ### $$ \left( x-k \:\:\: \{x-k\geq 0\}\right) = [x-k] $$ 
->> where:
->> $x=$ A variable
->> $k=$ A constant
-
-Basically it the bit in the brackets can't be less than zero, if $x<k$ then it is equal to zero. It's simple but we can use this in beams to describe moments, shear force and deflection along a beam with much less equations.
+![[differentiati]]
 
 #### Differentiation and intergration
 > ### $$ \frac{d}{dx}a[x-k]^b = ab[x-k]^{b-1} $$
 > ### $$ \int a[x-k]^{b} \cdot dx = \frac{a[x-k]^{b+1}}{b+1} $$
+>> where:
+>> $x=$ A variable
+>> $k,a,b =$ Constants
+
+As you can see differentiation and integration work the same, make sure never to expand these
 
 ### Taking the same [[examples of calculating deflection of a beam#Example 2|example]]
 
