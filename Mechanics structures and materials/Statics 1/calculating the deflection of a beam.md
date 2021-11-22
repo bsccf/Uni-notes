@@ -18,6 +18,12 @@ When we measure deflection we take it in respect to the origional strait beam's 
 >> $v=$ Displacement from strait position
 >> $x=$ Distance along the beam
 
+> ### $$ v = -\frac{1}{EI} \left(\int \left(\int M \cdot dx\right) \cdot dx\right)$$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
+
 ### Proof
 Since we are modelling under the same assumptions as those for [[engineer's bending theory]], we can assume the distance to the [[neutral surface and neutral axis|neutral axis]] of the beam is $R$:
 
@@ -56,6 +62,8 @@ This equation isn't all that useful, so we use [[MEE Intergration 1|Intergration
 
 $$\begin{align*}
   M &= -EI \frac{d^{2}v}{dx^{2}}\\
--\frac{1}{EI}\int M \cdot dx &= \int \frac{d^{2}v}{dx^{2}} \cdot dx\\
-&
+-\frac{1}{EI}\int M \cdot dx &= \frac{dv}{dx} \\
+-\frac{1}{EI} \left(\int \left(\int M \cdot dx\right) \cdot dx\right) &= v
 \end{align*}$$
+
+Note that as a resault of the integration you will get 2 constants added as $+ax+b$.
