@@ -23,4 +23,7 @@ You can see things become a massive pain in the ass when this sort of stuff get'
 
 Basically it the bit in the brackets can't be less than zero, if $x<k$ then it is equal to zero. It's simple but we can use this in beams to describe moments, shear force and deflection along a beam with much less equations.
 
-#### Taking the same [[examples of calculating deflection of a beam#Example 2|example]]
+### Taking the same [[examples of calculating deflection of a beam#Example 2|example]]
+
+
+#### Plotting its resault
