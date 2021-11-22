@@ -7,8 +7,11 @@
         "id": "6a1c730fe75ec8fc",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Mechanics structures and materials/Statics 1/9a,b,c Beams, deflection/examples of calculating deflection of a beam.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mechanics structures and materials/Statics 1/9a,b,c Beams, deflection/examples of calculating deflection of a beam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +106,15 @@
   },
   "active": "6a1c730fe75ec8fc",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Statics 1/examples of calculating deflection of a beam.md",
-    "Mechanics structures and materials/Statics 1/Deflection in beams notes.md",
+    "Mechanics structures and materials/Statics 1/9a,b,c Beams, deflection/examples of calculating deflection of a beam.md",
+    "Mechanics structures and materials/Statics 1/9a,b,c Beams, deflection/Deflection in beams notes.md",
+    "Thermofluids/9 Kinetic theory of gas/engineers are simply based.md",
+    "Mechanics structures and materials/Materials/Atomic composition/5 Mechanical Properties/lmao fuck you.md",
+    "Mechanics structures and materials/Materials/Atomic composition/5 Mechanical Properties/Hall-Petch equation.md",
     "Mechanics structures and materials/Statics 1/6b Relationships between distributed load, shear force and bending moment/equation for the relationship between load, shear force and bending moment.md",
     "Mechanics structures and materials/Statics 1/6b Relationships between distributed load, shear force and bending moment/basic properties shear force and bending moment graphs.md",
     "Mechanics structures and materials/Statics 1/6b Relationships between distributed load, shear force and bending moment/Relationships between distributed load, shear force and bending moment.md",
     "Mechanics structures and materials/Statics 1/Statics 1 read order.md",
-    "Mechanics structures and materials/Statics 1/calculating the deflection of a beam.md",
-    "Mechanics structures and materials/Statics 1/7b Bending of beams/second moment of area.md",
-    "Mechanics structures and materials/Statics 1/7b Bending of beams/moment over a section of beam cross section.md",
-    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/n-p diode.md"
+    "Mechanics structures and materials/Statics 1/9a,b,c Beams, deflection/calculating the deflection of a beam.md"
   ]
 }
