@@ -25,5 +25,12 @@ Basically it the bit in the brackets can't be less than zero, if $x<k$ then it i
 
 ### Taking the same [[examples of calculating deflection of a beam#Example 2|example]]
 
+![[Pasted image 20211122180700.png]]
 
 #### Plotting its resault
+![[Pasted image 20211122180402.png]]
+![[Pasted image 20211122180429.png]]
+![[Pasted image 20211122180458.png]]
+
+#### Implications
+This graph suggests that the highest deflection will occur when the load is applied at the centre of the beam
