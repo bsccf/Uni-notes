@@ -15,7 +15,7 @@ When we measure deflection we take it in respect to the origional strait beam's 
 >> $M=$ Moment 
 >> $E=$ [[youngs modulus]]
 >> $I=$ [[second moment of area]] 
->> $v=$
+>> $v=$ Displacement from strait positio
 >> $x=$
 
 ### Proof
