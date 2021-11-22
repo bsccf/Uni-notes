@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 1/10 a,b,c Macaulays method/Macaulay method notes.md",
-            "mode": "preview"
+            "file": "Mechanics structures and materials/Statics 1/10 a,b,c Macaulays method/the Macaulary method.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 1/10 a,b,c Macaulays method/Macaulay method notes.md",
+                "file": "Mechanics structures and materials/Statics 1/10 a,b,c Macaulays method/the Macaulary method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +106,8 @@
   },
   "active": "6a1c730fe75ec8fc",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Statics 1/10 a,b,c Macaulays method/Macaulay method notes.md",
     "Mechanics structures and materials/Statics 1/10 a,b,c Macaulays method/the Macaulary method.md",
+    "Mechanics structures and materials/Statics 1/10 a,b,c Macaulays method/Macaulay method notes.md",
     "Mechanics structures and materials/Statics 1/10 a,b,c Macaulays method/Ok so this is based.md",
     "Mechanics structures and materials/Statics 1/Statics 1 read order.md",
     "Mechanics structures and materials/Statics 1/9a,b,c Beams, deflection/examples of calculating deflection of a beam.md",
