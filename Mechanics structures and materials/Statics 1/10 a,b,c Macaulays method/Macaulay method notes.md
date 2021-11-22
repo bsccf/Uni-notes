@@ -4,6 +4,9 @@ tags: ["NotesPage"]
 ---
 
 # Macaulay method notes
-![[the music - YouTube.mp3#play]]
-Wait, why do I hear boss music?
+#### Wait, why do I hear boss music?
+![[The Binding of Isaac - My Innermost Apocalypse Recreated - .mp3#play]]
 
+Oh that's why...
+
+## The Macaulary method
