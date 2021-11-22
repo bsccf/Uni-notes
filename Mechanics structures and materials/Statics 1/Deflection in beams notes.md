@@ -4,11 +4,6 @@ tags: ["NotesPage"]
 ---
 
 # Deflection in beams notes
-
-#### Intro and contents
-- 
-
-
-## Expanded articles
-
 ![[calculating the deflection of a beam]]
+
+![[examples of calculating deflection of a beam]]

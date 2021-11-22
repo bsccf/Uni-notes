@@ -11,18 +11,13 @@ We use the same assumptions as those from [[deformation due to bending in beams#
 When we measure deflection we take it in respect to the origional strait beam's position, with downwards deflections being negative.
 
 > ### $$ M = -EI \frac{d^{2}v}{dx^{2}} $$ 
+> ### $$ v = -\frac{1}{EI} \left(\int \left(\int M \cdot dx\right) \cdot dx\right)$$
 >> where:
 >> $M=$ Moment 
 >> $E=$ [[youngs modulus]]
 >> $I=$ [[second moment of area]] 
 >> $v=$ Displacement from strait position
 >> $x=$ Distance along the beam
-
-> ### $$ v = -\frac{1}{EI} \left(\int \left(\int M \cdot dx\right) \cdot dx\right)$$ 
->> where:
->> $=$ 
->> $=$
->> $=$
 
 ### Proof
 Since we are modelling under the same assumptions as those for [[engineer's bending theory]], we can assume the distance to the [[neutral surface and neutral axis|neutral axis]] of the beam is $R$:
