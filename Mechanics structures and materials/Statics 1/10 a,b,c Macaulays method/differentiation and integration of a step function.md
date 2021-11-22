@@ -11,4 +11,4 @@ tags: ["Question","QFormat3"]
 >> $x=$ A variable
 >> $k,a,b =$ Constants
 
-As you can see differentiation and integration work the same, make sure never to expand these
+As you can see differentiation and integration work the same, make sure never to expand these though.
