@@ -58,6 +58,8 @@ C_L^{\frac{1}{2}} \frac{2K}{\pi A} C_L &= \left(C_{Do}+\frac{K}{\pi A}C_L^{2}\ri
 \therefore C_{Do} &= 3C_{Di} \:\:\:\: at\:max\:R\\
 \end{align*}$$
 
+^fbd1e2
+
 Note $C_{Do} = 3C_{Di}$.
 
 Now if we use the resault above and the [[lift coefficient at min drag]]:
