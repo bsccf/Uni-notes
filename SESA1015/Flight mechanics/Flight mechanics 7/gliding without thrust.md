@@ -11,7 +11,7 @@ tags: ["Question","QFormat3"]
 We can model [[Angle of attack]] as $\theta$ then work with that to define useful relationships
 
 #### Angle of attack
-
+We can get a descent approximation of angle of attack from the [[lift to drag ratio]] using the method below:
 $$\begin{align*}
    & & L &= W \cos \theta & D = W\sin\theta\\
 \frac{D}{L} &= \frac{W\sin\theta}{W \cos \theta}\\
@@ -19,10 +19,14 @@ $$\begin{align*}
 \therefore \frac{D}{L}&\approx \theta \:\:\:small\:angle\:approx
 \end{align*}$$
 
+Also see [[minimum glide angle]].
+
 #### Rate of descent
-We can get a descent approximat
+We can get a descent approximation of rate of descent using small angle formula:
 $$\begin{align*}
    - \frac{dh}{dt} &= -h\\
 &= V\sin\theta \approx V\theta \\
 &= V \frac{D}{W} 
 \end{align*}$$
+
+Also see [[minimum rate of descent]].

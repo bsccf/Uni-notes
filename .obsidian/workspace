@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/Flight mechanics 7/gliding without thrust.md",
+            "file": "SESA1015/Flight mechanics/Flight mechanics 7/minimum rate of descent.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 7/gliding without thrust.md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 7/minimum rate of descent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "518eedd6536f5e84",
   "lastOpenFiles": [
+    "SESA1015/Flight mechanics/Flight mechanics 7/minimum rate of descent.md",
     "SESA1015/Flight mechanics/Flight mechanics 7/gliding without thrust.md",
     "SESA1015/Flight mechanics/Flight mechanics 7/minimum glide angle.md",
     "SESA1015/Flight mechanics/Flight mechanics 7/Simple accelerated flight.md",
@@ -114,7 +115,6 @@
     "SESA1015/Flight mechanics/Flight mechanics 6/constant altitude and angle of attack cruise pattern (jet).md",
     "SESA1015/Flight mechanics/Flight mechanics 6/form drag coefficient.md",
     "SESA1015/Flight mechanics/Mechanics of flight read order.md",
-    "SESA1015/Flight mechanics/Flight mechanics 4.5/Lift and stuff glide angle idk.md",
-    "SESA1015/Flight mechanics/SESA1015 lectures_2020.pdf"
+    "SESA1015/Flight mechanics/Flight mechanics 4.5/Lift and stuff glide angle idk.md"
   ]
 }
