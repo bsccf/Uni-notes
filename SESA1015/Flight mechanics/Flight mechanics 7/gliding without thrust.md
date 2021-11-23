@@ -7,6 +7,8 @@ tags: ["Question","QFormat3"]
 ## Gliding without thrust
 ### Equation
 
+This equation is only true for small angles.
+
 > ### $$ \theta_{min} = 2 \sqrt{k C_{Do} } $$ 
 >> where:
 >> $\theta_{min}=$ [[gliding without thrust|minimum glide angle]]
