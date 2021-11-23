@@ -37,3 +37,13 @@ So:
 ^6d5ee2
 
 Hence the min power speed is less than the min drag speed.
+
+### Relationships at min power speed
+
+At the minimum power speed all the following are true:
+
+> ### $$ 3 C_{Do} = k C_L^2 $$ 
+>> where:
+>> $C_{Do}=$ [[form drag coefficient]]
+>> $k=$ [[induced drag coefficient#^438b96|constant related to wing shape]]
+>> $C_L=$ [[Lift coefficient]]
