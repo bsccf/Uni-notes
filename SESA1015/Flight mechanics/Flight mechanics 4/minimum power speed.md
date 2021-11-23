@@ -53,8 +53,9 @@ At the minimum power speed all the following are true:
 ^0cb1a3
 
 #### Lift to drag ratio
-> ### $$ \frac{L}{D}_{minP} = C_L/C_D $$ 
+> ### $$ \frac{L}{D}_{minP} = \frac{3C_L}{4C_{Do}} = \frac{1}{4kC_L} $$ 
 >> where:
 >> $\frac{L}{D}_{minP}=$ [[lift to drag ratio]] at min power
->> $=$
->> $=$
+>> $C_{Do}=$ [[form drag coefficient]]
+>> $k=$ [[induced drag coefficient#^438b96|constant related to wing shape]]
+>> $C_L=$ [[Lift coefficient]]

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/Flight mechanics 4/minimum power speed.md",
-            "mode": "source"
+            "file": "SESA1015/Flight mechanics/Flight mechanics 7/minimum rate of descent.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 4/minimum power speed.md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 7/minimum rate of descent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +106,8 @@
   },
   "active": "518eedd6536f5e84",
   "lastOpenFiles": [
-    "SESA1015/Flight mechanics/Flight mechanics 4/minimum power speed.md",
     "SESA1015/Flight mechanics/Flight mechanics 7/minimum rate of descent.md",
+    "SESA1015/Flight mechanics/Flight mechanics 4/minimum power speed.md",
     "SESA1015/Flight mechanics/Flight mechanics 6/range of a piston engined aircraft.md",
     "SESA1015/Flight mechanics/Flight mechanics 7/gliding without thrust.md",
     "SESA1015/Flight mechanics/Flight mechanics 7/minimum glide angle.md",
