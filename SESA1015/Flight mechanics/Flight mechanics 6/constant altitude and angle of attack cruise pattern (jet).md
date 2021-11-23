@@ -95,7 +95,7 @@ The optimum speed for maximising range without changing altitude occurs at 1.316
 >> $s=$ [[specific fuel consumption (aircraft)|s.f.c]]
 >> $\rho=$ air density
 >> $A=$ [[Wing aspect ratio]]
->> $C_{Do}=$ [[form drag]] coefficient
+>> $C_{Do}=$ [[form drag coefficient]] 
 
 This tells us to get the best range we need to:
 - fly at a high altitude.
