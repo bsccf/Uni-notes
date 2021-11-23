@@ -12,3 +12,7 @@ tags: ["NotesPage"]
 ## Expanded articles
 
 ![[gliding without thrust]]
+
+![[minimum glide angle]]
+
+![[minimum rate of descent]]
