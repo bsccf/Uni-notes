@@ -28,5 +28,6 @@ $$\begin{align*}
 
 From [[lift coefficient at min drag]]:
 $$\begin{align*}
-    &=  & C_{LminD} =& \sqrt\frac{C_{Do}\pi A}{K}
+   \theta_{min} &= 2 k C_L & C_{LminD} =& \sqrt\frac{C_{Do}\pi A}{K} & k&=\frac{K}{\pi A}\\
+\theta_{min} &= 2 \frac{K}{\pi A} \sqrt\frac{C_{Do}\pi A}{K}
 \end{align*}$$
