@@ -8,7 +8,8 @@ tags: ["Question","QFormat3"]
 We know [[minimum power speed]] occurs when $V_{MP} = V_{MD} \cdot \sqrt[4] \frac{1}{3}$ and [[min drag speed in steady level flight]] $V_{MD}=\sqrt{ \frac{W}{\rho S} } \cdot \sqrt[4]{  \frac{ 4k }{ C_{Do} }   }$
 
 $$\begin{align*}
-  V_{MP} &= \sqrt{ \frac{W}{\rho S} } \cdot \sqrt[4]{  \frac{ 4k }{ C_{Do} }   } \cdot \sqrt[4] \frac{1}{3}\\
-& & L = \frac{1}{2} \rho S 
+  V_{MP} &= \sqrt{ \frac{W}{\rho S} } \cdot \sqrt[4]{  \frac{ 4k }{ C_{Do} }   } \cdot \sqrt[4] \frac{1}{3}\\ 
+& & L &= \frac{1}{2} \rho S C_L V^{2} & D &= \frac{1}{2} \rho S C_D V^{2} & let\: c &= \frac{1}{2} \rho S\\
+& & \frac{L}{}c &=  C_L V^{2} & \frac{D}{c} &=  C_D V^{2}
 \end{align*}$$
 
