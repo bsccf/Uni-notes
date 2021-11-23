@@ -1,10 +1,19 @@
 ---
-aliases: [""]
+aliases: ["minimum glide angle"]
 tags: ["Question","QFormat3"]
 ---
 
 #### What are the equations for
 ## Gliding without thrust
+### Equation
+
+> ### $$ \theta_{min} = 2 \sqrt{k C_{Do} } $$ 
+>> where:
+>> $\theta_{min}=$ [[gliding without thrust|minimum glide angle]]
+>> $k=$ [[induced drag coefficient#^438b96|Another constant relating to wing shape]]
+>> $C_{Do}=$ [[form drag coefficient]]
+
+### Proof
 
 ![[Pasted image 20211123174004.png]]
 
@@ -28,6 +37,7 @@ $$\begin{align*}
 
 From [[lift coefficient at min drag]]:
 $$\begin{align*}
-   \theta_{min} &= 2 k C_L & C_{LminD} =& \sqrt\frac{C_{Do}\pi A}{K} & k&=\frac{K}{\pi A}\\
-\theta_{min} &= 2 \frac{K}{\pi A} \sqrt\frac{C_{Do}\pi A}{K}
+   \theta_{min} &= 2 k C_L & C_{LminD} =& \sqrt\frac{C_{Do}}{k} & k&=\frac{K}{\pi A}\\
+\theta_{min} &= 2 k \sqrt\frac{C_{Do}}{k}\\
+\theta_{min} &= 2 \sqrt{k C_{Do} }
 \end{align*}$$
