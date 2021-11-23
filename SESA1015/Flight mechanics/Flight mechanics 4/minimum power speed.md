@@ -42,7 +42,7 @@ Hence the min power speed is less than the min drag speed.
 
 At the minimum power speed all the following are true:
 
-#### In
+#### Induced drag and form drag
 
 > ### $$ 3 C_{Do} = k C_L^2 $$ 
 >> where:
@@ -51,8 +51,10 @@ At the minimum power speed all the following are true:
 >> $C_L=$ [[Lift coefficient]]
 
 ^0cb1a3
-> ### $$  = $$ 
+
+#### Lift to drag ratio
+> ### $$ \frac{L}{D}_{minP} = C_L/C_D $$ 
 >> where:
->> $=$ 
+>> $\frac{L}{D}_{minP}=$ [[lift to drag ratio]] at min power
 >> $=$
 >> $=$
