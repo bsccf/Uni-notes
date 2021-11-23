@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lift equation",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
