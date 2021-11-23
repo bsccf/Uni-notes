@@ -7,10 +7,9 @@
         "id": "6a1c730fe75ec8fc",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Mechanics structures and materials/Statics 1/10 a,b,c Macaulays method/the Macaulary method.md",
-            "mode": "preview"
+            "file": "SESA1015/Flight mechanics/SESA1015 lectures_2020.pdf"
           }
         }
       }
@@ -76,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 1/10 a,b,c Macaulays method/the Macaulary method.md",
+                "file": "SESA1015/Flight mechanics/SESA1015 lectures_2020.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +105,8 @@
   },
   "active": "6a1c730fe75ec8fc",
   "lastOpenFiles": [
+    "SESA1015/Flight mechanics/SESA1015 lectures_2020.pdf",
+    "SESA1015/Flight mechanics/Mechanics of flight read order.md",
     "Mechanics structures and materials/Statics 1/10 a,b,c Macaulays method/the Macaulary method.md",
     "Mechanics structures and materials/Statics 1/10 a,b,c Macaulays method/differentiation and integration of a step function.md",
     "Mechanics structures and materials/Statics 1/10 a,b,c Macaulays method/step function.md",
@@ -113,8 +114,6 @@
     "Mechanics structures and materials/Statics 1/10 a,b,c Macaulays method/Macaulay method notes.md",
     "Mechanics structures and materials/Statics 1/10 a,b,c Macaulays method/Ok so this is based.md",
     "Mechanics structures and materials/Statics 1/Statics 1 read order.md",
-    "Mechanics structures and materials/Statics 1/9a,b,c Beams, deflection/examples of calculating deflection of a beam.md",
-    "Mechanics structures and materials/Statics 1/9a,b,c Beams, deflection/Deflection in beams notes.md",
-    "Thermofluids/9 Kinetic theory of gas/engineers are simply based.md"
+    "Mechanics structures and materials/Statics 1/9a,b,c Beams, deflection/examples of calculating deflection of a beam.md"
   ]
 }
