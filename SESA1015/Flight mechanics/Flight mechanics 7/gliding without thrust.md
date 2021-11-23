@@ -20,5 +20,7 @@ The glide angle will be a minimum when L/D ([[lift to drag ratio]]) is at a maxi
 We know that [[calculating minimum drag|minimum drag]] occurs when: [[induced drag coefficient]] = [[form drag coefficient]] ($C_{Do}=C_{Di}$)
 
 $$\begin{align*}
-  \theta_{min} &= \frac{1}{{\left(\frac{D}{L}\right)_{min}}} &  &
+  \theta_{min} &= \frac{1}{{\left(\frac{D}{L}\right)_{min}}} & C_D &= C_{Di} + C_{Do} & C_{Di} &= \frac{K}{\pi A}C_L^{2}\\
+& & C_D &= \frac{K}{\pi A}C_L^{2} + C_{Do}\\
+& & \pi A(C_D - C_{Do}) &= C_L^{2}
 \end{align*}$$
