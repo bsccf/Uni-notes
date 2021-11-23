@@ -44,9 +44,9 @@ At the minimum power speed all the following are true:
 
 #### Induced drag and form drag
 
-This relationship is proved [[constant altitude and angle of attack cruise pattern (jet)#^fbd1e2]]
+This relationship is proved [[relating induced drag and form drag at minimum power speed]]
 
-> ### $$  C_{Do} = 3 k C_L^2 $$ 
+> ### $$ 3 C_{Do} =  k C_L^2 $$ 
 >> where:
 >> $C_{Do}=$ [[form drag coefficient]]
 >> $k=$ [[induced drag coefficient#^438b96|constant related to wing shape]]
