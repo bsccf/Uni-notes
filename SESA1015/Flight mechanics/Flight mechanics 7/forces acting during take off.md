@@ -24,8 +24,11 @@ To find the take off distance to reach the [[screen speed]] the values of L and 
 
 Using these assumptions on the previous equation:
 $$\begin{align*}
-\frac{T}{W} -0+ \mu\left(1-0\right) &= \frac{V}{g} \frac{dV}{dx}\\
-\frac{T}{W} + \mu &= \frac{V}{g} \frac{dV}{dx}\\
-\int^{s_1}_0 \frac{T}{W} + \mu\cdot dx&= \int^{V_2}_0 \frac{V}{g} \cdot dV\\
-\left[x \frac{T}{W} + \mu x\right]^{s_1}_0 &=  \frac{V^{2}}{2g} 
+\frac{T}{W} -0- \mu\left(1-0\right) &= \frac{V}{g} \frac{dV}{dx}\\
+\frac{T}{W} - \mu &= \frac{V}{g} \frac{dV}{dx}\\
+\int^{s_1}_0 \frac{T}{W} - \mu\cdot dx&= \int^{V_2}_0 \frac{V}{g} \cdot dV\\
+\left[x \frac{T}{W} - \mu x\right]^{s_1}_0 &=  \left[\frac{V^{2}}{2g} \right]^{V_2}_0\\
+s_1 \frac{T}{W} - \mu s_1 - 0 &= \frac{(V_2)^{2}}{2g} - 0\\
+s_1 &= \frac{\frac{(V_2)^{2}}{2g}}{\frac{T}{W} - \mu }\\
+&= \frac{(V_2)^{2}}{2g\left(\frac{T}{W} - \mu\right) }
 \end{align*}$$
