@@ -10,9 +10,11 @@ We know $- \frac{dh}{dt} = V \frac{D}{W}$ from [[gliding without thrust]], so to
 
 Luckily we already know that to get VD at a minimum we can use the [[minimum power speed]].
 
-Now we can also get the [[minimum power speed#Lift to drag ratio]]
+Now we can also get the [[minimum power speed#Lift to drag ratio]] and sub that in.
 
 $$\begin{align*}
    \theta &= \frac{1}{\left(\frac{L}{D}_{minP}\right)} & \frac{L}{D}_{minP} &= \frac{1}{4} \sqrt\frac{3}{k C_{Do}  } \\
  &=  4 \sqrt\frac{k C_{Do}}{ 3 }
 \end{align*}$$
+
+The speed at this angle of descent for a shallow glide angle ($L\approx W$) is [[minimum power speed]]:
