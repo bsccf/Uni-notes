@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing plan area.md",
+            "file": "SESA1015/Flight mechanics/Flight mechanics 5/Breguet range equation (jets).md",
             "mode": "preview"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing plan area.md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 5/Breguet range equation (jets).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,8 +107,8 @@
   },
   "active": "518eedd6536f5e84",
   "lastOpenFiles": [
-    "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing plan area.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/Breguet range equation (jets).md",
+    "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing plan area.md",
     "SESA1015/Flight mechanics/Flight mechanics 4/lift to drag ratio.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/calculating aircraft range.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/endurance and range of jet aircraft.md",
