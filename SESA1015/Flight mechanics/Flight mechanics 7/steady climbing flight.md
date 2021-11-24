@@ -10,4 +10,11 @@ The forces acting on an aircraft in steady climbing flight are shown here:
 ![[Pasted image 20211124105215.png]]
 
 Where:
-- $\theta=$ [[]]
+- $\theta=$ [[climb angle]]
+- $\gamma=$ [[thrust vector angle]]
+
+You can write the equibilbrium equations as:
+
+$$\begin{align*}
+   L+T\sin \gamma &= W \cos \theta & T\cos\gamma-D&=W\sin\theta
+\end{align*}$$
