@@ -29,7 +29,7 @@ V_{MP} &= V_{MD} \cdot \sqrt[4] \frac{1}{3} \approx V_{MD} \cdot 0.76
 \end{align*} $$
 
 So:
-> $$ V_{MP} = V_{MD} \cdot \sqrt[4] \frac{1}{3} \approx V_{MD} \cdot 0.76 $$ 
+> $$ V_{MP} = V_{MD} \cdot \sqrt[4] \frac{1}{3} \approx V_{MD} \cdot 0.76 \:\:\:or\:\:\:V_{MP} = \sqrt{ \frac{W}{\rho S} } \cdot \sqrt[4]{  \frac{ 4k }{ C_{Do} }   } \cdot \sqrt[4] \frac{1}{3} $$ 
 >> where:
 >> $V_{MP}=$ Speed at minimum power
 >> $V_{MD}=$ [[min drag speed in steady level flight]]
