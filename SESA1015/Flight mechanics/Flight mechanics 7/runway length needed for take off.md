@@ -6,6 +6,9 @@ tags: ["Question","QFormat3"]
 #### How can you find the
 ## Runway length needed for take off
 ### Equation
+
+![[Pasted image 20211124134849.png]]
+
 This is basically just the distance needed to accelerate up to [[screen speed]] from rest.
 
 > ### $$ s_1 = \frac{1.44 }{\left(\frac{T}{W} - \mu\right)\rho S C_{Lmax} } \frac{W}{g} $$ 
@@ -15,16 +18,19 @@ This is basically just the distance needed to accelerate up to [[screen speed]] 
 >> $\mu=$ resistance due to runway friction
 >> $s_1=$ Ground run distance
 
+Also note that this equation assumes there is no wind and that the runway is level, but in reality you could get a shorter runway length required by taking off downhill against the wind.
+
 #### Implications
 
 So this tells us that to minimise runway length we need to:
 - minamise weight
 - maxamise air density
-- 
+- get a high $C_{Lmax}$
+- have a high thrust to weight ratio
+- minimise $\mu$ (the runway friction)
+- maxamise $S$
 
 ### Proof
-
-![[Pasted image 20211124134849.png]]
 ![[Pasted image 20211124132645.png]]
 
 We can use these forces to find the acceleration of the aircraft and it's velocity over the length of the runway:
