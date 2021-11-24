@@ -7,8 +7,11 @@
         "id": "518eedd6536f5e84",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "SESA1015/Flight mechanics/Flight mechanics 7/aircraft take off.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SESA1015/Flight mechanics/Flight mechanics 7/aircraft take off.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +107,7 @@
   "active": "518eedd6536f5e84",
   "lastOpenFiles": [
     "SESA1015/Flight mechanics/Flight mechanics 7/aircraft take off.md",
+    "Mechanics structures and materials/Statics 1/10 a,b,c Macaulays method/Ok so this is based.md",
     "SESA1015/Flight mechanics/Flight mechanics 7/screen speed.md",
     "SESA1015/Flight mechanics/Flight mechanics 7/lift off speed.md",
     "SESA1015/Flight mechanics/Flight mechanics 7/minimum control speed.md",
@@ -110,7 +115,6 @@
     "SESA1015/Flight mechanics/Flight mechanics 7/stalling speed for take off.md",
     "SESA1015/Flight mechanics/Flight mechanics 7/decision speed.md",
     "SESA1015/Flight mechanics/Flight mechanics 7/rotation speed.md",
-    "SESA1015/Flight mechanics/Flight mechanics 7/Simple accelerated flight.md",
-    "SESA1015/Flight mechanics/Flight mechanics 7/steady climbing flight.md"
+    "SESA1015/Flight mechanics/Flight mechanics 7/Simple accelerated flight.md"
   ]
 }
