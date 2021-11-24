@@ -14,5 +14,5 @@ Now we can also get the [[minimum power speed#Lift to drag ratio]]
 
 $$\begin{align*}
    \theta &= \frac{1}{\left(\frac{L}{D}_{minP}\right)} & \frac{L}{D}_{minP} &= \frac{C_L}{4C_{Do}} = \frac{3}{4kC_L}\\
-\theta &= \frac{1}{\left(\frac{L}{D}_{minP}\right)} & \frac{L}{D}_{minP} = 4kC_L
+ &=  \frac{4C_{Do}}{C_L} = \frac{4kC_L}{3}
 \end{align*}$$
