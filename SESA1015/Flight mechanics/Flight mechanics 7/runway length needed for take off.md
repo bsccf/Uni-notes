@@ -5,6 +5,17 @@ tags: ["Question","QFormat3"]
 
 #### How can you find the
 ## Runway length needed for take off
+### Equation
+
+> ### $$ s_1 = \frac{1.44 }{\left(\frac{T}{W} - \mu\right)\rho S C_{Lmax} } \frac{W}{g} $$ 
+>> where:
+>> $T=$ 
+>> $W=$
+>> $\mu=$ [[coefficient]]
+
+This is basically just the distance needed to accelerate up to [[screen speed]] from rest.
+
+### Proof
 
 ![[Pasted image 20211124134849.png]]
 ![[Pasted image 20211124132645.png]]
@@ -40,5 +51,5 @@ $$\begin{align*}
 s_1 &= \frac{(V_2)^{2}}{2g\left(\frac{T}{W} - \mu\right) } & V_2 &= 1.2 \sqrt\frac{2W}{\rho S C_{Lmax}}\\
 s_1 &= \frac{(1.2 \sqrt\frac{2W}{\rho S C_{Lmax}})^{2}}{2g\left(\frac{T}{W} - \mu\right) }\\
 s_1 &= \frac{1.2^{2} \frac{2W}{\rho S C_{Lmax}} }{2g\left(\frac{T}{W} - \mu\right) }\\
-s_1 &= \frac{1.2^{2} W }{g\left(\frac{T}{W} - \mu\right)\rho S C_{Lmax} }
+s_1 &= \frac{1.44 }{\left(\frac{T}{W} - \mu\right)\rho S C_{Lmax} } \frac{W}{g}
 \end{align*}$$
