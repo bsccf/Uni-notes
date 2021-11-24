@@ -46,7 +46,7 @@ At the minimum power speed all the following are true:
 
 This relationship is proved [[relating induced drag and form drag at minimum power speed]]
 
-> ### $$ C_{Di} = k C_L^{2} = 3 C_{Do} $$ 
+> ### $$ C_{Di} = k C_L^{2} = 3 C_{Do} \:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\: C_D = 4 C_{Do} = \frac{4}{3}C_{Di} $$ 
 >> where:
 >> $C_{Do}=$ [[form drag coefficient]]
 >> $k=$ [[induced drag coefficient#^438b96|constant related to wing shape]]

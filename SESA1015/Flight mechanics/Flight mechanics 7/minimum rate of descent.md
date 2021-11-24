@@ -13,6 +13,6 @@ Luckily we already know that to get VD at a minimum we can use the [[minimum pow
 Now we can also get the [[minimum power speed#Lift to drag ratio]]
 
 $$\begin{align*}
-   \theta &= \frac{1}{\left(\frac{L}{D}_{minP}\right)} & \frac{L}{D}_{minP} &= \frac{3C_L}{4C_{Do}} = \frac{1}{4kC_L}\\
-\theta &= \frac{4C_{Do}}{3C_L} = 4kC_L
+   \theta &= \frac{1}{\left(\frac{L}{D}_{minP}\right)} & \frac{L}{D}_{minP} &= \frac{C_L}{4C_{Do}} = \frac{3}{4kC_L}\\
+\theta &= \frac{1}{\left(\frac{L}{D}_{minP}\right)} & \frac{L}{D}_{minP} = 4kC_L
 \end{align*}$$
