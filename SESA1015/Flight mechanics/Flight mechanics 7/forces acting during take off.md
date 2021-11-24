@@ -17,5 +17,11 @@ $$\begin{align*}
 \end{align*}$$
 
 To find the take off distance to reach the [[screen speed]] the values of L and D must be substituted in the equation of motion which must then be integrated from 0 to [[screen speed]]. An approximate estimate of the distance can be found by making the following assumptions:
-- $\frac{T}{W}=constant$
-- $D/W$
+- $\frac{T}{W}=constant$, this is basically true since total fuel loss is usually minimal and thrust is roughly constant
+- $\frac{D}{W} \approx 0$ and $\frac{L}{W} \approx 0$, this works since the relative values of $L,D$ are small compared to $W$ prior to lift off.
+
+Using these assumptions on the previous equation:
+$$\begin{align*}
+\frac{T-D}{W} - \mu\left(1-\frac{L}{W}\right) &= \frac{V}{g} \frac{dV}{dx}\\
+\frac{T-D}{W} - \mu\left(1-\frac{L}{W}\right) &= \frac{V}{g} \frac{dV}{dx}
+\end{align*}$$
