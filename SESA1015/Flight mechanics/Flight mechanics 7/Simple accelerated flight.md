@@ -9,6 +9,9 @@ tags: ["NotesPage"]
 - [[gliding without thrust]]
 - [[minimum glide angle]]
 - [[minimum rate of descent]]
+- [[steady climbing flight]]
+- [[specific excess thrust]]
+- [[aircraft take off]]
 
 
 ## Expanded articles
@@ -20,3 +23,5 @@ tags: ["NotesPage"]
 ![[minimum rate of descent]]
 
 ![[steady climbing flight]]
+
+![[aircraft take off]]

@@ -31,4 +31,4 @@ V\sin\theta &= V \frac{T\cos\gamma-D}{W}\\
 \therefore \theta &= \sin^{-1}\left(\frac{T\cos\gamma-D}{W}\right)
 \end{align*}$$
 
-Note that this equation only works for slow rates of ascent and
+Note that this equation only works for slow rates of ascent and very shallow angles as it assumes that $\rho$ and such are constant, so it's not very useful outside of approximation.
