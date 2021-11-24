@@ -16,7 +16,9 @@ Where:
 You can write the equibilbrium equations as:
 
 $$\begin{align*}
-  \frac{dh}{dt} &= V\sin \theta & L+T\sin \gamma &= W \cos \theta & T\cos\gamma-D&=W\sin\theta\\
-& & & & &=\\
-&= V\sin \theta
+  & & L+T\sin \gamma &= W \cos \theta & T\cos\gamma-D&=W\sin\theta\\
+\frac{dh}{dt} &= V\sin \theta & & & \frac{T\cos\gamma-D}{W}&=\sin\theta\\
+&= V \frac{T\cos\gamma-D}{W}
 \end{align*}$$
+
+Note that at a [[thrust vector angle]] of zero, this equation is known as the [[specific excess thrust]].
