@@ -8,8 +8,9 @@ tags: ["Question","QFormat3"]
 
 Proved in [[steady climbing flight#^ea3763]]
 
-> ### $$ V \frac{T-D}{W} $$ 
+> ### $$ \frac{dh}{dt} = V \frac{T-D}{W} $$ 
 >> where:
+>> $\frac{dh}{dt}=$ rate of climb
 >> $V=$ Speed
 >> $T=$ Thrust
 >> $D=$ Drag

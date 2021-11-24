@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/Flight mechanics 7/specific excess thrust.md",
-            "mode": "preview"
+            "file": "SESA1015/Flight mechanics/Flight mechanics 7/steady climbing flight.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 7/specific excess thrust.md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 7/steady climbing flight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +106,8 @@
   },
   "active": "518eedd6536f5e84",
   "lastOpenFiles": [
-    "SESA1015/Flight mechanics/Flight mechanics 7/specific excess thrust.md",
     "SESA1015/Flight mechanics/Flight mechanics 7/steady climbing flight.md",
+    "SESA1015/Flight mechanics/Flight mechanics 7/specific excess thrust.md",
     "SESA1015/Flight mechanics/Flight mechanics 7/Simple accelerated flight.md",
     "SESA1015/Flight mechanics/Flight mechanics 4/minimum power speed.md",
     "SESA1015/Flight mechanics/Flight mechanics 4/relating induced drag and form drag at minimum power speed.md",

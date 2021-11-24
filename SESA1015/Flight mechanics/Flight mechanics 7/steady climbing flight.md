@@ -23,4 +23,8 @@ $$\begin{align*}
 
 ^ea3763
 
-Note that at a [[thrust vector angle]] of zero, this equation is known as the [[specific excess thrust]]. We can also find the climb angle from [[specific excess thrust]]
+Note that at a [[thrust vector angle]] of zero, this equation is known as the [[specific excess thrust]]. We can also find the climb angle from [[specific excess thrust]]:
+
+$$\begin{align*}
+\frac{dh}{dt} &= V \frac{T\cos\gamma-D}{W} & C_L = \frac{2L}{\rho S V^{2} } & C_D = C_{Do} 
+\end{align*}$$
