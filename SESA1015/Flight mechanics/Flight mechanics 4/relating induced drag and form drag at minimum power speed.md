@@ -14,3 +14,4 @@ $$\begin{align*}
 & & &  & C_D&= C_{Do} + k \left(\frac{L}{c V^{2}}\right)^{2}
 \end{align*}$$
 
+# not sure what I'm doing here tbh
