@@ -20,3 +20,14 @@ During take off the aircraft accelerates from rest through several important spe
 ![[lift off speed]]
 
 ![[screen speed]]
+
+The order that these occur in is:
+1) [[decision speed]]
+2) [[rotation speed]]
+3) [[lift off speed]]
+4) [[screen speed]]
+
+There are also the following speeds you should be aware of:
+- [[stalling speed for take off]]
+- [[minimum unstick speed]]
+- 

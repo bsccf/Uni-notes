@@ -3,7 +3,7 @@ aliases: [""]
 tags: ["Question","QFormat3"]
 ---
 
-#### What is
+#### What is the
 ## Decision speed ($V_1$)
 This is the speed at which, the aircraft is accelerating on the ground and apon engine failure it is still able to decelerate to rest within the remaining runway length.
 
