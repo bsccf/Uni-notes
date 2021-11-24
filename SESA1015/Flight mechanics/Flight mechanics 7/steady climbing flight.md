@@ -23,10 +23,12 @@ $$\begin{align*}
 
 ^ea3763
 
-Note that at a [[thrust vector angle]] of zero, this equation is known as the [[specific excess thrust]]. We can also find the climb angle from [[specific excess thrust]] for small angles of $\theta$ (note that we are assuming that W=L although W=):
+Note that at a [[thrust vector angle]] of zero, this equation is known as the [[specific excess thrust]]. We can also find the climb angle from [[specific excess thrust]] for small angles of $\theta$ (note that we are assuming that $W=L$ although $W=Lcos\theta$ because $\cos\theta \approx 1$):
 
 $$\begin{align*}
 \frac{dh}{dt} &= V \frac{T\cos\gamma-D}{W} & \frac{dh}{dt} &= V\sin\theta\\
 V\sin\theta &= V \frac{T\cos\gamma-D}{W}\\
-\theta &= \sin^{-1}\left(\frac{T\cos\gamma-D}{W}\right)
+\therefore \theta &= \sin^{-1}\left(\frac{T\cos\gamma-D}{W}\right)
 \end{align*}$$
+
+Note that this equation only works for slow rates of ascent and
