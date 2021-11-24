@@ -16,8 +16,8 @@ tags: ["Question","QFormat3","SESA1015"]
 
 In the atmosphere it can be taken as the following:
 
-> ### $$ a = \sqrt{ 1.4 \cdot 286 } $$ 
+> ### $$ a = \sqrt{ 400.4 \cdot T } $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $\gamma=$ 1.4
+>> $R=$ 286
+>> $T=$ temperature
