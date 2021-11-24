@@ -13,5 +13,8 @@ $$\begin{align*}
 &&V_{MP}^{2} &= \frac{W}{\rho S} \cdot \sqrt{  \frac{ 4k }{ 3 C_{Do} }   } \\
 &&& &  \frac{2W}{\rho S \frac{W}{\rho S} \cdot \sqrt{  \frac{ 4k }{ 3 C_{Do} }   }} &= C_L\\
 &&& &  \frac{2 \sqrt{ 3 C_{Do} }}{ \sqrt{ 4k }   } &= C_L\\
-C_D &= C_{Do} + k C && &  \frac{ \sqrt{ 3 C_{Do} }}{ \sqrt{ k }   } &= C_L
+C_D &= C_{Do} + k C_L^2 && &  \frac{ \sqrt{ 3 C_{Do} }}{ \sqrt{ k }   } &= C_L\\
+C_D &= C_{Do} + k \left(\frac{ \sqrt{ 3 C_{Do} }}{ \sqrt{ k }   }\right)^{2}\\
+C_D &= C_{Do} + 3 C_{Do}\\
+\therefore C_{Di} &= 3C_{Do}
 \end{align*}$$
