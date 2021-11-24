@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/Flight mechanics 4/lift to drag ratio at minimum power speed.md",
+            "file": "SESA1015/Flight mechanics/Flight mechanics 7/minimum rate of descent.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 4/lift to drag ratio at minimum power speed.md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 7/minimum rate of descent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,9 +106,9 @@
   },
   "active": "518eedd6536f5e84",
   "lastOpenFiles": [
-    "SESA1015/Flight mechanics/Flight mechanics 4/lift to drag ratio at minimum power speed.md",
-    "SESA1015/Flight mechanics/Flight mechanics 4/minimum power speed.md",
     "SESA1015/Flight mechanics/Flight mechanics 7/minimum rate of descent.md",
+    "SESA1015/Flight mechanics/Flight mechanics 4/minimum power speed.md",
+    "SESA1015/Flight mechanics/Flight mechanics 4/lift to drag ratio at minimum power speed.md",
     "SESA1015/Flight mechanics/Flight mechanics 4/relating induced drag and form drag at minimum power speed.md",
     "SESA1015/Flight mechanics/Flight mechanics 4/min drag speed in steady level flight.md",
     "SESA1015/Flight mechanics/Flight mechanics 6/maxamising endurance for a piston engined aircraft.md",

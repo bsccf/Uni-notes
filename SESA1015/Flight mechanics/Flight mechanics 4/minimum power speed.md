@@ -68,7 +68,7 @@ This relationship is proved [[relating induced drag and form drag at minimum pow
 
 This relationship is proved [[lift to drag ratio at minimum power speed]]
 
-> ### $$ \frac{L}{D}_{minP} = \frac{C_L}{4C_{Do}} = \frac{3}{4kC_L  } $$ 
+> ### $$ \frac{L}{D}_{minP} = \frac{C_L}{4C_{Do}} = \frac{3}{4kC_L  } = \frac{1}{4} \sqrt\frac{3}{k C_{Do}  } $$ 
 >> where:
 >> $\frac{L}{D}_{minP}=$ [[lift to drag ratio]] at min power
 >> $C_{Do}=$ [[form drag coefficient]]
