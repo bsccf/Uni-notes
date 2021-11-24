@@ -16,5 +16,7 @@ Where:
 You can write the equibilbrium equations as:
 
 $$\begin{align*}
-   L+T\sin \gamma &= W \cos \theta & T\cos\gamma-D&=W\sin\theta
+  \frac{dh}{dt} &= V\sin \theta & L+T\sin \gamma &= W \cos \theta & T\cos\gamma-D&=W\sin\theta\\
+& & & & &=\\
+&= V\sin \theta
 \end{align*}$$
