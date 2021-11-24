@@ -30,4 +30,5 @@ The order that these occur in is:
 There are also the following speeds you should be aware of:
 - [[stalling speed for take off]]
 - [[minimum unstick speed]]
-- 
+- [[minimum control speed]]
+
