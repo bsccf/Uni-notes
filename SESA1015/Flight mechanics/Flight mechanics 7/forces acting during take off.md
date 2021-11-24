@@ -32,3 +32,9 @@ s_1 \frac{T}{W} - \mu s_1 - 0 &= \frac{(V_2)^{2}}{2g} - 0\\
 s_1 &= \frac{\frac{(V_2)^{2}}{2g}}{\frac{T}{W} - \mu }\\
 &= \frac{(V_2)^{2}}{2g\left(\frac{T}{W} - \mu\right) }
 \end{align*}$$
+
+We can take $V_2$ ([[screen speed]]) as $V_2 = 1.2 V_s$ and use $C_{Lmax}$:
+
+$$\begin{align*}
+s_1 &= \frac{(V_2)^{2}}{2g\left(\frac{T}{W} - \mu\right) } & V_2 &= 1.2 V_s & \sqrt\frac{2W}{\rho S C_{Lmax}} &= V_s\\
+& & V_2 &= 1.2 V
