@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "SESA1015/Flight mechanics/Flight mechanics 2/Calculating the speed of sound.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "speed of sound",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -56,8 +56,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,14 +107,14 @@
   "active": "518eedd6536f5e84",
   "lastOpenFiles": [
     "SESA1015/Flight mechanics/Flight mechanics 2/Calculating the speed of sound.md",
+    "SESA1015/Flight mechanics/Mechanics of flight read order.md",
+    "SESA1015/Flight mechanics/SESA1015_allOHPs(17).pdf",
     "SESA1015/Flight mechanics/Flight mechanics 5/calculating range in the statosphere.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/Breguet range equation (jets).md",
     "SESA1015/Flight mechanics/Flight mechanics 2/relative density (planes).md",
     "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing plan area.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing span.md",
     "SESA1015/Flight mechanics/Flight mechanics 4/wing loading.md",
-    "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing aspect ratio.md",
-    "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Mean chord.md",
-    "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Aircraft geometry terms.md"
+    "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing aspect ratio.md"
   ]
 }
