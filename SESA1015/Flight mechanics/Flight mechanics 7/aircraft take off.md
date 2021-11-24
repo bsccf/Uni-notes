@@ -16,3 +16,7 @@ During take off the aircraft accelerates from rest through several important spe
 ![[decision speed]]
 
 ![[rotation speed]]
+
+![[lift off speed]]
+
+![[screen speed]]
