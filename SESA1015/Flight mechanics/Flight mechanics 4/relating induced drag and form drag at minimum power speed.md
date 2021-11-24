@@ -18,3 +18,6 @@ C_D &= C_{Do} + k \left(\frac{ \sqrt{ 3 C_{Do} }}{ \sqrt{ k }   }\right)^{2}\\
 C_D &= C_{Do} + 3 C_{Do}\\
 \therefore C_{Di} &= 3C_{Do}
 \end{align*}$$
+
+^dfc8e1
+

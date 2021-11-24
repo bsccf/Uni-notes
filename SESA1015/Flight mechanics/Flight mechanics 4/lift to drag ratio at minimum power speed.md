@@ -7,6 +7,6 @@ tags: ["Question","QFormat3"]
 ## Lift to drag ratio at minimum power speed
 
 $$\begin{align*}
-C_L &= &    C_{Di} &= k C_L^{2} &= 3 C_{Do} & C_{D} &= C_{Do} + C_{Di}\\
+\frac{C_L}{C_D} &= & C_D &= 4 C_{Do} & C_L &= \frac{ \sqrt{ 3 C_{Do} }}{ \sqrt{ k }   } \\
 &= & & & & C_D &= 4 C_{Do}
 \end{align*}$$

@@ -54,6 +54,16 @@ This relationship is proved [[relating induced drag and form drag at minimum pow
 
 ^0cb1a3
 
+#### Coefficient of lift
+
+This relationship is proved [[relating induced drag and form drag at minimum power speed#^dfc8e1]]
+
+> ### $$ C_L = \frac{ \sqrt{ 3 C_{Do} }}{ \sqrt{ k }   } $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
+
 #### Lift to drag ratio
 
 This relationship is proved [[lift to drag ratio at minimum power speed]]
