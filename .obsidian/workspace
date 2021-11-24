@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/Flight mechanics 2/relative density (planes).md",
+            "file": "SESA1015/Flight mechanics/Flight mechanics 2/Calculating the speed of sound.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "relative density",
+                "query": "speed of sound",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 2/relative density (planes).md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 2/Calculating the speed of sound.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "518eedd6536f5e84",
   "lastOpenFiles": [
+    "SESA1015/Flight mechanics/Flight mechanics 2/Calculating the speed of sound.md",
+    "SESA1015/Flight mechanics/Flight mechanics 5/calculating range in the statosphere.md",
+    "SESA1015/Flight mechanics/Flight mechanics 5/Breguet range equation (jets).md",
     "SESA1015/Flight mechanics/Flight mechanics 2/relative density (planes).md",
     "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing plan area.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing span.md",
     "SESA1015/Flight mechanics/Flight mechanics 4/wing loading.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing aspect ratio.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Mean chord.md",
-    "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Aircraft geometry terms.md",
-    "SESA1015/Flight mechanics/Flight mechanics 7/Simple accelerated flight.md",
-    "SESA1015/Flight mechanics/Flight mechanics 7/runway length needed for take off.md",
-    "SESA1015/Flight mechanics/Mechanics of flight read order.md"
+    "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Aircraft geometry terms.md"
   ]
 }
