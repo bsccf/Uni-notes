@@ -7,7 +7,7 @@ tags: ["Question","QFormat3"]
 ## Forces acting during take off
 ![[Pasted image 20211124132645.png]]
 
-We can use these forces to find the acceleration of the aircraft and it's change:
+We can use these forces to find the acceleration of the aircraft and it's velocity over the length of the runway:
 
 $$\begin{align*}
    (T-D) - \mu(W-L) &= m \frac{dV}{dt} & \frac{W}{g} &= m \\
@@ -15,3 +15,7 @@ $$\begin{align*}
 \frac{T-D}{W} - \mu\frac{W-L}{W} &= \frac{1}{g} \frac{dV}{dt} & & & V\frac{dV}{dx} &= \frac{dV}{dt}\\
 \frac{T-D}{W} - \mu\left(1-\frac{L}{W}\right) &= \frac{V}{g} \frac{dV}{dx}
 \end{align*}$$
+
+To find the take off distance to reach the [[screen speed]] the values of L and D must be substituted in the equation of motion which must then be integrated from 0 to [[screen speed]]. An approximate estimate of the distance can be found by making the following assumptions:
+- $\frac{T}{W}=constant$
+- $D/W$
