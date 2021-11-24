@@ -20,5 +20,7 @@ $$\begin{align*}
 The speed at this angle of descent for a shallow glide angle ($L\approx W$) is [[minimum power speed]]:
 $$\begin{align*}
  - \frac{dh}{dt} &= V \frac{D}{W} &   V_{MP} &= \sqrt{ \frac{W}{\rho S} } \cdot \sqrt[4]{  \frac{ 4k }{ C_{Do} }   } \cdot \sqrt[4] \frac{1}{3}\\
-&= \sqrt{ \frac{W}{\rho S} } \cdot \sqrt[4]{  \frac{ 4k }{ C_{Do} }   } \cdot \sqrt[4] \frac{1}{3} 4 \sqrt\frac{k C_{Do}}{ 3 }
+&= \sqrt{ \frac{W}{\rho S} } \cdot \sqrt[4]{  \frac{ 4k }{ C_{Do} }   } \cdot \sqrt[4] \frac{1}{3} \cdot 4 \sqrt\frac{k C_{Do}}{ 3 }\\
+&= 4 \sqrt{ \frac{Wk C_{Do}}{3\rho S} } \cdot \sqrt[4]{  \frac{ 4k }{ 3C_{Do} }   }\\
+&= 4 \sqrt{  \frac{2Wk C_{Do}}{3\rho S} } \cdot \sqrt[4]{  \frac{ k }{ 3C_{Do} }   }
 \end{align*}$$
