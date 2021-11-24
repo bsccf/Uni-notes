@@ -12,8 +12,8 @@ We can use these forces to find the acceleration of the aircraft and it's veloci
 $$\begin{align*}
    (T-D) - \mu(W-L) &= m \frac{dV}{dt} & \frac{W}{g} &= m \\
 (T-D) - \mu(W-L) &= \frac{W}{g} \frac{dV}{dt} \\
-\frac{T-D}{W} - \mu\frac{W-L}{W} &= \frac{1}{g} \frac{dV}{dt} & & & V\frac{dV}{dx} &= \frac{dV}{dt}\\
-\frac{T-D}{W} - \mu\left(1-\frac{L}{W}\right) &= \frac{V}{g} \frac{dV}{dx}
+\frac{T}{W} - \frac{D}{W} - \mu\frac{W-L}{W} &= \frac{1}{g} \frac{dV}{dt} & & & V\frac{dV}{dx} &= \frac{dV}{dt}\\
+\frac{T}{W} - \frac{D}{W} - \mu\left(1-\frac{L}{W}\right) &= \frac{V}{g} \frac{dV}{dx}
 \end{align*}$$
 
 To find the take off distance to reach the [[screen speed]] the values of L and D must be substituted in the equation of motion which must then be integrated from 0 to [[screen speed]]. An approximate estimate of the distance can be found by making the following assumptions:
@@ -22,6 +22,6 @@ To find the take off distance to reach the [[screen speed]] the values of L and 
 
 Using these assumptions on the previous equation:
 $$\begin{align*}
-\frac{T-D}{W} - \mu\left(1-\frac{L}{W}\right) &= \frac{V}{g} \frac{dV}{dx}\\
-\frac{T-D}{W} - \mu\left(1-\frac{L}{W}\right) &= \frac{V}{g} \frac{dV}{dx}
+\frac{T}{W} -0+ \mu\left(1-0\right) &= \frac{V}{g} \frac{dV}{dx}\\
+\frac{T}{W} + \mu &= \frac{V}{g} \frac{dV}{dx}\\
 \end{align*}$$
