@@ -21,4 +21,6 @@ $$\begin{align*}
 &= V \frac{T\cos\gamma-D}{W}
 \end{align*}$$
 
-Note that at a [[thrust vector angle]] of zero, this equation is known as the [[specific excess thrust]].
+^ea3763
+
+Note that at a [[thrust vector angle]] of zero, this equation is known as the [[specific excess thrust]]. We can also find the climb angle from [[specific excess thrust]]
