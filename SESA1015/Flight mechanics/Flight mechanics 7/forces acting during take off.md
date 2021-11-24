@@ -5,6 +5,8 @@ tags: ["Question","QFormat3"]
 
 #### What are the
 ## Forces acting during take off
+
+![[Pasted image 20211124134849.png]]
 ![[Pasted image 20211124132645.png]]
 
 We can use these forces to find the acceleration of the aircraft and it's velocity over the length of the runway:
@@ -24,4 +26,6 @@ Using these assumptions on the previous equation:
 $$\begin{align*}
 \frac{T}{W} -0+ \mu\left(1-0\right) &= \frac{V}{g} \frac{dV}{dx}\\
 \frac{T}{W} + \mu &= \frac{V}{g} \frac{dV}{dx}\\
+\int^{s_1}_0 \frac{T}{W} + \mu\cdot dx&= \int^{V_2}_0 \frac{V}{g} \cdot dV\\
+\left[x \frac{T}{W} + \mu x\right]^{s_1}_0 &=  \frac{V^{2}}{2g} 
 \end{align*}$$
