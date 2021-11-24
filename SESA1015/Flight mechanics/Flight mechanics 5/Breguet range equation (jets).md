@@ -10,7 +10,7 @@ Note this is different to the [[Breguet range equation (piston engine)]]
 ### Equation
 It is an equation that can be used to find the total ange of an aircraft.
 
-> ### $$R = \frac{1}{s} \frac{VL}{D} \ln\left(1+\frac{W_f}{W_s}\right)$$ 
+> ### $$R = \frac{1}{s} V\frac{L}{D} \ln\left(1+\frac{W_f}{W_s}\right)$$ 
 >> where:
 >> $R=$ range
 >> $V=$ [[True airspeed]]
