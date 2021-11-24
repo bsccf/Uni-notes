@@ -32,7 +32,3 @@ There are also the following speeds you should be aware of:
 - [[minimum unstick speed]]
 - [[minimum control speed]]
 
-### Forces acting during take off
-![[Pasted image 20211124132645.png]]
-
-

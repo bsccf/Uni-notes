@@ -25,3 +25,5 @@ tags: ["NotesPage"]
 ![[steady climbing flight]]
 
 ![[aircraft take off]]
+
+![[forces acting during take off]]
