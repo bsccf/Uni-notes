@@ -26,4 +26,4 @@ tags: ["NotesPage"]
 
 ![[aircraft take off]]
 
-![[forces acting during take off]]
+![[runway length needed for take off]]

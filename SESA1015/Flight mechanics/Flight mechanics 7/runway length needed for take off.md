@@ -3,8 +3,8 @@ aliases: [""]
 tags: ["Question","QFormat3"]
 ---
 
-#### What are the
-## Forces acting during take off
+#### How can you find the
+## Runway length needed for take off
 
 ![[Pasted image 20211124134849.png]]
 ![[Pasted image 20211124132645.png]]
@@ -36,5 +36,9 @@ s_1 &= \frac{\frac{(V_2)^{2}}{2g}}{\frac{T}{W} - \mu }\\
 We can take $V_2$ ([[screen speed]]) as $V_2 = 1.2 V_s$ and use $C_{Lmax}$:
 
 $$\begin{align*}
-s_1 &= \frac{(V_2)^{2}}{2g\left(\frac{T}{W} - \mu\right) } & V_2 &= 1.2 V_s & \sqrt\frac{2W}{\rho S C_{Lmax}} &= V_s\\
-& & V_2 &= 1.2 V
+& & V_2 &= 1.2 V_s & \sqrt\frac{2W}{\rho S C_{Lmax}} &= V_s\\
+s_1 &= \frac{(V_2)^{2}}{2g\left(\frac{T}{W} - \mu\right) } & V_2 &= 1.2 \sqrt\frac{2W}{\rho S C_{Lmax}}\\
+s_1 &= \frac{(1.2 \sqrt\frac{2W}{\rho S C_{Lmax}})^{2}}{2g\left(\frac{T}{W} - \mu\right) }\\
+s_1 &= \frac{1.2^{2} \frac{2W}{\rho S C_{Lmax}} }{2g\left(\frac{T}{W} - \mu\right) }\\
+s_1 &= \frac{1.2^{2} W }{g\left(\frac{T}{W} - \mu\right)\rho S C_{Lmax} }
+\end{align*}$$
