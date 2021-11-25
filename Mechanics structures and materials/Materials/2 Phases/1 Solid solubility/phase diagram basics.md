@@ -24,3 +24,8 @@ Here this is a graph of two elements with [[complete solid solubility]], the sta
 ![[solidus line]]
 
 ![[liquidus line]]
+
+### Further reading
+These pages hold information about more advanced phase diagrams
+- [[Partial solubility notes]]
+- [[Steel phase diagrams notes]]
