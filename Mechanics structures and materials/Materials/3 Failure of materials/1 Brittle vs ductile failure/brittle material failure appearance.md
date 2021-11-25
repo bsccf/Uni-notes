@@ -18,7 +18,7 @@ The general properties of a [[ductility|brittle]] material failure are:
 #### Microscopic appearance
 ![[Pasted image 20211125110458.png]]
 
-Voids form here because 
+You tend to get these voids morm as the more ductile matrix moves under stress but the hard [[secondary phases]] maintain the overall shape.
 
 #### Relatablility
 This page is an analogy for you. ([[brittle material failure appearance#Brittle material failure appearance]])
