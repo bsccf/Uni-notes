@@ -12,7 +12,12 @@ It works along the lines of:
 - Cracks in materials exist due to imperfections during material creation, these cracks reduce the materials strength.
 - Cracks have a surface energy ($U_S$), which is the total amount of energy that can be stored within a given crack. ($U_S$ resists crack growth)
 - Cracks have a stored strain energy ($U_E$), which is the total energy of the stress acting through it. ($U_E$ drives crack growth)
-- Once there is more energy going through the crack than it can deal with the crack expands, which weakens it more making it expand more... hence fracture
+
+Cracks behaviour under expansion:
+- When the strain energy is large enough it causes the crack to grow
+- Crack growth increases surface energy, allowing it to handle greater strain energys
+- Rate of surface energy increase is linear but strain energy is exponenetial
+- So at some point crack length increase
 
 ### Math time
 
@@ -20,3 +25,4 @@ It works along the lines of:
 
 ![[calculating stored strain energy in a crack]]
 
+So clearly at some point 
