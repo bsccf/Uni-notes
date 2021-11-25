@@ -1,5 +1,5 @@
 ---
-aliases: ["intergranular cleavage"]
+aliases: ["intergranular cleavage","cleavage","transgranular cleavage"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -7,6 +7,7 @@ tags: ["Question","QFormat3"]
 ## Cleavage (crytal)
 This is the [[sigma mode|best type of cleavage]].
 
+![[cleavage planes]]
 
 ### Intergranular cleavage
 If the crack propagates along grain boundaries then we call it intergranular cleavage. This occurs because of there being weakness along grain boundaries possibly due to [[precipitation (crystals)|precipitation]] along boundaries ([[hypoeutectic microstructure development#Outcome A|example]]).
@@ -17,3 +18,5 @@ Tends to create a more 3D surface for fractures.
 
 ### Transgranular cleavage
 If the crack propagates through crystal grains then we call it transgranular cleavage.
+
+![[Pasted image 20211125115630.png]]
