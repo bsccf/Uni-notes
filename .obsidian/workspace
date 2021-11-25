@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/Stress concentration notes.md",
+            "file": "Mechanics structures and materials/Materials/stress concentration.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/Stress concentration notes.md",
+                "file": "Mechanics structures and materials/Materials/stress concentration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "518eedd6536f5e84",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Materials/stress concentration.md",
     "Mechanics structures and materials/Materials/Stress concentration notes.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/1 Brittle vs ductile failure/Brittle vs ductile failure notes.md",
     "Mechanics structures and materials/Materials/Materials read order.md",
@@ -114,7 +115,6 @@
     "Mechanics structures and materials/Materials/3 Failure of materials/1 Brittle vs ductile failure/cleavage (crytal).md",
     "Mechanics structures and materials/Materials/3 Failure of materials/1 Brittle vs ductile failure/shitty bait and switch.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/1 Brittle vs ductile failure/cleavage planes.md",
-    "Mechanics structures and materials/Materials/2 Phases/2 Partial solubility/hypoeutectic microstructure development.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/1 Brittle vs ductile failure/precipitation (crystals).md"
+    "Mechanics structures and materials/Materials/2 Phases/2 Partial solubility/hypoeutectic microstructure development.md"
   ]
 }
