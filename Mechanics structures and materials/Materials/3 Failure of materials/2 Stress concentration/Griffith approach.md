@@ -12,16 +12,6 @@ It works along the lines of:
 - Cracks have a surface energy, which is the total amount of energy that can be stored within a given crack.
 - Cracks have a stored strain energy ($U_E$), which is the total energy of the stress acting through it.
 
-#### Calculating surface energy in a crack
-> ### $$ U_S = 4a\gamma $$ 
->> where:
->> $U_S=$ Surface energy
->> $a=$ radius of the crack
->> $\gamma=$ 
+![[calculating surface energy in a crack]]
 
-#### Calculating strain energy in a crack
-> ### $$ U_E = \frac{(\sigma_0)^{2} \pi a^2 }{E} $$ 
->> where:
->> $U_E=$  
->> $=$
->> $=$
+![[calculating stored strain energy in a crack]]
