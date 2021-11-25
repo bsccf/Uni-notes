@@ -28,4 +28,9 @@ Cracks behaviour under expansion:
 
 ![[calculating stored strain energy in a crack]]
 
-Although surface energy starts
+Although surface energy starts with a faster growth rate than strain energy at some point there rates of change will be equal:
+
+$$\begin{align*}
+ \frac{dU_E}{da} = \frac{dU_S}{da}  & U_S &= 4a\gamma & U_E &= \frac{(\sigma_0)^{2} \pi a^2 }{E}\\
+d
+\end{align*}$$
