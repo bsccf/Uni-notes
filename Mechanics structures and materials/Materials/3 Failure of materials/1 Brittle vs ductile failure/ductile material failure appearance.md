@@ -11,7 +11,8 @@ In ductile materials you get [[necking]], the resaulting decrease in cross secti
 ![[Pasted image 20211125103758.png]]
 
 #### Cup cone formation
-Two 
+Two sides one cup.
+
 ![[Pasted image 20211125104001.png]]
 
 This is the process that causes the fracture:

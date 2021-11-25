@@ -9,5 +9,8 @@ tags: ["Question","QFormat4"]
 #### Cup cone formation
 
 
-#### Microscopic appearence
+#### Microscopic appearance
 ![[Pasted image 20211125110458.png]]
+
+#### Relateability
+This page is an analogy for you.
