@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/stress concentration in materials.md",
+            "file": "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/Griffith approach.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/stress concentration in materials.md",
+                "file": "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/Griffith approach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,8 @@
   },
   "active": "518eedd6536f5e84",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/Griffith approach.md",
+    "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/world war one.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/stress concentration in materials.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/Stress concentration notes.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/stress concentration.md",
@@ -113,8 +115,6 @@
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/go to sleep.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/1 Brittle vs ductile failure/Brittle vs ductile failure notes.md",
     "Mechanics structures and materials/Materials/Materials read order.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/1 Brittle vs ductile failure/fracture appearance for ductile and brittle materials.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/1 Brittle vs ductile failure/brittle material failure appearance.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/1 Brittle vs ductile failure/cleavage (crytal).md"
+    "Mechanics structures and materials/Materials/3 Failure of materials/1 Brittle vs ductile failure/fracture appearance for ductile and brittle materials.md"
   ]
 }
