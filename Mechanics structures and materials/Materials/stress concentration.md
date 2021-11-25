@@ -19,6 +19,6 @@ Here is a graphical representation of the diagram above:
 > ### $$ \sigma_m = 2 \sigma_0 \sqrt\frac{a}{\rho_t} $$ 
 >> where:
 >> $\sigma_m=$ Stress at the crack tip 
->> $\sigma_0=$
->> $a=$
->> $\rho_t=$
+>> $\sigma_0=$ Applied stress along material
+>> $a=$ crack surface length
+>> $\rho_t=$ The [[radius of curvature]] of the tip

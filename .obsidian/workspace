@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/stress concentration.md",
+            "file": "Mechanics structures and materials/Materials/radius of curvature.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/stress concentration.md",
+                "file": "Mechanics structures and materials/Materials/radius of curvature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "518eedd6536f5e84",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Materials/radius of curvature.md",
     "Mechanics structures and materials/Materials/stress concentration.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/go to sleep.md",
     "Mechanics structures and materials/Materials/Stress concentration notes.md",
@@ -114,7 +115,6 @@
     "Mechanics structures and materials/Materials/3 Failure of materials/1 Brittle vs ductile failure/fracture appearance for ductile and brittle materials.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/1 Brittle vs ductile failure/brittle material failure appearance.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/1 Brittle vs ductile failure/cleavage (crytal).md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/1 Brittle vs ductile failure/shitty bait and switch.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/1 Brittle vs ductile failure/cleavage planes.md"
+    "Mechanics structures and materials/Materials/3 Failure of materials/1 Brittle vs ductile failure/shitty bait and switch.md"
   ]
 }
