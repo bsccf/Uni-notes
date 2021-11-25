@@ -12,8 +12,8 @@ The general properties of a [[ductility|brittle]] material failure are:
 - Rapid crack propagation
 - Catastrophic suddon failure
 
-#### Cup cone formation
-
+#### Cause of fracture
+![[cleavage (crytal)]]
 
 #### Microscopic appearance
 ![[Pasted image 20211125110458.png]]
