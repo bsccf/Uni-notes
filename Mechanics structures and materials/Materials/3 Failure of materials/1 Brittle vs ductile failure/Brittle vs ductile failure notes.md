@@ -12,4 +12,4 @@ tags: ["NotesPage"]
 
 ## Expanded articles
 
-![[fracture appearence for ductile and brittle materials]]
+![[fracture appearance for ductile and brittle materials]]

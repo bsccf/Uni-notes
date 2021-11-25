@@ -4,7 +4,8 @@ tags: ["Question","QFormat3"]
 ---
 
 #### Describe the
-## Fracture appearence for ductile and brittle materials
+## Fracture appearance for ductile and brittle materials
 
 ### Ductile material failure
 
+In ductile materials you get [[necking]]
