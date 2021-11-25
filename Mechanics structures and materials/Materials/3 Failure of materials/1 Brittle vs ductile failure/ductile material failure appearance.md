@@ -10,6 +10,8 @@ tags: ["Question","QFormat3"]
 In ductile materials you get [[necking]], the resaulting decrease in cross section and the extreme forces that resault often cause what's described as a "cup-cone" appearence:
 ![[Pasted image 20211125103758.png]]
 
+
+
 #### Cup cone formation
 Two sides one cup.
 
