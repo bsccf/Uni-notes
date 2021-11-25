@@ -1,5 +1,5 @@
 ---
-aliases: ["cup-cone "]
+aliases: ["cup-cone fracture"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -19,3 +19,4 @@ This is the process that causes the fracture:
 3) The small voids overlap with eachother and coalese forming a larger internal crack.
 4) Remaining connections between sides begin to shear
 5) Failure occurs leaving a "cup-cone" fracture
+
