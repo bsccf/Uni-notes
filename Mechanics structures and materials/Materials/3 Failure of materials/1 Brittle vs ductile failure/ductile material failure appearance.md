@@ -10,7 +10,11 @@ tags: ["Question","QFormat3"]
 In ductile materials you get [[necking]], the resaulting decrease in cross section and the extreme forces that resault often cause what's described as a "cup-cone" appearence:
 ![[Pasted image 20211125103758.png]]
 
-
+The general properties of a [[ductility|ductile]] material failure are:
+- It has a dimpled surface
+- There is lots of plastic deformation
+- There is slow crack propagation
+- The failure is slow and gradual
 
 #### Cup cone formation
 Two sides one cup.

@@ -5,6 +5,11 @@ tags: ["Question","QFormat4"]
 ### Brittle material failure appearance
 #### Macroscopic appearance
 
+The general properties of a [[ductility|brittle]] material failure are:
+- A flat fracture surface
+- Minimal deformation
+- Rapid crack propagation
+- Catastrophic suddon failure
 
 #### Cup cone formation
 
@@ -15,5 +20,5 @@ tags: ["Question","QFormat4"]
 Voids form here because 
 
 #### Relatablility
-This page is an analogy for you.
+This page is an analogy for you. ([[brittle material failure appearance#Brittle material failure appearance]])
 ![[1213_5536a3cfbd2fed29.webm]]
