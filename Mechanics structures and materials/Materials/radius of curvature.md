@@ -9,4 +9,4 @@ This is the reciprocal of the curvature. For a curve, it equals the radius of th
 
 ![[Pasted image 20211125124649.png]]
 
-Larger 
+Larger values mean it's closer to strait line, with an infinate radius of curvature being equivilent to a strait line.

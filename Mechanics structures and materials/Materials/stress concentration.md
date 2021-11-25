@@ -22,3 +22,7 @@ Here is a graphical representation of the diagram above:
 >> $\sigma_0=$ Applied stress along material
 >> $a=$ crack surface length
 >> $\rho_t=$ The [[radius of curvature]] of the tip
+
+#### Implications
+- $a$, Larger cracks create a stronger intensification at the crack edges
+- $\rho_t$, A smooth tip creates
