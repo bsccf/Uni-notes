@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/Griffith approach.md",
-            "mode": "source"
+            "file": "SESA1015/Flight mechanics/Flight mechanics 5/maximising the breguet range (in the stratosphere).md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gross win",
+                "query": "range",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -56,7 +56,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/Griffith approach.md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 5/maximising the breguet range (in the stratosphere).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +107,7 @@
   },
   "active": "518eedd6536f5e84",
   "lastOpenFiles": [
+    "SESA1015/Flight mechanics/Flight mechanics 5/maximising the breguet range (in the stratosphere).md",
     "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/Griffith approach.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/calculating stored strain energy in a crack.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/calculating surface energy in a crack.md",
@@ -114,7 +116,6 @@
     "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/Stress concentration notes.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/stress concentration.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/radius of curvature.md",
-    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/go to sleep.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/1 Brittle vs ductile failure/Brittle vs ductile failure notes.md"
+    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/go to sleep.md"
   ]
 }
