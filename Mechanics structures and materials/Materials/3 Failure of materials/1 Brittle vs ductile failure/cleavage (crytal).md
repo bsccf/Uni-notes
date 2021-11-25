@@ -17,6 +17,6 @@ If the crack propagates along grain boundaries then we call it intergranular cle
 Tends to create a more 3D surface for fractures.
 
 ### Transgranular cleavage
-If the crack propagates through crystal grains then we call it transgranular cleavage.
+If the crack propagates through crystal grains then we call it transgranular cleavage. This occurs along [[cleavage planes]] within the crystal grain where 
 
 ![[Pasted image 20211125115630.png]]

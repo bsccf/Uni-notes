@@ -5,4 +5,4 @@ tags: ["Question","QFormat3"]
 
 #### What are
 ## [[cleavage (crytal)|Cleavage]] planes
-The successive and repeated breaking of atomic bonds along specific crystallographic planes
+Planes that have a tendancy for [[cleavage (crytal)|cleavage]] to occur along especailly [[cleavage (crytal)|transgranular cleavage]] are what we call [[cleavage planes]].
