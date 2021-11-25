@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/Atomic composition/2 Crystal Structures/Crystal Structures.md",
-            "mode": "preview"
+            "file": "Mechanics structures and materials/Materials/3 Failure of materials/1 Brittle vs ductile failure/Brittle vs ductile failure notes.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/Atomic composition/2 Crystal Structures/Crystal Structures.md",
+                "file": "Mechanics structures and materials/Materials/3 Failure of materials/1 Brittle vs ductile failure/Brittle vs ductile failure notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "518eedd6536f5e84",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Materials/Atomic composition/2 Crystal Structures/Crystal Structures.md",
+    "Mechanics structures and materials/Materials/3 Failure of materials/1 Brittle vs ductile failure/Brittle vs ductile failure notes.md",
     "Mechanics structures and materials/Materials/Materials read order.md",
-    "Mechanics structures and materials/Materials/Atomic composition/1 Atoms and types of bonding/Atoms and types of bonding.md",
+    "Mechanics structures and materials/Materials/1 Atomic composition/2 Crystal Structures/Crystal Structures.md",
+    "Mechanics structures and materials/Materials/1 Atomic composition/1 Atoms and types of bonding/Atoms and types of bonding.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/Breguet range equation (jets).md",
     "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing plan area.md",
     "SESA1015/Flight mechanics/Flight mechanics 4/lift to drag ratio.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/calculating aircraft range.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/endurance and range of jet aircraft.md",
-    "SESA1015/Flight mechanics/Flight mechanics 5/calculating range in the statosphere.md",
-    "SESA1015/Flight mechanics/Flight mechanics 2/Calculating the speed of sound.md"
+    "SESA1015/Flight mechanics/Flight mechanics 5/calculating range in the statosphere.md"
   ]
 }

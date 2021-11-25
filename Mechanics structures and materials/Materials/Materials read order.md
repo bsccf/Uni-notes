@@ -20,3 +20,6 @@ tags: ["NotesPage"]
 2) [[Partial solubility notes]]
 3) [[Steel phase diagrams notes]]
 4) [[Precipitation hardening notes]]
+
+### Failure of materials
+1) [[Brittle vs ductile failure notes]]
