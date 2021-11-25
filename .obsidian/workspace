@@ -7,11 +7,8 @@
         "id": "518eedd6536f5e84",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Mechanics structures and materials/Materials/stress concentration.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/stress concentration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
