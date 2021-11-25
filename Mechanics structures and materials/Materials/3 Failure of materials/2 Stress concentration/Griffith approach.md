@@ -32,10 +32,10 @@ Although surface energy starts with a faster growth rate than strain energy at s
 
 $$\begin{align*}
   && U_S &= 4a\gamma & U_E &= \frac{(\sigma_0)^{2} \pi a^2 }{E}\\
- \frac{dU_S}{da} &= \frac{dU_E}{da} & \frac{dU_S}{da} &= 4\gamma & \frac{dU_E}{da} &= \frac{(\sigma_0)^{2} \pi 2a }{E}\\
-4\gamma &= \frac{(\sigma_0)^{2} \pi 2a }{E}\\
-\sqrt\frac{E4\gamma}{\pi 2a} &= \sigma_0\\
-\sqrt\frac{2E\gamma}{\pi a} &= \sigma_0
+ \frac{dU_S}{da} &= \frac{dU_E}{da} & \frac{dU_S}{da} &= 4\gamma & \frac{dU_E}{da} &= \frac{(\sigma_f)^{2} \pi 2a }{E}\\
+4\gamma &= \frac{(\sigma_f)^{2} \pi 2a }{E}\\
+\sqrt\frac{E4\gamma}{\pi 2a} &= \sigma_f\\
+\sqrt\frac{2E\gamma}{\pi a} &= \sigma_f
 \end{align*}$$
 
-###
+![[Griffith approach for critical stress]]
