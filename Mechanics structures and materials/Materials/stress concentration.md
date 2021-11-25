@@ -25,4 +25,4 @@ Here is a graphical representation of the diagram above:
 
 #### Implications
 - $a$, Larger cracks create a stronger intensification at the crack edges
-- $\rho_t$, A smooth tip creates
+- $\rho_t$, Sharper edges greatly intensifys stress concentrations at them
