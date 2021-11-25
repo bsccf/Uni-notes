@@ -17,7 +17,10 @@ Cracks behaviour under expansion:
 - When the strain energy is large enough it causes the crack to grow
 - Crack growth increases surface energy, allowing it to handle greater strain energys
 - Rate of surface energy increase is linear but strain energy is exponenetial
-- So at some point crack length increase
+- So at some point crack length increases strain energy more than surface energy
+- This leads to rapid crack growth at this point, which leads to fracture
+
+![[Pasted image 20211125132835.png]]
 
 ### Math time
 
