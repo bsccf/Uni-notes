@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/3 Failure of materials/1 Brittle vs ductile failure/brittle material failure appearance.md",
+            "file": "Mechanics structures and materials/Materials/3 Failure of materials/1 Brittle vs ductile failure/Brittle vs ductile failure notes.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/3 Failure of materials/1 Brittle vs ductile failure/brittle material failure appearance.md",
+                "file": "Mechanics structures and materials/Materials/3 Failure of materials/1 Brittle vs ductile failure/Brittle vs ductile failure notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "518eedd6536f5e84",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Materials/3 Failure of materials/1 Brittle vs ductile failure/Brittle vs ductile failure notes.md",
+    "Mechanics structures and materials/Materials/Stress concentration notes.md",
+    "Mechanics structures and materials/Materials/Materials read order.md",
+    "Mechanics structures and materials/Materials/3 Failure of materials/1 Brittle vs ductile failure/fracture appearance for ductile and brittle materials.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/1 Brittle vs ductile failure/brittle material failure appearance.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/1 Brittle vs ductile failure/cleavage (crytal).md",
     "Mechanics structures and materials/Materials/3 Failure of materials/1 Brittle vs ductile failure/shitty bait and switch.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/1 Brittle vs ductile failure/cleavage planes.md",
     "Mechanics structures and materials/Materials/2 Phases/2 Partial solubility/hypoeutectic microstructure development.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/1 Brittle vs ductile failure/precipitation (crystals).md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/1 Brittle vs ductile failure/fracture appearance for ductile and brittle materials.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/1 Brittle vs ductile failure/ductile material failure appearance.md",
-    "Mechanics structures and materials/Materials/2 Phases/1 Solid solubility/tie-lines.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/1 Brittle vs ductile failure/secondary phase particles.md"
+    "Mechanics structures and materials/Materials/3 Failure of materials/1 Brittle vs ductile failure/precipitation (crystals).md"
   ]
 }

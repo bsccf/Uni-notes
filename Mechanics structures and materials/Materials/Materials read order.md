@@ -23,3 +23,4 @@ tags: ["NotesPage"]
 
 ### Failure of materials
 1) [[Brittle vs ductile failure notes]]
+2) [[Stress concentration notes]]
