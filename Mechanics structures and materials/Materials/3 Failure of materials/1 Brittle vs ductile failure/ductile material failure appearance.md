@@ -15,4 +15,4 @@ In ductile materials you get [[necking]], the resaulting decrease in cross secti
 
 This is the process that causes the fracture:
 1) Initial [[necking]] caused by stress concentration
-2) Small 
+2) Small voids form around hard [[secondary phase particles]]
