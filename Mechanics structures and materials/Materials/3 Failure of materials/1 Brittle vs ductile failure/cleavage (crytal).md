@@ -7,4 +7,6 @@ tags: ["Question","QFormat3"]
 ## Cleavage (crytal)
 This is the [[sigma mode|best type of cleavage]].
 
-It is the tendancy of [[crystalline materials]] to split along [[crystallographic planes]]. This is due to the weakness of these planes when under shear forces, since they can move past eachother though it tends to occur on more weakly bonded plates often due to [[precipitation (crystals)|precipitation]] along boundaries ([[hypoeutectic microstructure development]]).
+
+### Intergranular cleavage
+If the crack propagates along grain boundaries then you get intergranular cleavage, this occurs because due to [[precipitation (crystals)|precipitation]] along boundaries ([[hypoeutectic microstructure development#Outcome A|example]]).
