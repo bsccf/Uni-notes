@@ -8,7 +8,6 @@ tags: ["NotesPage"]
 #### Intro and contents
 - [[ductile material failure appearance]]
 - [[brittle material failure appearance]]
-- 
 
 ## Expanded articles
 
