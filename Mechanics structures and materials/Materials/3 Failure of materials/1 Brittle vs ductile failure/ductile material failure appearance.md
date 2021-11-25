@@ -6,7 +6,7 @@ tags: ["Question","QFormat3"]
 #### Describe
 ## Ductile material failure appearance
 
-#### General appearance
+#### Macroscopic appearance
 In ductile materials you get [[necking]], the resaulting decrease in cross section and the extreme forces that resault often cause what's described as a "cup-cone" appearence:
 ![[Pasted image 20211125103758.png]]
 
@@ -20,3 +20,6 @@ This is the process that causes the fracture:
 4) Remaining connections between sides begin to shear
 5) Failure occurs leaving a "cup-cone" fracture
 
+#### Microscopic appearence
+![[Pasted image 20211125110158.png]]
+You can see how the void forms around the [[secondary phase particles]]
