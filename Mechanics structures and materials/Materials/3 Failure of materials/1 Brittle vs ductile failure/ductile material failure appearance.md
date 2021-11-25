@@ -11,6 +11,7 @@ In ductile materials you get [[necking]], the resaulting decrease in cross secti
 ![[Pasted image 20211125103758.png]]
 
 #### Cup cone formation
+Two 
 ![[Pasted image 20211125104001.png]]
 
 This is the process that causes the fracture:
@@ -22,4 +23,4 @@ This is the process that causes the fracture:
 
 #### Microscopic appearence
 ![[Pasted image 20211125110158.png]]
-You can see how the void forms around the [[secondary phase particles]]
+You can see how the void forms around the [[secondary phase particles]], (those bacteria looking things).

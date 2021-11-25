@@ -7,3 +7,5 @@ tags: ["Question","QFormat3"]
 ## Fracture appearance for ductile and brittle materials
 
 ![[ductile material failure appearance]]
+
+![[brittle material failure appearance]]
