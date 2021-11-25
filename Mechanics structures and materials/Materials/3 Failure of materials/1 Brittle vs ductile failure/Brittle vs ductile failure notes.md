@@ -3,10 +3,13 @@ aliases: [""]
 tags: ["NotesPage"]
 ---
 
-# <% tp.file.title %>
+# Brittle vs ductile failure notes
 
 #### Intro and contents
 - 
 
 
+
 ## Expanded articles
+
+![[fracture appearence for ductile and brittle materials]]
