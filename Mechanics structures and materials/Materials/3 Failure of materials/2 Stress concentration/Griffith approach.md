@@ -28,4 +28,4 @@ Cracks behaviour under expansion:
 
 ![[calculating stored strain energy in a crack]]
 
-So clearly at some point 
+Although surface energy starts

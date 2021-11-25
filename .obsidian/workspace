@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/world war one.md",
-            "mode": "preview"
+            "file": "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/Griffith approach.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/world war one.md",
+                "file": "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/Griffith approach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,10 +106,10 @@
   },
   "active": "518eedd6536f5e84",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/Griffith approach.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/world war one.md",
     "SESA1015/Flight mechanics/Flight mechanics 4/lift to drag ratio.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/maximising the breguet range (in the stratosphere).md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/Griffith approach.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/calculating stored strain energy in a crack.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/calculating surface energy in a crack.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/stress concentration in materials.md",
