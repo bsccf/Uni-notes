@@ -4,6 +4,7 @@ tags: ["Question","QFormat4"]
 ---
 ### Brittle material failure appearance
 #### Macroscopic appearance
+![[Pasted image 20211125111749.png]]
 
 The general properties of a [[ductility|brittle]] material failure are:
 - A flat fracture surface
