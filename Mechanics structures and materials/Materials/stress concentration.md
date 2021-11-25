@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["calculating stress concentration"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -12,4 +12,13 @@ Then you can imagine that when a gap is introduced into the material these stres
 Here is a graphical representation of the diagram above:
 ![[Pasted image 20211125123602.png]]
 
+### Calculating stress concentration
 
+![[Pasted image 20211125124009.png]]
+
+> ### $$ \sigma_m = 2 \sigma_0 \sqrt\frac{a}{\rho_t} $$ 
+>> where:
+>> $\sigma_m=$ Stress at the crack tip 
+>> $\sigma_0=$
+>> $a=$
+>> $\rho_t=$
