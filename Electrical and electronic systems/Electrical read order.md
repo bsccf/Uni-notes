@@ -3,6 +3,10 @@ aliases: []
 tags: ["NotesPage"]
 ---
 # Stuff
+### The based thing I am adding here is
+
+
+
 
 ### Electric circuits
 1) [[Electrostatics notes]]
