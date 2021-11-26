@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/Materials read order.md",
+            "file": "Mechanics structures and materials/Materials/Fracture mechanics notes.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/Materials read order.md",
+                "file": "Mechanics structures and materials/Materials/Fracture mechanics notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "518eedd6536f5e84",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Materials/Fracture mechanics notes.md",
     "Mechanics structures and materials/Materials/Materials read order.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/3 Ductile to brittle transition/shifting the ductile to brittle transition.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/3 Ductile to brittle transition/bbbbased.md",
@@ -114,7 +115,6 @@
     "Mechanics structures and materials/Materials/3 Failure of materials/3 Ductile to brittle transition/Ductile to brittle transition notes.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/3 Ductile to brittle transition/ductile to brittle transition.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/3 Ductile to brittle transition/toughness.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/3 Ductile to brittle transition/impact testing.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/3 Ductile to brittle transition/Charpy impact test.md"
+    "Mechanics structures and materials/Materials/3 Failure of materials/3 Ductile to brittle transition/impact testing.md"
   ]
 }
