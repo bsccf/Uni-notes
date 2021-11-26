@@ -26,4 +26,7 @@ This is the equation for the critical stress intensity factor for any shape obje
 >> $a_c=$ critical crack radius
 >> $Y=$ A dimensionless parameter which depends on the crack and specimin geometry as well as the mannor of load application
 
-Y can usually be found in books.
+Y can usually be found in books. When searching for values keep in mind that $Y\sqrt{\pi}=\gamma\left(\frac{a}{W}\right)$
+
+### Limitations
+
