@@ -43,3 +43,5 @@ You can see stuff, there is the reverse leakage current there too. Yeah, that ex
 ('future me' here, 'past me' you are a dick.)
 
 ('procrastination future me' here, 'past future me' fuck you, now I have even more work to do but I will spare 'future future future me' the work of working)
+
+(ok so 'future future future me' here, f)

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/Electrical read order.md",
-            "mode": "preview"
+            "file": "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/n-p diode.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/Electrical read order.md",
+                "file": "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/n-p diode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,8 @@
   },
   "active": "518eedd6536f5e84",
   "lastOpenFiles": [
+    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/n-p diode.md",
+    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/Semiconductor theory notes.md",
     "Electrical and electronic systems/Electrical read order.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/4 things and stuff!/griffith energys relationship with stress intensity factor.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/4 things and stuff!/Fracture mechanics notes.md",
@@ -113,8 +115,6 @@
     "Mechanics structures and materials/Materials/3 Failure of materials/4 things and stuff!/critical stress intensity factor.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/4 things and stuff!/stress intensity factor.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/3 Ductile to brittle transition/shifting the ductile to brittle transition.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/3 Ductile to brittle transition/bbbbased.md",
-    "Mechanics structures and materials/Materials/1 Atomic composition/5 Mechanical Properties/grain boundary strengthening.md",
-    "Mechanics structures and materials/Materials/1 Atomic composition/7 Strengthening Mechanisms/cold work hardening.md"
+    "Mechanics structures and materials/Materials/3 Failure of materials/3 Ductile to brittle transition/bbbbased.md"
   ]
 }
