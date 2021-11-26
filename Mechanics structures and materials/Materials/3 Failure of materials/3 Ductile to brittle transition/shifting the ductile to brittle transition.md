@@ -18,4 +18,6 @@ If we plot this effect on a graph using the same axis from [[ductile to brittle 
 We can see that just increasing the [[yield strength|yield point]] of a material tends to increase it's brittleness across its temperature range.
 
 ### Effect of grain refinement
-If we look back to the [[Hall-Petch equation]], 
+If we look back to the [[Hall-Petch equation]], this actually increases [[yield strength]] as well as the fracture point predicted by the [[Griffith approach]]:
+![[Pasted image 20211126155239.png]]
+So we can use [[grain structure control]]
