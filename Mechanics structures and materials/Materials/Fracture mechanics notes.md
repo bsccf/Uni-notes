@@ -8,6 +8,7 @@ tags: ["NotesPage"]
 #### Intro and contents
 - [[stress intensity factor]]
 - [[critical stress intensity factor]]
+- [[griffith energys relationship with stress intensity factor]]
 
 
 
@@ -16,3 +17,5 @@ tags: ["NotesPage"]
 ![[stress intensity factor]]
 
 ![[critical stress intensity factor]]
+
+![[griffith energys relationship with stress intensity factor]]

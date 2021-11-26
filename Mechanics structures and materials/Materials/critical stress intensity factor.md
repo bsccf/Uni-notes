@@ -29,4 +29,9 @@ This is the equation for the critical stress intensity factor for any shape obje
 Y can usually be found in books. When searching for values keep in mind that $Y\sqrt{\pi}=\gamma\left(\frac{a}{W}\right)$
 
 ### Limitations
+It should be notesd that this model is most accurate for thick plates:
+![[Pasted image 20211126201617.png]]
 
+(Here $K_{IC}$ is strain fracture toughness)
+
+And that when applying this formula we assume that we are acting with no plastic deformation.
