@@ -30,3 +30,4 @@ High amounts of based energy. It's easyer to guess where this is from so the \[\
 
 ### Electronics
 1) [[Semiconductor theory notes]]
+2) 

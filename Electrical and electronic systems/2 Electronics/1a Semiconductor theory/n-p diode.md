@@ -46,6 +46,8 @@ You can see stuff, there is the reverse leakage current there too. Yeah, that ex
 
 (ok so 'future future future me' here, fuck you all previous me's I have to do this weeks notes and you twats didn't finish it. Especially the prev guy, you said you where going to fucking do it reeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)
 
+note that this "conversation" happened over the course of a while
+
 ![[ifhhjqg2h9m71.png]]
 
 I am going insane.
