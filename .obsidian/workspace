@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/3 Failure of materials/3 Ductile to brittle transition/Ductile to brittle transition notes.md",
+            "file": "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/Griffith approach for critical stress.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/3 Failure of materials/3 Ductile to brittle transition/Ductile to brittle transition notes.md",
+                "file": "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/Griffith approach for critical stress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "518eedd6536f5e84",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Materials/3 Failure of materials/3 Ductile to brittle transition/Ductile to brittle transition notes.md",
-    "Mechanics structures and materials/Statics 1/10 a,b,c Macaulays method/Ok so this is based.md",
+    "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/Griffith approach for critical stress.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/Stress concentration notes.md",
+    "Mechanics structures and materials/Materials/3 Failure of materials/1 Brittle vs ductile failure/Brittle vs ductile failure notes.md",
+    "Mechanics structures and materials/Materials/3 Failure of materials/3 Ductile to brittle transition/Ductile to brittle transition notes.md",
+    "Mechanics structures and materials/Materials/1 Atomic composition/6 Defects, dislocations and plastic deformation/dislocations.md",
+    "Mechanics structures and materials/Materials/1 Atomic composition/6 Defects, dislocations and plastic deformation/dislocation motion.md",
+    "Mechanics structures and materials/Statics 1/10 a,b,c Macaulays method/Ok so this is based.md",
     "Mechanics structures and materials/Materials/Materials read order.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/Griffith approach.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/Griffith approach for critical stress.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/calculating stored strain energy in a crack.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/calculating surface energy in a crack.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/world war one.md",
-    "SESA1015/Flight mechanics/Flight mechanics 4/lift to drag ratio.md"
+    "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/calculating stored strain energy in a crack.md"
   ]
 }
