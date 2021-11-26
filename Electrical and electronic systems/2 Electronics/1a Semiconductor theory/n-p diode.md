@@ -44,4 +44,17 @@ You can see stuff, there is the reverse leakage current there too. Yeah, that ex
 
 ('procrastination future me' here, 'past future me' fuck you, now I have even more work to do but I will spare 'future future future me' the work of working)
 
-(ok so 'future future future me' here, f)
+(ok so 'future future future me' here, fuck you all previous me's I have to do this weeks notes and you twats didn't finish it. Especially the prev guy, you said you where going to fucking do it reeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)
+
+![[ifhhjqg2h9m71.png]]
+
+I am going insane.
+
+![[brain_damage.mp4]]
+
+![[what_the.mp4]]
+
+![[video0-20 1.mov]]
+
+![[6534 n73.jpg]]
+
