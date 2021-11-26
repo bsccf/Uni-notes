@@ -5,7 +5,12 @@ tags: ["NotesPage"]
 # Stuff
 ### The based thing I am adding here is
 
+![[BIG SHOT but it sounds like a chance to be a BIG SHOT!!.mp3#play]]
 
+High amounts of based energy, it's easyer to guess where this is from. So the \[\[KROMER\]\] reward is lower:
+- 0.1 \[\[KROMER\]\] - Where is it from
+- 0.5 \[\[KROMER\]\] - Is it based?
+- 
 
 
 ### Electric circuits
