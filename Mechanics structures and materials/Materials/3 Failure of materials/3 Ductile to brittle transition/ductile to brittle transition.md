@@ -12,7 +12,9 @@ We know about:
 - [[effect of temperature on yield stress]]
 
 So based on this:
-- 
+- Griffith critical stress is constant
+- Yield strength varies with temperature
 
-But since the griffith critical stress is constant but the yield stress varies, at some point the yield stress might intercept the critical stress... This is basically the idea behined a [[ductile to brittle transition]].
+So clearly at some point the yield stress might intercept the critical stress, at this point the material would have no plastic deformation before fracture making it [[ductility|brittle]]... This is basically the idea behined a [[ductile to brittle transition]].
 
+### Plottin it
