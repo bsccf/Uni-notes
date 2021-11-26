@@ -29,5 +29,8 @@ High amounts of based energy. It's easyer to guess where this is from so the \[\
 12) [[Thevenins equivalent circuit notes]]
 
 ### Electronics
+1 to 2 = [[(p3-38) Diodes and Transistors.pdf]]
+There is honestly too much to write and research rn, like wtf. I'll finish these notes over christmass... probably. 
+
 1) [[Semiconductor theory notes]]
 2) 
