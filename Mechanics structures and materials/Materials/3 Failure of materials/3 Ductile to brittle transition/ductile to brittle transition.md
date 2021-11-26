@@ -9,3 +9,6 @@ tags: ["Question","QFormat3"]
 ### Introduction
 
 We know
+
+[[Hall-Petch equation]]
+[[Griffith approach for critical stress]]

@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hall p",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -108,6 +108,7 @@
   "active": "518eedd6536f5e84",
   "lastOpenFiles": [
     "Mechanics structures and materials/Materials/3 Failure of materials/3 Ductile to brittle transition/ductile to brittle transition.md",
+    "Mechanics structures and materials/Materials/1 Atomic composition/5 Mechanical Properties/Hall-Petch equation.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/3 Ductile to brittle transition/Ductile to brittle transition notes.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/1 Brittle vs ductile failure/Brittle vs ductile failure notes.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/Stress concentration notes.md",
@@ -115,7 +116,6 @@
     "Mechanics structures and materials/Materials/1 Atomic composition/6 Defects, dislocations and plastic deformation/dislocations.md",
     "Mechanics structures and materials/Materials/1 Atomic composition/6 Defects, dislocations and plastic deformation/dislocation motion.md",
     "Mechanics structures and materials/Statics 1/10 a,b,c Macaulays method/Ok so this is based.md",
-    "Mechanics structures and materials/Materials/Materials read order.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/Griffith approach.md"
+    "Mechanics structures and materials/Materials/Materials read order.md"
   ]
 }
