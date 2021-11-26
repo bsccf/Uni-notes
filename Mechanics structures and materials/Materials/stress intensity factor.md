@@ -5,4 +5,8 @@ tags: ["Question","QFormat3"]
 
 #### What is
 ## Stress intensity factor
-This is seperate to the [[Griffith approach]], even though the equations look simular.
+
+If we apply a stress over an infinate plate:
+![[Pasted image 20211126165221.png]]
+
+
