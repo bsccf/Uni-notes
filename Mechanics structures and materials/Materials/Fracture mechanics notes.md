@@ -11,3 +11,5 @@ tags: ["NotesPage"]
 
 
 ## Expanded articles
+
+![[stress intensity factor]]
