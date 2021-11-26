@@ -4,6 +4,9 @@ tags: ["NotesPage"]
 ---
 
 # Materials read order
+### Based tunes
+![[the music - YouTube 1.mp3#play]]
+If you know what it is you get +4 Kromer.
 
 ### Atomic composition (not sure about name)
 1) [[Atoms and types of bonding]]

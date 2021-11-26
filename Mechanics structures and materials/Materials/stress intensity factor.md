@@ -9,4 +9,3 @@ tags: ["Question","QFormat3"]
 If we apply a stress over an infinate plate:
 ![[Pasted image 20211126165221.png]]
 
-
