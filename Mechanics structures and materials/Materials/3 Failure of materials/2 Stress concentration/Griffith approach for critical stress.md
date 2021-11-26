@@ -18,4 +18,5 @@ Proved in [[Griffith approach]].
 This equation is true for thin plates in plane stress conditions experiencing no plastic deformation.
 
 #### Implications
-As you increase the crack radius the critical stress that fracture occurs at decreases, so to get a strong material you want minimal defects in it's structure.
+- As you increase the crack radius the critical stress that fracture occurs at decreases, so to get a strong material you want minimal defects in it's structure.
+- Since this is a predictor of sudden catastrophic failure (like [[brittle material failure appearance|brittle failure]]) we know that where this type of failure occurs is independent of temperature.
