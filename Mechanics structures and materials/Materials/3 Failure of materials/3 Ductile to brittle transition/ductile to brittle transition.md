@@ -27,4 +27,9 @@ As you can see at high temperatures the BCC $\sigma_y$ is below the $sigma_f$ li
 - Plastic deformation can occur
 - Is ductile
 
-But once the yield
+Hence you can see why most materials are then brittle at low temperatures! The ductile to brittle transition occurs at this intercept (though possibly a bit in the ductile direction since to be classed as brittle it can be upto 5% plasticly deformed)
+
+#### Energy implications
+
+
+### 
