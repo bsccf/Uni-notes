@@ -6,7 +6,12 @@ tags: ["NotesPage"]
 # Materials read order
 ### Based tunes
 ![[the music - YouTube 1.mp3#play]]
-If you know what it is you get +4 Kromer.
+
+Rewards for knowledge:
+- Where it is from: +2 Kromer
+- Exactly where it is from: +4 Kromer
+- The name: +3 Kromer
+- None of the above: -99 Kromer and -600000 Social credits
 
 ### Atomic composition (not sure about name)
 1) [[Atoms and types of bonding]]
