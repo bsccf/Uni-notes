@@ -31,8 +31,6 @@ Hence you can see why most materials are then brittle at low temperatures! The d
 
 #### Energy implications
 
-![[toughness#Toughness]]
+So if colder matterials are more brittle we can also say they will have lower [[toughness]], since the brittle equivilent of the same material will have a lower ability to absorb energy before fracture.
 
-So if colder matterials are more brittle we can also say they will be less tough.
-
-### 
+![[Pasted image 20211126154241.png]]

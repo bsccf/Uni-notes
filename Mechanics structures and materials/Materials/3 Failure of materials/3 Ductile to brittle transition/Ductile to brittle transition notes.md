@@ -9,10 +9,14 @@ tags: ["NotesPage"]
 - [[factors that effect dislocation motion]]
 - [[toughness]]
 - [[impact testing]]
-
+- [[shifting the ductile to brittle transition]]
 
 ## Expanded articles
 
-![[ductile to brittle transition]]
+![[toughness]]
 
 ![[impact testing]]
+
+![[ductile to brittle transition]]
+
+![[shifting the ductile to brittle transition]]
