@@ -13,8 +13,9 @@ From:
 
 We get the equations:
 $$\begin{align*}
-    &  & K_c &= \sigma_f \sqrt{\pi a_c}  & \sigma_f &= \sqrt{\frac{2E\gamma}{\pi a_c}}\\
-&
+    &  & K_c &= \sigma_f \sqrt{\pi a_c}  & \sigma_f &= \sqrt{\frac{2E\gamma}{\pi a_c}}\\\\
+& & \frac{K_c}{\sqrt{\pi a_c}} &= \sigma_f 
+\frac{K_c}{\sqrt{\pi a_c}} &= 
 \end{align*}$$
 
 

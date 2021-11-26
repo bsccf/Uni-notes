@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/Fracture mechanics notes.md",
-            "mode": "preview"
+            "file": "Mechanics structures and materials/Materials/griffith energys relationship with stress intensity factor.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/Fracture mechanics notes.md",
+                "file": "Mechanics structures and materials/Materials/griffith energys relationship with stress intensity factor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,9 +106,9 @@
   },
   "active": "518eedd6536f5e84",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Materials/griffith energys relationship with stress intensity factor.md",
     "Mechanics structures and materials/Materials/Fracture mechanics notes.md",
     "Mechanics structures and materials/Materials/Materials read order.md",
-    "Mechanics structures and materials/Materials/griffith energys relationship with stress intensity factor.md",
     "Mechanics structures and materials/Materials/critical stress intensity factor.md",
     "Mechanics structures and materials/Materials/stress intensity factor.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/3 Ductile to brittle transition/shifting the ductile to brittle transition.md",
