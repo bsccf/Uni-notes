@@ -35,3 +35,4 @@ You can also combine these equations:
 >> $\sigma_0=$ stress across the plate
 >> $a=$ Radius of the defect
 >> $r=$ Distance ahead of the crach tip
+
