@@ -24,4 +24,6 @@ This is the equation for the critical stress intensity factor for any shape obje
 >> $K_c=$ [[critical stress intensity factor]] 
 >> $\sigma_f=$ stress applied at fracture
 >> $a_c=$ critical crack radius
->> $Y=$ A dimensionless parameter which depends on the crack and s
+>> $Y=$ A dimensionless parameter which depends on the crack and specimin geometry as well as the mannor of load application
+
+Y can usually be found in books.
