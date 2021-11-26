@@ -17,12 +17,21 @@ We can use a new equation to model it:
 >> $K=$ [[stress intensity factor]]
 >> $\sigma_{local}=$ Stress at the given point
 
+This lets us find the strength of the stress field relative to the crack tip.
+
 Where $K$ can be determined using this equation:
 
 > ### $$ K = \sigma_0 \sqrt{\pi a} $$ 
 >> where:
 >> $K=$ [[stress intensity factor]] 
->> $\sigma=$
->> $=$
+>> $\sigma_0=$ stress across the plate
+>> $a=$ Radius of the defect
 
-This lets us find the strength of the stress field relative to the crack tip.
+You can also combine these equations:
+
+> ### $$ \sigma_{local} = \sigma_0\sqrt\frac{ { a}}{{2 r}} $$ 
+>> where:
+>> $\sigma_{local}=$ Stress at the given point
+>> $\sigma_0=$ stress across the plate
+>> $a=$ Radius of the defect
+>> $r=$ Distance ahead of the crach tip
