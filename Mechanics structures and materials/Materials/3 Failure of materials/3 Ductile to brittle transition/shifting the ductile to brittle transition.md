@@ -20,4 +20,6 @@ We can see that just increasing the [[yield strength|yield point]] of a material
 ### Effect of grain refinement
 If we look back to the [[Hall-Petch equation]], this actually increases [[yield strength]] as well as the fracture point predicted by the [[Griffith approach]]:
 ![[Pasted image 20211126155239.png]]
-So we can use [[grain structure control]]
+So we can use [[grain boundary strengthening|grain refinement]] to increase both [[yield strength]] and [[toughness]].
+
+Meaning it is very [[bbbbased]].
