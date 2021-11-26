@@ -8,6 +8,7 @@ tags: ["NotesPage"]
 #### Intro and contents
 - [[stress concentration]]
 - [[stress concentration in materials]]
+- [[Griffith approach]]
 
 
 ## Expanded articles
