@@ -9,19 +9,17 @@ tags: ["Question","QFormat3"]
 This is a special form of the [[Taylor series]] where $a=0$, here are what that resaults in:
 
 $$\begin{align*}
-f(x+a) &= f(a) + \frac{f^{'}(a) }{1!}x + \frac{f^{''}(a) }{2!}x^{2}+ \frac{f^{'''}(a) }{3!}x^{3}+ \frac{f^{''''}(a) }{4!}x^{4} + ...
+f(x+a) &= f(a) + \frac{f^{'}(a) }{1!}x + \frac{f^{''}(a) }{2!}x^{2}+ \frac{f^{'''}(a) }{3!}x^{3}+ \frac{f^{''''}(a) }{4!}x^{4} + ...\\
+& & &let\:a=0\\\\
+f(x+0) &= f(0) + \frac{f^{'}(0) }{1!}x + \frac{f^{''}(0) }{2!}x^{2}+ \frac{f^{'''}(0) }{3!}x^{3}+ \frac{f^{''''}(0) }{4!}x^{4} + ...\\
+f(x) &= f(0) + \frac{f^{'}(0) }{1!}x + \frac{f^{''}(0) }{2!}x^{2}+ \frac{f^{'''}(0) }{3!}x^{3}+ \frac{f^{''''}(0) }{4!}x^{4} + ...
 \end{align*}$$
 
-> ### $$ \sum\limits_{n=0}^{\infty} \frac{f^{(n)}(0)}{n!}x^{n} \approx f(0) + \frac{f^{'}(0) }{1!}x + \frac{f^{''}(0) }{2!}x^{2}+ \frac{f^{'''}(0) }{3!}x^{3}+ \frac{f^{''''}(0) }{4!}x^{4} $$ 
+> ### $$ f(x)= f(0) + \frac{f^{'}(0) }{1!}x + \frac{f^{''}(0) }{2!}x^{2}+ \frac{f^{'''}(0) }{3!}x^{3}+ \frac{f^{''''}(0) }{4!}x^{4} + ... $$ 
 >> where:
->> $f^{(n)}(x)=$ nth derivative of $f(x)$
-
-
-### Equation
-> Use the [[Maclaurin series]] to find an approximate value of:
-> $$ f(x) = \frac{1}{x-3} $$
-> 1) Interms of x
-> 2) At x=2
+>> $=$ 
+>> $=$
+>> $=$
 
 $$\begin{align*}
  f(x) &= \frac{1}{x-3} = (x-3)^{-1} \\
