@@ -8,6 +8,7 @@ tags: ["Question","QFormat3"]
 ### Complex and deep explenation
 This is an insanely complex topic, so unless you have a galaxy brain you will not beable to even come close to comprehending the full complexity and depth of this definition...
 
+If you format the equation so that [[dependent variables]] and [[independent variables]] are on opposite sides of the equals sign then:
 - Differential Homogeneous  equation - 
 - Differential Nonhomogeneous equation - Not
 
