@@ -11,4 +11,4 @@ tags: ["NotesPage"]
 
 
 ## Expanded articles
-![[variables of]]
+![[variables of a differential equation]]
