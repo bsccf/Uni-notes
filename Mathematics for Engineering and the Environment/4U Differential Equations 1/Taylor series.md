@@ -10,7 +10,7 @@ In mathematics, the Taylor series of a function is an infinite sum of terms that
 
 A Taylor Series simply approximates a function around a point. Basically, you take a point, and use the derivative to figure out how much the function would change if you move away from that point. And then use the second derivative to refine your guess on how much it would move. And the third, and so on until you get accurate enough. A Taylor Series is basically math-speak for just eyeballing it.
 
-For a given function ($f(x)$) it's [[Taylor series]] can be defined as:
+For a given function ( $f(x)$ ) it's [[Taylor series]] can be defined as:
 
 > ### $$ \sum\limits_{n=0}^{\infty} \frac{f^{(n)}(a)}{n!}(x-a)^{n} $$
 > ### $$or$$
@@ -18,6 +18,9 @@ For a given function ($f(x)$) it's [[Taylor series]] can be defined as:
 >> where:
 >> $f^{(n)}(x)=$ nth derivative of $f(x)$
 >> $a=$ a number
+
+if we let $x=a$:
+
 
 It is an increasingly accurate approximation of the function $f(a)$.
 
