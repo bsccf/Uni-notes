@@ -8,7 +8,7 @@ tags: ["Question","QFormat3"]
 ### Method
 In mathematics, the Taylor series of a function is an infinite sum of terms that are expressed in terms of the function's derivatives at a single point.
 
-For a given function ($f(x)$) it's [[Taylor series]] can be defined at a value of x (where $x=a$), by the following equation:
+For a given function ($f(x)$) it's [[Taylor series]] can be defined as:
 
 > ### $$ \sum\limits_{n=0}^{\infty} \frac{f^{(n)}(a)}{n!}(x-a)^{n} $$
 > ### $$or$$
