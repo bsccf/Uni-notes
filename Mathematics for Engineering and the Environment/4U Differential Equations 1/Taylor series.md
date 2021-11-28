@@ -28,10 +28,6 @@ $$\begin{align*}
    f(x) &= f(x) + \frac{f^{'}(x) }{1!}(x-x) + \frac{f^{''}(x) }{2!}(x-x)^{2}+ \frac{f^{'''}(a) }{3!}(x-x)^{3}+ \frac{f^{''''}(a) }{4!}(x-x)^{4} + ...\\
 &= f(x)
 \end{align*}$$
-You can see that the two formula are perfectly equal, so now consider a value of $a=x+0.01$ then:
-$$\begin{align*}
-   f(x+0.01) &= f(x+0.01) + \frac{f^{'}(x+0.01) }{1!}(x-x+0.01) + \frac{f^{''}(x+0.01) }{2!}(x-x+0.01)^{2}+ \frac{f^{'''}(a+0.01) }{3!}(x-x+0.01)^{3}+ \frac{f^{''''}(a) }{4!}(x-x+0.01)^{4} + ...\\
-&= f(x)
-\end{align*}$$
+You can see that the two formula are perfectly equal, so now consider a value of $a=x+0.01$ then the $(x-a)^{n}$ becomes $(x-(x+0.01))^{n}(-0.01)^{n}$ which rapidly tends towords 0. Hence for values of a which are in the range $-1<a<1$ we know $(x-a)^{n}$ will tend to 0 
 
 There is a special case of the [[Taylor series]], which is when $a=0$ we call this a [[Maclaurin series]]. This is like 99% of the use of the [[Taylor series]].
