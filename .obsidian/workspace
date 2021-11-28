@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "518eedd6536f5e84",
+        "id": "8229698823bf52b2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/4U Differential Equations 1/linear and non linear equations.md",
+            "file": "Mathematics for Engineering and the Environment/4U Differential Equations 1/homogeneous and nonhomogeneous equations.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/4U Differential Equations 1/linear and non linear equations.md",
+                "file": "Mathematics for Engineering and the Environment/4U Differential Equations 1/homogeneous and nonhomogeneous equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,17 +104,17 @@
     "direction": "horizontal",
     "width": 234
   },
-  "active": "518eedd6536f5e84",
+  "active": "8229698823bf52b2",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/4U Differential Equations 1/homogeneous and nonhomogeneous equations.md",
+    "Mathematics for Engineering and the Environment/4U Differential Equations 1/Differential Equations 1 overview.md",
+    "Mathematics for Engineering and the Environment/4U Differential Equations 1/independent variables.md",
+    "Mathematics for Engineering and the Environment/4U Differential Equations 1/Maclaurin series.md",
     "Mathematics for Engineering and the Environment/4U Differential Equations 1/linear and non linear equations.md",
     "Mathematics for Engineering and the Environment/4U Differential Equations 1/dependent variables.md",
-    "Mathematics for Engineering and the Environment/4U Differential Equations 1/independent variables.md",
-    "Mathematics for Engineering and the Environment/4U Differential Equations 1/Differential Equations 1 overview.md",
     "Mathematics for Engineering and the Environment/4U Differential Equations 1/variables of a differential equation.md",
-    "Mathematics for Engineering and the Environment/4U Differential Equations 1/Maclaurin series.md",
     "Mathematics for Engineering and the Environment/4U Differential Equations 1/Untitled.md",
     "Mathematics for Engineering and the Environment/4U Differential Equations 1/differential equation.md",
-    "Mathematics for Engineering and the Environment/4U Differential Equations 1/ordinary differential equation.md",
-    "Mathematics for Engineering and the Environment/4U Differential Equations 1/partial differential equation.md"
+    "Mathematics for Engineering and the Environment/4U Differential Equations 1/ordinary differential equation.md"
   ]
 }
