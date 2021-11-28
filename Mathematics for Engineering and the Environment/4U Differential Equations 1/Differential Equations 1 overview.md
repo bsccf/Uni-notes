@@ -6,7 +6,7 @@ tags: ["NotesPage"]
 # Overview
 
 #### Intro and contents
-- [[Taylor series]]
+- [[Maclaurin series]]
 
 
 ## Expanded articles
