@@ -22,4 +22,15 @@ Hence any function can be calculated by:
 
 ### Example
 
-> Find an approximate value for $f(x)=e^{x}$ when $x=0.4$
+> Find an approximate value for $e^{0.4}$ using the [[Maclaurin series]]:
+
+$$\begin{align*}
+f(x) &= e^{x} & &f(0) = 1\\
+f^{'}(x) &= e^{x}& &f^{''}(0) = 1\\
+f^{''}(x) &= e^{x}& &f^{'}(0) = 1
+\end{align*}$$
+
+$$\begin{align*}
+f(x)&= f(0) + \frac{f^{'}(0) }{1!}x + \frac{f^{''}(0) }{2!}x^{2}+ \frac{f^{'''}(0) }{3!}x^{3}+ \frac{f^{''''}(0) }{4!}x^{4} + ...\\
+f(x)&= 1 + \frac{1}{1}x + \frac{1}{2}x^{2}+ \frac{1}{6}x^{3}+ \frac{1}{4!}x^{4} + ...
+\end{align*}$$
