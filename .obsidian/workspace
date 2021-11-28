@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/4U Differential Equations 1/homogeneous and nonhomogeneous equations.md",
-            "mode": "source"
+            "file": "Mathematics for Engineering and the Environment/4U Differential Equations 1/homogeneous and nonhomogeneous differential equations.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/4U Differential Equations 1/homogeneous and nonhomogeneous equations.md",
+                "file": "Mathematics for Engineering and the Environment/4U Differential Equations 1/homogeneous and nonhomogeneous differential equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
   },
   "active": "8229698823bf52b2",
   "lastOpenFiles": [
-    "Mathematics for Engineering and the Environment/4U Differential Equations 1/homogeneous and nonhomogeneous equations.md",
+    "Mathematics for Engineering and the Environment/4U Differential Equations 1/homogeneous and nonhomogeneous differential equations.md",
     "Mathematics for Engineering and the Environment/4U Differential Equations 1/Differential Equations 1 overview.md",
     "Mathematics for Engineering and the Environment/4U Differential Equations 1/independent variables.md",
     "Mathematics for Engineering and the Environment/4U Differential Equations 1/Maclaurin series.md",

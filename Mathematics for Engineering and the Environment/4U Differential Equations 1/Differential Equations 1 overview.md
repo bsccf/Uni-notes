@@ -13,4 +13,4 @@ tags: ["NotesPage"]
 ## Expanded articles
 ![[variables of a differential equation]]
 
-![[homogeneous and nonhomogeneous equations]]
+![[homogeneous and nonhomogeneous differential equations]]
