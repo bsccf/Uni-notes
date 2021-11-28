@@ -16,9 +16,11 @@ tags: ["Question","QFormat3"]
 > ### $$ \cos x = 1 - \frac{x^{2}}{2!} + \frac{x^{4}}{4!} - \frac{x^{6}}{6!} + ...  $$ 
 
 > ### $$ \ln(1+x) = x - \frac{x^{2}}{2} + \frac{x^{3}}{3}- \frac{x^{4}}{4} + ... $$ 
+>> where $-1<x\leq 1$
 
-> ### $$ \tan x = x + x^3  $$ 
+> ### $$ \tan x = x + \frac{x^{3}}{3} + \frac{2x^{5}}{15} + \frac{17x^{7}}{315} + ...  $$ 
+>> where $-\frac{\pi}{2} < x \leq \frac{\pi}{2}$
 
-> ### $$ (1+x)^{r}  $$ 
+> ### $$ \sinh x = x + \frac{x^{3}}{3!} + \frac{x^{5}}{5!} + \frac{x^{7}}{7!}  $$ 
 
-> ### $$ (1+x)^{r}  $$ 
+> ### $$ \cosh x = 1 + \frac{x^{2}}{2!} + x^ 
