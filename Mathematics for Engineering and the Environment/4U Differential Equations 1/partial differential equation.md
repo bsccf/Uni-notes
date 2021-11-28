@@ -10,5 +10,5 @@ A partial differential equation (PDE) is an equation which imposes relations bet
 
 #### Example
 $$\begin{align*}
-    &= 
+   u(x,y,z) &= \sqrt{ x^{2} + y^{2} + z^{2} } 
 \end{align*}$$
