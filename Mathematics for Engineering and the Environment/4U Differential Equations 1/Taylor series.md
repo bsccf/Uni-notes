@@ -14,7 +14,8 @@ For a given function ($f(x)$) it's [[Taylor series]] can be defined as:
 > ### $$or$$
 > ### $$ f(a) + \frac{f^{'}(a) }{1!}(x-a) + \frac{f^{''}(a) }{2!}(x-a)^{2}+ \frac{f^{'''}(a) }{3!}(x-a)^{3}+ \frac{f^{''''}(a) }{4!}(x-a)^{4} + ... $$ 
 >> where:
->> $f^{(n)}(a)=$ nth derivative of $f(a)$
+>> $f^{(n)}(x)=$ nth derivative of $f(x)$
+>> $a=$ a number
 
 It is an increasingly accurate approximation of the function $f(a)$.
 
