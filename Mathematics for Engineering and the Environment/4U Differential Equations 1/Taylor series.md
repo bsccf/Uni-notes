@@ -11,5 +11,5 @@ In mathematics, the Taylor series of a function is an infinite sum of terms that
 > ### $$ f(a) + \frac{f^{'}(a) }{1!}(x-a) + \frac{f^{''}(a) }{2!}(x-a)^{2}+ \frac{f^{'''}(a) }{3!}(x-a)^{3}+ \frac{f^{''''}(a) }{4!}(x-a)^{4} + ... $$ 
 >> where:
 >> $f^{(n)}(a)=$ nth derivative of $f(a)$
->> $=$
->> $=$
+
+There is a special case of the [[Taylor series]], which is when 
