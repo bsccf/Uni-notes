@@ -15,11 +15,11 @@ f(x+0) &= f(0) + \frac{f^{'}(0) }{1!}x + \frac{f^{''}(0) }{2!}x^{2}+ \frac{f^{''
 f(x) &= f(0) + \frac{f^{'}(0) }{1!}x + \frac{f^{''}(0) }{2!}x^{2}+ \frac{f^{'''}(0) }{3!}x^{3}+ \frac{f^{''''}(0) }{4!}x^{4} + ...
 \end{align*}$$
 
+Hence any function can be calculated by:
+
 > ### $$ f(x)= f(0) + \frac{f^{'}(0) }{1!}x + \frac{f^{''}(0) }{2!}x^{2}+ \frac{f^{'''}(0) }{3!}x^{3}+ \frac{f^{''''}(0) }{4!}x^{4} + ... $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> 
 
 $$\begin{align*}
  f(x) &= \frac{1}{x-3} = (x-3)^{-1} \\
