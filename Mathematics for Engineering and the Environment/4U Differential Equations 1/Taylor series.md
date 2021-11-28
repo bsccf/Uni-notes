@@ -28,6 +28,8 @@ an alternative form can be found by replacing x with x+a
 >> $f^{(n)}(a)=$ nth derivative of $f(a)$
 >> $a=$ A value
 
-Here if we use a value of $a$ where $|a|<1$ our value of f(x+a) remains quite accurate.
+Here if we use a value of $a$ where $|x+a|<1$ our value of f(x+a) remains quite accurate even if we only define it interms of a few of it's bits
+
+![[Pasted image 20211128124945.png]]
 
 There is a special case of the [[Taylor series]], which is when $a=0$ we call this a [[Maclaurin series]]. This is like 99% of the use of the [[Taylor series]].
