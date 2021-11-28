@@ -7,6 +7,7 @@ tags: ["NotesPage"]
 
 #### Intro and contents
 - [[ordinary differential equation]]
+- [[partial differential equation]]
 
 
 ## Expanded articles
