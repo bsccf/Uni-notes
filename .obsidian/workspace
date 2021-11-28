@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/4U Differential Equations 1/ordinary differential equation.md",
+            "file": "Mathematics for Engineering and the Environment/4U Differential Equations 1/partial differential equation.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/4U Differential Equations 1/ordinary differential equation.md",
+                "file": "Mathematics for Engineering and the Environment/4U Differential Equations 1/partial differential equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "518eedd6536f5e84",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/4U Differential Equations 1/partial differential equation.md",
     "Mathematics for Engineering and the Environment/4U Differential Equations 1/ordinary differential equation.md",
     "Mathematics for Engineering and the Environment/4U Differential Equations 1/Differential Equations 1 overview.md",
     "Mathematics for Engineering and the Environment/4U Differential Equations 1/Maclaurin series.md",
@@ -114,7 +115,6 @@
     "Mathematics for Engineering and the Environment/Overall Read order.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/doping semiconductors.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/n-p junction.md",
-    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/n-p diode.md",
-    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/go to sleep.md"
+    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/n-p diode.md"
   ]
 }

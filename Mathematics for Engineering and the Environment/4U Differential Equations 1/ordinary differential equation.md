@@ -10,4 +10,13 @@ This is used in contrast of [[partial differential equation]].
 
 This is a long way of saying that they look like:
 
+$$\begin{align*}
+   \frac{dy}{dx} &= y + x^{2} - 5f(x)\\
+\frac{dv}{dt} &= 3t^{4} - 69420 + ke^{1}k &k&=constant 
+\end{align*}$$
 
+Not:
+
+$$\begin{align*}
+    &= 
+\end{align*}$$
