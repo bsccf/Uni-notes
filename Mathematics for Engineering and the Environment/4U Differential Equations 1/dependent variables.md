@@ -6,7 +6,7 @@ tags: ["Question","QFormat3"]
 #### What are
 ## Dependent variables
 ### Definition
-1) These are the variables in an equation that have their values defined interms of the values of other variables.
+1) These are the variables in an equation that have their values defined interms of the values of other variables (usually by [[independent variables]]).
 2)  In an experiment, their values are studied under the hypothesis or requirement that they depend, by some law/rule/equation, on the values of other variables.
 
 ### Example
