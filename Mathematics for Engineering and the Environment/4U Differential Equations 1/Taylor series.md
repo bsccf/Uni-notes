@@ -21,9 +21,9 @@ For a given function ( $f(x)$ ) it's [[Taylor series]] can be defined as:
 
 an alternative form can be found by replacing x with x+a
 
-> ### $$ \sum\limits_{n=0}^{\infty} \frac{f^{(n)}(a)}{n!}(x-a)^{n} $$
+> ### $$  f(x+a)= \sum\limits_{n=0}^{\infty} \frac{f^{(n)}(a)}{n!}(x)^{n} $$
 > ### $$or$$
-> ### $$ f(x+a) + \frac{f^{'}(a) }{1!}(x-a) + \frac{f^{''}(a) }{2!}(x-a)^{2}+ \frac{f^{'''}(a) }{3!}(x-a)^{3}+ \frac{f^{''''}(a) }{4!}(x-a)^{4} + ... $$ 
+> ### $$ f(x+a)= f(a) + \frac{f^{'}(a) }{1!}x + \frac{f^{''}(a) }{2!}x^{2}+ \frac{f^{'''}(a) }{3!}x^{3}+ \frac{f^{''''}(a) }{4!}x^{4} + ... $$ 
 >> where:
 >> $f^{(n)}(a)=$ nth derivative of $f(a)$
 >> $a=$ a value
