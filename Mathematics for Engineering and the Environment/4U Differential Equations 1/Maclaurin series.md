@@ -6,10 +6,12 @@ tags: ["Question","QFormat3"]
 #### What is the
 ## Maclaurin series
 ### Meth
-This is a special form of the [[Taylor series]] where $a=0$
+This is a special form of the [[Taylor series]] where $a=0$, here are what that resaults in:
 
 $$\begin{align*}
-    &= <% tp.file.cursor(1) %>
+\sum\limits_{n=0}^{\infty} \frac{f^{(n)}(a)}{n!}(x-a)^{n} &\approx f(a) + \frac{f^{'}(a) }{1!}(x-a) + \frac{f^{''}(a) }{2!}(x-a)^{2}+ \frac{f^{'''}(a) }{3!}(x-a)^{3}+ \frac{f^{''''}(a) }{4!}(x-a)^{4} & let\: a&=0\\
+\sum\limits_{n=0}^{\infty} \frac{f^{(n)}(0)}{n!}(x-0)^{n} &\approx f(0) + \frac{f^{'}(0) }{1!}(x-0) + \frac{f^{''}(0) }{2!}(x-0)^{2}+ \frac{f^{'''}(0) }{3!}(x-0)^{3}+ \frac{f^{''''}(0) }{4!}(x-0)^{4}\\
+\sum\limits_{n=0}^{\infty} \frac{f^{(n)}(0)}{n!}(x-0)^{n} &\approx f(0) + \frac{f^{'}(0) }{1!}(x-0) + \frac{f^{''}(0) }{2!}(x-0)^{2}+ \frac{f^{'''}(0) }{3!}(x-0)^{3}+ \frac{f^{''''}(0) }{4!}(x-0)^{4}
 \end{align*}$$
 
 
