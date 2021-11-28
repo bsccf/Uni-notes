@@ -22,7 +22,7 @@ There is a special case of the [[Taylor series]], which is when $a=0$ we call th
 
 ### Examples
 
-> Use [[Taylor series]] to find an approximate value of:
+> Find the [[Taylor series]] for:
 > $$ f(x) = \frac{1}{x-3} $$
 > at $x=4$
 
@@ -34,8 +34,10 @@ f^{'''}(x) &= -6(x-3)^{-4} & f^{'''}(4)&=-6(4-3)^{-4}=&-6\\
 f^{''''}(x) &= 24(x-3)^{-5} & f^{''''}(4)&=24(4-3)^{-5}=&24
 \end{align*}$$
 
+Now we can sub into the equation:
+
 $$\begin{align*}
-\frac{1}{4-3} &\approx f(a) + \frac{f^{'}(a) }{1!}(x-a) + \frac{f^{''}(a) }{2!}(x-a)^{2}+ \frac{f^{'''}(a) }{3!}(x-a)^{3}+ \frac{f^{''''}(a) }{4!}(x-a)^{4}\\
+\sum\limits_{n=0}^{\infty} \frac{f^{(n)}(a)}{n!}(x-a)^{n} &\approx f(a) + \frac{f^{'}(a) }{1!}(x-a) + \frac{f^{''}(a) }{2!}(x-a)^{2}+ \frac{f^{'''}(a) }{3!}(x-a)^{3}+ \frac{f^{''''}(a) }{4!}(x-a)^{4}\\
 &\approx 1 + \frac{ -1 }{1}(x-4) + \frac{ 2 }{2}(x-4)^{2}+ \frac{ -6 }{6}(x-4)^{3}+ \frac{ 24 }{24}(x-4)^{4}\\
 &\approx 1 -(x-4) + (x-4)^{2}-(x-4)^{3}+ (x-4)^{4}
 \end{align*}$$
