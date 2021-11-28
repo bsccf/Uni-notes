@@ -16,7 +16,7 @@ $$\begin{align*}
 
 > ### $$ \sum\limits_{n=0}^{\infty} \frac{f^{(n)}(0)}{n!}x^{n} \approx f(0) + \frac{f^{'}(0) }{1!}x + \frac{f^{''}(0) }{2!}x^{2}+ \frac{f^{'''}(0) }{3!}x^{3}+ \frac{f^{''''}(0) }{4!}x^{4} $$ 
 >> where:
->> $f^{(n)}(a)=$ nth derivative of $f(a)$
+>> $f^{(n)}(x)=$ nth derivative of $f(x)$
 
 
 ### Equation
