@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["independent variable"]
 tags: ["Question","QFormat3"]
 ---
 

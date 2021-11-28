@@ -12,3 +12,5 @@ tags: ["NotesPage"]
 
 ## Expanded articles
 ![[variables of a differential equation]]
+
+![[linear and non linear equations]]
