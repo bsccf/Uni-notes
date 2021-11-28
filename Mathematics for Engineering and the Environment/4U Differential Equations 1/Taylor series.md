@@ -16,12 +16,22 @@ For a given function ( $f(x)$ ) it's [[Taylor series]] can be defined as:
 > ### $$or$$
 > ### $$ f(a) + \frac{f^{'}(a) }{1!}(x-a) + \frac{f^{''}(a) }{2!}(x-a)^{2}+ \frac{f^{'''}(a) }{3!}(x-a)^{3}+ \frac{f^{''''}(a) }{4!}(x-a)^{4} + ... $$ 
 >> where:
->> $f^{(n)}(x)=$ nth derivative of $f(x)$
->> $a=$ a number
+>> $f^{(n)}(a)=$ nth derivative of $f(a)$
+>> $a=$ a point near x
 
-if we let $x=a$:
 
 
 It is an increasingly accurate approximation of the function $f(a)$.
+
+If we let $x=a$:
+$$\begin{align*}
+   f(x) &= f(x) + \frac{f^{'}(x) }{1!}(x-x) + \frac{f^{''}(x) }{2!}(x-x)^{2}+ \frac{f^{'''}(a) }{3!}(x-x)^{3}+ \frac{f^{''''}(a) }{4!}(x-x)^{4} + ...\\
+&= f(x)
+\end{align*}$$
+You can see that the two formula are perfectly equal, so now consider a value of $a=x+0.01$ then:
+$$\begin{align*}
+   f(x+0.01) &= f(x+0.01) + \frac{f^{'}(x+0.01) }{1!}(x-x+0.01) + \frac{f^{''}(x+0.01) }{2!}(x-x+0.01)^{2}+ \frac{f^{'''}(a+0.01) }{3!}(x-x+0.01)^{3}+ \frac{f^{''''}(a) }{4!}(x-x+0.01)^{4} + ...\\
+&= f(x)
+\end{align*}$$
 
 There is a special case of the [[Taylor series]], which is when $a=0$ we call this a [[Maclaurin series]]. This is like 99% of the use of the [[Taylor series]].
