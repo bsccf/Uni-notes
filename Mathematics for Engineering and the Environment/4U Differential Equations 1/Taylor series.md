@@ -11,7 +11,7 @@ In mathematics, the Taylor series of a function is an infinite sum of terms that
 For a given function ($f(x)$) it's [[Taylor series]] can be defined at a value of x (where $x=a$), by the following equation:
 
 > ### $$ \sum\limits_{n=0}^{\infty} \frac{f^{(n)}(a)}{n!}(x-a)^{n} $$
-> ### 
+> ### $$or$$
 > ### $$ f(a) + \frac{f^{'}(a) }{1!}(x-a) + \frac{f^{''}(a) }{2!}(x-a)^{2}+ \frac{f^{'''}(a) }{3!}(x-a)^{3}+ \frac{f^{''''}(a) }{4!}(x-a)^{4} + ... $$ 
 >> where:
 >> $f^{(n)}(a)=$ nth derivative of $f(a)$
@@ -21,3 +21,13 @@ It is an increasingly accurate approximation of the function $f(a)$.
 There is a special case of the [[Taylor series]], which is when $a=0$ we call this a [[Maclaurin series]].
 
 ### Examples
+
+> Use [[Taylor series]] to find an approximate value of:
+> $$ f(x) = \frac{1}{x-3} $$
+> at $x=4$
+
+$$\begin{align*}
+ f(x) &= \frac{1}{x-3} = (x-3)^{-1}\\
+f^{'}(x) &= -(x-3)^{-2}\\
+f(x) &= -(x-3)^{-2}\\
+\end{align*}$$
