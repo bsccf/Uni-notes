@@ -32,5 +32,13 @@ f^{''}(x) &= e^{x}& &f^{'}(0) = 1
 
 $$\begin{align*}
 f(x)&= f(0) + \frac{f^{'}(0) }{1!}x + \frac{f^{''}(0) }{2!}x^{2}+ \frac{f^{'''}(0) }{3!}x^{3}+ \frac{f^{''''}(0) }{4!}x^{4} + ...\\
-f(x)&= 1 + \frac{1}{1}x + \frac{1}{2}x^{2}+ \frac{1}{6}x^{3}+ \frac{1}{4!}x^{4} + ...
+f(x)&\approx 1 + \frac{1}{1}x + \frac{1}{2}x^{2}+ \frac{1}{6}x^{3}+ \frac{1}{24}x^{4} + ... &&let\:x=0.4\\
+f(0.4)&\approx 1.491733333
 \end{align*}$$
+
+$$\begin{align*}
+   e^{0.4} &\approx 1.491733333\\
+   e^{0.4} &= 1.4918246
+\end{align*}$$
+
+So quite accurate.
