@@ -27,7 +27,13 @@ There is a special case of the [[Taylor series]], which is when $a=0$ we call th
 > at $x=4$
 
 $$\begin{align*}
- f(x) &= \frac{1}{x-3} = (x-3)^{-1}\\
+ f(x) &= \frac{1}{x-3} = (x-3)^{-1} & f(4)&=(4-3)^{-1}\\
 f^{'}(x) &= -(x-3)^{-2}\\
-f(x) &= -(x-3)^{-2}\\
+f^{''}(x) &= 2(x-3)^{-3}\\
+f^{'''}(x) &= -6(x-3)^{-4}\\
+f^{''''}(x) &= 24(x-3)^{-5}
+\end{align*}$$
+
+$$\begin{align*}
+\frac{1}{4-3} \approx f(a) + \frac{f^{'}(a) }{1!}(x-a) + \frac{f^{''}(a) }{2!}(x-a)^{2}+ \frac{f^{'''}(a) }{3!}(x-a)^{3}+ \frac{f^{''''}(a) }{4!}(x-a)^{4}
 \end{align*}$$
