@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/4 Differential Equations 1/Overview.md",
+            "file": "Mathematics for Engineering and the Environment/Overall Read order.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/4 Differential Equations 1/Overview.md",
+                "file": "Mathematics for Engineering and the Environment/Overall Read order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,8 @@
   },
   "active": "518eedd6536f5e84",
   "lastOpenFiles": [
-    "Mathematics for Engineering and the Environment/4 Differential Equations 1/Overview.md",
+    "Mathematics for Engineering and the Environment/Overall Read order.md",
+    "Mathematics for Engineering and the Environment/4U Differential Equations 1/Overview.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/doping semiconductors.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/n-p junction.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/n-p diode.md",
@@ -114,7 +115,6 @@
     "Electrical and electronic systems/Electrical read order.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/Semiconductor theory notes.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/4 things and stuff!/griffith energys relationship with stress intensity factor.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/4 things and stuff!/Fracture mechanics notes.md",
-    "Mechanics structures and materials/Materials/Materials read order.md"
+    "Mechanics structures and materials/Materials/3 Failure of materials/4 things and stuff!/Fracture mechanics notes.md"
   ]
 }
