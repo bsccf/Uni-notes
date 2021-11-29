@@ -4,11 +4,11 @@ tags: ["Question","QFormat3"]
 ---
 
 #### What is the
-## Centrafugal force equations
+## Centrifugal force equations
 
 > ### $$ F = \frac{mv^{2}}{r} $$ 
 >> where:
->> $F=$ force
+>> $F=$ centrifugal force
 >> $v=$ velocity
 >> $r=$ circle radius
 >> $m=$ mass of object
