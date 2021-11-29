@@ -5,12 +5,6 @@ tags: ["Question","QFormat3"]
 
 #### What is the
 ## Limit on the thrust during a co-ordinated turn
-### Final equation
-> ### $$ R_{min} = \sqrt\frac{2W^{2} kV^{2}}{\rho S g^{2}} \frac{1}{\sqrt{T_{max} - D_L}}  $$ 
->> where:
->> $D_L=\frac{1}{2}\rho V^{2}S C_{Do} + \frac{2W^{2}k}{\rho V^{2} S}$ 
->> $R_{min}=$ min turning radius
->> $T_{}$
 
 ### Intro
 For everything so far we have basically just been assuming that the engines can keep up, but here's a real shocker... engines can't output infinate thrust.
@@ -48,3 +42,13 @@ T_{max} &= D_L + \frac{2W^{2} kV^{2}}{\rho S g^{2}R_{min}^{2}}\\
 R_{min}^{2} &= \frac{2W^{2} kV^{2}}{\rho S g^{2}} \frac{1}{(T_{max} - D_L)}\\
 R_{min} &= \sqrt\frac{2W^{2} kV^{2}}{\rho S g^{2}} \frac{1}{\sqrt{T_{max} - D_L}}
 \end{align*}$$
+
+### Final equation
+
+[[vent hahahahha amongus funny|vent]]
+
+> ### $$ R_{min} = \sqrt\frac{2W^{2} kV^{2}}{\rho S g^{2}} \frac{1}{\sqrt{T_{max} - D_L}}  $$ 
+>> where:
+>> $D_L=\frac{1}{2}\rho V^{2}S C_{Do} + \frac{2W^{2}k}{\rho V^{2} S}$ 
+>> $R_{min}=$ min turning radius
+>> $T_{max}=$ max thrust
