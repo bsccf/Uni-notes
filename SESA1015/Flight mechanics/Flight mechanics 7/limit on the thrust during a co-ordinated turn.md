@@ -31,8 +31,9 @@ T_{max} &=  \frac{1}{2}\rho V^{2} S C_{Do} + \frac{1}{2}\rho V^{2} S k\left(\fra
 &=  \frac{1}{2}\rho V^{2} S C_{Do} + \frac{2W^{2} k}{\rho S V^{2}}\frac{V^{4}}{g^{2}R_{min}^{2}} + \frac{2W^{2} k}{\rho S V^{2}}\\
 &=  \frac{1}{2}\rho V^{2} S C_{Do} + \frac{2W^{2} kV^{2}}{\rho S g^{2}R_{min}^{2}} + \frac{2W^{2} k}{\rho S V^{2}}\\
 \end{align*}$$
-We also have the equation for drag in steady level flight ($D_L$)
+We also have the equation for drag in steady level flight ($D_L$) and for our $D_L$ we can assume that $L=W$
 $$\begin{align*}
-T_{max} - \frac{1}{2}\rho V^{2} S C_{Do} - \frac{2W^{2} k}{\rho S V^{2}} &= \frac{2W^{2} kV^{2}}{\rho S g^{2}R_{min}^{2} } & D_{L} &= \frac{1}{2}\rho V^{2}S ( C_{Do} + kC_L^{2} )\\
-&& D_{L} &= \frac{1}{2}\rho V^{2}S C_{Do} + kC_L^{2} \frac{1}{2}\rho V^{2}S
+ D_{L} &= \frac{1}{2}\rho V^{2}S ( C_{Do} + kC_L^{2} ) & W = L &= \frac{1}{2}\rho V^{2} S C_L\\
+ D_{L} &= \frac{1}{2}\rho V^{2}S C_{Do} + kC_L^{2} \frac{1}{2}\rho V^{2}S & \frac{2W}{\rho V^{2} S} &=C_L\\
+&= 
 \end{align*}$$
