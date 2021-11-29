@@ -15,6 +15,7 @@ Read order:
 5) [[endurance and range of jet aircraft]]
 6) [[range at constant altitude and constant angle of attack]]
 7) [[Simple accelerated flight]]
+8) [[Introduction to longitudinal stability]]
 
 Example question:
 ![[AERODYNAMIC.mp4]]

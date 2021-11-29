@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 1/11c Statically indeterminate beams - superposition method/solving statically indeterminate beams with superposition method.md",
+            "file": "SESA1015/Flight mechanics/Flight mechanics 8/Introduction to longitudinal stability.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 1/11c Statically indeterminate beams - superposition method/solving statically indeterminate beams with superposition method.md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 8/Introduction to longitudinal stability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,8 @@
   },
   "active": "8229698823bf52b2",
   "lastOpenFiles": [
+    "SESA1015/Flight mechanics/Flight mechanics 8/Introduction to longitudinal stability.md",
+    "SESA1015/Flight mechanics/Mechanics of flight read order.md",
     "Mechanics structures and materials/Statics 1/11c Statically indeterminate beams - superposition method/solving statically indeterminate beams with superposition method.md",
     "Mechanics structures and materials/Statics 1/11c Statically indeterminate beams - superposition method/deflection of beams standard resaults.md",
     "Mechanics structures and materials/Statics 1/11 a Statically indeterminate beams/solving statically indeterminate beams.md",
@@ -113,8 +115,6 @@
     "Mechanics structures and materials/Statics 1/11b Statically indeterminate beams –double integration method/Statically indeterminate beams – double integration method notes.md",
     "Mechanics structures and materials/Statics 1/Statics 1 read order.md",
     "Mechanics structures and materials/Statics 1/11b Statically indeterminate beams –double integration method/you are retard.md",
-    "Mechanics structures and materials/Statics 1/11b Statically indeterminate beams –double integration method/solving statically indeterminate beams with double integration method.md",
-    "Mechanics structures and materials/Statics 1/11 a Statically indeterminate beams/Statically indeterminate beams notes.md",
-    "Mechanics structures and materials/Statics 1/11 a Statically indeterminate beams/statically determinate and indeterminate beams.md"
+    "Mechanics structures and materials/Statics 1/11b Statically indeterminate beams –double integration method/solving statically indeterminate beams with double integration method.md"
   ]
 }
