@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["statically determinate beams","statically indeterminate beams"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -17,4 +17,8 @@ Well depending on the amount of knows and unknowns you may or may not have enoug
 
 If you have enough equations to work out the unknown's acting on a beam we call that a statically determinate beam, else if we don't have enough information to find the values of the forces acting on the beam we call those statically indeterminate beams.
 
-#### Staticaly
+#### Statically determinate example
+![[Pasted image 20211129110129.png]]
+
+#### Statically indeterminate example
+![[Pasted image 20211129110517.png]]

@@ -7,7 +7,9 @@ tags: ["NotesPage"]
 
 #### Intro and contents
 - [[statically determinate and indeterminate beams]]
+- [[]]
 
 
 ## Expanded articles
 
+![[statically determinate and indeterminate beams]]
