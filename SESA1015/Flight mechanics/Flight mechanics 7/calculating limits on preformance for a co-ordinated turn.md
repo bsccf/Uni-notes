@@ -17,10 +17,17 @@ We know each of these values have limitations, things like max lift coefficient,
 
 ### Radius rearrangement
 #### Math
-This is the more useful form:
+
 $$\begin{align*}
  L &= W \sqrt{ 1 + \left(\frac{V^{2}}{gR}\right)^{2} }\\
 \frac{L^{2}}{W^{2}} - 1 &= \left(\frac{V^{2}}{gR}\right)^{2}\\
 \frac{g}{V^{2}} \sqrt{\frac{L^{2}}{W^{2}} - 1} &= \frac{1}{R}\\
 \therefore R &= \frac{V^{2}}{g\sqrt{\frac{L^{2}}{W^{2}} - 1}}
+\end{align*}$$
+
+You can also express this interms of bank angle and speed, (the equation used here is from [[modeling a co-ordinated turn^]]):
+
+$$\begin{align*}
+  L sin\phi  &= \frac{W}{g} \frac{V^{2}}{R}\\
+ R   &= \frac{WV^{2}}{Lg sin\phi}\\
 \end{align*}$$
