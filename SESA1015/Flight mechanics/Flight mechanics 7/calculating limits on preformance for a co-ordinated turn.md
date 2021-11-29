@@ -54,3 +54,6 @@ Now we can define different limits on $R_min$ we can chart it:
 ![[Pasted image 20211129213223.png]]
 Here the domain of flight is the region where the plane will remain flying in the desired manor.
 You can also see a $V_{max}$ this is the [[design speed]] of the aircraft.
+
+There are various implications of this chart:
+- Max manovorability occurs where the stall limit and load factor limit intercept (assuming that this is within the domain of flight, idk there might be an extreme aircraft with some weird chart)
