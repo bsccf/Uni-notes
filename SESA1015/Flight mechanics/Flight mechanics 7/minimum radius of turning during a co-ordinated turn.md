@@ -11,6 +11,7 @@ tags: ["Question","QFormat3"]
 >> $R_{min}=$ 
 >> $V=$
 >> $g=$
+>> $n_{min} = \frac{L_{min}}{W}$ minimum [[load factor]]
 
 ### Meth time
 We know:
@@ -20,7 +21,7 @@ So if we want to find the minimum radius that the aircraft can turn, we need to 
 - Lift to a maximum
 - [[load factor]] to a maximum
 - [[bank angle]] to a maximum
-- g to a somet. Yes what I'm saying is to control gravity. COPE
+- g to a somethingum. Yes what I'm saying is control gravity. [[ccccope|COPE]]
 
 #### Maeth time (special edition)
 It's litterally just subbing in, no rearranging:
