@@ -4,4 +4,6 @@
 Idk ping me on discord if you see this.
 ![[YEET_1-2_1.mp4]]
 
-Yes I have a meme for that. I have 800 (at the time of writing this), there ar
+Yes I have a meme for that. I have 800 (at the time of writing this), there are no situations I don't have a meme for.
+
+![[video0_4 1.mp4]]
