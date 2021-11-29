@@ -5,9 +5,15 @@ tags: ["Question","QFormat3"]
 
 #### Whats the method for
 ## Modeling a [[co-ordinated turn]]
+### Useful bit
+
+![[calculating lift in a co-ordinated turn]]
+
 
 We will be using the following diagram when doing maths.
 ![[Pasted image 20211129184721.png]]
+
+### Proof
 
 We will use $\phi$ for [[bank angle]].
 We also know the [[centrifugal force equation]] is $F=\frac{mv^{2}}{r}$
@@ -36,6 +42,8 @@ $$\begin{align*}
 1&= \cos^{2}\theta + \sin^{2}\theta & \cos(\phi)&=\frac{W}{L} & \sin(\phi) &=\frac{W}{L}\frac{V^{2}}{gR}\\\\
 &= \left(\frac{W}{L}\right)^{2} + \left(\frac{W}{L}\frac{V^{2}}{gR}\right)^{2}\\
 L^{2} &= W^{2} + W^{2}\frac{V^{4}}{g^{2}R^{2}}\\
-&= W \left( 1 + \left(\frac{V^{2}}{gR}\right)^{2} \right)\\
-&
+&= W^{2} \left( 1 + \left(\frac{V^{2}}{gR}\right)^{2} \right)\\
+L &= W \sqrt{ 1 + \left(\frac{V^{2}}{gR}\right)^{2} }
 \end{align*}$$
+
+
