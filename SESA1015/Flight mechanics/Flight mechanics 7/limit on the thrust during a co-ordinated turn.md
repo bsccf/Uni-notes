@@ -26,5 +26,9 @@ T_{max} &= D & D&=\frac{1}{2}\rho V^{2} S C_D & C_D &= C_{Do} + kC_L^{2} & R_{mi
 Ok it's become so phat that I need to shift it:
 $$\begin{align*}
 T_{max} &=  \frac{1}{2}\rho V^{2} S C_{Do} + \frac{1}{2}\rho V^{2} S k\left(\frac{2W}{\rho S V^{2}} \sqrt{\left(\frac{V^{2}}{gR_{min}}\right)^{2} + 1}\right)^{2} \\
-&=  \frac{1}{2}\rho V^{2} S C_{Do} + \frac{4W^{2}\rho V^{2} S k}{2\rho^{2} S^{2} V^{4}}\left( \sqrt{\left(\frac{V^{2}}{gR_{min}}\right)^{2} + 1}\right)^{2}
+&=  \frac{1}{2}\rho V^{2} S C_{Do} + \frac{4W^{2}\rho V^{2} S k}{2\rho^{2} S^{2} V^{4}}\left( \left(\frac{V^{2}}{gR_{min}}\right)^{2} + 1\right)\\
+&=  \frac{1}{2}\rho V^{2} S C_{Do} + \frac{2W^{2} k}{\rho S V^{2}}\left( \left(\frac{V^{2}}{gR_{min}}\right)^{2} + 1\right)\\
+&=  \frac{1}{2}\rho V^{2} S C_{Do} + \frac{2W^{2} k}{\rho S V^{2}}\frac{V^{4}}{g^{2}R_{min}^{2}} + \frac{2W^{2} k}{\rho S V^{2}}\\
+&=  \frac{1}{2}\rho V^{2} S C_{Do} + \frac{2W^{2} kV^{2}}{\rho S g^{2}R_{min}^{2}} + \frac{2W^{2} k}{\rho S V^{2}}\\
+&=  \frac{1}{2}\rho V^{2} S C_{Do} + \frac{2W^{2} kV^{2}}{\rho S g^{2}R_{min}^{2}} + \frac{2W^{2} k}{\rho S V^{2}}
 \end{align*}$$
