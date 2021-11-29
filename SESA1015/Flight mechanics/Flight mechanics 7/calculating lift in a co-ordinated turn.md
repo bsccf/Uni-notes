@@ -15,4 +15,6 @@ This equation defines the lift an aircraft requires to maintain equalibrium when
 >> $g=$ Gravity
 >> $R=$ Radius of turning circle
 
+^6e5848
+
 ![[Pasted image 20211129184721.png]]

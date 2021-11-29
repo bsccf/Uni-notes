@@ -14,4 +14,4 @@ Yes I know this is still mech 7, but honestly there is so much in 7 I'm going to
 
 ![[modeling a co-ordinated turn]]
 
-![[calculating ]]
+![[calculating limits on preformance for a co-ordinated turn]]
