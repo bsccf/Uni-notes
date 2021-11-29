@@ -15,12 +15,19 @@ We know each of these values have limitations, things like max lift coefficient,
 
 ### Radius rearrangement
 #### Math
+This is the more useful form:
 $$\begin{align*}
  L &= W \sqrt{ 1 + \left(\frac{V^{2}}{gR}\right)^{2} }\\
 \frac{L^{2}}{W^{2}} - 1 &= \left(\frac{V^{2}}{gR}\right)^{2}\\
 \frac{g}{V^{2}} \sqrt{\frac{L^{2}}{W^{2}} - 1} &= \frac{1}{R}\\
 \therefore R &= \frac{V^{2}}{g\sqrt{\frac{L^{2}}{W^{2}} - 1}}
 \end{align*}$$
+
+But for implications I'm going a bit further:
+$$\begin{align*}
+R &= \frac{V^{2}}{g\sqrt{\frac{L^{2}}{W^{2}} - 1}} & 
+\end{align*}$$
+
 #### Implications
 Although this isn't the prettyest equation it gives us useful insights into how to have tight turns for an aircraft:
 - Fly slowly
