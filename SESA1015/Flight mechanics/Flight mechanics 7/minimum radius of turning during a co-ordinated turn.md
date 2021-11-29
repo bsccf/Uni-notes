@@ -6,12 +6,12 @@ tags: ["Question","QFormat3"]
 #### What is the
 ## Minimum radius of turning during a co-ordinated turn
 ### Min radius equation
-> ### $$R_{min} = \frac{V^{2}}{g} \frac{1}{\sqrt{n^{2}_{min}-1}}$$ 
+> ### $$R_{min} = \frac{V^{2}}{g} \frac{1}{\sqrt{n^{2}_{max}-1}}$$ 
 >> where:
 >> $R_{min}=$ Minimum turning radius 
 >> $V=$ Speed
 >> $g=$ gravity
->> $n_{min} = \frac{L_{min}}{W} =$ minimum [[load factor]]
+>> $n_{max} = \frac{L_{max}}{W} =$ maximum [[load factor]]
 
 ### Meth time
 We know:
@@ -26,6 +26,6 @@ So if we want to find the minimum radius that the aircraft can turn, we need to 
 #### Maeth time (special edition)
 It's litterally just subbing in, no rearranging:
 $$\begin{align*}
-   R_{min} &= \frac{V^{2}}{g} \frac{1}{\sqrt{n^{2}_{min}-1}}
+   R_{min} &= \frac{V^{2}}{g} \frac{1}{\sqrt{n^{2}_{max}-1}}
 \end{align*}$$
 
