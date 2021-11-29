@@ -12,3 +12,6 @@ tags: ["Question","QFormat3"]
 ![[Pasted image 20211129130235.png]]
 
 > ### $$ v(x) = \frac{1}{EI} \left(\frac{wL^{2}x^{2}}{4} + \frac{wx^{4}}{24} - \frac{wLx^{3}}{6}\right) $$
+> ### $$ v(L) = \frac{1}{8} \frac{wL^{4}}{EI} $$
+
+#### Point load
