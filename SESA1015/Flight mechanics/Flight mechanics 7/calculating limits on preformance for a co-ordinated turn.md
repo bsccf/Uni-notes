@@ -36,9 +36,15 @@ $$\begin{align*}
 
 As we can see, by increasing the [[bank angle]] we can decrease the radius of turning.
 
-![[minimum radius of turning during a co-ordinated turn#Minimum radius of turning during a co-ordinated turn]]
-
 ### The limit part
+So if we want to find the minimum radius that the aircraft can turn, we need to get:
+- Lift to a maximum
+- [[load factor]] to a maximum
+- [[bank angle]] to a maximum
+- g to a somethingum. Yes what I'm saying is control gravity. [[ccccope|COPE]]
+
+Each of these things have effective limits related to what the plane is resonably capible of, which I'm describing below.
+
 ![[limit on the load factor during a co-ordinated turn#Limit on the load factor during a co-ordinated turn]]
 
-![[limit on the ]]
+![[limit on the lift during a co-ordinated turn#Limit on the lift during a co-ordinated turn]]
