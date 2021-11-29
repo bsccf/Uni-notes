@@ -25,3 +25,10 @@ Just like [[Lift coefficient]], $C_{Lmax}$ is effected by the aircrafts configur
 
 
 ![[Pasted image 20211101210518.png]]
+
+### Finding the alternative form
+
+$$\begin{align*}
+V_S &=  \sqrt \frac{2w}{\rho C_{Lmax}} & w = \frac{L}{S} \\
+&=  \sqrt \frac{2w}{\rho C_{Lmax}}
+\end{align*}$$

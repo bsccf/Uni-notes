@@ -17,5 +17,5 @@ tags: ["Question","QFormat3"]
 We can get the equation for [[stalling speed]] from well, that little link <--- (I hope you know that's a link, because if you only just realized that I have no clue what you have been doing with these notes. {more importantly it would mean you have missed 99% of my [[memes]]} )
 
 $$\begin{align*}
-    &= 
+ &= 
 \end{align*}$$
