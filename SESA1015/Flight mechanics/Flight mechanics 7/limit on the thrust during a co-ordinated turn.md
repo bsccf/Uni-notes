@@ -45,10 +45,15 @@ R_{min} &= \sqrt\frac{2W^{2} kV^{2}}{\rho S g^{2}} \frac{1}{\sqrt{T_{max} - D_L}
 
 ### Final equation
 
-[[vent hahahahha amongus funny|vent]]
+[[vent hahahahha amongus funny|vent]] open this link pussy.
 
 > ### $$ R_{min} = \sqrt\frac{2W^{2} kV^{2}}{\rho S g^{2}} \frac{1}{\sqrt{T_{max} - D_L}}  $$ 
 >> where:
 >> $D_L=\frac{1}{2}\rho V^{2}S C_{Do} + \frac{2W^{2}k}{\rho V^{2} S}$ 
 >> $R_{min}=$ min turning radius
 >> $T_{max}=$ max thrust
+
+#### Implications
+
+It produces a graph that looks like:
+![[Pasted image 20211129225849.png]]
