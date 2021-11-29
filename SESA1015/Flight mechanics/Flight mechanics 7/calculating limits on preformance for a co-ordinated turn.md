@@ -25,9 +25,11 @@ $$\begin{align*}
 \therefore R &= \frac{V^{2}}{g\sqrt{\frac{L^{2}}{W^{2}} - 1}}
 \end{align*}$$
 
-You can also express this interms of bank angle and speed, (the equation used here is from [[modeling a co-ordinated turn^]]):
+You can also express this interms of bank angle and speed, (the equations used here are from [[modeling a co-ordinated turn]]):
 
 $$\begin{align*}
   L sin\phi  &= \frac{W}{g} \frac{V^{2}}{R}\\
- R   &= \frac{WV^{2}}{Lg sin\phi}\\
+ R   &= \frac{WV^{2}}{Lg \cdot sin\phi} & L\cos\phi = W \\\\
+&= \frac{L\cos\phi\cdot V^{2}}{Lg \cdot sin\phi}\\
+&= \frac{ V^{2}}{g \cdot tan\phi}
 \end{align*}$$

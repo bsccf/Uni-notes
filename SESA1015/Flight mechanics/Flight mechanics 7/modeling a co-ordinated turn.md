@@ -27,6 +27,8 @@ L\sin(\phi) &= \frac{mV^{2}}{R}\\
 &= \frac{W}{g}\frac{V^{2}}{R}
 \end{align*}$$
 
+^259f1c
+
 > Longitudinal equilibrium
 > $$\begin{align*}
 T    &= D
