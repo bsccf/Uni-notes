@@ -7,6 +7,6 @@ tags: ["NotesPage"]
 
 #### Intro and contents
 - [[solving statically indeterminate beams]]
-- 
+- [[solving statically indeterminate beams with double integration method]]
 
 ## Expanded articles
