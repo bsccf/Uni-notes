@@ -6,6 +6,8 @@ tags: ["Question","QFormat3"]
 #### What are the
 ## Deflection of beams standard resaults
 
+Not these are only true in this exact form, if you start using these with beams in different formats you will probably get errors.
+
 ### Beams of Length L
 
 #### Uniformly distrobuted load
