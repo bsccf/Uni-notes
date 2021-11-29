@@ -36,4 +36,4 @@ $$\begin{align*}
 
 As we can see, by increasing the [[bank angle]] we can decrease the radius of turning.
 
-![[minimum radius of turning during a co-ordi]]
+![[minimum radius of turning during a co-ordinated turn#Minimum radius of turning during a co-ordinated turn]]

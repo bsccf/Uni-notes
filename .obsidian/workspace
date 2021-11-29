@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/Flight mechanics 7/calculating limits on preformance for a co-ordinated turn.md",
-            "mode": "source"
+            "file": "SESA1015/Flight mechanics/Flight mechanics 7/minimum radius of turning during a co-ordinated turn.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 7/calculating limits on preformance for a co-ordinated turn.md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 7/minimum radius of turning during a co-ordinated turn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "8229698823bf52b2",
   "lastOpenFiles": [
+    "SESA1015/Flight mechanics/Flight mechanics 7/minimum radius of turning during a co-ordinated turn.md",
     "SESA1015/Flight mechanics/Flight mechanics 7/calculating limits on preformance for a co-ordinated turn.md",
     "SESA1015/Flight mechanics/Flight mechanics 7/Simple models for turning preformance.md",
     "SESA1015/Flight mechanics/Flight mechanics 7/load factor against bank angle.md",
@@ -114,7 +115,6 @@
     "SESA1015/Flight mechanics/Flight mechanics 7/bank angle.md",
     "SESA1015/Flight mechanics/Flight mechanics 4/stalling speed.md",
     "SESA1015/Flight mechanics/Flight mechanics 7/memes.md",
-    "SESA1015/Flight mechanics/Flight mechanics 7/watching this.md",
-    "SESA1015/Flight mechanics/Flight mechanics 7/calculating lift in a co-ordinated turn.md"
+    "SESA1015/Flight mechanics/Flight mechanics 7/watching this.md"
   ]
 }
