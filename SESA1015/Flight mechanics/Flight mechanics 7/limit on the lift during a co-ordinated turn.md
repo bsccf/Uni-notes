@@ -10,6 +10,5 @@ tags: ["Question","QFormat3"]
 
 > ### $$ R_{min} = \frac{V^{2}}{g} \frac{1}{\sqrt{ \left( \frac{V}{V_S} \right)^{4} - 1}} $$
 
-$$\begin{align*}
-   R_{min} &= 
-\end{align*}$$
+It should be noted that if the speed equals the [[stalling speed]] (for steady level flight) then $R_{min}=\infty$ meaning that if the aircraft is flying at its [[stalling speed]] it cannot preform a co-ordinated turn without falling out of the sky.
+

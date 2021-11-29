@@ -48,3 +48,6 @@ Each of these things have effective limits related to what the plane is resonabl
 ![[limit on the load factor during a co-ordinated turn#Limit on the load factor during a co-ordinated turn]]
 
 ![[limit on the lift during a co-ordinated turn#Limit on the lift during a co-ordinated turn]]
+
+#### Charting this info
+Now we can define 
