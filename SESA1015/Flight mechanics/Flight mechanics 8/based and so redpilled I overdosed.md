@@ -1,0 +1,7 @@
+# I wonder how many people check the meme links
+![[Man_blasts_Bosanska_Artiljerija_on_Balcony_FULL-10.mp4#play]]
+
+Idk ping me on discord if you see this.
+![[YEET_1-2_1.mp4]]
+
+Yes I have a meme for that. I have 800 (at the time of writing this), there ar
