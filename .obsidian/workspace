@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/7U Differential Equations 3/Differential equations 3 overview.md",
+            "file": "Mechanics structures and materials/Statics 1/11 Statically indeterminate beams/Statically indeterminate beams notes.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/7U Differential Equations 3/Differential equations 3 overview.md",
+                "file": "Mechanics structures and materials/Statics 1/11 Statically indeterminate beams/Statically indeterminate beams notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,8 @@
   },
   "active": "8229698823bf52b2",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Statics 1/11 Statically indeterminate beams/Statically indeterminate beams notes.md",
+    "Mechanics structures and materials/Statics 1/Statics 1 read order.md",
     "Mathematics for Engineering and the Environment/7U Differential Equations 3/Differential equations 3 overview.md",
     "Mathematics for Engineering and the Environment/Overall Read order.md",
     "Mathematics for Engineering and the Environment/4U Differential Equations 1/Differential Equations 1 overview.md",
@@ -113,8 +115,6 @@
     "Mathematics for Engineering and the Environment/4U Differential Equations 1/independent variables.md",
     "Mathematics for Engineering and the Environment/4U Differential Equations 1/Maclaurin series.md",
     "Mathematics for Engineering and the Environment/4U Differential Equations 1/linear and non linear equations.md",
-    "Mathematics for Engineering and the Environment/4U Differential Equations 1/dependent variables.md",
-    "Mathematics for Engineering and the Environment/4U Differential Equations 1/variables of a differential equation.md",
-    "Mathematics for Engineering and the Environment/4U Differential Equations 1/Untitled.md"
+    "Mathematics for Engineering and the Environment/4U Differential Equations 1/dependent variables.md"
   ]
 }
