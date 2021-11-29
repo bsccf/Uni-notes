@@ -14,5 +14,8 @@ Essentially what this involves is using [[deflection of beams standard resaults]
 We just need to superimose [[deflection of beams standard resaults#Uniformly distrobuted load]] and [[deflection of beams standard resaults#Point load]] after rearranging them into the correct format:
 (notice that $+\frac{1}{3} \frac{FL^{3}}{EI}$ became $-\frac{1}{3} \frac{FL^{3}}{EI}$, this is because the F direction is reversed)
 $$\begin{align*}
-   v(L) &= \frac{1}{8} \frac{wL^{4}}{EI} - \frac{1}{3} \frac{FL^{3}}{EI} 
+v(L) &= 0 \\
+   0 &= \frac{1}{8} \frac{wL^{4}}{EI} - \frac{1}{3} \frac{FL^{3}}{EI} \\
+\frac{1}{3} \frac{FL^{3}}{EI} &= \frac{1}{8} \frac{wL^{4}}{EI}\\
+\frac{1}{3} \frac{FL^{3}}{EI} &= \frac{1}{8} wL^{4}
 \end{align*}$$
