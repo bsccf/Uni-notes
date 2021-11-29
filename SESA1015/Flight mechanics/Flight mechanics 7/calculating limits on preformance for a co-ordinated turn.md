@@ -33,3 +33,5 @@ $$\begin{align*}
 &= \frac{L\cos\phi\cdot V^{2}}{Lg \cdot sin\phi}\\
 &= \frac{ V^{2}}{g \cdot tan\phi}
 \end{align*}$$
+
+As we can see, by increasing the [[bank angle]] we can decrease the radius of turning.
