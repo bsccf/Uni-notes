@@ -14,8 +14,7 @@ When in steady level flight, the aircraft can be manoeuvred into turning flight 
 Trying to only use the rudder or ailerons introduces problems:
 - If ailerons alone are used the aircraft always has an angle of "sideslip" - this increases the drag compared with the no-sideslip case. 
 - In the case of a rudder only turn, the rudder deflection induces an angle of roll which inclines the lift vector and causes the flight path to be curved. In the rudder only turn the relative wind approaches the aircraft from outside the turn and the aircraft is said to be "skidding". 
+- Not being able to control both at the same time is called a [[skill issue]]
 
-Ofc for real gamers, we If the rudder and 
-ailerons are used together, turning flight can be achieved in which the aircraft is always aligned with 
-the relative wind and this turn is called a co-ordinated turn. In the analysis which follows a co-
-ordinated turn in the horizontal plane will be considered.
+Ofc a real gamer has no skill issues, and will use both the rudder and ailerons to control the aircraft.
+If the rudder and ailerons are used together, turning flight can be achieved in which the aircraft is always aligned with the relative wind and this turn is called a co-ordinated turn. In the analysis which follows a co-ordinated turn in the horizontal plane will be considered.
