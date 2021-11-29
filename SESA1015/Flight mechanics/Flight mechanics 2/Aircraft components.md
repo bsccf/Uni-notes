@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["rudder", "aileron"]
 tags: [""]
 ---
 
