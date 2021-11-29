@@ -17,6 +17,7 @@ Lets just assume we have a term called $T_{max}$, which is the max thrust the ai
 
 $$\begin{align*}
 T_{max} &= D & D&=\frac{1}{2}\rho V^{2} S C_D & C_D &= C_{Do} + kC_L^{2} \\
-&= \frac{1}{2}\rho V^{2} S (C_{Do} + kC_L^{2}) \\
-&= 
+&= \frac{1}{2}\rho V^{2} S (C_{Do} + kC_L^{2})  \\
+&= & L &= \frac{1}{2}\rho S V^{2} C_L\\
+&
 \end{align*}$$
