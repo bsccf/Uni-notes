@@ -37,5 +37,7 @@ $$\begin{align*}
 && D_{L} &= \frac{1}{2}\rho V^{2}S C_{Do} + kC_L^{2} \frac{1}{2}\rho V^{2}S & \frac{2W}{\rho V^{2} S} &=C_L\\
 && &= \frac{1}{2}\rho V^{2}S C_{Do} + k\left(\frac{2W}{\rho V^{2} S}\right)^{2} \frac{1}{2}\rho V^{2}S\\
 T_{max} &=  \frac{1}{2}\rho V^{2} S C_{Do}+ \frac{2W^{2} k}{\rho S V^{2}} + \frac{2W^{2} kV^{2}}{\rho S g^{2}R_{min}^{2}}  & &= \frac{1}{2}\rho V^{2}S C_{Do} + \frac{2W^{2}k}{\rho V^{2} S}\\
-T_{max} &= D_L + \frac{2W^{2} kV^{2}}{\rho S g^{2}R_{min}^{2}}
+T_{max} &= D_L + \frac{2W^{2} kV^{2}}{\rho S g^{2}R_{min}^{2}}\\
+R_{min}^{2} &= \frac{2W^{2} kV^{2}}{\rho S g^{2}} \frac{1}{(T_{max} - D_L)}\\
+R_{min} &= \sqrt\frac{2W^{2} kV^{2}}{\rho S g^{2}} \frac{1}{\sqrt{T_{max} - D_L}}
 \end{align*}$$
