@@ -13,6 +13,5 @@ The load factor is the ratio of the lift of an aircraft to its weight and repres
 >> $L=$ Lift
 >> $W=$ Weight
 
-In a [[co-ordinated turn]] your
-
+In a [[co-ordinated turn]] the resaulting vector of the weight and centrafugal forces act "down" relative to the passengers. 
 Basically when someone says "I'm experiencing 69g's" then $n=69$, and I'm not sure how they survived pulling 69 fucking g's, like fuck they must be a pancake, and a somehow sentient pancake at that? 
