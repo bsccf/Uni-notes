@@ -35,5 +35,7 @@ $$\begin{align*}
 &&L\cos(\phi)&=W & L\sin(\phi) &=\frac{W}{g}\frac{V^{2}}{R}\\
 1&= \cos^{2}\theta + \sin^{2}\theta & \cos(\phi)&=\frac{W}{L} & \sin(\phi) &=\frac{W}{L}\frac{V^{2}}{gR}\\\\
 &= \left(\frac{W}{L}\right)^{2} + \left(\frac{W}{L}\frac{V^{2}}{gR}\right)^{2}\\
-L^{2} &= \left(\frac{W}{L}\right)^{2} + \left(\frac{W}{L}\frac{V^{2}}{gR}\right)^{2}\\
+L^{2} &= W^{2} + W^{2}\frac{V^{4}}{g^{2}R^{2}}\\
+&= W \left( 1 + \left(\frac{V^{2}}{gR}\right)^{2} \right)\\
+&
 \end{align*}$$
