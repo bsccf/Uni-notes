@@ -32,5 +32,8 @@ T    &= D
 
 Knowing this we can combine them to:
 $$\begin{align*}
-    &= 
+&&L\cos(\phi)&=W & L\sin(\phi) &=\frac{W}{g}\frac{V^{2}}{R}\\
+1&= \cos^{2}\theta + \sin^{2}\theta & \cos(\phi)&=\frac{W}{L} & \sin(\phi) &=\frac{W}{L}\frac{V^{2}}{gR}\\\\
+&= \left(\frac{W}{L}\right)^{2} + \left(\frac{W}{L}\frac{V^{2}}{gR}\right)^{2}\\
+L^{2} &= \left(\frac{W}{L}\right)^{2} + \left(\frac{W}{L}\frac{V^{2}}{gR}\right)^{2}\\
 \end{align*}$$
