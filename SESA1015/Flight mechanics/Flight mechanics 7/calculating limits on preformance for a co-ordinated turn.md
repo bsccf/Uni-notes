@@ -50,4 +50,7 @@ Each of these things have effective limits related to what the plane is resonabl
 ![[limit on the lift during a co-ordinated turn#Limit on the lift during a co-ordinated turn]]
 
 #### Charting this info
-Now we can define 
+Now we can define different limits on $R_min$ we can chart it:
+![[Pasted image 20211129213223.png]]
+Here the domain of flight is the region where the plane will remain flying in the desired manor.
+You can also see a $V_{max}$ this is the [[design speed]] of the aircraft.
