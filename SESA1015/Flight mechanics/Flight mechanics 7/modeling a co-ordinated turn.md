@@ -12,14 +12,25 @@ We will be using the following diagram when doing maths.
 We will use $\phi$ for [[bank angle]].
 We also know the [[centrifugal force equation]] is $F=\frac{mv^{2}}{r}$
 
-We know that the aircraft is in equalibrium:
+We know that the aircraft is in equilibrium:
 
-> Verticle equalibrium
+> Vertacle equilibrium
 > $$\begin{align*}
 L\cos(\phi)&=W 
 \end{align*}$$
 
-> Horizontal equalibrium
+> Horizontal equilibrium
 > $$\begin{align*}
-L\cos(\phi)    &= 
+L\sin(\phi) &= \frac{mV^{2}}{R}\\
+&= \frac{W}{g}\frac{V^{2}}{R}
+\end{align*}$$
+
+> Longitudinal equilibrium
+> $$\begin{align*}
+T    &= D
+\end{align*}$$
+
+Knowing this we can combine them to:
+$$\begin{align*}
+    &= 
 \end{align*}$$
