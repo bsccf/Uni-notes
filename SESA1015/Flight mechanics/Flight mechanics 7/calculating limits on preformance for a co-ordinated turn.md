@@ -24,4 +24,6 @@ $$\begin{align*}
 #### Implications
 Although this isn't the prettyest equation it gives us useful insights into how to have tight turns for an aircraft:
 - Fly slowly
-- 
+- Minimise weight
+- Maxamise lift
+- Increase gravity (ez, huh your saying this is impractical? Watch this: [[watching this]])
