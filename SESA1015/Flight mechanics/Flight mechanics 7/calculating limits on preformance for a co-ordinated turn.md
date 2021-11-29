@@ -50,10 +50,15 @@ Each of these things have effective limits related to what the plane is resonabl
 ![[limit on the lift during a co-ordinated turn#Limit on the lift during a co-ordinated turn]]
 
 #### Charting this info
-Now we can define different limits on $R_min$ we can chart it:
+Now we can define different limits on $R_{min}$ we can chart it:
 ![[Pasted image 20211129213223.png]]
 Here the domain of flight is the region where the plane will remain flying in the desired manor.
 You can also see a $V_{max}$ this is the [[design speed]] of the aircraft.
 
 There are various implications of this chart:
-- Max manovorability occurs where the stall limit and load factor limit intercept (assuming that this is within the domain of flight, idk there might be an extreme aircraft with some weird chart)
+- Max maneuverability occurs where the stall limit and load factor limit intercept (assuming that this is within the domain of flight, idk there might be an extreme aircraft with some weird chart)
+- Stall limit increases with altitude, $R_{min}$ also increases hence at higher altitudes you are less maneuverable
+
+#### A few more limits
+
+![[limit on the thrust during a co-ordinated turn]]
