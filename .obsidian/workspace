@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/Flight mechanics 7/modeling a co-ordinated turn.md",
+            "file": "SESA1015/Flight mechanics/Flight mechanics 7/Simple models for turning preformance.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 7/modeling a co-ordinated turn.md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 7/Simple models for turning preformance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "8229698823bf52b2",
   "lastOpenFiles": [
+    "SESA1015/Flight mechanics/Flight mechanics 7/Simple models for turning preformance.md",
     "SESA1015/Flight mechanics/Flight mechanics 7/modeling a co-ordinated turn.md",
+    "SESA1015/Flight mechanics/Flight mechanics 7/calculating lift in a co-ordinated turn.md",
     "SESA1015/Flight mechanics/Flight mechanics 7/centrifugal force equation.md",
     "SESA1015/Flight mechanics/Flight mechanics 7/bank angle.md",
-    "SESA1015/Flight mechanics/Flight mechanics 7/Simple models for turning preformance.md",
     "SESA1015/Flight mechanics/Flight mechanics 7/co-ordinated turn.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/relative wind.md",
     "SESA1015/Flight mechanics/Flight mechanics 7/skill issue.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/Aircraft components.md",
-    "SESA1015/Flight mechanics/Mechanics of flight read order.md",
-    "SESA1015/Flight mechanics/Flight mechanics 8/Introduction to longitudinal stability.md"
+    "SESA1015/Flight mechanics/Mechanics of flight read order.md"
   ]
 }

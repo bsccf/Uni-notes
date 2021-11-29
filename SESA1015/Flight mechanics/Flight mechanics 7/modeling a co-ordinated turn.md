@@ -9,10 +9,6 @@ tags: ["Question","QFormat3"]
 
 ![[calculating lift in a co-ordinated turn]]
 
-
-We will be using the following diagram when doing maths.
-![[Pasted image 20211129184721.png]]
-
 ### Proof
 
 We will use $\phi$ for [[bank angle]].
