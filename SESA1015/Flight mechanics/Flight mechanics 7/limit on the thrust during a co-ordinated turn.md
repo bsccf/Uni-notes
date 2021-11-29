@@ -16,8 +16,8 @@ This especially becomes an issue when you consider that during a [[co-ordinated 
 Lets just assume we have a term called $T_{max}$, which is the max thrust the aircraft can produce.
 
 $$\begin{align*}
-T_{max} &= D & D&=\frac{1}{2}\rho V^{2} S C_D & C_D &= C_{Do} + kC_L^{2} \\
-&= \frac{1}{2}\rho V^{2} S (C_{Do} + kC_L^{2})  \\
-&= & L &= \frac{1}{2}\rho S V^{2} C_L\\
+T_{max} &= D & D&=\frac{1}{2}\rho V^{2} S C_D & C_D &= C_{Do} + kC_L^{2} & R_{min}&= \frac{V^{2}}{g} \frac{1}{\sqrt{ \left(\frac{L_{max}}{W}\right)^{2} - 1}} \\
+&= \frac{1}{2}\rho V^{2} S (C_{Do} + kC_L^{2}) &&&&& \frac{V^{2}}{gR_{min}} &= \sqrt{ \left(\frac{L_{max}}{W}\right)^{2} - 1} \\
+&= & L &= \frac{1}{2}\rho S V^{2} C_L &&& (\frac{V^{2}}{gR_{min}})^{2} + 1 &= \left(\frac{L_{max}}{W}\right)^{2}
 &
 \end{align*}$$
