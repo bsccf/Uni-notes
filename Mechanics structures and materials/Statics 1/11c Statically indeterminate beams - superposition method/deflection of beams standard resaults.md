@@ -17,5 +17,5 @@ tags: ["Question","QFormat3"]
 #### Point load
 ![[Pasted image 20211129131034.png]]
 
-> ### $$ v(x) = \frac{1}{EI} \left(  \frac{Fx^{3}}{6} - \frac{FLx^{2}}{2} \right) $$
+> ### $$ v(x) = \frac{1}{EI} \left( \frac{FLx^{2}}{2} -  \frac{Fx^{3}}{6}  \right) $$
 > ### $$ v(L) = \frac{1}{3} \frac{FL^{3}}{EI} $$
