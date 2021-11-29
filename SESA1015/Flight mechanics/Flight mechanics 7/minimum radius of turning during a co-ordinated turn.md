@@ -8,10 +8,10 @@ tags: ["Question","QFormat3"]
 ### Min radius equation
 > ### $$R_{min} = \frac{V^{2}}{g} \frac{1}{\sqrt{n^{2}_{min}-1}}$$ 
 >> where:
->> $R_{min}=$ 
->> $V=$
->> $g=$
->> $n_{min} = \frac{L_{min}}{W}$ minimum [[load factor]]
+>> $R_{min}=$ Minimum turning radius 
+>> $V=$ Speed
+>> $g=$ gravity
+>> $n_{min} = \frac{L_{min}}{W} =$ minimum [[load factor]]
 
 ### Meth time
 We know:
@@ -28,3 +28,4 @@ It's litterally just subbing in, no rearranging:
 $$\begin{align*}
    R_{min} &= \frac{V^{2}}{g} \frac{1}{\sqrt{n^{2}_{min}-1}}
 \end{align*}$$
+
