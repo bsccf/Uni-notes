@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 1/solving statically indeterminate beams with double integration method.md",
+            "file": "Mechanics structures and materials/Statics 1/11c Statically indeterminate beams - superposition method/solving statically indeterminate beams with superposition method.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 1/solving statically indeterminate beams with double integration method.md",
+                "file": "Mechanics structures and materials/Statics 1/11c Statically indeterminate beams - superposition method/solving statically indeterminate beams with superposition method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "8229698823bf52b2",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Statics 1/solving statically indeterminate beams with double integration method.md",
-    "Mechanics structures and materials/Statics 1/Statically indeterminate beams – double integration method notes.md",
-    "Mechanics structures and materials/Statics 1/Statics 1 read order.md",
+    "Mechanics structures and materials/Statics 1/11c Statically indeterminate beams - superposition method/solving statically indeterminate beams with superposition method.md",
     "Mechanics structures and materials/Statics 1/11 a Statically indeterminate beams/solving statically indeterminate beams.md",
+    "Mechanics structures and materials/Statics 1/11c Statically indeterminate beams - superposition method/Statically indeterminate beams - superposition method notes.md",
+    "Mechanics structures and materials/Statics 1/11b Statically indeterminate beams –double integration method/Statically indeterminate beams – double integration method notes.md",
+    "Mechanics structures and materials/Statics 1/Statics 1 read order.md",
+    "Mechanics structures and materials/Statics 1/11b Statically indeterminate beams –double integration method/you are retard.md",
+    "Mechanics structures and materials/Statics 1/11b Statically indeterminate beams –double integration method/solving statically indeterminate beams with double integration method.md",
     "Mechanics structures and materials/Statics 1/11 a Statically indeterminate beams/Statically indeterminate beams notes.md",
     "Mechanics structures and materials/Statics 1/11 a Statically indeterminate beams/statically determinate and indeterminate beams.md",
-    "Mathematics for Engineering and the Environment/7U Differential Equations 3/Differential equations 3 overview.md",
-    "Mathematics for Engineering and the Environment/Overall Read order.md",
-    "Mathematics for Engineering and the Environment/4U Differential Equations 1/Differential Equations 1 overview.md",
-    "Mathematics for Engineering and the Environment/4U Differential Equations 1/homogeneous and nonhomogeneous differential equations.md"
+    "Mathematics for Engineering and the Environment/7U Differential Equations 3/Differential equations 3 overview.md"
   ]
 }

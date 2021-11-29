@@ -15,3 +15,5 @@ If we know the deflection of the beam, we can get more equations and hence may b
 ![[Pasted image 20211129110847.png]]
 
 ### Methods
+- [[solving statically indeterminate beams with double integration method|double integration method]]
+- [[solving statically indeterminate beams with superposition method|superposition method]]
