@@ -18,6 +18,6 @@ Lets just assume we have a term called $T_{max}$, which is the max thrust the ai
 $$\begin{align*}
 T_{max} &= D & D&=\frac{1}{2}\rho V^{2} S C_D & C_D &= C_{Do} + kC_L^{2} & R_{min}&= \frac{V^{2}}{g} \frac{1}{\sqrt{ \left(\frac{L_{max}}{W}\right)^{2} - 1}} \\
 &= \frac{1}{2}\rho V^{2} S (C_{Do} + kC_L^{2}) &&&&& \frac{V^{2}}{gR_{min}} &= \sqrt{ \left(\frac{L_{max}}{W}\right)^{2} - 1} \\
-&= & L &= \frac{1}{2}\rho S V^{2} C_L &&& (\frac{V^{2}}{gR_{min}})^{2} + 1 &= \left(\frac{L_{max}}{W}\right)^{2}
-&
+&= \frac{1}{2}\rho V^{2} S C_{Do} + \frac{1}{2}\rho V^{2} S kC_L^{2} & L &= \frac{1}{2}\rho S V^{2} C_L &&& W\sqrt{\left(\frac{V^{2}}{gR_{min}}\right)^{2} + 1} &= L_{max}\\
+&= \frac{1}{2}\rho V^{2} S C_{Do} + WkC_L\sqrt{\left(\frac{V^{2}}{gR_{min}}\right)^{2} + 1} 
 \end{align*}$$
