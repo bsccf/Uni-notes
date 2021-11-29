@@ -9,4 +9,5 @@ tags: ["Question","QFormat3"]
 We will be using the following diagram when doing maths.
 ![[Pasted image 20211129184721.png]]
 
-[[bank angle]]
+We will use $\phi$ for [[bank angle]].
+We also know the [[centripetal force]] can be modeled using $F=\frac{V^{2}}{R}$
