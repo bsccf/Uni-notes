@@ -17,4 +17,4 @@ Trying to only use the rudder or ailerons introduces problems:
 - Not being able to control both at the same time is called a [[skill issue]]
 
 Ofc a real gamer has no skill issues, and will use both the rudder and ailerons to control the aircraft. (Yes I did just write that.)
-If the rudder and ailerons are used together, turning flight can be achieved in which the aircraft is always aligned with the relative wind and this turn is called a co-ordinated turn. In the analysis which follows a co-ordinated turn in the horizontal plane will be considered.
+If the rudder and ailerons are used together, turning flight can be achieved in which the aircraft is always aligned with the [[relative wind]] and this turn is called a [[co-ordinated turn]].
