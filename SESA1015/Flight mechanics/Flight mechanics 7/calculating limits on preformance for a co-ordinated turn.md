@@ -6,6 +6,8 @@ tags: ["Question","QFormat3"]
 #### What
 ## Calculating limits on preformance for a co-ordinated turn
 
+Our course is pointless, the internet found a better method of flight [[watching this]].
+
 ### Introduction
 
 We have this useful boi that we calculated previously:
@@ -22,15 +24,3 @@ $$\begin{align*}
 \frac{g}{V^{2}} \sqrt{\frac{L^{2}}{W^{2}} - 1} &= \frac{1}{R}\\
 \therefore R &= \frac{V^{2}}{g\sqrt{\frac{L^{2}}{W^{2}} - 1}}
 \end{align*}$$
-
-But for implications I'm going a bit further:
-$$\begin{align*}
-R &= \frac{V^{2}}{g\sqrt{\frac{L^{2}}{W^{2}} - 1}} & 
-\end{align*}$$
-
-#### Implications
-Although this isn't the prettyest equation it gives us useful insights into how to have tight turns for an aircraft:
-- Fly slowly
-- Minimise weight
-- Maxamise lift
-- Increase gravity (ez, huh your saying this is impractical? Watch this: [[watching this]])
