@@ -15,3 +15,8 @@ This especially becomes an issue when you consider that during a [[co-ordinated 
 ### Math time
 Lets just assume we have a term called $T_{max}$, which is the max thrust the aircraft can produce.
 
+$$\begin{align*}
+T_{max} &= D & D&=\frac{1}{2}\rho V^{2} S C_D & C_D &= C_{Do} + kC_L^{2} \\
+&= \frac{1}{2}\rho V^{2} S (C_{Do} + kC_L^{2}) \\
+&= 
+\end{align*}$$
