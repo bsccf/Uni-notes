@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 158
+    "width": 185
   },
   "right": {
     "id": "12c168c46d609ed6",
@@ -107,6 +107,7 @@
   "active": "65946bec8ea85e6e",
   "lastOpenFiles": [
     "SESA1015/Flight mechanics/Flight mechanics 7/limit on the thrust during a co-ordinated turn.md",
+    "conflict-files-obsidian-git.md",
     "SESA1015/Flight mechanics/Flight mechanics 7/vent hahahahha amongus funny.md",
     "SESA1015/Flight mechanics/Flight mechanics 7/thrust vector angle.md",
     "SESA1015/Flight mechanics/Flight mechanics 7/calculating limits on preformance for a co-ordinated turn.md",
@@ -114,7 +115,6 @@
     "Templates/latex multiline eq.md",
     "SESA1015/Flight mechanics/Flight mechanics 7/design speed.md",
     "SESA1015/Flight mechanics/Flight mechanics 7/limit on the load factor during a co-ordinated turn.md",
-    "SESA1015/Flight mechanics/Flight mechanics 7/minimum radius of turning during a co-ordinated turn.md",
-    "SESA1015/Flight mechanics/Flight mechanics 7/load factor.md"
+    "SESA1015/Flight mechanics/Flight mechanics 7/minimum radius of turning during a co-ordinated turn.md"
   ]
 }
