@@ -24,7 +24,7 @@ V_{MD} &= \sqrt[4]{  \frac{ \frac{2 K}{ \pi A} \cdot \frac{ W^{2}}{ \rho S } }{ 
 &= \sqrt{ \frac{W}{\rho S} } \cdot \sqrt[4]{ \frac{4 K}{ \pi A} \cdot \frac{ 1 }{ C_{Do} }   }
 \end{align*} $$
 
-> $$ V_{MD} = \sqrt{ \frac{W}{\rho S} } \cdot \sqrt[4]{ \frac{4 K}{ \pi A} \cdot \frac{ 1 }{ C_{Do} }   } $$
+> $$ V_{MD} = \sqrt{ \frac{W}{\rho S} } \cdot \sqrt[4]{ \frac{4 K}{ \pi A} \cdot \frac{ 1 }{ C_{Do} }   }= \sqrt{ \frac{W}{\rho S} } \cdot \sqrt[4]{  \frac{ 4k }{ C_{Do} }   } $$
 
 ^c26ec7
 

@@ -20,3 +20,4 @@ As you can see $L/D$ will cancel everything out so lift to drag ratio:
 >> $C_L=$ [[Lift coefficient]]
 
 ^3e1672
+Typical values for L/D ratio are ~8, 10 being quite good

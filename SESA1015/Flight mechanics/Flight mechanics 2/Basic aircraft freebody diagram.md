@@ -9,7 +9,7 @@ tags: ["Question","QFormat3"]
 
 Here:
 $R =$ [[Aerodynamic Reaction]]
-$V =$ [[Relative wind]]
+$V =$ [[relative wind]]
 $CG =$ Centre of gravity (note this is important for [[Flight path]])
 $\alpha =$ [[Angle of attack]]
 

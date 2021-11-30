@@ -58,6 +58,8 @@ C_L^{\frac{1}{2}} \frac{2K}{\pi A} C_L &= \left(C_{Do}+\frac{K}{\pi A}C_L^{2}\ri
 \therefore C_{Do} &= 3C_{Di} \:\:\:\: at\:max\:R\\
 \end{align*}$$
 
+^fbd1e2
+
 Note $C_{Do} = 3C_{Di}$.
 
 Now if we use the resault above and the [[lift coefficient at min drag]]:
@@ -95,7 +97,7 @@ The optimum speed for maximising range without changing altitude occurs at 1.316
 >> $s=$ [[specific fuel consumption (aircraft)|s.f.c]]
 >> $\rho=$ air density
 >> $A=$ [[Wing aspect ratio]]
->> $C_{Do}=$ [[form drag]] coefficient
+>> $C_{Do}=$ [[form drag coefficient]] 
 
 This tells us to get the best range we need to:
 - fly at a high altitude.

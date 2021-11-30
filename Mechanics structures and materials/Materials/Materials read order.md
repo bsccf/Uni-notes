@@ -4,6 +4,14 @@ tags: ["NotesPage"]
 ---
 
 # Materials read order
+### Based tunes
+![[the music - YouTube 1.mp3#play]]
+
+Rewards for knowledge:
+- Where it is from: +2 Kromer
+- Exactly where it is from: +4 Kromer
+- The name: +3 Kromer
+- None of the above: -99 Kromer and -600000 Social credits
 
 ### Atomic composition (not sure about name)
 1) [[Atoms and types of bonding]]
@@ -20,3 +28,9 @@ tags: ["NotesPage"]
 2) [[Partial solubility notes]]
 3) [[Steel phase diagrams notes]]
 4) [[Precipitation hardening notes]]
+
+### Failure of materials
+1) [[Brittle vs ductile failure notes]]
+2) [[Stress concentration notes]]
+3) [[Ductile to brittle transition notes]]
+4) [[Fracture mechanics notes]]

@@ -6,12 +6,13 @@ tags: ["Question","QFormat3"]
 #### What is the
 ## Lift coefficient at min drag
 ### Value
-> ### $$C_{LminD} = \sqrt\frac{C_{Do}\pi A}{K}$$ 
+> ### $$C_{LminD} = \sqrt\frac{C_{Do}\pi A}{K} = \sqrt\frac{C_{Do}}{k} $$ 
 >> where:
 >> $C_{LminD}=$ [[Lift coefficient]] at min drag 
 >> $C_{Do}=$ [[form drag]] coefficient
 >> $A=$ [[Wing aspect ratio]]
 >> $K=$ [[induced drag coefficient#^fce277|Constant related to wing shape]]
+>> $k=$ [[induced drag coefficient#^438b96|Another constant relating to wing shape]]
 
 ### Proof
 Using [[min drag speed in steady level flight]]:

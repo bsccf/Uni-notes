@@ -4,6 +4,17 @@ tags: ["NotesPage"]
 ---
 
 # Statics 1 read order
+### The based
+Ngl 99% of my favorate bits of music I origionally found in a meme and thought "huh that's neat".
+
+![[Touhou Cirno theme OST remix - YouTube.mp3#play]]
+
+This is the most recent one, at some point in my notes there will be the meme I got this from (if you find it you get +1 \[\[KROMER\]\]).
+
+Very pog, if you don't believe this to be based... then, uhhh [[you are retard|this]].
+
+
+### The pog
 1) [[Forces and Equilibrium]]
 2) [[Stress and Strain]]
 3) [[pin jointed trusses]]
@@ -19,3 +30,6 @@ tags: ["NotesPage"]
 13) [[parallel axis theorem notes]]
 14) [[Deflection in beams notes]]
 15) [[Macaulay method notes]]
+16) [[Statically indeterminate beams notes]]
+17) [[Statically indeterminate beams – double integration method notes]]
+18) [[Statically indeterminate beams - superposition method notes]]
