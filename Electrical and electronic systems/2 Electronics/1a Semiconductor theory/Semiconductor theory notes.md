@@ -10,3 +10,9 @@ tags: ["NotesPage"]
 
 ## Expanded articles
 ![[band theory]]
+
+![[doping semiconductors]]
+
+![[n-p junction]]
+
+![[n-p diode]]

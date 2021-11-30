@@ -15,6 +15,9 @@ Then apply a bending moment to it:
 You can get an intuitive feeling that it would compress towords the top and stretch towords the bottom, but as you can see the plane cross section remains strait.
 
 ### Assumptions
+
+^4e4c28
+
 Of course in reality everything has [[random idk|unexpected behaviour]], so for analysis we are going to work under some assumtions:
 - The plane cross section remains a plane under loading conditions
 - The beam is bent into a circular arc
