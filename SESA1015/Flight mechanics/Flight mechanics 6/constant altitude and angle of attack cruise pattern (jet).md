@@ -7,6 +7,8 @@ tags: ["Question","QFormat3"]
 ## Constant altitude and angle of attack [[cruise pattern]] (jet)
 Unlike the [[cruise climb with constant speed|the other technique]] we encountered this one involves varying the speed and maintaining the same altitude.
 
+# CHECK WORKING NOT SURE IF RIGHT
+
 ### Assumptions
 The angle of attack is constant and the altitude is constant:
 - $L/D=$ constant (angle of attack is constant)
