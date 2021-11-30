@@ -34,3 +34,4 @@ Rewards for knowledge:
 2) [[Stress concentration notes]]
 3) [[Ductile to brittle transition notes]]
 4) [[Fracture mechanics notes]]
+5) [[Fatigue notes]]
