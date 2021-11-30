@@ -55,5 +55,9 @@ R_{min} &= \sqrt\frac{2W^{2} kV^{2}}{\rho S g^{2}} \frac{1}{\sqrt{T_{max} - D_L}
 
 #### Implications
 
-It produces a graph that looks like:
+It produces a graph that looks like this:
 ![[Pasted image 20211129225849.png]]
+
+Now if we consider what this looks like when including the [[limit on the lift during a co-ordinated turn|stall limit]]:
+![[Pasted image 20211129230004.png]]
+We get two situations, with the top one being desireable for training aircraft because the pilot is unable to stall the plane inside their thrust limit when turning. But the second one they can so is dangerous.
