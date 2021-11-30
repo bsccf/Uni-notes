@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "65946bec8ea85e6e",
+        "id": "8ce2a94610dfc0bf",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/Flight mechanics 7/limit on the thrust during a co-ordinated turn.md",
-            "mode": "source"
+            "file": "SESA1015/Flight mechanics/Flight mechanics 7/Simple models for turning preformance.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 7/limit on the thrust during a co-ordinated turn.md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 7/Simple models for turning preformance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,17 +104,17 @@
     "direction": "horizontal",
     "width": 234
   },
-  "active": "65946bec8ea85e6e",
+  "active": "8ce2a94610dfc0bf",
   "lastOpenFiles": [
-    "SESA1015/Flight mechanics/Flight mechanics 7/limit on the thrust during a co-ordinated turn.md",
-    "SESA1015/Flight mechanics/Flight mechanics 7/vent hahahahha amongus funny.md",
-    "SESA1015/Flight mechanics/Flight mechanics 7/thrust vector angle.md",
-    "SESA1015/Flight mechanics/Flight mechanics 7/calculating limits on preformance for a co-ordinated turn.md",
-    "SESA1015/Flight mechanics/Flight mechanics 7/limit on the lift during a co-ordinated turn.md",
-    "Templates/latex multiline eq.md",
-    "SESA1015/Flight mechanics/Flight mechanics 7/design speed.md",
-    "SESA1015/Flight mechanics/Flight mechanics 7/limit on the load factor during a co-ordinated turn.md",
-    "SESA1015/Flight mechanics/Flight mechanics 7/minimum radius of turning during a co-ordinated turn.md",
-    "SESA1015/Flight mechanics/Flight mechanics 7/load factor.md"
+    "SESA1015/Flight mechanics/Flight mechanics 7/Simple models for turning preformance.md",
+    "SESA1015/Flight mechanics/Mechanics of flight read order.md",
+    "SESA1015/Flight mechanics/Flight mechanics 6/range at constant altitude and constant angle of attack.md",
+    "SESA1015/Flight mechanics/Flight mechanics 5/endurance and range of jet aircraft.md",
+    "SESA1015/Flight mechanics/Flight mechanics 5/calculating range in the statosphere.md",
+    "SESA1015/Flight mechanics/Flight mechanics 5/based engineering.md",
+    "Thermofluids/9 Kinetic theory of gas/ideal gas law.md",
+    "conflict-files-obsidian-git.md",
+    "Thermofluids/9 Kinetic theory of gas/Kinetic theory of gas notes.md",
+    "Thermofluids/Thermofluids read order.md"
   ]
 }
