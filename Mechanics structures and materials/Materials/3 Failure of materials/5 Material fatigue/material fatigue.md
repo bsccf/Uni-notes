@@ -18,4 +18,6 @@ Through the lifespan of a component it will often see fluctuating stresses:
 ![[Pasted image 20211203113331.png]]
 
 The second graph is a more realistic representation of the stress on a real world component.
-This is also where we get some
+There are some important values that can be extracted from these graphs that we will use in maths later:
+- [[stress range]]
+- [[stress amplitude]]
