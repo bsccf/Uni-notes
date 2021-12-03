@@ -12,3 +12,10 @@ Atleast [[hahah emmeme|there's memes]], but materials is acctually quite cool tb
 This is the cause of 90% of metallic failures in real world situations, so yeah. It be big important. (that's the scientific term ofc)
 
 ### The cause
+
+Through the lifespan of a component it will often see fluctuating stresses:
+
+![[Pasted image 20211203113331.png]]
+
+The second graph is a more realistic representation of the stress on a real world component.
+This is also where we get some
