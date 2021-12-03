@@ -18,6 +18,12 @@ We know creep is a diffusion based mechanism so we can use [[temperatures effect
 >> $K_2=$ a material constant
 >> $R_u=$ [[universal gas constant]] (I think)
 
-Note that $n$ is basically determined by the type of diffusion eg:
-- Stress-induced vacancy diffusion, grain boundary diffusion, dislocation motion, grain boundary sliding 
-- Mechanisms include bulk diffusion of atoms to relieve stresses, Diffusion to assist Dn. Motion and g.b. diffusion allowing g.b. sliding
+##### [[holy shit I'm stupid|Determining]] $n$
+
+$n$ is basically determined by the type of diffusion eg:
+- Stress-induced vacancy diffusion
+-  Grain boundary diffusion
+-  dislocation motion
+-  grain boundary sliding 
+
+It also includes any mechanisms that include bulk diffusion of atoms to relieve stresses, Diffusion to assist Dn. Motion and g.b. diffusion allowing g.b. sliding
