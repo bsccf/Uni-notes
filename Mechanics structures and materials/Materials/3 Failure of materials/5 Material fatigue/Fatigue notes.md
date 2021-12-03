@@ -14,4 +14,4 @@ tags: ["NotesPage"]
 
 ![[S-N curves]]
 
-![[]]
+![[factors that effect fatigue life]]

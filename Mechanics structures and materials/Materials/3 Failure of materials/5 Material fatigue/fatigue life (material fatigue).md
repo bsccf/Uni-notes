@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["fatigue life"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -8,6 +8,8 @@ tags: ["Question","QFormat3"]
 The number of cycles to cause [[final fracture (material fatigue)|final fracture]] at a specified [[stress amplitude]].
 
 ![[Pasted image 20211203123513.png]]
+
+This is basically the thing we care about for a given material, as it directly effects the reliability of the material/compnent lifespan.
 
 #### Meth
 Fatigue life is a measure of the total cycles needed before final fracture to occur during [[material fatigue]].

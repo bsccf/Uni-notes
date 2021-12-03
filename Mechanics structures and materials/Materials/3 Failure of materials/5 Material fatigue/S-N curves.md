@@ -11,6 +11,8 @@ These are diagrams used to characterise the [[material fatigue]] preformance of 
 
 ![[Pasted image 20211203123513.png]]
 
+Also note that [[S-N curves]] are not very accurate so should not be used for determining the safe life of structures
+
 #### Notable features
 - [[fatigue life (material fatigue)]]
 - [[fatigue strength (material fatigue)]]
