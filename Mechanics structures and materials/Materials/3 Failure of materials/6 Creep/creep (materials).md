@@ -22,8 +22,12 @@ The component must also be hot enough, for common materials creep can occur at:
 Also occurs in polymers
 
 ### Stages of creep
+![[Pasted image 20211203153625.png]]
+
 Creep occurs over 3 stages:
-1) Primary 
+1) Primary stage - The rate of strain decreases, this is due to [[cold work hardening|strain hardening]]
+2) Secondary stage - Constant rate of strain, the majority of the components life is spent in the secondary stage
+3) Tertiary - The rate of strain increases, this leads f
 
 ### Example
 ![[Pasted image 20211203152906.png]]

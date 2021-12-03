@@ -1,5 +1,5 @@
 ---
-aliases: ["work hardening"]
+aliases: ["work hardening","strain hardening"]
 tags: ["Question","QFormat3"]
 ---
 
