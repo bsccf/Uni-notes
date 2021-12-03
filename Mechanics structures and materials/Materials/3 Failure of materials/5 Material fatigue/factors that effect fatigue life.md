@@ -3,7 +3,7 @@ aliases: [""]
 tags: ["Question","QFormat3"]
 ---
 
-#### What is
+#### What are the
 ## Factors that effect [[fatigue life (material fatigue)|fatigue life]]
 
 - Surface finish, rough surfaces have more stress condentration points decreasing [[crack initiation (material fatigue)|cycles for crack initiation]].
