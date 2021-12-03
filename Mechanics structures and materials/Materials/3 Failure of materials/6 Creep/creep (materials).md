@@ -13,13 +13,18 @@ It causes perminant deformation within components.
 #### Stress
 For creep to occur there must be a constant stress on the component.
 
+Higher stresses lead to faster creep.
+
 #### Temperature
 The component must also be hot enough, for common materials creep can occur at:
 - $(0.3 \:to\: 0.4)\cdot T_{melting}$  for metals
 - $(0.4 \:to\: 0.5)\cdot T_{melting}$  for ceramics
 
+Higher temperatures lead to faster creep.
+
 #### Notes
-Also occurs in polymers
+- Also occurs in polymers
+- It is a diffusion based processes so it can be calculated using [[temperatures effect on diffusion|calculating diffusion]]
 
 ### Stages of creep
 ![[Pasted image 20211203153625.png]]
@@ -27,7 +32,9 @@ Also occurs in polymers
 Creep occurs over 3 stages:
 1) Primary stage - The rate of strain decreases, this is due to [[cold work hardening|strain hardening]]
 2) Secondary stage - Constant rate of strain, the majority of the components life is spent in the secondary stage
-3) Tertiary - The rate of strain increases, this leads f
+3) Tertiary - The rate of strain increases, this leads to failure and usually [[necking]]
+
+
 
 ### Example
 ![[Pasted image 20211203152906.png]]

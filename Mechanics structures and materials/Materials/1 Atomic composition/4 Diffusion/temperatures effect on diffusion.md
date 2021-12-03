@@ -1,5 +1,5 @@
 ---
-aliases: ["diffusion rate"]
+aliases: ["diffusion rate","calculating diffusion"]
 tags: ["Question","QFormat3"]
 ---
 
