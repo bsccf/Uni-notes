@@ -8,3 +8,6 @@ tags: ["Question","QFormat3"]
 ### Introduction
 
 These are diagrams used to characterise the [[material fatigue]] preformance of a material. The cyclic stress is often plotted against cycles to failure.
+
+![[Pasted image 20211203123513.png]]
+
