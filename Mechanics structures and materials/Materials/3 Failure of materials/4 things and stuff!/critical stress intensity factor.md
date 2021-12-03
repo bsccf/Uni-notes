@@ -19,7 +19,7 @@ So if we know either $\sigma$ or $a$ we can determine the other.
 
 This is the equation for the critical stress intensity factor for any shape object
 
-> ### $$ K_c = \sigma_f \sqrt{\pi a_c} $$ 
+> ### $$ K_c = Y \sigma_f \sqrt{\pi a_c} $$ 
 >> where:
 >> $K_c=$ [[critical stress intensity factor]] 
 >> $\sigma_f=$ stress applied at fracture
