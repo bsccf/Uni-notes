@@ -11,3 +11,7 @@ These are diagrams used to characterise the [[material fatigue]] preformance of 
 
 ![[Pasted image 20211203123513.png]]
 
+#### Notable features
+- [[fatigue life (S-N curves)]]
+- [[fatigue strength (S-N curves)]]
+- 
