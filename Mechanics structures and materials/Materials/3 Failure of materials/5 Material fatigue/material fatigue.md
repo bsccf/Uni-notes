@@ -24,4 +24,8 @@ There are some important values that can be extracted from these graphs that we 
 
 The fluctuating stresses cause defects to initiate and grow until the defect reaches [[critical crack radius]] and fast failure occurs.
 
-### Bit more detail
+#### The steps
+There are 3 steps:
+1) crack initiation, 
+2) crack propagation
+3) final fracture
