@@ -1,5 +1,5 @@
 ---
-aliases: ["final fracture","fatigue life"]
+aliases: ["final fracture"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -8,4 +8,4 @@ tags: ["Question","QFormat3"]
 
 This is the last step in [[material fatigue]], it is where the cracks have grown past their [[critical crack radius]] and so they expand rapidly under cyclic loading and you get fast fracture.
 
-The point at which final fracture is measured in is 
+The cycles after which final fracture occurs is [[fatigue life (material fatigue)]].

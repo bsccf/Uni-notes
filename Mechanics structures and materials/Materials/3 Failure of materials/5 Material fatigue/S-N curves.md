@@ -13,7 +13,11 @@ These are diagrams used to characterise the [[material fatigue]] preformance of 
 
 #### Notable features
 - [[fatigue life (material fatigue)]]
-- [[fatigue strength (S-N curves)]]
-- [[fatigue limit]]
+- [[fatigue strength (material fatigue)]]
+- [[fatigue limit (material fatigue)]]
 
-![[fatigue life (material fatigue)]]
+![[fatigue life (material fatigue)#Fatigue life material fatigue N_f]]
+
+![[fatigue strength (material fatigue)#Fatigue strength material fatigue]]
+
+![[fatigue limit (material fatigue)#Fatigue limit]]
