@@ -22,4 +22,6 @@ There are some important values that can be extracted from these graphs that we 
 - [[stress range]]
 - [[stress amplitude]]
 
-The fluctuating stresses cause defects to initiate and grow until the defect reaches [[critical stress intensity factor]]
+The fluctuating stresses cause defects to initiate and grow until the defect reaches [[critical crack radius]] and fast failure occurs.
+
+### Bit more detail
