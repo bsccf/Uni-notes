@@ -27,3 +27,5 @@ $n$ is basically determined by the type of diffusion eg:
 -  grain boundary sliding 
 
 It also includes any mechanisms that include bulk diffusion of atoms to relieve stresses, Diffusion to assist Dn. Motion and g.b. diffusion allowing g.b. sliding
+
+Also there is a meme hidden in this page, see if you can find it.
