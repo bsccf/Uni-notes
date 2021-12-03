@@ -9,11 +9,15 @@ We know creep is a diffusion based mechanism so we can use [[temperatures effect
 
 ![[Pasted image 20211203154515.png]]
 
-> ### $$ \dot{\epsilon} = K_2 \sigma^{n} (exp)^{-\frac{Q_c}{RT}} $$ 
+> ### $$ \dot{\epsilon} = K_2 \sigma^{n} (exp)^{-\frac{Q_c}{R_u T}} $$ 
 >> where:
 >> $\dot{\epsilon}= \frac{d\epsilon}{dt}=$ [[calculating creep rate|creep rate]] 
 >> $Q_c=$ activation energy for creep
 >> $T=$ temperature
 >> $n=$ the stress exponent, it is dependent on the mechanism
 >> $K_2=$ a material constant
->> $R=$ [[individual gas constant|specific gas constant]]
+>> $R_u=$ [[universal gas constant]] (I think)
+
+Note that $n$ is basically determined by the type of diffusion eg:
+- Stress-induced vacancy diffusion, grain boundary diffusion, dislocation motion, grain boundary sliding 
+- Mechanisms include bulk diffusion of atoms to relieve stresses, Diffusion to assist Dn. Motion and g.b. diffusion allowing g.b. sliding
