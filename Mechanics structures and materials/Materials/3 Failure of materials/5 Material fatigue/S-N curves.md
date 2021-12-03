@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["S-N curve"]
 tags: ["Question","QFormat3"]
 ---
 

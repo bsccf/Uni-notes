@@ -7,9 +7,11 @@ tags: ["NotesPage"]
 
 #### Intro and contents
 - [[material fatigue]]
-
+- [[S-N curves]]
 
 ## Expanded articles
 ![[material fatigue]]
 
 ![[S-N curves]]
+
+![[]]
