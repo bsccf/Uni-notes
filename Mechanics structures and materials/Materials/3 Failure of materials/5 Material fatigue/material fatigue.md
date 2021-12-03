@@ -26,6 +26,6 @@ The fluctuating stresses cause defects to initiate and grow until the defect rea
 
 #### The steps
 There are 3 steps:
-1) crack initiation, 
-2) crack propagation
-3) final fracture
+1) [[crack initiation (material fatigue)]] 
+2) [[crack propagation (material fatigue)]] 
+3) [[final fracture (material fatigue)]] 
