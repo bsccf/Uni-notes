@@ -28,13 +28,16 @@ Where $K$ can be determined using this equation:
 >> $a=$ Radius of the defect
 
 ^5ab4a7
-Or
+
+Or in objects that arn't infinate plates:
 > ### $$ K = Y \sigma_0 \sqrt{\pi a} $$ 
 >> where:
 >> $K=$ [[stress intensity factor]] 
 >> $\sigma_0=$ stress across the plate
 >> $a=$ Radius of the defect
 >> $Y=$ A dimensionless parameter which depends on the crack and specimin geometry as well as the mannor of load application
+
+^bbe7f1
 
 You can also combine these equations:
 

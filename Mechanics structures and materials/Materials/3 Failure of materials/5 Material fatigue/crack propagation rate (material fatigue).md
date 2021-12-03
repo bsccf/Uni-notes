@@ -12,5 +12,10 @@ Since [[crack propagation rate (material fatigue)|crack propagation rate]] is th
 We also know that the [[stress intensity factor|stress intensity]] will vary at the crack tip since under cyclic loading the stress varies and stress effects [[stress intensity factor|stress intensity]].
 
 We know you can find [[stress intensity factor|stress intensity]] using:
-![[stress intensity factor#^]]
+![[stress intensity factor#^bbe7f1]]
 
+So now since we have values of $\sigma_{max}$ and $\sigma_{min}$:
+$$\begin{align*}
+&& K_{max} &= Y \sigma_{max} \sqrt{\pi a} & K_{min} &= Y \sigma_{min} \sqrt{\pi a}\\
+\delt
+\end{align*}$$
