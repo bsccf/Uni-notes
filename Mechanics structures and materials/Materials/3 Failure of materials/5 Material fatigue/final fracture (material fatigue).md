@@ -4,7 +4,7 @@ tags: ["Question","QFormat3"]
 ---
 
 #### Describe
-## Final fracture (material fatigue)
+## Final fracture ([[material fatigue]])
 
 This is the last step in [[material fatigue]], it is where the cracks have grown past their [[critical crack radius]] and so they expand rapidly under cyclic loading and you get fast fracture.
 
