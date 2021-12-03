@@ -18,4 +18,4 @@ tags: ["NotesPage"]
 
 ![[factors that effect fatigue life]]
 
-![[]]
+![[crack propagation rate (material fatigue)]]
