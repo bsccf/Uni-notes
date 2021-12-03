@@ -16,6 +16,11 @@ We know you can find [[stress intensity factor|stress intensity]] using:
 
 So now since we have values of $\sigma_{max}$ and $\sigma_{min}$:
 $$\begin{align*}
-&& K_{max} &= Y \sigma_{max} \sqrt{\pi a} & K_{min} &= Y \sigma_{min} \sqrt{\pi a}\\
-\delt
+\Delta K &= K_{max} - K_{min} & K_{max} &= Y \sigma_{max} \sqrt{\pi a} & K_{min} &= Y \sigma_{min} \sqrt{\pi a}\\
+\Delta K &= Y \sigma_{max} \sqrt{\pi a} - Y \sigma_{min} \sqrt{\pi a}\\
+\Delta K &=  (\sigma_{max}-\sigma_{min}) Y  \sqrt{\pi a}\\
+\Delta K &=  (\Delta \sigma )Y  \sqrt{\pi a}\\
+\Delta K &=  (\Delta \sigma )Y  \sqrt{\pi a}\\
+&
 \end{align*}$$
+Note that for values where $\sigma_{min}$ is compressive we let $\sigma_{min}=0$
