@@ -25,6 +25,7 @@ Higher temperatures lead to faster creep.
 #### Notes
 - Also occurs in polymers
 - It is a diffusion based processes so it can be calculated using [[temperatures effect on diffusion|calculating diffusion]]
+- further reading [[calculating creep rate]]
 
 ### Stages of creep
 ![[Pasted image 20211203153625.png]]
@@ -33,7 +34,6 @@ Creep occurs over 3 stages:
 1) Primary stage - The rate of strain decreases, this is due to [[cold work hardening|strain hardening]]
 2) Secondary stage - Constant rate of strain, the majority of the components life is spent in the secondary stage
 3) Tertiary - The rate of strain increases, this leads to failure and usually [[necking]]
-
 
 
 ### Example
