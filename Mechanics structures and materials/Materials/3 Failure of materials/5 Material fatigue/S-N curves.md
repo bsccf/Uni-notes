@@ -13,6 +13,11 @@ These are diagrams used to characterise the [[material fatigue]] preformance of 
 
 Also note that [[S-N curves]] are not very accurate so should not be used for determining the safe life of structures. They are more a way of displaying the general behiaviour of a given material under specific conditions
 
+#### Loading conditions
+S-N curves are representations of the [[fatigue life (material fatigue)|fatigue life]] for a given sample under cyclic loading in the following format:
+![[Pasted image 20211203125855.png]]
+As you can see the loading follows a sine wave.
+
 #### Notable features
 - [[fatigue life (material fatigue)]]
 - [[fatigue strength (material fatigue)]]
