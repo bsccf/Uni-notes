@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["stress intensity"]
 tags: ["Question","QFormat3"]
 ---
 
