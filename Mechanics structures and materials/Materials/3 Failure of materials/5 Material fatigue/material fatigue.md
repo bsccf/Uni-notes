@@ -29,3 +29,5 @@ There are 3 steps:
 1) [[crack initiation (material fatigue)]] 
 2) [[crack propagation (material fatigue)]] 
 3) [[final fracture (material fatigue)]] 
+
+
