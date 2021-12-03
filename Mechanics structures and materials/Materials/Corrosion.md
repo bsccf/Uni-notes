@@ -6,7 +6,8 @@ tags: ["NotesPage"]
 # Corrosion
 
 #### Intro and contents
-- 
+- [[oxidation]]
+- [[reduction]]
 
 
 
