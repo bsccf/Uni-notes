@@ -25,7 +25,7 @@ $$\begin{align*}
 \end{align*}$$
 Note that for values where $\sigma_{min}$ is compressive we let $\sigma_{min}=0$
 
-Hence we are left with an equation: $\Delta K &=  (\Delta \sigma )Y  \sqrt{\pi a}$ that describes the [[stress intensity factor]] range experienced at the crack tip.
+Hence we are left with an equation: $\Delta K =  (\Delta \sigma )Y  \sqrt{\pi a}$ that describes the [[stress intensity factor]] range experienced at the crack tip.
 
 ### Crack propigation rate equation
 We don't have a single equation as the relationship varies over the stress intensity factor range, as can be seen on this graph:
@@ -40,4 +40,3 @@ This is the equation for region II:
 >> $a=$ crack radius
 >> $K=$ [[stress intensity factor]] 
 
-It is the
