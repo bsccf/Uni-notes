@@ -21,3 +21,5 @@ The second graph is a more realistic representation of the stress on a real worl
 There are some important values that can be extracted from these graphs that we will use in maths later:
 - [[stress range]]
 - [[stress amplitude]]
+
+The fluctuating stresses cause defects to initiate and grow until the defect reaches [[critical stress intensity factor]]

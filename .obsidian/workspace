@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/3 Failure of materials/5 Material fatigue/stress amplitude.md",
-            "mode": "preview"
+            "file": "Mechanics structures and materials/Materials/3 Failure of materials/4 things and stuff!/critical crack radius.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/3 Failure of materials/5 Material fatigue/stress amplitude.md",
+                "file": "Mechanics structures and materials/Materials/3 Failure of materials/4 things and stuff!/critical crack radius.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "65946bec8ea85e6e",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Materials/3 Failure of materials/5 Material fatigue/stress amplitude.md",
+    "Mechanics structures and materials/Materials/3 Failure of materials/4 things and stuff!/critical crack radius.md",
+    "Mechanics structures and materials/Materials/3 Failure of materials/4 things and stuff!/critical stress intensity factor.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/5 Material fatigue/material fatigue.md",
+    "Mechanics structures and materials/Materials/3 Failure of materials/5 Material fatigue/stress amplitude.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/5 Material fatigue/stress range.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/5 Material fatigue/Never have I related to an inanimate object so much..md",
     "Mechanics structures and materials/Materials/3 Failure of materials/5 Material fatigue/Fatigue notes.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/5 Material fatigue/hahah emmeme.md",
     "Mechanics structures and materials/Materials/Materials read order.md",
-    "Mechanics structures and materials/Materials/1 Atomic composition/7 Strengthening Mechanisms/big boom boom.md",
-    "SESA1015/Flight mechanics/Flight mechanics 7/limit on the thrust during a co-ordinated turn.md",
-    "conflict-files-obsidian-git.md"
+    "Mechanics structures and materials/Materials/1 Atomic composition/7 Strengthening Mechanisms/big boom boom.md"
   ]
 }
