@@ -11,3 +11,4 @@ Atleast [[hahah emmeme|there's memes]], but materials is acctually quite cool tb
 
 This is the cause of 90% of metallic failures in real world situations, so yeah. It be big important. (that's the scientific term ofc)
 
+### The cause
