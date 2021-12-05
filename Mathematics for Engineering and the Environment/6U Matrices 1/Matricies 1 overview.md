@@ -8,3 +8,4 @@ tags: ["NotesPage"]
 Read order:
 1) [[Intro into matrices notes]]
 2) [[Basic operations of matrices notes]]
+3) [[Matrix algebra notes]]

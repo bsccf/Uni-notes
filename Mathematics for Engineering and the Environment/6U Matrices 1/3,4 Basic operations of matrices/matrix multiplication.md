@@ -23,9 +23,7 @@ To solve $A\times B$ use the following method:
 ### Important notes
 
 In matrix multiplication $(A\times B) \neq (B\times A)$ atleast most of the time, for specific values of A,B it is possible for the two forms to be equivilent.
-
-This is elaborated furthe
-
+![[Pasted image 20211205174839.png]]
 ### Example
 It's simplest to explain with an example:
 
