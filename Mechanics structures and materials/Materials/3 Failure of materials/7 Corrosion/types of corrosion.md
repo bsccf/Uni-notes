@@ -11,6 +11,7 @@ There are 8 types of corrosion you need to be aware of:
 - [[galvanic corrosion]]
 - [[crevice corrosion]]
 - [[pitting (corrosion)]]
+- [[]]
 
 ### Expanded
 ![[uniform attack (corrosion)#Uniform attack corrosion]]
@@ -19,4 +20,4 @@ There are 8 types of corrosion you need to be aware of:
 
 ![[crevice corrosion#Crevice corrosion]]
 
-![[pit]]
+![[pitting (corrosion)#Pitting corrosion]]
