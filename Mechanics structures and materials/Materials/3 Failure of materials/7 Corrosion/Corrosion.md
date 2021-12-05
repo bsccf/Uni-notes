@@ -15,5 +15,7 @@ How about you [[try and corrode deez nuts]].
 Was going to embed it but it's too long:
 [[types of corrosion]]
 
-### M
-Although all of these processes kinda suck, not all corrosion
+### More stuff
+Although all of these processes kinda suck, not all corrosion is bad, people are creative and have found methods of using it to our advantage.
+
+
