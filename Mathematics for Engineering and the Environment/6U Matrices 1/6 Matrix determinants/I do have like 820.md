@@ -20,7 +20,9 @@ I would post more to proove a point but. Acc nvm I'm posting more
 ![[video0-52.mov]]
 ![[video0-1.mov]]
 
-
+>![[awfafwfwa.gif]]
+>![[grwgwrgaefafe.gif]]
+>![[eafawfdawf.gif]]
 
 ![[chad_wildcat 1.mp4]]
 ![[based!!!!.png]]
