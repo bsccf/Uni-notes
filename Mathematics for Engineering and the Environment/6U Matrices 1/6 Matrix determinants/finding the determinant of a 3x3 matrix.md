@@ -17,6 +17,8 @@ You use this equation:
 > ### $$ det\:B = a_{11}\cdot det\:\begin{pmatrix} a_{22} & a_{23} \\ a_{32} & a_{33} \end{pmatrix} - a_{12}\cdot det\:\begin{pmatrix} a_{21} & a_{23} \\ a_{31} & a_{33} \end{pmatrix} + a_{13} \cdot det\:\begin{pmatrix} a_{21} & a_{22} \\ a_{31} & a_{32} \end{pmatrix} $$ 
 
 Note that you need to use [[finding the determinant of a 2x2 matrix]] for each. (I know it's a pain)
+This e
+
 
 There is an easy way to remember it though.
 

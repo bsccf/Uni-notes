@@ -10,6 +10,7 @@ tags: ["NotesPage"]
 - [[finding the determinant of a 2x2 matrix]]
 - [[finding the determinant of a 3x3 matrix]]
 - [[minor (matrices)]]
+- [[cofactor (matrices)]]
 
 #### I need a meme (or 2, or 3, or 4... [[I do have like 820]]), these take ages to write up
 ![[video0_3 1.mp4]]
