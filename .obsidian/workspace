@@ -7,10 +7,9 @@
         "id": "65946bec8ea85e6e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Mechanics structures and materials/Materials/3 Failure of materials/7 Corrosion/Corrosion.md",
-            "mode": "source"
+            "file": "SESA1015/Flight mechanics/SESA1015 lectures_2020.pdf"
           }
         }
       }
@@ -76,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/3 Failure of materials/7 Corrosion/Corrosion.md",
+                "file": "SESA1015/Flight mechanics/SESA1015 lectures_2020.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +105,7 @@
   },
   "active": "65946bec8ea85e6e",
   "lastOpenFiles": [
+    "SESA1015/Flight mechanics/SESA1015 lectures_2020.pdf",
     "Mechanics structures and materials/Materials/3 Failure of materials/7 Corrosion/Corrosion.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/7 Corrosion/reduction reaction.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/7 Corrosion/oxidation reaction.md",
@@ -114,7 +114,6 @@
     "Mechanics structures and materials/Materials/3 Failure of materials/6 Creep/holy shit I'm stupid.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/6 Creep/calculating creep rate.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/6 Creep/Creep notes.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/6 Creep/creep (materials).md",
-    "Mechanics structures and materials/Materials/1 Atomic composition/4 Diffusion/modelling diffusion.md"
+    "Mechanics structures and materials/Materials/3 Failure of materials/6 Creep/creep (materials).md"
   ]
 }
