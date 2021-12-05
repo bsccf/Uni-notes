@@ -13,6 +13,6 @@ This is where matrices really start, prepare for stuff.
 
 
 ### Method
-It's easyest to explain with an example:
+It's simplest to explain with an example:
 
-
+$$ \begin{pmatrix} 1 & 2 & 3 & 4 \\ 5 & 6 & 7 & 8 \end{pmatrix} \begin{pmatrix} 9  \\ 10 \\ 11 \\ 12 \end{pmatrix} = \begin{pmatrix} 1 \\  \end{pmatrix} $$
