@@ -11,3 +11,5 @@ tags: ["NotesPage"]
 
 ## Expanded articles
 ![[addition and subtraction of matrices]]
+
+![[matrix multiplication by a scalar]]
