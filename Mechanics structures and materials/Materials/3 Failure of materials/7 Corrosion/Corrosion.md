@@ -12,3 +12,5 @@ tags: ["NotesPage"]
 
 
 ## Expanded articles
+
+![[electric potentials between metals]]
