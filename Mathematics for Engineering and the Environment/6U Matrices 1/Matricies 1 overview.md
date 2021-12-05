@@ -16,3 +16,5 @@ tags: ["NotesPage"]
 ![[square matrix]]
 
 ![[principle diagonal (matrices)]]
+
+![[trace (matrices)]]

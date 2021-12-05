@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/6U Matrices 1/principle diagonal (matrices).md",
+            "file": "Mathematics for Engineering and the Environment/6U Matrices 1/trace (matrices).md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/6U Matrices 1/principle diagonal (matrices).md",
+                "file": "Mathematics for Engineering and the Environment/6U Matrices 1/trace (matrices).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "65946bec8ea85e6e",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/6U Matrices 1/trace (matrices).md",
+    "Mathematics for Engineering and the Environment/6U Matrices 1/Matricies 1 overview.md",
     "Mathematics for Engineering and the Environment/6U Matrices 1/principle diagonal (matrices).md",
     "Mathematics for Engineering and the Environment/6U Matrices 1/square matrix.md",
-    "Mathematics for Engineering and the Environment/6U Matrices 1/Matricies 1 overview.md",
     "Mathematics for Engineering and the Environment/6U Matrices 1/definining matrices.md",
     "Mathematics for Engineering and the Environment/General org/matrices.md",
     "Mathematics for Engineering and the Environment/6U Matrices 1/column vector.md",
     "Mathematics for Engineering and the Environment/6U Matrices 1/what is a matrix.md",
     "Mathematics for Engineering and the Environment/Overall Read order.md",
-    "Mathematics for Engineering and the Environment/8U Matrices 2/Matricies 2 overview.md",
-    "Mathematics for Engineering and the Environment/General org/differentiation.md"
+    "Mathematics for Engineering and the Environment/8U Matrices 2/Matricies 2 overview.md"
   ]
 }
