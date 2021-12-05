@@ -13,6 +13,8 @@ Rewards for knowledge:
 - The name: +3 Kromer
 - None of the above: -99 Kromer and -600000 Social credits
 
+#### General introduc
+
 ### Atomic composition (not sure about name)
 1) [[Atoms and types of bonding]]
 2) [[Crystal Structures]]
