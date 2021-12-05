@@ -12,7 +12,6 @@ tags: ["NotesPage"]
 - [[matrix distrobutive law over addition]]
 - [[multiplication by unit matrices]]
 
-
 ## Expanded articles
 ![[matrix commutative law]]
 
