@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/3 Failure of materials/7 Corrosion/Corrosion notes.md",
+            "file": "Mechanics structures and materials/Materials/3 Failure of materials/7 Corrosion/sacrificial anode.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/3 Failure of materials/7 Corrosion/Corrosion notes.md",
+                "file": "Mechanics structures and materials/Materials/3 Failure of materials/7 Corrosion/sacrificial anode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,8 @@
   },
   "active": "65946bec8ea85e6e",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Materials/3 Failure of materials/7 Corrosion/sacrificial anode.md",
+    "Mechanics structures and materials/Materials/3 Failure of materials/7 Corrosion/protecting against corrosion.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/7 Corrosion/Corrosion notes.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/7 Corrosion/corrosion.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/7 Corrosion/passivation.md",
@@ -113,8 +115,6 @@
     "Mechanics structures and materials/Materials/3 Failure of materials/7 Corrosion/types of corrosion.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/7 Corrosion/galvanic corrosion.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/7 Corrosion/pitting (corrosion).md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/7 Corrosion/stress corrosion.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/7 Corrosion/tribocorrosion.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/7 Corrosion/selective leaching (corrosion).md"
+    "Mechanics structures and materials/Materials/3 Failure of materials/7 Corrosion/stress corrosion.md"
   ]
 }
