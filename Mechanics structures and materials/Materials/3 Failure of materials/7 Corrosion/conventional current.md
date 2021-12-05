@@ -18,4 +18,8 @@ Important notes:
 ![[conventional current.png]]
 
 I know it's not this guys fault for us still using it, but I need someones grave to piss on.
-- Conventinal c
+- Conventinal current needs to unexist
+- We need a time machine to fix this attrocity
+- If conventional current was a troll I take everything back and respect it. (well almost everything, fuck conventional current)
+
+![[conventional current]]
