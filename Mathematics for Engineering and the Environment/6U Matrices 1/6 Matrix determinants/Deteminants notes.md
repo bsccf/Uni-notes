@@ -19,3 +19,5 @@ tags: ["NotesPage"]
 ![[determinant]]
 
 ![[finding the determinant of a 2x2 matrix]]
+
+![[finding the determinant of a 3x3 matrix]]
