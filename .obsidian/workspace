@@ -7,8 +7,11 @@
         "id": "65946bec8ea85e6e",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Mathematics for Engineering and the Environment/Overall Read order.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mathematics for Engineering and the Environment/Overall Read order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +106,7 @@
   },
   "active": "65946bec8ea85e6e",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/Overall Read order.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/7 Corrosion/Corrosion notes.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/7 Corrosion/protecting against corrosion.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/7 Corrosion/coatings for corrosion protection.md",
@@ -110,7 +115,6 @@
     "Mechanics structures and materials/Materials/3 Failure of materials/7 Corrosion/corrosion.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/7 Corrosion/passivation.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/7 Corrosion/try and corrode deez nuts.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/7 Corrosion/types of corrosion.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/7 Corrosion/galvanic corrosion.md"
+    "Mechanics structures and materials/Materials/3 Failure of materials/7 Corrosion/types of corrosion.md"
   ]
 }
