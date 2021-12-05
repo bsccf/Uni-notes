@@ -14,6 +14,7 @@ There are 8 types of corrosion you need to be aware of:
 - [[intergranular corrosion]]
 - [[selective leaching (corrosion)]]
 - [[tribocorrosion]]
+- [[stress corrosion]]
 
 ### Expanded
 ![[uniform attack (corrosion)#Uniform attack corrosion]]
