@@ -13,7 +13,11 @@ Rewards for knowledge:
 - The name: +3 Kromer
 - None of the above: -99 Kromer and -600000 Social credits
 
-#### General introduc
+#### Learning goals
+- See why nature just dosn't want us to have nice things
+- See how nature goes about screwing us
+- See how we use those processes to our advantage
+- Build cool stuff inspite of the insane amount of processes that want to destroy our stuff, which just makes it even more of a triamph over the natural world
 
 ### Atomic composition (not sure about name)
 1) [[Atoms and types of bonding]]
