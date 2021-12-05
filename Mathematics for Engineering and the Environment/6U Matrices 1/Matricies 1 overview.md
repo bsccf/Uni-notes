@@ -6,9 +6,11 @@ tags: ["NotesPage"]
 # Matricies 1 overview
 
 #### Intro and contents
-- pain
+- [[dimentions of matrices]]
 
 
 ## Expanded articles
 
 ![[dimentions of matrices]]
+
+!

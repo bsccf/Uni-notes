@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["matrix"]
 tags: ["NotesPage"]
 ---
 
