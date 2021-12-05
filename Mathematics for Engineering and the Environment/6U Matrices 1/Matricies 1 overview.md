@@ -6,7 +6,7 @@ tags: ["NotesPage"]
 # Matricies 1 overview
 #### Tunes
 ![[Violin／Rock - nah Im not giving you the name kek.mp3#play]]
-Todays 
+Todays tune, and I have much stranger genre mixing.
 
 #### Read order
 1) [[Intro into matrices notes]]
