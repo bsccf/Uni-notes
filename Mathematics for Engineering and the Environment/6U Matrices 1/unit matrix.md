@@ -16,5 +16,4 @@ A useful notation is:
 > ### $$ I_n = \begin{pmatrix} 1 & 0 & 0 & ... & 0 \\ 0 & 1 & 0 & ... & 0 \\ 0 & 0 & 1 & ... & 0 \\ ... & ... & ... & ... & ... \\ 0 & 0 & 0 & ... & 1 \end{pmatrix} $$ 
 >> where:
 >> $I_n=$ A unit matrix of row/column size n 
->> $=$
->> $=$
+>> $n=$ Row/column size

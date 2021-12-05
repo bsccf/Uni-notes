@@ -22,3 +22,5 @@ tags: ["NotesPage"]
 ![[diagonal matrix]]
 
 ![[unit matrix]]
+
+![[transposed matrix]]
