@@ -30,3 +30,5 @@ tags: ["NotesPage"]
 ![[unit matrix]]
 
 ![[transposed matrix]]
+
+![[symetric matrix]]
