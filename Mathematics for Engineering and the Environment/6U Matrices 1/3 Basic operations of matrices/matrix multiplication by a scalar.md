@@ -9,4 +9,4 @@ This is really ez:
 
 ![[Pasted image 20211205170820.png]]
 
-You 
+You just multiply each element in the matrix by the given scalar.

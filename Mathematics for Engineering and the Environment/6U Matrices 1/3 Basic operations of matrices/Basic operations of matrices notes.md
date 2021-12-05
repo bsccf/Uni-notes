@@ -13,3 +13,5 @@ tags: ["NotesPage"]
 ![[addition and subtraction of matrices]]
 
 ![[matrix multiplication by a scalar]]
+
+![[transposed matrix addition rules]]
