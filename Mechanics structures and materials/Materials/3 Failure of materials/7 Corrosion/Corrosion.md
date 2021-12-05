@@ -1,16 +1,11 @@
 ---
 aliases: [""]
-tags: ["NotesPage"]
+tags: ["Question","QFormat3"]
 ---
 
-# Corrosion
+#### What is
+## Corrosion
 
-#### Intro and contents
-- [[oxidation reaction]]
-- [[reduction reaction]]
+Corrosion is a natural process that converts a refined metal into a more chemically stable form such as oxide, hydroxide, carbonate or sulfide. It is the gradual destruction of materials (usually a metal) by chemical and/or electrochemical reaction with their environment.
 
-
-
-## Expanded articles
-
-![[electric potentials between metals]]
+![[corrosion, corrode deez nuts]]
