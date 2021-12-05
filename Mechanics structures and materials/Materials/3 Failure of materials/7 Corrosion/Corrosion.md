@@ -12,13 +12,5 @@ How about you [[try and corrode deez nuts]].
 
 
 ### Types of corrosion
-Was going to embed it but it's too long:
-[[types of corrosion]]
 
-### More stuff
-#### Oxide formation
-Although all of these processes kinda suck, not all corrosion is bad, people are creative and have found methods of using it to our advantage.
-
-The formation of oxides on the surface of a metal can create a protective barrier that is insulative and inhibits ion diffusion. Which then leads to reduced corrosion.
-
-#### Metal [[passivation]]
+![[types of corrosion]]
