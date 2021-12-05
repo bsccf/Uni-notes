@@ -18,3 +18,5 @@ tags: ["NotesPage"]
 ![[matrix distrobutive law over scalar multiplication]]
 
 ![[matrix distrobutive law over addition]]
+
+![[multiplication by unit matrices]]
