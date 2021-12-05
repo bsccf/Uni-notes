@@ -22,4 +22,4 @@ There is an easy way to remember it though.
 
 ![[Pasted image 20211205200114.png]]
 
-Also note that it is possible to find the determinant using other rows, but you will probably fi
+Also note that it is possible to find the determinant using other rows, but you will probably figure that out for yourself later.
