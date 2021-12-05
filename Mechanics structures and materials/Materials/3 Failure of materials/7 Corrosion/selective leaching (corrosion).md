@@ -7,3 +7,4 @@ tags: ["Question","QFormat3"]
 ## Selective leaching (corrosion)
 The case wherein one element/constituent of an alloy is removed selectively by corrosive action. Hence why it's also called [[selective leaching (corrosion)|dealloying]], since it resaults in the selective removal of important elements.
 
+Not really a diagram since there are a 
