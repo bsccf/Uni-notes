@@ -16,4 +16,9 @@ The formation of oxides on the surface of a metal can create a protective barrie
 - CoCrMo alloys used in hips ~26-30% Cr for protective Cr2O3 layer
 - Aluminium can be anodised to increase the thickness of the oxide layer (drive more oxidation electrochemically) – oxide layer is protective
 
-![[sacrificial anode]]
+![[sacrificial anode#Sacrificial anode]]
+
+
+![[impressed current for corrosion protection]]
+
+![[coatings for corrosion protection]]
