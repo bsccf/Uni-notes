@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["square matrices"]
 tags: ["Question","QFormat3"]
 ---
 
