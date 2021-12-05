@@ -10,5 +10,10 @@ Corrosion is a natural process that converts a refined metal into a more chemica
 
 How about you [[try and corrode deez nuts]].
 
-![[types of corrosion#Types of corrosion]]
 
+### Types of corrosion
+Was going to embed it but it's too long:
+[[types of corrosion]]
+
+### M
+Although all of these processes kinda suck, not all corrosion
