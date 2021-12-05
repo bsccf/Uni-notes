@@ -13,6 +13,7 @@ tags: ["NotesPage"]
 - [[diagonal matrix]]
 - [[unit matrix]]
 - [[transposed matrix]]
+- [[symetric matrix]]
 
 
 ## Expanded articles
@@ -32,3 +33,6 @@ tags: ["NotesPage"]
 ![[transposed matrix]]
 
 ![[symetric matrix]]
+
+## Some general examples
+![[Pasted image 20211205160705.png]]
