@@ -13,3 +13,4 @@ This is a [[square matrix]] that is symetrical about its [[principle diagonal (m
 >> $n=$ row number
 >> $a_{ii}=$ any element
 
+It is possible to prove something is a [[symetric matrix]] using [[transposed matrix addition rules]].

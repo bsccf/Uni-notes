@@ -17,3 +17,5 @@ There is a special case for a [[square matrix]]:
 > ### $$ (A^{T} + A)^{T} = (A^{T})^{T} + A^{T} = A+A^{T} $$ 
 >> where:
 >> $A=$ a [[square matrix]]
+
+This also shows that $A+A^{T}$ is a [[symetric matrix]], which becomes very useful in proofs as you can imagine.
