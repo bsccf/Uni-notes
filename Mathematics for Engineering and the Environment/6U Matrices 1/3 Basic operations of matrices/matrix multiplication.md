@@ -13,6 +13,11 @@ This is where matrices really start, prepare for stuff.
 
 
 ### Method
+
+You take each element
+
+
+### Example
 It's simplest to explain with an example:
 
-$$ \begin{pmatrix} 1 & 2 & 3 & 4 \\ 5 & 6 & 7 & 8 \end{pmatrix} \begin{pmatrix} 9  \\ 10 \\ 11 \\ 12 \end{pmatrix} = \begin{pmatrix} 1 \\  \end{pmatrix} $$
+$$ \begin{pmatrix} 1 & 2 & 3 & 4 \\ 5 & 6 & 7 & 8 \end{pmatrix} \begin{pmatrix} 9  \\ 10 \\ 11 \\ 12 \end{pmatrix} = \begin{pmatrix} (1*9) + (2*10) + (3*11) + (4 * 12) \\ (5*9) + (6*10) + (7*11) + (8 * 12)  \end{pmatrix} =\begin{pmatrix} 110 \\ 278  \end{pmatrix} $$
