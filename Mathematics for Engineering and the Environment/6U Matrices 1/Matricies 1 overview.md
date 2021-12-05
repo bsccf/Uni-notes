@@ -11,4 +11,4 @@ tags: ["NotesPage"]
 
 ## Expanded articles
 
-![[]]
+![[dimentions of matrices]]
