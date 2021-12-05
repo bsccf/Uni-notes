@@ -24,3 +24,5 @@ There are 8 types of corrosion you need to be aware of:
 ![[crevice corrosion#Crevice corrosion]]
 
 ![[pitting (corrosion)#Pitting corrosion]]
+
+![[intergranular corrosion#Intergranular corrosion]]
