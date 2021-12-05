@@ -26,3 +26,9 @@ There are 8 types of corrosion you need to be aware of:
 ![[pitting (corrosion)#Pitting corrosion]]
 
 ![[intergranular corrosion#Intergranular corrosion]]
+
+![[selective leaching (corrosion)#Selective leaching corrosion]]
+
+![[tribocorrosion#Tribocorrosion]]
+
+![[stress corrosion#Stress corrosion]]
