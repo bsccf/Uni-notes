@@ -9,8 +9,10 @@ tags: ["NotesPage"]
 - 
 
 #### I need a meme, these take ages to write up
-![[video0_6.mov]]
-
+![[video0_3 1.mp4]]
+![[pog.png]]
+![[Pixar(1).mp4]]
+![[crow_acquires_UNREASONABLE_amount_of_cookie.mp4]]
 
 ## Expanded articles
 
