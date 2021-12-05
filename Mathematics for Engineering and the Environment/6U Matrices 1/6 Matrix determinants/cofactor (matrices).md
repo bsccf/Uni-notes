@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["cofactor"]
 tags: ["Question","QFormat3"]
 ---
 
