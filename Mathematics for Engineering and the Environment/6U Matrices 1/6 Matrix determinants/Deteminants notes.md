@@ -8,7 +8,7 @@ tags: ["NotesPage"]
 #### Intro and contents
 - 
 
-#### I need a meme, these take ages to write up
+#### I need a meme (or 2, or 3, or 4... [[I do have like 850]]), these take ages to write up
 ![[video0_3 1.mp4]]
 ![[pog.png]]
 ![[Pixar(1).mp4]]
