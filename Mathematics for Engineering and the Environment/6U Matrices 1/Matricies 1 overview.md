@@ -14,3 +14,5 @@ tags: ["NotesPage"]
 ![[definining matrices]]
 
 ![[square matrix]]
+
+![[principle diagonal (matrices)]]
