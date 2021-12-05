@@ -14,7 +14,8 @@ This is where matrices really start, prepare for stuff.
 
 ### Method
 
-You take each element
+- Take each element in the first row of $A$ and multiply it by the element in the first coloumb of $B$ that has the same increment from the start
+- Repleat this for the same row in $A$ using the next column of $B$
 
 
 ### Example
