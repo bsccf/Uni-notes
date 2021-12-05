@@ -14,10 +14,17 @@ This is where matrices really start, prepare for stuff.
 
 ### Method
 
+To solve $A\times B$ use the following method:
 - Take each element in the first row of $A$ and multiply it by the element in the first column of $B$ that has the same increment from the start
 - Repleat this for the same row in $A$ using the next column of $B$
 - Each of these resaults should be put into a new matrix with the row position of the $A$ elements and the column position of the $B$ elements
 - Do this for each row in $A$
+
+### Important notes
+
+In matrix multiplication $(A\times B) \neq (B\times A)$ atleast most of the time, for specific values of A,B it is possible for the two forms to be equivilent.
+
+This is elaborated furthe
 
 ### Example
 It's simplest to explain with an example:
