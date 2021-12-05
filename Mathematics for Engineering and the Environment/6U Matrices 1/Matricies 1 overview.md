@@ -18,3 +18,7 @@ tags: ["NotesPage"]
 ![[principle diagonal (matrices)]]
 
 ![[trace (matrices)]]
+
+![[diagonal matrix]]
+
+![[unit matrix]]
