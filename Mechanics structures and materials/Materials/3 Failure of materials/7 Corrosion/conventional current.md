@@ -17,3 +17,5 @@ Important notes:
 
 ![[conventional current.png]]
 
+I know it's not this guys fault for us still using it, but I need someones grave to piss on.
+- Conventinal c
