@@ -12,6 +12,7 @@ There are 8 types of corrosion you need to be aware of:
 - [[crevice corrosion]]
 - [[pitting (corrosion)]]
 - [[intergranular corrosion]]
+- [[selective leaching (corrosion)]]
 
 ### Expanded
 ![[uniform attack (corrosion)#Uniform attack corrosion]]
