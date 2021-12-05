@@ -16,11 +16,11 @@ This is the combination of an [[electric field]] and [[magnetic field]] on a poi
 >> 
 >> It should be noted that $E$ is measured perpendicular to $B$ (or vice versa), so you would break one down into a perpendicular component of the other when substituting into the equation.
 
-Here we use conventional current (please read [[reason for conventional current existing|why we use conventional current]] for critical information)
+Here we use [[conventional current]] (please read [[reason for conventional current existing|why we use conventional current]] for critical information)
 ![[Pasted image 20211027104136.png]]
 
 There is also the left hand rule:
 ![[Pasted image 20211027104839.png]]
 For working out the direction of the force on a moving charge.
 
-Notice that the direction is *completely fucked $^{tm}$* in the top image, this is because conventional current is dumb, and the opposite of the actual direction of electron flow. (please read [[reason for conventional current existing|the complex reason for the use of conventional current]] for critical information)
+Notice that the direction is *completely fucked $^{tm}$* in the top image, this is because [[conventional current]] is dumb, and the opposite of the actual direction of electron flow. (please read [[reason for conventional current existing|the complex reason for the use of conventional current]] for critical information)
