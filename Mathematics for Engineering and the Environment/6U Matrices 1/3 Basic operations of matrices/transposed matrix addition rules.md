@@ -11,3 +11,9 @@ Basically when you get a [[transposed matrix]] it has some funky behaviour:
 >> where:
 >> $A=$ a matrix 
 >> $B=$ a matrix
+
+There is a special case for a [[square matrix]]:
+
+> ### $$ (A^{T} + A)^{T} = (A^{T})^{T} + A^{T} = A+A^{T} $$ 
+>> where:
+>> $A=$ a [[square matrix]]
