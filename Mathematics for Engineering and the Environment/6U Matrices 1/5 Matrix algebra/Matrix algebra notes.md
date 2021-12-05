@@ -15,4 +15,6 @@ tags: ["NotesPage"]
 
 ![[matrix associative law]]
 
-![[]]
+![[matrix distrobutive law over scalar multiplication]]
+
+![[matrix distrobutive law over addition]]
