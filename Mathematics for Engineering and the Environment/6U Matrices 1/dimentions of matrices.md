@@ -7,10 +7,11 @@ tags: ["Question","QFormat3"]
 ## Dimentions of matrices
 ### Intro
 
-Matricies are described interms of ther number of coloumbs compared to their number of rows:
+Matricies are described interms of ther number of coloumbs compared to their number of rows.
+When describing a matrix we say:
 
-> ### $$ A = $$ 
->> where:
->> $=$ 
->> $=$
->> $=$
+> ### $$ (rows)\cdot(coloumbs) $$
+
+### Examples
+
+#### Matrix ()
