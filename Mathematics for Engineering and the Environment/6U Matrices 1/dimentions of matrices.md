@@ -14,4 +14,14 @@ When describing a matrix we say:
 
 ### Examples
 
-#### Matrix ()
+#### Matrix (1x3)
+> $$\begin{pmatrix}a & b & c\end{pmatrix}$$
+
+#### Matrix (3x1)
+> $$ \begin{pmatrix}a  \\ b \\ c\end{pmatrix}$$
+
+#### Matrix (3x3)
+> $$\begin{pmatrix}a & b & c \\ d  & e & f \\ g  & h & i\end{pmatrix}$$
+
+#### Matrix (5x2)
+> $$\begin{pmatrix}a & b \\ c & d  \\ e & f \\ g & h \\ i & j\end{pmatrix}$$
