@@ -7,4 +7,4 @@ tags: ["Question","QFormat3"]
 ## Matrix multiplication
 This is where matrices really start, prepare for stuff.
 
-
+![[conditions for matrix multiplication]]
