@@ -10,8 +10,8 @@ For any two matrices $A$,$B$, $A\cdot B$ is only possible if: ($A$'s number for 
 
 So expressed nicely:
 
-> ### $$ AB = valid $$ 
->> where:
->> $=$ 
->> $=$
->> $=$
+> ### $$ AB \: is \: valid $$ 
+>> when:
+>> $A=$ matrix with dimentions ($a \times n$) 
+>> $B=$ matrix with dimentions ($n \times b$)
+
