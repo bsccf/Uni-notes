@@ -12,3 +12,7 @@ tags: ["NotesPage"]
 
 ## Expanded articles
 ![[matrix commutative law]]
+
+![[matrix associative law]]
+
+![[]]
