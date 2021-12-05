@@ -19,6 +19,9 @@ I would post more to proove a point but. Acc nvm I'm posting more
 ![[video0(2) 1.mp4]]
 ![[video0-52.mov]]
 ![[video0-1.mov]]
+
+
+
 ![[chad_wildcat 1.mp4]]
 ![[based!!!!.png]]
 ![[M_8WEDxGTZ_V-SWP.mp4]]
