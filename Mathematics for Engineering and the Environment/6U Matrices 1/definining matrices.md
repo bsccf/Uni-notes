@@ -3,8 +3,8 @@ aliases: [""]
 tags: ["Question","QFormat3"]
 ---
 
-#### What is the resaulting matrix for given
-## Dimentions of matrices
+#### How can you go about
+## Definining matrices
 ### Intro
 
 Matricies are described interms of ther number of columns compared to their number of rows.

@@ -6,11 +6,11 @@ tags: ["NotesPage"]
 # Matricies 1 overview
 
 #### Intro and contents
-- [[dimentions of matrices]]
+- [[definining matrices]]
 
 
 ## Expanded articles
 
-![[dimentions of matrices]]
+![[definining matrices]]
 
-!
+![[square matrix]]
