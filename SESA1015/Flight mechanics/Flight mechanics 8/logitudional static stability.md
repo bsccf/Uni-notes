@@ -54,5 +54,7 @@ $$\begin{align*}
 &&L&=L_W+P & W&=\frac{1}{2}\rho V^{2}SC_L\\
 &&C_L &= C_{Lw} + C_{LT} \frac{S_T}{S}  &  \frac{2W}{\rho V^{2}S} &= C_L\\
 C_{mG} &=  C_{mo} + (h-h_0)\left(C_{Lw}+\frac{C_{LT}S_T}{S}\right) - \bar{V}C_{LT} &C_L - C_{LT} \frac{S_T}{S}&= C_{Lw} \\
-C_{mG} &=  C_{mo} + (h-h_0)\left(C_{Lw}+\frac{C_{LT}S_T}{S}\right) - \bar{V}C_{LT}
+C_{mG} &=  C_{mo} + (h-h_0)\left(C_L - C_{LT} \frac{S_T}{S}+\frac{C_{LT}S_T}{S}\right) - \bar{V}C_{LT}\\
+C_{mG} &=  C_{mo} + (h-h_0)C_L - \bar{V}C_{LT}
 \end{align*}$$
+
