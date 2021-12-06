@@ -13,6 +13,7 @@ Enjoy the >>based<< music.
 - Enjoy the fact that next week is just revision (probably)
 - [[Basic aircraft trimming]]
 - 
+- [[logitudional static stability]]
 
 
 ## Expanded articles
