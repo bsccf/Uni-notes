@@ -16,8 +16,12 @@ Lets first determine the downwash angle at the tailplane:
 
 $$\begin{align*}
  \tan \varepsilon &= \frac{w}{V} \approx \varepsilon\\
-and\: \frac{w}{V} &\approx costant\\
-\therefore \tan \varepsilon&\approx constant
+and\: \frac{w}{V} &\approx costant\times \frac{C_L}{\pi A} & \alpha \propto C_L \\
+\therefore \varepsilon&\approx constant
 \end{align*}$$
 
-We know that (tailplane angle of attack) $=\alpha_T = \alpha+\alpha_S - \varep$
+We know that (tailplane angle of attack) $=\alpha_T = \alpha+\alpha_S - \varepsilon$:
+$$\begin{align*}
+\alpha_T &= \alpha+\alpha_S - \varepsilon\\
+&= \alpha+\alpha_S - \varepsilon
+\end{align*}$$
