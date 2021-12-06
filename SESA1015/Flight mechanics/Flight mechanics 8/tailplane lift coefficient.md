@@ -17,7 +17,9 @@ Lets first determine the downwash angle at the tailplane:
 $$\begin{align*}
  \tan \varepsilon &= \frac{w}{V} \approx \varepsilon\\
 \frac{w}{V} &\approx constant\times \frac{C_L}{\pi A} & \alpha \propto C_L \\
-\therefore \varepsilon&\approx constant \times \alpha
+\therefore \varepsilon&\approx constant \times \alpha\\
+\therefore \frac{d\varepsilon}{d\alpha} & \approx constant\\
+&
 \end{align*}$$
 
 (note $\alpha \propto C_L$ is from [[effect of angle on lift coefficient]])
