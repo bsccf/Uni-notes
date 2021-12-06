@@ -25,5 +25,5 @@ $$\begin{align*}
 We know that (tailplane angle of attack) $=\alpha_T = \alpha+\alpha_S - \varepsilon$:
 $$\begin{align*}
 \alpha_T &= \alpha+\alpha_S - \varepsilon\\
-&= \alpha+\alpha_S - \varepsilon
+&= \alpha+\alpha_S - constant \times \alpha
 \end{align*}$$
