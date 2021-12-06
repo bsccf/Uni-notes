@@ -23,10 +23,13 @@ $$\begin{align*}
 
 (note $\alpha \propto C_L$ is from [[effect of angle on lift coefficient]])
 
+Note that $\frac{d\varepsilon}{d\alpha}$ is the variation of the downwash angle with angle of attack, common values for this are between 0.2 and 0.5, depending on tailplane position.
+
 We know that (tailplane angle of attack) $=\alpha_T = \alpha+\alpha_S - \varepsilon$:
 $$\begin{align*}
 \alpha_T &= \alpha+\alpha_S - \varepsilon & \varepsilon = \frac{d\varepsilon}{d\alpha} \alpha\\
-&= \alpha+\alpha_S - \frac{d\varepsilon}{d\alpha} \alpha
+&= \alpha+\alpha_S - \frac{d\varepsilon}{d\alpha} \alpha\\
+\therefore \alpha_T &= \alpha\left(1 - \frac{d\varepsilon}{d\alpha}\right)+\alpha_S
 \end{align*}$$
 
-$\frac{d\varepsilon}{d\alpha} \alph$
+The equation for the tailplane lift coefficient is $C_{LT} = $
