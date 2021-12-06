@@ -29,4 +29,6 @@ $$\begin{align*}
 Here the $M_0 + L_W(h-h_0)c$ is from the wing and $- P( l_T - (h-h_0)c )$ is from the tailplane.
 
 #### Desired diagram
-So we want
+So we can see by the equation that $P$ is counteracting $L_W$, which is desireable for static stability. But the important bit is how they change with changing $\alpha$ (angle of attack), as established we will need $P$ to
+
+![[Pasted image 20211206142406.png]]
