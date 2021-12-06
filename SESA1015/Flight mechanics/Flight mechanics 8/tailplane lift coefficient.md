@@ -20,7 +20,7 @@ $$\begin{align*}
 \therefore \varepsilon&\approx constant \times \alpha
 \end{align*}$$
 
-(note )
+(note $\alpha \propto C_L$ is from [[effect of angle on lift coefficient]])
 
 We know that (tailplane angle of attack) $=\alpha_T = \alpha+\alpha_S - \varepsilon$:
 $$\begin{align*}

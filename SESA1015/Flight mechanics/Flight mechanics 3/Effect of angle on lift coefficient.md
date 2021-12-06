@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["angle of attack and lift coefficient"]
 tags: ["Question","QFormat3","SESA1015"]
 ---
 

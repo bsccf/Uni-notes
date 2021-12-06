@@ -15,7 +15,7 @@ To keep lift equal to weight as the fuel is burned we therefore must change one 
 - $V$
 - $C_L$
 
-The technique we are focusing on here is going to assume that true airspeed and angle of attack are constant [[Effect of angle on lift coefficient|(because lift coefficient's a function of angle of attack)]].
+The technique we are focusing on here is going to assume that true airspeed and angle of attack are constant [[effect of angle on lift coefficient|(because lift coefficient's a function of angle of attack)]].
 
 #### Calculating changes required
 If $C_L$ is constant then:

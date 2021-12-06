@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "SESA1015/Flight mechanics/Flight mechanics 8/tailplane lift coefficient.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -107,6 +107,7 @@
   "active": "23c9949729373456",
   "lastOpenFiles": [
     "SESA1015/Flight mechanics/Flight mechanics 8/tailplane lift coefficient.md",
+    "SESA1015/Flight mechanics/Flight mechanics 3/effect of angle on lift coefficient.md",
     "SESA1015/Flight mechanics/Flight mechanics 8/tailplane airflow dimensions.md",
     "SESA1015/Flight mechanics/Flight mechanics 8/logitudional static stability.md",
     "SESA1015/Flight mechanics/Flight mechanics 8/tail colume coefficient.md",
@@ -114,7 +115,6 @@
     "SESA1015/Flight mechanics/Flight mechanics 8/aircraft controls and dimentions for calculating longitudional stability.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/refrence wing area.md",
     "SESA1015/Flight mechanics/Flight mechanics 3/aerodynamic centre.md",
-    "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/chord (aeronautics).md",
-    "SESA1015/Flight mechanics/Flight mechanics 8/static stability.md"
+    "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/chord (aeronautics).md"
   ]
 }
