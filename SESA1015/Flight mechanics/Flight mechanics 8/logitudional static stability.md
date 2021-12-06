@@ -28,3 +28,5 @@ $$\begin{align*}
 \end{align*}$$
 Here the $M_0 + L_W(h-h_0)c$ is from the wing and $- P( l_T - (h-h_0)c )$ is from the tailplane.
 
+#### Desired diagram
+So we want
