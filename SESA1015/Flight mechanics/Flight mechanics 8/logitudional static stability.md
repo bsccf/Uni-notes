@@ -24,5 +24,7 @@ We will use the following diagram:
 
 Now if we take moments about the centre of gravity:
 $$\begin{align*}
- M_G &=  (M_0) + (L_W(h-h_0)c)  - (P( l_T - (h-h_0)c ))
+ M_G &=  M_0 + L_W(h-h_0)c - P( l_T - (h-h_0)c )
 \end{align*}$$
+Here the $M_0 + L_W(h-h_0)c$ is from the wing and $- P( l_T - (h-h_0)c )$ is from the tailplane.
+
