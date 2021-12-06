@@ -13,6 +13,13 @@ In reality there are 6 degrees of freedom (x,y,z motion and roll,pitch,yaw) but 
 ### Dimentions
 This diagram shows all the measurements we will be using and their corresponding symbols. Note that these measurements are being taken relative to a [[chord (aeronautics)|chord]].
 
-![[Pasted image 20211206140036.png]]
+We are also going to assume that thrust and drag act through the centre of gravity so that we don't need to account for them.
 
-We are also going to assume t
+> ![[Pasted image 20211206140036.png]]
+>> where:
+>> $L_W=$ Total lift of aircraft, excluding tailplane
+>> $P=$ Lift of tailplane (horizontal stabiliser) alone
+>> $M_0=$ Pitching moment at zero lift
+>> $W=$ aircraft weight
+>> $c=$ Refrence wing [[chord (aeronautics)|chord]]
+>> 
