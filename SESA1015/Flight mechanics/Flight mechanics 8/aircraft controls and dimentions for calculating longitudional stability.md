@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["dimentions for "]
 tags: ["Question","QFormat3"]
 ---
 
@@ -23,4 +23,8 @@ We are also going to assume that thrust and drag act through the centre of gravi
 >> $W=$ aircraft weight
 >> $c=$ Refrence wing [[chord (aeronautics)|chord]] (chord selected can vary so note what's being used)
 >> $hc - h_0 c=$ Distance between [[aerodynamic centre]] and centre of gravity
->> $h=$ fraction of the wing chord from the leading edge to aerodynamic centre ($h=$)
+>> $h=$ fraction of the wing chord from the leading edge to centre of gravity
+>> $h_0=$ fraction of the wing chord from the leading edge to aerodynamic centre
+>> $S_T=$ Refrence area of horizontal stabiliser
+>> $S=$ [[refrence wing area]]
+>> $l_T=$ Distance of centre of lift of horizontal stabiliser behined aerodynamic centre
