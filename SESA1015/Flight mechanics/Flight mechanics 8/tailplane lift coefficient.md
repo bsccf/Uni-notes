@@ -5,3 +5,6 @@ tags: ["Question","QFormat3"]
 
 #### How do you determine the
 ## Tailplane lift coefficient
+### Intro
+The tailplane is kinda annoying, because when positioned behined the main wing it ends up recieving the main wings downwash. So the air comes at it with an akward angle, which we need to account for.
+![[Pasted image 20211206151547.png]]

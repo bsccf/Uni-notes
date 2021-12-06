@@ -58,6 +58,6 @@ C_{mG} &=  C_{mo} + (h-h_0)\left(C_L - C_{LT} \frac{S_T}{S}+\frac{C_{LT}S_T}{S}\
 C_{mG} &=  C_{mo} + (h-h_0)C_L - \bar{V}C_{LT}
 \end{align*}$$
 
-Well now we have hit a wall, since we don't know how to determine $C_{LT}$, if only there was some sort of "[[tailplane lift coefficient|how do you determine the tailplane lift coefficient]]" document... wait that embeded?! Guess we have un
+Well now we have hit a wall, since we don't know how to determine $C_{LT}$, if only there was some sort of "[[tailplane lift coefficient|how do you determine the tailplane lift coefficient]]" document... wait that embeded?! Guess we have unhit said wall.
 
 ![[tailplane lift coefficient]]
