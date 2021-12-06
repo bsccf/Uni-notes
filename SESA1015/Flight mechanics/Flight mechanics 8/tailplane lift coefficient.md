@@ -11,3 +11,9 @@ The tailplane is kinda annoying, because when positioned behined the main wing i
 
 ### Math
 ![[tailplane airflow dimensions#Tailplane airflow dimensions]]
+
+$$\begin{align*}
+ \tan \varepsilon &= \frac{w}{V} \approx \varepsilon\\
+\frac{w}{V} &\approx costant\\
+\&
+\end{align*}$$
