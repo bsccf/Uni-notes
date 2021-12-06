@@ -41,9 +41,3 @@ Next we will use an equation that we don't need to prove:
 >> $a_{2r}= \dfrac{dC_{LT}}{d\eta}=$ constant (for a value constant of $\alpha_T$)
 >> $a_T = \alpha\left(1 - \frac{d\varepsilon}{d\alpha}\right)+\alpha_S$
 
-> ### $$ C_{LT} = a_{1r} \alpha_T + a_{2e} \eta $$ 
->> where:
->> $C_{LT}=$ [[tailplane lift coefficient]]
->> $a_{1r}= \dfrac{dC_{LT}}{d\alpha_T}=$ lift curve slope of tailplane (for a constant value of $\eta$) 
->> $a_{2r}= \dfrac{dC_{LT}}{d\eta}=$ constant (for a value constant of $\alpha_T$)
->> $a_T = \alpha\left(1 - \frac{d\varepsilon}{d\alpha}\right)+\alpha_S$
