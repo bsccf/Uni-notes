@@ -40,10 +40,8 @@ Hence:
 ![[Pasted image 20211206143540.png]]
 
 #### Back to maths
-Now we can convert everything into coefficients using lift equation ect (note $L = L_W + P = W$ is from verticle equalibrium conditions):
+Now we can convert everything into coefficients:
 $$\begin{align*}
-M_G &=  M_0 + L_W(h-h_0)c - P( l_T - (h-h_0)c ) & L_W &= \frac{1}{2}\rho S v^{2} C_{LW} & P &= \frac{1}{2}\rho S v^{2} C_{LP}\\
-& & \frac{2L_W}{\rho S v^{2}} &= C_{LW} & \frac{2P}{\rho S v^{2}} &= C_{LP}\\
-M_G &=  M_0 + \frac{1}{2}\rho S v^{2} C_{LW}(h-h_0)c - \frac{1}{2}\rho S v^{2} C_{LP}( l_T - (h-h_0)c )\\
-(M_G)/ &=  M_0 + \frac{1}{2}\rho S v^{2} C_{LW}(h-h_0)c - \frac{1}{2}\rho S v^{2} C_{LP}( l_T - (h-h_0)c )
+ \frac{M_G}{\frac{1}{2}\rho V^{2}S_c} &=  \frac{M_0 + L_W(h-h_0)c - P( l_T - (h-h_0)c )}{\frac{1}{2}\rho V^{2}S_c}\\
+C_{mG} &=  C_{mo} + L_W(h-h_0)c - P( l_T - (h-h_0)c )
 \end{align*}$$
