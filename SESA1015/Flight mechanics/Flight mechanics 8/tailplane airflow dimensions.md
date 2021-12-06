@@ -10,6 +10,6 @@ tags: ["Question","QFormat3"]
 >> where:
 >> $\alpha_s=$ rigging angle of tailplane relative to the body datum
 >> $\eta=$ elevator angle
->> $\epsilon=$ downwash angle
+>> $\varepsilon=$ downwash angle
 >> $w=$ downwash velocity
 >> $V=$ freestream velocity
