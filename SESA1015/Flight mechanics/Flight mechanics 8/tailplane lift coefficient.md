@@ -4,7 +4,7 @@ tags: ["Question","QFormat3"]
 ---
 
 #### How do you determine the
-## Tailplane lift coefficient
+## Tailplane lift coefficient ($C_{LT}$)
 ### Intro
 The tailplane is kinda annoying, because when positioned behined the main wing it ends up recieving the main wings downwash. So the air comes at it with an akward angle, which we need to account for.
 ![[Pasted image 20211206151547.png]]
@@ -32,4 +32,10 @@ $$\begin{align*}
 \therefore \alpha_T &= \alpha\left(1 - \frac{d\varepsilon}{d\alpha}\right)+\alpha_S
 \end{align*}$$
 
-The equation for the tailplane lift coefficient is $C_{LT} = $
+Next we will use an equation that we don't need to prove:
+
+> ### $$ C_{LT} = a_{1r} \alpha_T + a_{2e} \eta $$ 
+>> where:
+>> $C_{LT}=$ [[tailplane lift coefficient]]
+>> $a_{1r}= \frac{dC_{LT}}{d\alpha_T}$ 
+>> $=$
