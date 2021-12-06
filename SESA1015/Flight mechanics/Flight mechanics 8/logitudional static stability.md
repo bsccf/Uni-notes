@@ -8,3 +8,4 @@ tags: ["Question","QFormat3"]
 ### Intro
 
 This is where you get [[static stability]] in the pitch axis of the aircraft.
+
