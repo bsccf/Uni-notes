@@ -19,13 +19,14 @@ $$\begin{align*}
 \frac{w}{V} &\approx constant\times \frac{C_L}{\pi A} & \alpha \propto C_L \\
 \therefore \varepsilon&\approx constant \times \alpha\\
 \therefore \frac{d\varepsilon}{d\alpha} & \approx constant\\
-&
 \end{align*}$$
 
 (note $\alpha \propto C_L$ is from [[effect of angle on lift coefficient]])
 
 We know that (tailplane angle of attack) $=\alpha_T = \alpha+\alpha_S - \varepsilon$:
 $$\begin{align*}
-\alpha_T &= \alpha+\alpha_S - \varepsilon\\
-&= \alpha+\alpha_S - constant \times \alpha
+\alpha_T &= \alpha+\alpha_S - \varepsilon & \varepsilon = \frac{d\varepsilon}{d\alpha} \alpha\\
+&= \alpha+\alpha_S - \frac{d\varepsilon}{d\alpha} \alpha
 \end{align*}$$
+
+$\frac{d\varepsilon}{d\alpha} \alph$
