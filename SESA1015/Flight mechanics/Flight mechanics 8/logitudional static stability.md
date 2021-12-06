@@ -48,4 +48,9 @@ C_{mG} &=  C_{mo} + (h-h_0)\left(C_{Lw}+\frac{C_{LT}S_T}{S}\right) - \left(\frac
 C_{mG} &=  C_{mo} + (h-h_0)\left(C_{Lw}+\frac{C_{LT}S_T}{S}\right) - \bar{V}C_{LT}
 \end{align*}$$
 
-Note that $\bar{V}$ is known as the [[tail colume coefficient]]
+Note that $\bar{V}$ is known as the [[tail colume coefficient]].
+We can use verticle equalibrium to simplify further $L=L_W+P=W=\frac{1}{2}\rho V^{2}SC_L$:
+$$\begin{align*}
+L=L_W+P=W=&\frac{1}{2}\rho V^{2}SC_L\\
+\frac{2W}{} = \rho V^{2}SC_L
+\end{align*}$$

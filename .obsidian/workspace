@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/Flight mechanics 8/tail colume coefficient.md",
+            "file": "SESA1015/Flight mechanics/Flight mechanics 8/logitudional static stability.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 8/tail colume coefficient.md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 8/logitudional static stability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +106,8 @@
   },
   "active": "23c9949729373456",
   "lastOpenFiles": [
-    "SESA1015/Flight mechanics/Flight mechanics 8/tail colume coefficient.md",
     "SESA1015/Flight mechanics/Flight mechanics 8/logitudional static stability.md",
+    "SESA1015/Flight mechanics/Flight mechanics 8/tail colume coefficient.md",
     "SESA1015/Flight mechanics/Flight mechanics 8/Introduction to longitudinal stability.md",
     "SESA1015/Flight mechanics/Flight mechanics 8/aircraft controls and dimentions for calculating longitudional stability.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/refrence wing area.md",
