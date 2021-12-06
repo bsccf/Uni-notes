@@ -12,4 +12,7 @@ The tailplane is kinda annoying, because when positioned behined the main wing i
 ### Math
 ![[Pasted image 20211206152738.png]]
 
-
+Note that:
+$\alpha_s=$ rigging angle of tailplane relative to the body datum
+$\eta=$ elevator angle
+$$
