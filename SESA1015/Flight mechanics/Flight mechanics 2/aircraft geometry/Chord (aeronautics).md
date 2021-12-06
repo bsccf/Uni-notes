@@ -1,5 +1,5 @@
 ---
-aliases: ["Chord"]
+aliases: ["chord"]
 tags: ["Question","QFormat3"]
 ---
 
