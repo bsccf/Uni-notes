@@ -38,3 +38,10 @@ Hence:
 - $M_0+L_W(...) > P(...)$ when pitched downward
 
 ![[Pasted image 20211206143540.png]]
+
+#### Back to maths
+Now we can convert everything into coefficients using lift equation ect:
+$$\begin{align*}
+ M_G &=  M_0 + L_W(h-h_0)c - P( l_T - (h-h_0)c ) & L &= \frac{1}{2}\rho S v^{2} C_L & P &= \frac{1}{2}\rho S v^{2} C_{LP}\\
+M_G &=  M_0 + L_W(h-h_0)c - P( l_T - (h-h_0)c ) &
+\end{align*}$$
