@@ -43,5 +43,7 @@ Hence:
 Now we can convert everything into coefficients:
 $$\begin{align*}
  \frac{M_G}{\frac{1}{2}\rho V^{2}S_c} &=  \frac{M_0 + L_W(h-h_0)c - P( l_T - (h-h_0)c )}{\frac{1}{2}\rho V^{2}S_c}\\
-C_{mG} &=  C_{mo} + L_W(h-h_0)c - P( l_T - (h-h_0)c )
+C_{mG} &=  C_{mo} + (h-h_0)\left(C_{Lw}+\frac{C_{LT}S_T}{S}\right) - \left(\frac{S_T l_T}{ Sc }\right)C_{LT}\\
+& & \bar{V}&= \frac{S_T l_T}{ Sc }\\
+&
 \end{align*}$$
