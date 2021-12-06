@@ -37,4 +37,4 @@ Hence:
 - $M_0+L_W(...) < P(...)$ when pitched upward
 - $M_0+L_W(...) > P(...)$ when pitched downward
 
-![[Pasted image 20211206142406.png]]
+![[Pasted image 20211206143540.png]]
