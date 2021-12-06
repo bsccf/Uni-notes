@@ -22,3 +22,7 @@ We will use the following diagram:
 
 ![[aircraft controls and dimentions for calculating longitudional stability#^267a4d]]
 
+Now if we take moments about the centre of gravity:
+$$\begin{align*}
+ M_G &=  (M_0) + (L_W(h-h_0)c)  - (P( l_T - (h-h_0)c ))
+\end{align*}$$
