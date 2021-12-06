@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/Flight mechanics 8/Introduction to longitudinal stability.md",
-            "mode": "source"
+            "file": "SESA1015/Flight mechanics/Flight mechanics 8/static stability.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 8/Introduction to longitudinal stability.md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 8/static stability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +106,8 @@
   },
   "active": "23c9949729373456",
   "lastOpenFiles": [
-    "SESA1015/Flight mechanics/Flight mechanics 8/Introduction to longitudinal stability.md",
     "SESA1015/Flight mechanics/Flight mechanics 8/static stability.md",
+    "SESA1015/Flight mechanics/Flight mechanics 8/Introduction to longitudinal stability.md",
     "SESA1015/Flight mechanics/Mechanics of flight read order.md",
     "SESA1015/Flight mechanics/Flight mechanics 8/based and so redpilled I overdosed.md",
     "Mathematics for Engineering and the Environment/6U Matrices 1/6 Matrix determinants/minors and cofactors (matrices).md",
