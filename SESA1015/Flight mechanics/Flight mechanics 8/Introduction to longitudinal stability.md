@@ -13,6 +13,6 @@ tags: ["NotesPage"]
 
 ## Expanded articles
 
-
+![[static stability]]
 
 
