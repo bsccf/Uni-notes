@@ -12,8 +12,12 @@ The tailplane is kinda annoying, because when positioned behined the main wing i
 ### Math
 ![[tailplane airflow dimensions#Tailplane airflow dimensions]]
 
+Lets first determine the downwash angle at the tailplane:
+
 $$\begin{align*}
  \tan \varepsilon &= \frac{w}{V} \approx \varepsilon\\
-\frac{w}{V} &\approx costant\\
-\&
+and\: \frac{w}{V} &\approx costant\\
+\therefore \tan \varepsilon&\approx constant
 \end{align*}$$
+
+We know that (tailplane angle of attack) $=\alpha_T = \alpha+\alpha_S - \varep$
