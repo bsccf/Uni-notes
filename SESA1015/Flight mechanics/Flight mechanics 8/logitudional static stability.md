@@ -33,4 +33,7 @@ So we can see by the equation that $P(...)$ is counteracting $L_W(...)$, which i
 - $M_G<0$ when pitched upward
 - $M_G>0$ when pitched downward
 
+Hence:
+- $P(...)$
+
 ![[Pasted image 20211206142406.png]]
