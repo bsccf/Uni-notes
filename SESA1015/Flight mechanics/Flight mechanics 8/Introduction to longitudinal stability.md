@@ -12,6 +12,7 @@ Enjoy the >>based<< music.
 #### Intro and contents
 - Enjoy the fact that next week is just revision (probably)
 - [[Basic aircraft trimming]]
+- [[static stability]]
 - [[aircraft controls and dimentions for calculating longitudional stability]]
 - [[logitudional static stability]]
 
@@ -20,4 +21,6 @@ Enjoy the >>based<< music.
 
 ![[static stability]]
 
+![[aircraft controls and dimentions for calculating longitudional stability]]
 
+![[logitudional static stability]]

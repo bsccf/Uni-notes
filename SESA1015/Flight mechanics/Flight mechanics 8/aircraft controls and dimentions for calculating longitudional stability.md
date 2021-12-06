@@ -1,5 +1,5 @@
 ---
-aliases: ["dimentions for "]
+aliases: ["dimentions for calculating longitudional stability"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -28,3 +28,6 @@ We are also going to assume that thrust and drag act through the centre of gravi
 >> $S_T=$ Refrence area of horizontal stabiliser
 >> $S=$ [[refrence wing area]]
 >> $l_T=$ Distance of centre of lift of horizontal stabiliser behined aerodynamic centre
+
+^267a4d
+
