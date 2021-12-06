@@ -21,5 +21,6 @@ We are also going to assume that thrust and drag act through the centre of gravi
 >> $P=$ Lift of tailplane (horizontal stabiliser) alone
 >> $M_0=$ Pitching moment at zero lift
 >> $W=$ aircraft weight
->> $c=$ Refrence wing [[chord (aeronautics)|chord]]
->> 
+>> $c=$ Refrence wing [[chord (aeronautics)|chord]] (chord selected can vary so note what's being used)
+>> $hc - h_0 c=$ Distance between [[aerodynamic centre]] and centre of gravity
+>> $h=$ fraction of the wing chord from the leading edge to aerodynamic centre ($h=$)
