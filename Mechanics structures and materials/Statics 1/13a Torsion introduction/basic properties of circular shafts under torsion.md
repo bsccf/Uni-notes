@@ -23,4 +23,7 @@ Now lets consider this further by creating a cut half within the beam:
 
 ![[Pasted image 20211207121646.png]]
 
-We can see that if the cut face of the beam was deformed via "bulging" then the two faces wouldn't c
+We can see that if the cut face of the beam was deformed via "bulging" then the two faces wouldn't connect anymore, hence we assume that there is no bulging in the beam, hence the length of the beam dosn't change due to torsion (in this model).
+
+As a consequence of these observations the radial lines of the cross section of the beam remain strait.
+
