@@ -20,7 +20,7 @@ We can also use [[Hooke's law]], now lets do some meht:
 $$ \begin{align*}
 \sigma_{yy} &= E\epsilon_{yy} & \epsilon_{yy} = \epsilon_{yy} &= -v \epsilon_{xx} & \epsilon_{xx} &= \frac{y}{R}\\
 \sigma_{yy} &=-v E  \epsilon_{xx}\\
-&=   \frac{-v Ey}{R}
+&=   \frac{-v E}{R}y
 \end{align*} $$
 
 ### Implications
