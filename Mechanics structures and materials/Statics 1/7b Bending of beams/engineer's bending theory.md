@@ -9,12 +9,12 @@ tags: ["Question","QFormat3"]
 
 Also note that this equation is only true for pure bending (when shear force is zero), but it still acts as a resonably accurate approximation even when this isn't the case, so you can still use it when there is a shear force.
 
-> ### $$ \frac{M}{I} = \frac{\sigma}{y} = \frac{E}{R} $$
->  ### $$ \sigma = \frac{My}{I} $$
+> ### $$ \frac{M}{I} = \frac{\sigma_{xx}}{y} = \frac{E}{R} $$
+>  ### $$ \sigma_{xx} = \frac{My}{I} $$
 >> where:
 >> $M=$ anticlockwise moment about the [[neutral surface and neutral axis|neutral axis]]  
 >> $I_{zz}=I=\int \int y^{2} \cdot dy\cdot dz=$ The resistance to bending due to the geometry of the beams cross section
->> $\sigma=$ stress
+>> $\sigma_{xx}=$ stress
 >> $y=$ displacement from [[neutral surface and neutral axis|neutral axis]]
 >> $E=$ [[modulus of elasticity]]
 >> $R=$ Radius of circle
