@@ -6,6 +6,11 @@ tags: ["Question","QFormat3"]
 #### How can we model
 ## Shear strain in a circular beam
 
+### Equation
+
+
+### Proof
+
 If we look back at [[basic properties of circular shafts under torsion]], we can see how the beam changes shape under rotation:
 ![[Pasted image 20211207122254.png]]
 
@@ -17,5 +22,6 @@ We can find sheer stain:
 
 $$\begin{align*}
 strain &= \frac{extention}{orig\:len}\\
-&
+\gamma &= \frac{R\theta}{L} = \tan \varphi
 \end{align*}$$
+
