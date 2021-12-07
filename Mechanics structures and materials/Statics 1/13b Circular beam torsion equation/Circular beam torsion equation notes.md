@@ -17,3 +17,4 @@ tags: ["NotesPage"]
 ![[shear stress in a circular beam (torsion)]]
 
 ![[shear modulus]]
+
