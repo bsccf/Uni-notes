@@ -36,5 +36,7 @@ Now if we consider how these equations look on a diagram:
 ![[Pasted image 20211207234541.png]]
 We can see that the difference in stresses would resault in non equalibrium conditions, hence we introduce $\sigma_{xy}$ to balence the internal forces hence:
 $$\begin{align*}
-\sigma_{xx} + \sigma_{xy} &= \sigma_{xx}+ \frac{\Delta \sigma_{xx}}{\Delta x} dx
+left&\: \: :\: right\\
+\int (\sigma_{xx})\cdot dA + \sigma_{xy} &= \int \left(\sigma_{xx}+ \frac{\Delta \sigma_{xx}}{\Delta x} dx\right)\cdot dA\\
 \end{align*}$$
+The integration is 
