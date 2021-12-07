@@ -32,7 +32,8 @@ $$\begin{align*}
 T &= \int^{R}_0 \int^{2\pi}_0 r^{2}  \tau \cdot d\psi \cdot dr & \tau&=\frac{Gr\theta}{L}\\
 T &= \int^{R}_0 \left[ r^{2} \frac{Gr\theta}{L}  \psi\right]^{2\pi}_0 \cdot dr\\
 T &=  \int^{R}_0  \frac{Gr^{3}\theta}{L}  2\pi \cdot dr\\
-T &= 2\pi \left[ \frac{\frac{Gr^{3}\theta}{L}  \right]^{R}_0 \\
-T &=\frac{2\pi R^{3}  }{3} \\
-&
+T &= 2\pi \left[ \frac{Gr^{4}\theta}{4L}  \right]^{R}_0 \\
+\therefore T &=\frac{\pi G R^{4} \theta }{2L} 
 \end{align*}$$
+
+This can then be simplified interms of the [[polar second moment of area]]

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 1/13b Circular beam torsion equation/torque and deformation in a circular beam.md",
+            "file": "Mechanics structures and materials/Statics 1/13b Circular beam torsion equation/polar second moment of area.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 1/13b Circular beam torsion equation/torque and deformation in a circular beam.md",
+                "file": "Mechanics structures and materials/Statics 1/13b Circular beam torsion equation/polar second moment of area.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "23c9949729373456",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Statics 1/13b Circular beam torsion equation/polar second moment of area.md",
     "Mechanics structures and materials/Statics 1/13b Circular beam torsion equation/torque and deformation in a circular beam.md",
     "Mechanics structures and materials/Statics 1/13b Circular beam torsion equation/Circular beam torsion equation notes.md",
     "Mechanics structures and materials/Statics 1/13b Circular beam torsion equation/shear strain in a circular beam (torsion).md",
@@ -114,7 +115,6 @@
     "SESA1015/Flight mechanics/Mechanics of flight read order.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/n-p junction.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/shiposting.md",
-    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/n-p diode.md",
-    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/look at this stupid amount of notes.md"
+    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/n-p diode.md"
   ]
 }
