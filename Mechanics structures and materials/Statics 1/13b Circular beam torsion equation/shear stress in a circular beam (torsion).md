@@ -4,7 +4,7 @@ tags: ["Question","QFormat3"]
 ---
 
 #### How can you model
-## [[shear stress|Shear st]] in a circular beam (torsion)
+## [[shear stress|Shear stress]] in a circular beam (torsion)
 ### Equation
 ![[Pasted image 20211207125733.png]]
 

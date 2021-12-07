@@ -21,3 +21,5 @@ tags: ["NotesPage"]
 ![[torque and deformation in a circular beam]]
 
 ![[torsion equations]]
+
+![[polar second moment of area]]
