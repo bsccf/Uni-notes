@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/Electrical read order.md",
+            "file": "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/shiposting.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/Electrical read order.md",
+                "file": "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/shiposting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "23c9949729373456",
   "lastOpenFiles": [
+    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/shiposting.md",
+    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/n-p junction.md",
+    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/n-p diode.md",
+    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/look at this stupid amount of notes.md",
+    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/Semiconductor theory notes.md",
+    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/go to sleep.md",
     "Electrical and electronic systems/Electrical read order.md",
-    "SESA1015/Flight mechanics/Flight mechanics 6/range at constant altitude and constant angle of attack.md",
-    "SESA1015/Flight mechanics/Mechanics of flight read order.md",
-    "SESA1015/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
-    "SESA1015/Flight mechanics/Flight mechanics 4/lmao just shitposting.md",
-    "SESA1015/Flight mechanics/Flight mechanics 4/very based.md",
-    "Mechanics structures and materials/Materials/1 Atomic composition/5 Mechanical Properties/lmao fuck you.md",
-    "Mechanics structures and materials/Statics 1/13b Circular beam torsion equation/torque and deformation in a circular beam.md",
-    "Mechanics structures and materials/Statics 1/13b Circular beam torsion equation/shear stress in a circular beam (torsion).md",
-    "Mechanics structures and materials/Statics 1/13b Circular beam torsion equation/Circular beam torsion equation notes.md"
+    "Electrical and electronic systems/1 Electric circuits/7a not done/Thevenins equivalent circuit notes.md",
+    "Electrical and electronic systems/1 Electric circuits/6a Mesh analysis/Mesh analysis notes.md",
+    "Electrical and electronic systems/1 Electric circuits/4b Capacitor charging derivation/Capacitor charging derivation.md"
   ]
 }

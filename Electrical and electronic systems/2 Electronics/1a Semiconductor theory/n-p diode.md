@@ -28,7 +28,7 @@ The effect of the [[electric field]] that exists across the [[depletion region]]
 
 You can see that effect here, (it's all starting to come together {pog}).
 
-(but what the fuck [[look at this stupid amount of notes]] I'm writing and I'm not even done, you can't blame me for just copying and pasting theirs then rewording it, it's sunday midnight and my weekend is a joke, hopefully next year students can use these, I mean they are just so much better formatted than the normal notes tbh)
+(but what the fuck [[look at this stupid amount of notes]] I'm writing and I'm not even done, you can't blame me for just copying and pasting theirs then rewording it, it's sunday midnight and my weekend is a joke, hopefully next year students can use these, I mean they are better formatted than the normal notes tbh)
 
 ### Use in circuits
 ![[Pasted image 20211121234437.png]]
