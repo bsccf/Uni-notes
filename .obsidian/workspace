@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 1/14a Shear stresses in beams/Shear stresses in beams notes.md",
+            "file": "Mechanics structures and materials/Statics 1/14a Shear stresses in beams/modelling shear stress in beams.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 1/14a Shear stresses in beams/Shear stresses in beams notes.md",
+                "file": "Mechanics structures and materials/Statics 1/14a Shear stresses in beams/modelling shear stress in beams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +106,8 @@
   },
   "active": "23c9949729373456",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Statics 1/14a Shear stresses in beams/Shear stresses in beams notes.md",
     "Mechanics structures and materials/Statics 1/14a Shear stresses in beams/modelling shear stress in beams.md",
+    "Mechanics structures and materials/Statics 1/14a Shear stresses in beams/Shear stresses in beams notes.md",
     "Mechanics structures and materials/Statics 1/Statics 1 read order.md",
     "Mechanics structures and materials/Statics 1/13b,c Circular beam torsion equation/Circular beam torsion equation notes.md",
     "Mechanics structures and materials/Statics 1/13b,c Circular beam torsion equation/torque and deformation in a circular beam.md",
