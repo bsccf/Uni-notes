@@ -17,6 +17,9 @@ If we focus on shear stress it looks like:
 
 Where $\tau$ is the shear stress. Now we can relate that to [[shear strain in a circular beam (torsion)]] using the [[shear modulus]].
 
-
+$$\begin{align*}
+G &= \frac{\tau}{\gamma} & G &= \frac{E}{2(1+\nu)} & \gamma &= \frac{R\theta}{L}\\
+&
+\end{align*}$$
 
 Note we are still assuming that the beam doesn't expand latterally due to torsion, this is clearly false but considering how little it does change dimentions is a resonable assumption especially with how much it simplifies the maths.

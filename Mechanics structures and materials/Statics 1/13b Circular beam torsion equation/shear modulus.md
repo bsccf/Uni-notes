@@ -12,3 +12,9 @@ This is basically the [[youngs modulus]] of a material for relating shear stress
 >> $E=$ [[youngs modulus]]
 >> $\nu=$ [[poisson's ratio]]
 >> $G=$ [[shear modulus]]
+
+> ### $$ G = \frac{\tau}{\gamma} $$ 
+>> where:
+>> $G=$ [[shear modulus]]
+>> $\tau=$ [[shear stress in a circular beam (torsion)]]
+>> $\gamma=$ [[shear strain in a circular beam (torsion)]]
