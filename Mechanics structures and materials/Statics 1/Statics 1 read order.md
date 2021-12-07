@@ -33,3 +33,5 @@ Very pog, if you don't believe this to be based... then, uhhh [[you are retard|t
 16) [[Statically indeterminate beams notes]]
 17) [[Statically indeterminate beams – double integration method notes]]
 18) [[Statically indeterminate beams - superposition method notes]]
+19) 
+
