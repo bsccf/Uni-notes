@@ -19,6 +19,15 @@ So we can get an expression for the force acting on this small section in a ring
 $$\begin{align*}
 dF &= \tau (r\times f\psi \times dr)
 \end{align*}$$
-Since it's a small area we can multiply it by its di
+Since it's a small area we can multiply it by its distance to get the torque it resaults in:
+$$\begin{align*}
+dT &= r\times dF \\
+&= r^{2}\times  \tau \times f\psi \times dr
+\end{align*}$$
 
-![[Pasted image 2021120713314
+![[Pasted image 20211207133148.png]]
+
+We also know that the total torque is the sum of all these tiny rings along the beams radius, hence:
+$$\begin{align*}
+T &= \int \i r^{2}\times  \tau \times f\psi \times dr
+\end{align*}$$
