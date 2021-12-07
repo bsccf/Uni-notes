@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "23c9949729373456",
+        "id": "50d27321056dd06d",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -104,7 +104,7 @@
     "direction": "horizontal",
     "width": 234
   },
-  "active": "23c9949729373456",
+  "active": "50d27321056dd06d",
   "lastOpenFiles": [
     "Mechanics structures and materials/Statics 1/14a Shear stresses in beams/shear stress in a beam cross section.md",
     "Mechanics structures and materials/Statics 1/7b Bending of beams/engineer's bending theory.md",

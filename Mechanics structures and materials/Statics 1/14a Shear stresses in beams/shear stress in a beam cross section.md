@@ -37,7 +37,7 @@ Now if we consider how these equations look on a diagram:
 We can see that the difference in stresses would resault in non equalibrium conditions, hence we introduce $\sigma_{xy}$ to balence the internal forces hence:
 $$\begin{align*}
 left&\: \: :\: right\\
-\int (\sigma_{xx})\cdot dA + \sigma_{xy} &= \int \left(\sigma_{xx}+ \frac{\Delta \sigma_{xx}}{\Delta x} dx\right)\cdot dA\\
+\int (\sigma_{xx})\cdot dA + (\sigma_{xy}\times bdx) &= \int \left(\sigma_{xx}+ \frac{\Delta \sigma_{xx}}{\Delta x} dx\right)\cdot dA\\
 \end{align*}$$
 The integration is due to the basic fact that $\sigma=F/A$ and when finding equalibrium we use forces.
 
@@ -45,7 +45,9 @@ Now drawing the diagram 3D:
 ![[Pasted image 20211207235231.png]]
 
 $$\begin{align*}
-\int^{0}_{A_s} (\sigma_{xx})\cdot dA + \sigma_{xy} &= \int^{0}_{A_s} \left(\sigma_{xx}+ \frac{\Delta \sigma_{xx}}{\Delta x} dx\right)\cdot dA\\
- \sigma_{xy} &= \int^{0}_{A_s} \left(\frac{\Delta \sigma_{xx}}{\Delta x} dx\right)\cdot dA\\
- \sigma_{xy} &= \int^{0}_{A_s} \left(\frac{\Delta \sigma_{xx}}{\Delta x} dx\right)\cdot dA\\
+\int^{0}_{A_s} (\sigma_{xx})\cdot dA + (\sigma_{xy} \times bdx) &= \int^{0}_{A_s} \left(\sigma_{xx}+ \frac{\Delta \sigma_{xx}}{\Delta x} dx\right)\cdot dA\\
+ \sigma_{xy} \times bdx &= \int^{0}_{A_s} \left(\frac{\Delta \sigma_{xx}}{\Delta x} dx\right)\cdot dA\\
+ \sigma_{xy} \times bdx &= dx \int^{0}_{A_s} \left(\frac{\Delta \sigma_{xx}}{\Delta x} \right)\cdot dA\\
+ \sigma_{xy} &= \frac{1}{b} \int^{0}_{A_s} \left(\frac{\Delta \sigma_{xx}}{\Delta x} \right)\cdot dA & \\
+&
 \end{align*}$$
