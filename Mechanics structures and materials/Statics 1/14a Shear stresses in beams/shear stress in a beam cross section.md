@@ -22,10 +22,12 @@ Now remember how we showed in previous notes that $Q$ at any point along a beam 
 ![[Pasted image 20211207233037.png]]
 
 First lets use this diagram and the previous section to find expressions for the stresses at given points on the faces. We know that the stress at a given point along the face is given in [[engineer's bending theory]]:
-![[engineer's bending theory#^6fb9ef]]
+$$\begin{align*}
+\sigma_{xx} = \frac{My}{I} 
+\end{align*}$$
 
 So we can determine the left and right stresses:
 $$\begin{align*}
-Left : \sigma_{xx} &= \frac{My}{I} & Right: \sigma_{xx}+ \frac{\Delta \sigma_{xx}}{\Delta x} dx= \left(M+ \frac{dM}{dx} dx\right) \frac{y}{I}
+Left : \sigma_{xx} &= \frac{My}{I} & Right: \sigma_{xx}+ \frac{\Delta \sigma_{xx}}{\Delta x} dx= \frac{\left(M+ \frac{dM}{dx} dx\right) y}{I}
 \end{align*}$$
-
+Also note that $M$ is a function of x, as it varys along the length of the beam.
