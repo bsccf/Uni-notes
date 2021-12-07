@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/shiposting.md",
+            "file": "SESA1015/Flight mechanics/Mechanics of flight read order.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/shiposting.md",
+                "file": "SESA1015/Flight mechanics/Mechanics of flight read order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "23c9949729373456",
   "lastOpenFiles": [
-    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/shiposting.md",
+    "SESA1015/Flight mechanics/Mechanics of flight read order.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/n-p junction.md",
+    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/shiposting.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/n-p diode.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/look at this stupid amount of notes.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/Semiconductor theory notes.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/go to sleep.md",
     "Electrical and electronic systems/Electrical read order.md",
     "Electrical and electronic systems/1 Electric circuits/7a not done/Thevenins equivalent circuit notes.md",
-    "Electrical and electronic systems/1 Electric circuits/6a Mesh analysis/Mesh analysis notes.md",
-    "Electrical and electronic systems/1 Electric circuits/4b Capacitor charging derivation/Capacitor charging derivation.md"
+    "Electrical and electronic systems/1 Electric circuits/6a Mesh analysis/Mesh analysis notes.md"
   ]
 }
