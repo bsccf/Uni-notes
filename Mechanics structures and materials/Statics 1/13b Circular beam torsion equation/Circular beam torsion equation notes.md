@@ -10,6 +10,6 @@ tags: ["NotesPage"]
 
 
 ## Expanded articles
-![[shear strain in a circular beam]]
+![[shear strain in a circular beam (torsion)]]
 
-![[shear stress in a circular beam]]
+![[shear stress in a circular beam (torsion)]]

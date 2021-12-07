@@ -4,7 +4,7 @@ tags: ["Question","QFormat3"]
 ---
 
 #### How can we model
-## Shear strain in a circular beam
+## Shear strain in a circular beam (torsion)
 
 ### Equation
 
