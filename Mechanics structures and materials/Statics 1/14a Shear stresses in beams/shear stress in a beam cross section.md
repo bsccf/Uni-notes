@@ -44,4 +44,8 @@ The integration is due to the basic fact that $\sigma=F/A$ and when finding equa
 Now drawing the diagram 3D:
 ![[Pasted image 20211207235231.png]]
 
-
+$$\begin{align*}
+\int^{0}_{A_s} (\sigma_{xx})\cdot dA + \sigma_{xy} &= \int^{0}_{A_s} \left(\sigma_{xx}+ \frac{\Delta \sigma_{xx}}{\Delta x} dx\right)\cdot dA\\
+ \sigma_{xy} &= \int^{0}_{A_s} \left(\frac{\Delta \sigma_{xx}}{\Delta x} dx\right)\cdot dA\\
+ \sigma_{xy} &= \int^{0}_{A_s} \left(\frac{\Delta \sigma_{xx}}{\Delta x} dx\right)\cdot dA\\
+\end{align*}$$
