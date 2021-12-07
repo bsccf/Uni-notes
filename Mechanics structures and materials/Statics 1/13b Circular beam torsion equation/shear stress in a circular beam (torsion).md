@@ -15,9 +15,7 @@ If we focus on shear stress it looks like:
 
 ![[Pasted image 20211207124320.png]]
 
-Where $\tau$ is the shear stress. Now we can relate that to [[shear strain in a circular beam (torsion)]] using the [[shear modulus]] ([[youngs modulus]] for shear)
-
-We can use [[poisson's ratio]] to find stress using strain, which we got from [[shear strain in a circular beam (torsion)]]
+Where $\tau$ is the shear stress. Now we can relate that to [[shear strain in a circular beam (torsion)]] using the [[shear modulus]].
 
 
 
