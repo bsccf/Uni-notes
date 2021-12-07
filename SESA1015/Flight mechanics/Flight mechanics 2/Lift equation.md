@@ -11,6 +11,6 @@ tags: ["Question","QFormat3"]
 >> $\rho =$ density of air
 >> $V =$  Velocity
 >> $C_L=$ [[Lift coefficient]]
->> $S=$ [[Refrence area]]
+>> $S=$ [[refrence wing area]]
 
 ^1f2714

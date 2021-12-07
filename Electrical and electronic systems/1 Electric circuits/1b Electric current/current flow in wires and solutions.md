@@ -9,4 +9,4 @@ tags: ["Question","QFormat3"]
 
 ![[Pasted image 20211024162840.png]]
 
-(sidenote: fuck conventional current)
+(sidenote: fuck [[conventional current]])

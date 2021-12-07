@@ -13,7 +13,7 @@ So to decrease lift, we need to change atleast one of the values which determine
 Here we have the choice of changing:
 - density
 -  true airspeed
--  angle of attack ([[Effect of angle on lift coefficient|see why]])
+-  angle of attack ([[effect of angle on lift coefficient|see why]])
 
 How these things are changed throughout the flight is called the [[cruise pattern]]/cruise climb technique.
 

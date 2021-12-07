@@ -7,7 +7,7 @@ tags: ["NotesPage","SESA1015"]
 This section covers typical aerodynamic characteristics of a conventional aircraft with an unswept wing and conventional tailplaine. These descriptions do not factor in the effects of air's compressability and are not applicible to high speeds (approaching supersonic and above).
 
 ## Angle of attack effect on aerodynamics
-![[Effect of angle on lift coefficient]]
+![[effect of angle on lift coefficient]]
 
 ![[Effect of angle of attack on drag coefficient]]
 

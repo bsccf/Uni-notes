@@ -13,6 +13,13 @@ Rewards for knowledge:
 - The name: +3 Kromer
 - None of the above: -99 Kromer and -600000 Social credits
 
+#### Learning goals
+- See why nature just dosn't want us to have nice things
+- See how nature goes about screwing us
+- See how we use those processes to our advantage
+- Build cool stuff inspite of the [[corrosion|insane amount of processes that want to destroy our stuff,]] which just makes it even more of a triamph over the natural world
+- See that material science is actually insanely interesting
+
 ### Atomic composition (not sure about name)
 1) [[Atoms and types of bonding]]
 2) [[Crystal Structures]]
@@ -35,3 +42,5 @@ Rewards for knowledge:
 3) [[Ductile to brittle transition notes]]
 4) [[Fracture mechanics notes]]
 5) [[Fatigue notes]]
+6) [[Creep notes]]
+7) [[Corrosion notes]]

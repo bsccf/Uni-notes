@@ -11,5 +11,5 @@ tags: ["Question","QFormat3"]
 >> $\rho =$ density of air
 >> $V =$  Velocity
 >> $C_D=$ [[Pitching moment coefficient]]
->> $S=$ [[Refrence area]]
+>> $S=$ [[refrence wing area]]
 >> $l=$ [[typical length|Reference length]]

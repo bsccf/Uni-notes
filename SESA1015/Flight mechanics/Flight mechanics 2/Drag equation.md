@@ -11,7 +11,7 @@ tags: ["Question","QFormat3"]
 >> $\rho =$ density of air
 >> $V =$  Velocity
 >> $C_D=$ [[Drag coefficient]]
->> $S=$ [[Refrence area]]
+>> $S=$ [[refrence wing area]]
 
 ^33fc8d
 

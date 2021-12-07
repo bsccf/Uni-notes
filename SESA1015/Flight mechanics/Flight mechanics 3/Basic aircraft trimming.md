@@ -25,4 +25,4 @@ It should also be noted that control surfices on the tailplane allow for trimmin
 
 Here are some further concepts used to help optamise stability and calculate moments:
 - [[Centre of pressure]]
-- [[Aerodynamic centre]]
+- [[aerodynamic centre]]

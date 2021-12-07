@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "7146565c97aa0f09",
+        "id": "23c9949729373456",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "SESA1015/Flight mechanics/Flight mechanics 8/tailplane lift coefficient.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -58,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 158
+    "width": 264
   },
   "right": {
     "id": "12c168c46d609ed6",
@@ -74,13 +77,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SESA1015/Flight mechanics/Flight mechanics 8/tailplane lift coefficient.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -101,17 +105,17 @@
     "direction": "horizontal",
     "width": 234
   },
-  "active": "7146565c97aa0f09",
+  "active": "23c9949729373456",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "2021-11-30.md",
-    "Mechanics structures and materials/Materials/1 Atomic composition/2 Crystal Structures/Crystal Structures.md",
-    "Mechanics structures and materials/Materials/Materials read order.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/3 Ductile to brittle transition/Ductile to brittle transition notes.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/3 Ductile to brittle transition/impact testing.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/3 Ductile to brittle transition/Charpy impact test.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/3 Ductile to brittle transition/toughness.md",
-    "SESA1015/Flight mechanics/Flight mechanics 7/Simple models for turning preformance.md",
-    "SESA1015/Flight mechanics/Mechanics of flight read order.md"
+    "SESA1015/Flight mechanics/Flight mechanics 8/tailplane lift coefficient.md",
+    "SESA1015/Flight mechanics/Flight mechanics 8/tailplane airflow dimensions.md",
+    "SESA1015/Flight mechanics/Flight mechanics 3/effect of angle on lift coefficient.md",
+    "SESA1015/Flight mechanics/Flight mechanics 8/logitudional static stability.md",
+    "SESA1015/Flight mechanics/Flight mechanics 8/tail colume coefficient.md",
+    "SESA1015/Flight mechanics/Flight mechanics 8/Introduction to longitudinal stability.md",
+    "SESA1015/Flight mechanics/Flight mechanics 8/aircraft controls and dimentions for calculating longitudional stability.md",
+    "SESA1015/Flight mechanics/Flight mechanics 2/refrence wing area.md",
+    "SESA1015/Flight mechanics/Flight mechanics 3/aerodynamic centre.md",
+    "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/chord (aeronautics).md"
   ]
 }
