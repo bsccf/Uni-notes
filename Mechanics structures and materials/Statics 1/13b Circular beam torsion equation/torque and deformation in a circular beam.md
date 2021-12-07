@@ -17,17 +17,20 @@ This force that is acting over the small distance can be expressed using the kno
 So we can get an expression for the force acting on this small section in a ring at distance r:
 
 $$\begin{align*}
-dF &= \tau (r\times f\psi \times dr)
+dF &= \tau (r\times d\psi \times dr)
 \end{align*}$$
 Since it's a small area we can multiply it by its distance to get the torque it resaults in:
 $$\begin{align*}
 dT &= r\times dF \\
-&= r^{2}\times  \tau \times f\psi \times dr
+&= r^{2}\times  \tau \times d\psi \times dr
 \end{align*}$$
 
 ![[Pasted image 20211207133148.png]]
 
 We also know that the total torque is the sum of all these tiny rings along the beams radius, hence:
 $$\begin{align*}
-T &= \int^{R}_0 \int^{2\pi}_0 r^{2}  \tau \cdot f\psi \cdot dr
+T &= \int^{R}_0 \int^{2\pi}_0 r^{2}  \tau \cdot d\psi \cdot dr\\
+T &= \int^{R}_0 [ r^{2}  \tau \psi]^{2\pi}_0 \cdot dr\\
+T &= \int^{R}_0 r^{2}  \tau 2\pi \cdot dr\\
+&
 \end{align*}$$

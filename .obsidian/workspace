@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 1/13a Torsion introduction/basic properties of circular shafts under torsion.md",
-            "mode": "preview"
+            "file": "Mechanics structures and materials/Statics 1/13b Circular beam torsion equation/torque and deformation in a circular beam.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 1/13a Torsion introduction/basic properties of circular shafts under torsion.md",
+                "file": "Mechanics structures and materials/Statics 1/13b Circular beam torsion equation/torque and deformation in a circular beam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "23c9949729373456",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Statics 1/13b Circular beam torsion equation/torque and deformation in a circular beam.md",
+    "Mechanics structures and materials/Statics 1/13b Circular beam torsion equation/Circular beam torsion equation notes.md",
+    "Mechanics structures and materials/Statics 1/13b Circular beam torsion equation/shear strain in a circular beam (torsion).md",
     "Mechanics structures and materials/Statics 1/13a Torsion introduction/basic properties of circular shafts under torsion.md",
+    "Mechanics structures and materials/Statics 1/13a Torsion introduction/Introduction to torsion notes.md",
     "SESA1015/Flight mechanics/Mechanics of flight read order.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/n-p junction.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/shiposting.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/n-p diode.md",
-    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/look at this stupid amount of notes.md",
-    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/Semiconductor theory notes.md",
-    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/go to sleep.md",
-    "Electrical and electronic systems/Electrical read order.md",
-    "Electrical and electronic systems/1 Electric circuits/7a not done/Thevenins equivalent circuit notes.md"
+    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/look at this stupid amount of notes.md"
   ]
 }
