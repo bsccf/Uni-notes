@@ -17,4 +17,4 @@ Now all that is left is to consider and model the internal [[shear stress]] due 
 ## Expanded articles
 
 
-![[modelling shear stress in beams]]
+![[modeling shear stress in beams]]

@@ -108,4 +108,4 @@ This tells us to get the best range we need to:
 - minamise dry weight
 - minamise [[specific fuel consumption (aircraft)|s.f.c]]
 
-![[inaccuracys when modelling cruise patterns]]
+![[inaccuracys when modeling cruise patterns]]

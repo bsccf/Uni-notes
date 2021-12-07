@@ -11,6 +11,6 @@ There are 3 main mechanisms for atomic motion within crystal structures
 
 ![[impurity diffusion]]
 
-![[modelling diffusion]]
+![[modeling diffusion]]
 
 ![[Effects of structure on diffusion in a crystal]]

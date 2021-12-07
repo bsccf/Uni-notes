@@ -4,7 +4,7 @@ tags: ["Question","QFormat3"]
 ---
 
 #### What are the
-## Inaccuracys when modelling cruise patterns
+## Inaccuracys when modeling cruise patterns
 ### Intro
 Generally we assume that drag is entirely defined in the [[Drag equation]] and that [[specific fuel consumption (aircraft)|s.f.c]] is constant when modelling [[cruise pattern|cruise climb technique]]s.
 

@@ -4,7 +4,7 @@ tags: ["Question","QFormat3"]
 ---
 
 #### How could you go about
-## Modelling diffusion
+## Modeling diffusion
 
 ![[ficks first law]]
 
