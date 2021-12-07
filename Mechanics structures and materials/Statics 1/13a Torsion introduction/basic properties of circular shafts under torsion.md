@@ -17,4 +17,10 @@ If you imagine lines running parallel to the shafts length, we can represent the
 
 ![[Pasted image 20211207121319.png]]
 
-Note that the cross section shape dosn't change dimentions, 
+Note that the cross section shape dosn't change dimentions, a 2D slice remains completely unchanged.
+
+Now lets consider this further by creating a cut half within the beam:
+
+![[Pasted image 20211207121646.png]]
+
+We can see that if the cut face of the beam was deformed via "bulging" then the two faces wouldn't c
