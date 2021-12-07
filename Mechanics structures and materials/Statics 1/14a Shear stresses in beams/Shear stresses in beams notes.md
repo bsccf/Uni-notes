@@ -11,10 +11,10 @@ Well we have explored all the following situations:
 ![[Pasted image 20211207223421.png]]
 Now all that is left is to consider and model the internal [[shear stress]] due to bending.
 
-- 
+- [[modeling shear stress in beams]]
 
 
 ## Expanded articles
 
-
 ![[modeling shear stress in beams]]
+

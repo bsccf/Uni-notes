@@ -30,4 +30,4 @@ These forces would manifest as shear forces in the horizontal planes.
 ### The importance of shear stress
 If we imagine a situation with 2 beams of identical situations except one is cut into a series of layers with not shear stresses between them:
 ![[Pasted image 20211207225818.png]]
-We can clearly see that without that shear stress a great amount of strength is lost, this links back to [[distrobution  beam]]
+We can clearly see that without that shear stress a great amount of strength is lost, this links back to the effective [[second moment of area]] of the comparative beams.
