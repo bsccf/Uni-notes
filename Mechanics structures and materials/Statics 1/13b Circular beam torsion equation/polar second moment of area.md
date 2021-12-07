@@ -7,4 +7,4 @@ tags: ["Question","QFormat3"]
 ## Polar second moment of area ($J$)
 This is like the [[second moment of area]] but for torsion, yep.
 
-![[polar second moment of area ]]
+![[polar second moment of area standard resualts]]

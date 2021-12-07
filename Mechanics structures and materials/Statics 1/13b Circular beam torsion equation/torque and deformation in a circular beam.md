@@ -5,7 +5,13 @@ tags: ["Question","QFormat3"]
 
 #### What is the relationship between
 ## Torque and deformation in a circular beam
+### Equation
 
+> ### $$ T = \frac{GJ\theta}{L} $$ 
+>> where:
+>> $J=$ [[polar second moment of area]]
+>> $G=$
+>> $=$
 
 ### Proof
 We know that torque is just a moment acting around the midpoint:
@@ -36,4 +42,8 @@ T &= 2\pi \left[ \frac{Gr^{4}\theta}{4L}  \right]^{R}_0 \\
 \therefore T &=\frac{\pi G R^{4} \theta }{2L} 
 \end{align*}$$
 
-This can then be simplified interms of the [[polar second moment of area]]
+This can then be simplified interms of the [[polar second moment of area]]:
+
+$$\begin{align*}
+T &= \frac{GJ\theta}{L}
+\end{align*}$$
