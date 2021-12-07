@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 1/13b Circular beam torsion equation/Circular beam torsion equation notes.md",
+            "file": "Mechanics structures and materials/Statics 1/13b Circular beam torsion equation/shear strain in a circular beam.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 1/13b Circular beam torsion equation/Circular beam torsion equation notes.md",
+                "file": "Mechanics structures and materials/Statics 1/13b Circular beam torsion equation/shear strain in a circular beam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +108,7 @@
   },
   "active": "23c9949729373456",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Statics 1/13b Circular beam torsion equation/shear strain in a circular beam.md",
     "Mechanics structures and materials/Statics 1/13b Circular beam torsion equation/Circular beam torsion equation notes.md",
     "Mechanics structures and materials/Statics 1/Statics 1 read order.md",
     "Mechanics structures and materials/Statics 1/13a Torsion introduction/Introduction to torsion notes.md",
@@ -116,7 +117,6 @@
     "SESA1015/Flight mechanics/Flight mechanics 8/tailplane lift coefficient.md",
     "SESA1015/Flight mechanics/Flight mechanics 8/tailplane airflow dimensions.md",
     "SESA1015/Flight mechanics/Flight mechanics 3/effect of angle on lift coefficient.md",
-    "SESA1015/Flight mechanics/Flight mechanics 8/logitudional static stability.md",
-    "SESA1015/Flight mechanics/Flight mechanics 8/tail colume coefficient.md"
+    "SESA1015/Flight mechanics/Flight mechanics 8/logitudional static stability.md"
   ]
 }
