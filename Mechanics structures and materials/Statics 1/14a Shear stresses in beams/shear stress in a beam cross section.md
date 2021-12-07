@@ -39,4 +39,9 @@ $$\begin{align*}
 left&\: \: :\: right\\
 \int (\sigma_{xx})\cdot dA + \sigma_{xy} &= \int \left(\sigma_{xx}+ \frac{\Delta \sigma_{xx}}{\Delta x} dx\right)\cdot dA\\
 \end{align*}$$
-The integration is 
+The integration is due to the basic fact that $\sigma=F/A$ and when finding equalibrium we use forces.
+
+Now drawing the diagram 3D:
+![[Pasted image 20211207235231.png]]
+
+
