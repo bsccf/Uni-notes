@@ -8,6 +8,14 @@ tags: ["Question","QFormat3"]
 
 ### Equation
 
+![[Pasted image 20211207122420.png]]
+
+> ### $$ \gamma = \frac{R\theta}{L} = \tan \varphi $$ 
+>> where:
+>> $R=$ radius of beam 
+>> $\theta=$ Rotation between ends (radians)
+>> $L=$ Length of beam
+>> $\varphi=$ look at diagram
 
 ### Proof
 
@@ -22,6 +30,6 @@ We can find sheer stain:
 
 $$\begin{align*}
 strain &= \frac{extention}{orig\:len}\\
-\gamma &= \frac{R\theta}{L} = \tan \varphi
+\therefore \gamma &= \frac{R\theta}{L} = \tan \varphi
 \end{align*}$$
 

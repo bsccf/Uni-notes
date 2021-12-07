@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 1/13b Circular beam torsion equation/shear strain in a circular beam.md",
+            "file": "Mechanics structures and materials/Statics 1/2 Stress and Strain/Stress.md",
             "mode": "source"
           }
         }
@@ -77,13 +77,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 1/13b Circular beam torsion equation/shear strain in a circular beam.md",
+                "file": "Mechanics structures and materials/Statics 1/2 Stress and Strain/Stress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -103,20 +103,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234,
-    "collapsed": true
+    "width": 234
   },
   "active": "23c9949729373456",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Statics 1/13b Circular beam torsion equation/shear strain in a circular beam.md",
+    "Mechanics structures and materials/Statics 1/2 Stress and Strain/Stress.md",
+    "Mechanics structures and materials/Statics 1/13b Circular beam torsion equation/shear stress on a circular beam.md",
     "Mechanics structures and materials/Statics 1/13b Circular beam torsion equation/Circular beam torsion equation notes.md",
+    "Mechanics structures and materials/Statics 1/13b Circular beam torsion equation/shear strain in a circular beam.md",
     "Mechanics structures and materials/Statics 1/Statics 1 read order.md",
     "Mechanics structures and materials/Statics 1/13a Torsion introduction/Introduction to torsion notes.md",
     "Mechanics structures and materials/Statics 1/13a Torsion introduction/basic properties of circular shafts under torsion.md",
     "Mechanics structures and materials/Statics 1/11c Statically indeterminate beams - superposition method/Statically indeterminate beams - superposition method notes.md",
     "SESA1015/Flight mechanics/Flight mechanics 8/tailplane lift coefficient.md",
-    "SESA1015/Flight mechanics/Flight mechanics 8/tailplane airflow dimensions.md",
-    "SESA1015/Flight mechanics/Flight mechanics 3/effect of angle on lift coefficient.md",
-    "SESA1015/Flight mechanics/Flight mechanics 8/logitudional static stability.md"
+    "SESA1015/Flight mechanics/Flight mechanics 8/tailplane airflow dimensions.md"
   ]
 }
