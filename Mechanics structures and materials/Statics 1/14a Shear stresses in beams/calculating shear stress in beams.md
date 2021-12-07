@@ -10,4 +10,6 @@ Well we know the basics from [[modeling shear stress in beams]], and now we know
 
 ![[Pasted image 20211207231805.png]]
 
-![[average shear stress in a beam cross section]]
+![[average shear stress in a beam cross section#Average shear stress in a beam cross section]]
+
+![[shear stress in a beam cross section]]
