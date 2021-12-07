@@ -5,6 +5,15 @@ tags: ["Question","QFormat3"]
 
 #### How can you model
 ## Shear stress in a circular beam (torsion)
+### Equation
+---
+aliases: [""]
+tags: ["Question","QFormat3"]
+---
+
+#### What is
+## Shear stress in a circular beam (torsion)
+
 
 ### Proof
 Note we are still assuming that the beam doesn't expand latterally due to torsion, this is clearly false but considering how little it does change dimentions is a resonable assumption especially with how much it simplifies the maths.
@@ -24,4 +33,13 @@ G &= \frac{\tau}{\frac{R\theta}{L}}\\
 \therefore \frac{GR\theta}{L} &= \tau
 \end{align*}$$
 
-But so far we have been focusing on the outermost surface of the cylinder
+But so far we have been focusing on the outermost surface of the cylinder, this is an easy fix:
+
+![[Pasted image 20211207125733.png]]
+
+You can clearly see that shear strain will increase as r increases (left image), since stress and strain are proportional, strain will hence increase proportionally with r.
+Hence we can simply replace $R$ (radius of cylinder) with $r$ (any position along the radius of the beam):
+
+$$\begin{align*}
+ \therefore \tau & = \frac{Gr\theta}{L}
+\end{align*}$$
