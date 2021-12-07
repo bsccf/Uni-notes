@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 1/2 Stress and Strain/Stress.md",
+            "file": "Mechanics structures and materials/Statics 1/13b Circular beam torsion equation/shear stress in a circular beam.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 1/2 Stress and Strain/Stress.md",
+                "file": "Mechanics structures and materials/Statics 1/13b Circular beam torsion equation/shear stress in a circular beam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,12 +103,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234
+    "width": 234,
+    "collapsed": true
   },
   "active": "23c9949729373456",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Statics 1/13b Circular beam torsion equation/shear stress in a circular beam.md",
     "Mechanics structures and materials/Statics 1/2 Stress and Strain/Stress.md",
-    "Mechanics structures and materials/Statics 1/13b Circular beam torsion equation/shear stress on a circular beam.md",
     "Mechanics structures and materials/Statics 1/13b Circular beam torsion equation/Circular beam torsion equation notes.md",
     "Mechanics structures and materials/Statics 1/13b Circular beam torsion equation/shear strain in a circular beam.md",
     "Mechanics structures and materials/Statics 1/Statics 1 read order.md",

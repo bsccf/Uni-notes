@@ -12,4 +12,4 @@ tags: ["NotesPage"]
 ## Expanded articles
 ![[shear strain in a circular beam]]
 
-![[shear stress on a circular beam]]
+![[shear stress in a circular beam]]
