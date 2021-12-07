@@ -18,3 +18,4 @@ tags: ["NotesPage"]
 
 ![[shear modulus]]
 
+![[torque and deformation in a circular beam]]
