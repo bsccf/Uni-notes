@@ -13,6 +13,7 @@ tags: ["Question","QFormat3"]
 >> $G=$ [[shear modulus]]
 >> $L=$ Beam length
 >> $\theta=$ Rotation between beam faces
+>> $T=$ Torque
 
 #### Note this is a general formula
 > ### $$ T = \frac{GJ\theta}{L} $$ 
@@ -21,6 +22,7 @@ tags: ["Question","QFormat3"]
 >> $G=$ [[shear modulus]]
 >> $L=$ Beam length
 >> $\theta=$ Rotation between beam faces
+>> $T=$ Torque
 
 ### Proof
 We know that torque is just a moment acting around the midpoint:
