@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 1/13b Circular beam torsion equation/torque and deformation in a circular beam.md",
+            "file": "Electrical and electronic systems/Electrical read order.md",
             "mode": "preview"
           }
         }
@@ -60,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264,
-    "collapsed": true
+    "width": 264
   },
   "right": {
     "id": "12c168c46d609ed6",
@@ -77,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 1/13b Circular beam torsion equation/torque and deformation in a circular beam.md",
+                "file": "Electrical and electronic systems/Electrical read order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,20 +102,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234,
-    "collapsed": true
+    "width": 234
   },
   "active": "23c9949729373456",
   "lastOpenFiles": [
+    "Electrical and electronic systems/Electrical read order.md",
+    "SESA1015/Flight mechanics/Flight mechanics 6/range at constant altitude and constant angle of attack.md",
+    "SESA1015/Flight mechanics/Mechanics of flight read order.md",
+    "SESA1015/Flight mechanics/Flight mechanics 4/calculating minimum drag.md",
+    "SESA1015/Flight mechanics/Flight mechanics 4/lmao just shitposting.md",
+    "SESA1015/Flight mechanics/Flight mechanics 4/very based.md",
+    "Mechanics structures and materials/Materials/1 Atomic composition/5 Mechanical Properties/lmao fuck you.md",
     "Mechanics structures and materials/Statics 1/13b Circular beam torsion equation/torque and deformation in a circular beam.md",
     "Mechanics structures and materials/Statics 1/13b Circular beam torsion equation/shear stress in a circular beam (torsion).md",
-    "Mechanics structures and materials/Statics 1/13b Circular beam torsion equation/Circular beam torsion equation notes.md",
-    "Mechanics structures and materials/Statics 1/13b Circular beam torsion equation/shear modulus.md",
-    "Mechanics structures and materials/Statics 1/13b Circular beam torsion equation/shear strain in a circular beam (torsion).md",
-    "Mechanics structures and materials/Materials/1 Atomic composition/6 Defects, dislocations and plastic deformation/poisson's ratio.md",
-    "Mechanics structures and materials/Statics 1/2 Stress and Strain/Stress.md",
-    "Mechanics structures and materials/Statics 1/Statics 1 read order.md",
-    "Mechanics structures and materials/Statics 1/13a Torsion introduction/Introduction to torsion notes.md",
-    "Mechanics structures and materials/Statics 1/13a Torsion introduction/basic properties of circular shafts under torsion.md"
+    "Mechanics structures and materials/Statics 1/13b Circular beam torsion equation/Circular beam torsion equation notes.md"
   ]
 }
