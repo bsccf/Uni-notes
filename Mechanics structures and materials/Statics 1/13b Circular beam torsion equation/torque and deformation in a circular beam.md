@@ -6,12 +6,21 @@ tags: ["Question","QFormat3"]
 #### What is the relationship between
 ## Torque and deformation in a circular beam
 ### Equation
+#### Specific for circular beams
+> ### $$ T =\frac{\pi G R^{4} \theta }{2L}  $$ 
+>> where:
+>> $R=$ Radius of circular beam
+>> $G=$ [[shear modulus]]
+>> $L=$ Beam length
+>> $\theta=$ Rotation between beam faces
 
+#### Note this is a general formula
 > ### $$ T = \frac{GJ\theta}{L} $$ 
 >> where:
 >> $J=$ [[polar second moment of area]]
->> $G=$
->> $=$
+>> $G=$ [[shear modulus]]
+>> $L=$ Beam length
+>> $\theta=$ Rotation between beam faces
 
 ### Proof
 We know that torque is just a moment acting around the midpoint:
