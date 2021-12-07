@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 1/13a Torsion introduction/basic properties of circular shafts under torsion.md",
+            "file": "Mechanics structures and materials/Statics 1/13a Torsion introduction/Introduction to torsion notes.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 1/13a Torsion introduction/basic properties of circular shafts under torsion.md",
+                "file": "Mechanics structures and materials/Statics 1/13a Torsion introduction/Introduction to torsion notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,8 +108,8 @@
   },
   "active": "23c9949729373456",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Statics 1/13a Torsion introduction/basic properties of circular shafts under torsion.md",
     "Mechanics structures and materials/Statics 1/13a Torsion introduction/Introduction to torsion notes.md",
+    "Mechanics structures and materials/Statics 1/13a Torsion introduction/basic properties of circular shafts under torsion.md",
     "Mechanics structures and materials/Statics 1/Statics 1 read order.md",
     "Mechanics structures and materials/Statics 1/11c Statically indeterminate beams - superposition method/Statically indeterminate beams - superposition method notes.md",
     "SESA1015/Flight mechanics/Flight mechanics 8/tailplane lift coefficient.md",
