@@ -30,7 +30,9 @@ dT &= r\times dF \\
 We also know that the total torque is the sum of all these tiny rings along the beams radius, hence:
 $$\begin{align*}
 T &= \int^{R}_0 \int^{2\pi}_0 r^{2}  \tau \cdot d\psi \cdot dr\\
-T &= \int^{R}_0 [ r^{2}  \tau \psi]^{2\pi}_0 \cdot dr\\
-T &= \int^{R}_0 r^{2}  \tau 2\pi \cdot dr\\
+T &= \tau\int^{R}_0 [ r^{2}   \psi]^{2\pi}_0 \cdot dr\\
+T &= \tau \int^{R}_0 r^{2}  2\pi \cdot dr\\
+T &= 2\pi\tau \left[ \frac{r^{3}}{3}  \right]^{R}_0 \\
+T &=\frac{2\pi R^{3} \tau }{3} \\
 &
 \end{align*}$$
