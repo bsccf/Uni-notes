@@ -31,3 +31,10 @@ $$\begin{align*}
 Left : \sigma_{xx} &= \frac{My}{I} & Right: \sigma_{xx}+ \frac{\Delta \sigma_{xx}}{\Delta x} dx= \frac{\left(M+ \frac{dM}{dx} dx\right) y}{I}
 \end{align*}$$
 Also note that $M$ is a function of x, as it varys along the length of the beam.
+
+Now if we consider how these equations look on a diagram:
+![[Pasted image 20211207234541.png]]
+We can see that the difference in stresses would resault in non equalibrium conditions, hence we introduce $\sigma_{xy}$ to balence the internal forces hence:
+$$\begin{align*}
+\sigma_{xx} + \sigma_{xy} &= \sigma_{xx}+ \frac{\Delta \sigma_{xx}}{\Delta x} dx
+\end{align*}$$
