@@ -13,3 +13,9 @@ By focusing on a small section (represented in red) we can see that there is a s
 
 ![[Pasted image 20211207122420.png]]
 
+We can find sheer stain:
+
+$$\begin{align*}
+strain &= \frac{extention}{orig\:len}\\
+&
+\end{align*}$$
