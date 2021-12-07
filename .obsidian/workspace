@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 1/14a Shear stresses in beams/modelling shear stress in beams.md",
-            "mode": "source"
+            "file": "Mechanics structures and materials/Statics 1/7a Beams, stress due to bending/strains effects on cross section of a beam.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,13 +76,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 1/14a Shear stresses in beams/modelling shear stress in beams.md",
+                "file": "Mechanics structures and materials/Statics 1/7a Beams, stress due to bending/strains effects on cross section of a beam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -106,15 +106,15 @@
   },
   "active": "23c9949729373456",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Statics 1/7a Beams, stress due to bending/strains effects on cross section of a beam.md",
     "Mechanics structures and materials/Statics 1/14a Shear stresses in beams/modelling shear stress in beams.md",
+    "Mechanics structures and materials/Statics 1/7b Bending of beams/force over a section of beam cross section.md",
+    "Mechanics structures and materials/Statics 1/7b Bending of beams/engineer's bending theory.md",
+    "Mechanics structures and materials/Statics 1/7b Bending of beams/Bending of beams notes.md",
+    "Mechanics structures and materials/Statics 1/7a Beams, stress due to bending/Stress due to bending notes.md",
     "Mechanics structures and materials/Statics 1/14a Shear stresses in beams/Shear stresses in beams notes.md",
     "Mechanics structures and materials/Statics 1/Statics 1 read order.md",
     "Mechanics structures and materials/Statics 1/13b,c Circular beam torsion equation/Circular beam torsion equation notes.md",
-    "Mechanics structures and materials/Statics 1/13b,c Circular beam torsion equation/torque and deformation in a circular beam.md",
-    "Mechanics structures and materials/Statics 1/13b,c Circular beam torsion equation/polar second moment of area.md",
-    "Mechanics structures and materials/Statics 1/13b,c Circular beam torsion equation/polar second moment of area standard resualts.md",
-    "Mechanics structures and materials/Statics 1/13b,c Circular beam torsion equation/shear strain in a circular beam (torsion).md",
-    "Mechanics structures and materials/Statics 1/13b,c Circular beam torsion equation/torsion equations.md",
-    "Mechanics structures and materials/Statics 1/13b,c Circular beam torsion equation/shear stress in a circular beam (torsion).md"
+    "Mechanics structures and materials/Statics 1/13b,c Circular beam torsion equation/torque and deformation in a circular beam.md"
   ]
 }
