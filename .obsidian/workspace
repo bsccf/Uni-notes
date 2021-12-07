@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/Mechanics of flight read order.md",
+            "file": "Mechanics structures and materials/Statics 1/13a Torsion introduction/basic properties of circular shafts under torsion.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Mechanics of flight read order.md",
+                "file": "Mechanics structures and materials/Statics 1/13a Torsion introduction/basic properties of circular shafts under torsion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "23c9949729373456",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Statics 1/13a Torsion introduction/basic properties of circular shafts under torsion.md",
     "SESA1015/Flight mechanics/Mechanics of flight read order.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/n-p junction.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/shiposting.md",
@@ -114,7 +115,6 @@
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/Semiconductor theory notes.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/go to sleep.md",
     "Electrical and electronic systems/Electrical read order.md",
-    "Electrical and electronic systems/1 Electric circuits/7a not done/Thevenins equivalent circuit notes.md",
-    "Electrical and electronic systems/1 Electric circuits/6a Mesh analysis/Mesh analysis notes.md"
+    "Electrical and electronic systems/1 Electric circuits/7a not done/Thevenins equivalent circuit notes.md"
   ]
 }
