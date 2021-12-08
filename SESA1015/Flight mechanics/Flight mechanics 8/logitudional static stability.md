@@ -77,9 +77,12 @@ C_{mG} &=  C_{mo} + (h-h_0)C_L - \bar{V}\left(a_{1T} \left(\alpha\left(1 - \frac
 We now have a final resault for the elevator angle needed for trim:
 > ### $$ \bar{V} a_{2T} \bar{\eta} =  C_{mo} + (h-h_0)a_1 \alpha - \bar{V}a_{1T} \left(\alpha\left(1 - \frac{d\varepsilon}{d\alpha}\right)+\alpha_S\right) $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $a_{1T}= \dfrac{dC_{LT}}{d\alpha_T}=$ lift curve slope of tailplane (for a constant value of $\eta$) 
+>> $a_{2T}= \dfrac{dC_{LT}}{d\eta}=$ constant (for a value constant of $\alpha_T$)
+>> $\alpha_S=$ angle between tailplane and main wing datum line
+>> $\alpha=$ angle of attack
+>> $\frac{d\varepsilon}{d\alpha}=$ downwash angle rate of change with angle of attack
+
 
 In some cases instead to trimming by adjusting the tailplane, you will adjust the whole airplanes angle, if that is the case then to achieve trim you do:
 > ### $$ \bar{V} a_{1T} \bar{\alpha_S} = C_{mo} + (h-h_0)a_1 \alpha - \bar{V} a_{1T} \alpha \left(\frac{1-d\varepsilon}{d\alpha}\right) $$ 
