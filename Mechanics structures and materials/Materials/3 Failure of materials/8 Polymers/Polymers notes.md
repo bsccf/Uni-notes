@@ -37,3 +37,5 @@ tags: ["NotesPage"]
 ![[viscoelasticity in polymers]]
 
 ![[relaxation modulus]]
+
+![[relaxation modulus and temperature]]

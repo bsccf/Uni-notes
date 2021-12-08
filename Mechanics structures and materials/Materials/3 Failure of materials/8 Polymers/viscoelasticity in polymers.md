@@ -26,4 +26,3 @@ It is possible to express [[creep (materials)|creep]] in polymers mathamatically
 
 Also note [[relaxation modulus]] can be useful here.
 
-#### On a graph

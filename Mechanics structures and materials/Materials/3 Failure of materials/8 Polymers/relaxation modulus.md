@@ -15,3 +15,5 @@ tags: ["Question","QFormat3"]
 This is basically a [[youngs modulus]] that changes over time, so can be used to model [[creep (materials)|creep]].
 
 ![[Pasted image 20211208165745.png]]
+
+[[relaxation modulus and temperature|The effect of temperature is also quite important.]]
