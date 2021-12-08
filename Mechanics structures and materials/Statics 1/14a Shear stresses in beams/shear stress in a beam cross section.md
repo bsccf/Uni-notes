@@ -55,5 +55,7 @@ $$\begin{align*}
 We also know that $\frac{dM}{dx} = Q$ from [[proof of the differential relationship between load, shear force and bending moment]]:
 $$\begin{align*}
  \therefore \sigma_{xy} &= \frac{1}{b} \int^{0}_{A_s} Q \frac{y}{I}\cdot dA \\
-\sigma_{xy} &= \frac{IQ}{b} \int^{0}_{A_s} y \cdot dA
+\sigma_{xy} &= \frac{Q}{Ib} \int^{0}_{A_s} y \cdot dA
 \end{align*}$$
+# NOTE: FINISH
+![[Pasted image 20211208000646.png]]
