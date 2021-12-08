@@ -23,7 +23,7 @@ The component must also be hot enough, for common materials creep can occur at:
 Higher temperatures lead to faster creep.
 
 #### Notes
-- Also occurs in polymers
+- Also occurs in [[polymers]]
 - It is a diffusion based processes so it can be calculated using [[temperatures effect on diffusion|calculating diffusion]]
 - further reading [[calculating creep rate]]
 
