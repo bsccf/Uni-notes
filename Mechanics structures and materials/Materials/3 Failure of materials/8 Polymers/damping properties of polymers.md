@@ -15,4 +15,8 @@ We can catagorise the difference in [[relaxation modulus]] using the following t
 (note that load vs time is what is being applied to the different resposnes)
 
 ### Catagorisation between polymers
-I am Jc I cna toye quite fast but ny accuract decreases iver tune wheb U have ny etes ckised, thiuight I anc quite sure that at a specific piubnt the accuract will reach a minimum that it wont drop velow
+- [[thermosetting polymers]] have low damping capacity due to the 3D network of bonds
+- [[thermoplastic]]s have a high damping capacity when in the temp range $T_g<T<T_m$ (where molecular chains are more mobile)
+
+### Changing damping
+It is possible to change the damping properties of polymers by introducing addatives
