@@ -7,8 +7,11 @@
         "id": "50d27321056dd06d",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Mechanics structures and materials/Materials/Materials read order.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mechanics structures and materials/Materials/Materials read order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +106,15 @@
   },
   "active": "50d27321056dd06d",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Materials/thermosetting polymers.md",
-    "Mechanics structures and materials/Materials/Polymers notes.md",
-    "Mechanics structures and materials/Materials/networked polymers.md",
-    "Mechanics structures and materials/Materials/types of polymer chains.md",
-    "Mechanics structures and materials/Materials/elastomers.md",
-    "Mechanics structures and materials/Materials/spherulite (polymers).md",
-    "Mechanics structures and materials/Materials/polymer crystalline structures.md",
-    "Mechanics structures and materials/Materials/linear polymers.md",
-    "Mechanics structures and materials/Materials/branched polymers.md",
-    "Mechanics structures and materials/Materials/crosslinked polymers.md"
+    "Mechanics structures and materials/Materials/Materials read order.md",
+    "Mechanics structures and materials/Materials/3 Failure of materials/8 Polymers/thermosetting polymers.md",
+    "Mechanics structures and materials/Materials/3 Failure of materials/8 Polymers/Polymers notes.md",
+    "Mechanics structures and materials/Materials/3 Failure of materials/8 Polymers/networked polymers.md",
+    "Mechanics structures and materials/Materials/3 Failure of materials/8 Polymers/types of polymer chains.md",
+    "Mechanics structures and materials/Materials/3 Failure of materials/8 Polymers/elastomers.md",
+    "Mechanics structures and materials/Materials/3 Failure of materials/8 Polymers/spherulite (polymers).md",
+    "Mechanics structures and materials/Materials/3 Failure of materials/8 Polymers/polymer crystalline structures.md",
+    "Mechanics structures and materials/Materials/3 Failure of materials/8 Polymers/linear polymers.md",
+    "Mechanics structures and materials/Materials/3 Failure of materials/8 Polymers/branched polymers.md"
   ]
 }
