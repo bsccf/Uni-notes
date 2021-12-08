@@ -35,4 +35,7 @@ The most common formation is a twisted lamellar ribbon structure.
 
 #### Amorphus polymers
 - Not that dense as the chains don't pack tightly
-- Less contact between chains reduce
+- Less contact between chains reduces effect of [[van der waals force]] hence weaker
+
+#### Semicrystalline polymer
+As stated previously a true [[polymer crystallinity|crystalline polymer]] is basically impossible, the [[polymer chain length distrobution]] contributes to this as the different length polymers can't really form a true repeating structure
