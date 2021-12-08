@@ -39,3 +39,5 @@ tags: ["NotesPage"]
 ![[relaxation modulus]]
 
 ![[relaxation modulus and temperature]]
+
+![[damping properties of polymers]]

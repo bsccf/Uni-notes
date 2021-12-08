@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/3 Failure of materials/8 Polymers/relaxation modulus and temperature.md",
+            "file": "Mechanics structures and materials/Materials/3 Failure of materials/8 Polymers/damping properties of polymers.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/3 Failure of materials/8 Polymers/relaxation modulus and temperature.md",
+                "file": "Mechanics structures and materials/Materials/3 Failure of materials/8 Polymers/damping properties of polymers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "2ace69f247f488dc",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Materials/3 Failure of materials/8 Polymers/damping properties of polymers.md",
+    "Mechanics structures and materials/Materials/3 Failure of materials/8 Polymers/Polymers notes.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/8 Polymers/relaxation modulus and temperature.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/8 Polymers/what did you expect.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/8 Polymers/Polymers notes.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/8 Polymers/relaxation modulus.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/8 Polymers/viscoelasticity in polymers.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/6 Creep/creep (materials).md",
     "Mechanics structures and materials/Materials/3 Failure of materials/8 Polymers/time dependent strain.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/8 Polymers/strength of thermoplastics, thermosets and elastomers.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/8 Polymers/thermoplastic.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/8 Polymers/thermoplastic deformation.md"
+    "Mechanics structures and materials/Materials/3 Failure of materials/8 Polymers/thermoplastic.md"
   ]
 }

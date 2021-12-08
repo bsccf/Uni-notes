@@ -17,4 +17,6 @@ As you can see a more crystalline polymer has quite consistant behaviour until i
 
 - Glassy - $T<T_g$ hence no molecular sliding
 - Leathery - [[viscoelasticity in polymers|viscoelastic]] deformation
-- Rubbery - like an 
+- Rubbery - like an [[elastomers|elastomer]] but only has entanglements not cross links
+- Rubbery flow - Has both elastic and viscous properties
+- Viscous flow - Independent chain motion, rotation and vibration
