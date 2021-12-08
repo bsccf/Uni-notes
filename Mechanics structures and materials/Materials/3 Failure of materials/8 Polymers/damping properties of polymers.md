@@ -9,4 +9,4 @@ This relates back to [[creep (materials)|creep]], especially in polymers there i
 
 ![[Pasted image 20211208173256.png]]
 
-
+We can describe the difference in [[relaxation modulus]] using 
