@@ -35,5 +35,5 @@ Very pog, if you don't believe this to be based... then, uhhh [[you are retard|t
 18) [[Statically indeterminate beams - superposition method notes]]
 19) [[Introduction to torsion notes]]
 20) [[Circular beam torsion equation notes]]
-21) [[Shear stresses in beams notes]]
+21) [[Shear stresses in beams notes]] (unfinished)
 

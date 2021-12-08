@@ -5,7 +5,19 @@ tags: ["Question","QFormat3"]
 
 #### How can you find
 ## Shear stress in a beam cross section
+### Equations
 
+> ### $$\sigma_{xy} = \frac{Q}{Ib} \int^{0}_{A_s} y \cdot dA$$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
+
+> ### $$ \sigma_{yx} = \frac{Q}{BI} A_s y_c $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
 
 ### Proof
 #### Getting expressions for the left and right sides
@@ -61,8 +73,9 @@ This is useful, but so far we have been using $y$ which represents the top of ou
 
 ![[Pasted image 20211208102702.png]]
 
-We simply integrate
+We get the form:
 
 $$\begin{align*}
 \sigma_{yx} &= \frac{Q}{BI} A_s y_c 
 \end{align*}$$
+
