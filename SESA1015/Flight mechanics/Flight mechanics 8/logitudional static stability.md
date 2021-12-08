@@ -86,7 +86,7 @@ We now have a final resault for the elevator angle needed for trim:
 >> $h=$ fraction of the wing chord from the leading edge to centre of gravity
 >> $h_0=$ fraction of the wing chord from the leading edge to aerodynamic centre
 >> $\bar{\eta}=$ tailplane elevator angle for trim
->> $C_{mo}$
+>> $C_{mo}=$ [[aircraft controls and dimentions for calculating longitudional stability|pitching moment at zero lift coefficient ]]
 
 
 In some cases instead to trimming by adjusting the tailplane, you will adjust the whole airplanes angle, if that is the case then to achieve trim you do:
