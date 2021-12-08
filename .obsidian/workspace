@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/Polymers notes.md",
+            "file": "Mechanics structures and materials/Materials/polymers.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/Polymers notes.md",
+                "file": "Mechanics structures and materials/Materials/polymers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "50d27321056dd06d",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Materials/polymers.md",
     "Mechanics structures and materials/Materials/Polymers notes.md",
     "Mechanics structures and materials/Materials/Materials read order.md",
     "Mechanics structures and materials/Materials/1 Atomic composition/1 Atoms and types of bonding/van der waals force.md",
@@ -114,7 +115,6 @@
     "Mechanics structures and materials/Materials/1 Atomic composition/1 Atoms and types of bonding/polarised atoms.md",
     "SESA1015/Flight mechanics/Flight mechanics 8/logitudional static stability.md",
     "SESA1015/Flight mechanics/Flight mechanics 8/aircraft controls and dimentions for calculating longitudional stability.md",
-    "SESA1015/Flight mechanics/Flight mechanics 8/tail volume coefficient.md",
-    "SESA1015/Flight mechanics/Flight mechanics 8/tailplane lift coefficient.md"
+    "SESA1015/Flight mechanics/Flight mechanics 8/tail volume coefficient.md"
   ]
 }
