@@ -16,3 +16,4 @@ tags: ["NotesPage"]
 
 ![[chain length and polymer strength]]
 
+![[polymer crystallinity]]
