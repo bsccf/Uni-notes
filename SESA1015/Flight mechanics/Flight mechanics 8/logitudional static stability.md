@@ -48,7 +48,7 @@ C_{mG} &=  C_{mo} + (h-h_0)\left(C_{Lw}+\frac{C_{LT}S_T}{S}\right) - \left(\frac
 C_{mG} &=  C_{mo} + (h-h_0)\left(C_{Lw}+\frac{C_{LT}S_T}{S}\right) - \bar{V}C_{LT}
 \end{align*}$$
 
-Note that $\bar{V}$ is known as the [[tail colume coefficient]].
+Note that $\bar{V}$ is known as the [[tail volume coefficient]].
 We can use verticle equalibrium to simplify further $L=L_W+P=W=\frac{1}{2}\rho V^{2}SC_L$:
 $$\begin{align*}
 &&L&=L_W+P & W&=\frac{1}{2}\rho V^{2}SC_L\\
@@ -82,6 +82,11 @@ We now have a final resault for the elevator angle needed for trim:
 >> $\alpha_S=$ angle between tailplane and main wing datum line
 >> $\alpha=$ angle of attack
 >> $\frac{d\varepsilon}{d\alpha}=$ downwash angle rate of change with angle of attack
+>> $\bar{V}=$ [[tail volume coefficient]]
+>> $h=$ fraction of the wing chord from the leading edge to centre of gravity
+>> $h_0=$ fraction of the wing chord from the leading edge to aerodynamic centre
+>> $\bar{\eta}=$ tailplane elevator angle for trim
+>> $C_{mo}$
 
 
 In some cases instead to trimming by adjusting the tailplane, you will adjust the whole airplanes angle, if that is the case then to achieve trim you do:
