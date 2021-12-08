@@ -20,6 +20,8 @@ More [[crystalline materials|crystalline]] polymers will also have greater densi
 ![[Pasted image 20211208141042.png]]
 Since the chains can become more closely packed.
 
-A
+Also note the:
+- ($T_g$) [[glass transition temperature (polymers)]]
+- ($T_m$) melting temperature
 
 ### Types
