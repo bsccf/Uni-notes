@@ -29,3 +29,4 @@ Elaboration on graph symbols:
 The most common formation is a twisted lamellar ribbon structure.
 
 ![[Pasted image 20211208142606.png]]
+
