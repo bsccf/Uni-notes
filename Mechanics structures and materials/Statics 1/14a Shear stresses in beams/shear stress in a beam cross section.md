@@ -57,5 +57,7 @@ $$\begin{align*}
  \therefore \sigma_{xy} &= \frac{1}{b} \int^{0}_{A_s} Q \frac{y}{I}\cdot dA \\
 \sigma_{xy} &= \frac{Q}{Ib} \int^{0}_{A_s} y \cdot dA
 \end{align*}$$
-# NOTE: FINISH
-![[Pasted image 20211208000646.png]]
+This is useful, but 
+
+![[Pasted image 20211208102702.png]]
+
