@@ -19,4 +19,7 @@ We can catagorise the difference in [[relaxation modulus]] using the following t
 - [[thermoplastic]]s have a high damping capacity when in the temp range $T_g<T<T_m$ (where molecular chains are more mobile)
 
 ### Changing damping
-It is possible to change the damping properties of polymers by introducing addatives
+It is possible to change the damping properties of polymers by:
+- introducing addatives
+- mixing multiple polymers to get averaged propeties (has limitations as you can imagine)
+- [[copolymerisation]] with suitable momomers
