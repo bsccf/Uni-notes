@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/elastomers.md",
+            "file": "Mechanics structures and materials/Materials/thermosetting plastics.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/elastomers.md",
+                "file": "Mechanics structures and materials/Materials/thermosetting plastics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "50d27321056dd06d",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Materials/elastomers.md",
-    "Mechanics structures and materials/Materials/Polymers notes.md",
+    "Mechanics structures and materials/Materials/thermosetting plastics.md",
+    "Mechanics structures and materials/Materials/networked polymers.md",
     "Mechanics structures and materials/Materials/types of polymer chains.md",
+    "Mechanics structures and materials/Materials/Polymers notes.md",
+    "Mechanics structures and materials/Materials/elastomers.md",
     "Mechanics structures and materials/Materials/spherulite (polymers).md",
     "Mechanics structures and materials/Materials/polymer crystalline structures.md",
     "Mechanics structures and materials/Materials/linear polymers.md",
     "Mechanics structures and materials/Materials/branched polymers.md",
-    "Mechanics structures and materials/Materials/networked polymers.md",
-    "Mechanics structures and materials/Materials/crosslinked polymers.md",
-    "Mechanics structures and materials/Materials/polymer crystallinity.md"
+    "Mechanics structures and materials/Materials/crosslinked polymers.md"
   ]
 }
