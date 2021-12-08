@@ -30,6 +30,6 @@ tags: ["NotesPage"]
 
 ![[thermoplastic]]
 
-![[thermoplastic polymer deformation]]
+![[thermoplastic deformation]]
 
-![[comparing polymer]]
+![[stress strain graphs of thermoplastics, thermosets and elastomers]]
