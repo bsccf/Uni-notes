@@ -24,10 +24,6 @@ It is possible to express [[creep (materials)|creep]] in polymers mathamatically
 >> $t=$ time
 >> $\tau=$ relaxation time
 
-> ### $$ E_r(t) = \frac{\sigma_t}{\varepsilon_0} $$ 
->> where:
->> $\varepsilon_0=$ the strain 
->> $E_r(t)=$ The relaxation modulus as a function of time
->> $\sigma_t=$ The time dependent stress
+Also note [[relaxation modulus]] can be useful here.
 
 #### On a graph

@@ -35,3 +35,5 @@ tags: ["NotesPage"]
 ![[strength of thermoplastics, thermosets and elastomers]]
 
 ![[viscoelasticity in polymers]]
+
+![[relaxation modulus]]
