@@ -57,7 +57,7 @@ $$\begin{align*}
  \therefore \sigma_{xy} &= \frac{1}{b} \int^{0}_{A_s} Q \frac{y}{I}\cdot dA \\
 \sigma_{xy} &= \frac{Q}{Ib} \int^{0}_{A_s} y \cdot dA
 \end{align*}$$
-This is useful, but 
+This is useful, but so far we have been using $y$ which represents the top of our focused section
 
 ![[Pasted image 20211208102702.png]]
 
