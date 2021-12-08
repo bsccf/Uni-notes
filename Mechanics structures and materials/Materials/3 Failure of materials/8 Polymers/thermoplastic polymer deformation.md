@@ -14,4 +14,8 @@ For [[linear polymers]] or polymers with few links between chains the [[van der 
 
 ### Behaviour under loads
 #### Effect of polymer alighnment
-When polymer chains are aligned with eachother there monomers are closer which means that the effect
+When polymer chains are aligned with eachother there monomers are closer which means that the effect of the [[van der waals force]] is greater leading to a stronger attractive force, on the other hand unaligned chains have a weaker [[van der waals force]] between them.
+
+#### Necking
+With the previous fact in mind now consider what happens when we stretch a polymer, it leads to polymer chains aligning increasing the [[van der waals force]] and hence the stress needed to extend them increases... now this also applies to necking:
+![[Pasted image 20211208162054.p
