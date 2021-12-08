@@ -20,3 +20,4 @@ tags: ["NotesPage"]
 
 ![[polymer crystalline structures]]
 
+![[elastomers]]
