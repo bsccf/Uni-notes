@@ -1,5 +1,5 @@
 ---
-aliases: ["crystalline polymer","amorphous polymer"]
+aliases: ["crystalline polymer","amorphous polymer","semicrystalline polymer"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -25,3 +25,7 @@ Elaboration on graph symbols:
 - ($T_m$) melting temperature
 
 ### Detail on these types
+#### Crystalline polymers
+The most common formation is a twisted lamellar ribbon structure.
+
+![[Pasted image 20211208142606.png]]
