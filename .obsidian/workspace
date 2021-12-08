@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/chain length and polymer strength.md",
+            "file": "Mechanics structures and materials/Materials/Polymers notes.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/chain length and polymer strength.md",
+                "file": "Mechanics structures and materials/Materials/Polymers notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,9 +106,9 @@
   },
   "active": "50d27321056dd06d",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Materials/chain length and polymer strength.md",
-    "Mechanics structures and materials/Statics 1/2 Stress and Strain/Ultimate Tensile Strength.md",
     "Mechanics structures and materials/Materials/Polymers notes.md",
+    "Mechanics structures and materials/Materials/chain length and polymer strength.md",
+    "Mechanics structures and materials/Statics 1/2 Stress and Strain/ultimate tensile strength.md",
     "Mechanics structures and materials/Materials/polymer chain length distrobution.md",
     "Mechanics structures and materials/Materials/polymers.md",
     "Mechanics structures and materials/Materials/types of polymer chains.md",

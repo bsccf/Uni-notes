@@ -17,6 +17,6 @@ We have already looked at [[Stress and Strain]], but in reality there are 2 meth
 
 ![[effect of temperature on yield stress]]
 
-![[Ultimate Tensile Strength]]
+![[ultimate tensile strength]]
 
 ![[ductility]]

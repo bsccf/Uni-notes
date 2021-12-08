@@ -17,4 +17,4 @@ Now if we consider an incredibly short polyer chain:
 - Short enough chains could act more like a fluid than a firm structure
 - Contribute little to overall material strength
 
-Of course chain's exist on a spectrum between these two extremes, but as you can see longer chains will generally resault in higher [[]]
+Of course chain's exist on a spectrum between these two extremes, but as you can see longer chains will generally resault in a higher [[ultimate tensile strength]].
