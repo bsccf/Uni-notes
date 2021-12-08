@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/Flight mechanics 8/logitudional static stability.md",
+            "file": "SESA1015/Flight mechanics/Flight mechanics 8/tailplane lift coefficient.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 8/logitudional static stability.md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 8/tailplane lift coefficient.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +106,8 @@
   },
   "active": "50d27321056dd06d",
   "lastOpenFiles": [
-    "SESA1015/Flight mechanics/Flight mechanics 8/logitudional static stability.md",
     "SESA1015/Flight mechanics/Flight mechanics 8/tailplane lift coefficient.md",
+    "SESA1015/Flight mechanics/Flight mechanics 8/logitudional static stability.md",
     "SESA1015/Flight mechanics/Flight mechanics 8/Introduction to longitudinal stability.md",
     "SESA1015/Flight mechanics/Flight mechanics 8/based and so redpilled I overdosed.md",
     "SESA1015/Flight mechanics/Flight mechanics 8/aircraft controls and dimentions for calculating longitudional stability.md",

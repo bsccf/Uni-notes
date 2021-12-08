@@ -12,7 +12,7 @@ tags: ["Question","QFormat3"]
 >> $C_{LT}=$ [[tailplane lift coefficient]]
 >> $a_{1T}= \dfrac{dC_{LT}}{d\alpha_T}=$ lift curve slope of tailplane (for a constant value of $\eta$) 
 >> $a_{2T}= \dfrac{dC_{LT}}{d\eta}=$ constant (for a value constant of $\alpha_T$)
->> $a_T = \alpha\left(1 - \frac{d\varepsilon}{d\alpha}\right)+\alpha_S$
+>> $\alpha_T = \alpha\left(1 - \frac{d\varepsilon}{d\alpha}\right)+\alpha_S$
 
 ^d6f08f
 
