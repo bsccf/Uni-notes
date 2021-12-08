@@ -66,12 +66,12 @@ From [[tailplane lift coefficient]] we get:
 
 Which we can now sub back:
 $$\begin{align*}
-C_{mG} &=  C_{mo} + (h-h_0)C_L - \bar{V}C_{LT} & C_{LT} &= a_{1r} \alpha_T + a_{2e} \eta \\
-C_{mG} &=  C_{mo} + (h-h_0)C_L - \bar{V}(a_{1r} \alpha_T + a_{2e} \eta) &&& \alpha_T &= \alpha\left(1 - \frac{d\varepsilon}{d\alpha}\right)+\alpha_S\\
-C_{mG} &=  C_{mo} + (h-h_0)C_L - \bar{V}\left(a_{1r} \left(\alpha\left(1 - \frac{d\varepsilon}{d\alpha}\right)+\alpha_S\right) + a_{2e} \eta\right)\\
+C_{mG} &=  C_{mo} + (h-h_0)C_L - \bar{V}C_{LT} & C_{LT} &= a_{1T} \alpha_T + a_{2T} \eta \\
+C_{mG} &=  C_{mo} + (h-h_0)C_L - \bar{V}(a_{1T} \alpha_T + a_{2T} \eta) &&& \alpha_T &= \alpha\left(1 - \frac{d\varepsilon}{d\alpha}\right)+\alpha_S\\
+C_{mG} &=  C_{mo} + (h-h_0)C_L - \bar{V}\left(a_{1T} \left(\alpha\left(1 - \frac{d\varepsilon}{d\alpha}\right)+\alpha_S\right) + a_{2T} \eta\right)\\
 & & let\:C_{mG}&=0\\
-0 &=  C_{mo} + (h-h_0)C_L - \bar{V}a_{1r} \left(\alpha\left(1 - \frac{d\varepsilon}{d\alpha}\right)+\alpha_S\right) - \bar{V} a_{2e} \eta\\
-\bar{V} a_{2e} \eta &=  C_{mo} + (h-h_0)C_L - \bar{V}a_{1r} \left(\alpha\left(1 - \frac{d\varepsilon}{d\alpha}\right)+\alpha_S\right)\\
+0 &=  C_{mo} + (h-h_0)C_L - \bar{V}a_{1T} \left(\alpha\left(1 - \frac{d\varepsilon}{d\alpha}\right)+\alpha_S\right) - \bar{V} a_{2T} \eta\\
+\bar{V} a_{2T} \eta &=  C_{mo} + (h-h_0)C_L - \bar{V}a_{1T} \left(\alpha\left(1 - \frac{d\varepsilon}{d\alpha}\right)+\alpha_S\right)\\
 &
 \end{align*}$$
 

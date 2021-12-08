@@ -7,11 +7,11 @@ tags: ["Question","QFormat3"]
 ## Tailplane lift coefficient ($C_{LT}$)
 ### Intro
 
-> ### $$ C_{LT} = a_{1r} \alpha_T + a_{2e} \eta $$ 
+> ### $$ C_{LT} = a_{1T} \alpha_T + a_{2T} \eta $$ 
 >> where:
 >> $C_{LT}=$ [[tailplane lift coefficient]]
->> $a_{1r}= \dfrac{dC_{LT}}{d\alpha_T}=$ lift curve slope of tailplane (for a constant value of $\eta$) 
->> $a_{2r}= \dfrac{dC_{LT}}{d\eta}=$ constant (for a value constant of $\alpha_T$)
+>> $a_{1T}= \dfrac{dC_{LT}}{d\alpha_T}=$ lift curve slope of tailplane (for a constant value of $\eta$) 
+>> $a_{2T}= \dfrac{dC_{LT}}{d\eta}=$ constant (for a value constant of $\alpha_T$)
 >> $a_T = \alpha\left(1 - \frac{d\varepsilon}{d\alpha}\right)+\alpha_S$
 
 ^d6f08f
@@ -47,13 +47,3 @@ $$\begin{align*}
 &= \alpha+\alpha_S - \frac{d\varepsilon}{d\alpha} \alpha\\
 \therefore \alpha_T &= \alpha\left(1 - \frac{d\varepsilon}{d\alpha}\right)+\alpha_S
 \end{align*}$$
-
-Next we will use an equation that we don't need to prove:
-
-> ### $$ C_{LT} = a_{1r} \alpha_T + a_{2e} \eta $$ 
->> where:
->> $C_{LT}=$ [[tailplane lift coefficient]]
->> $a_{1r}= \dfrac{dC_{LT}}{d\alpha_T}=$ lift curve slope of tailplane (for a constant value of $\eta$) 
->> $a_{2r}= \dfrac{dC_{LT}}{d\eta}=$ constant (for a value constant of $\alpha_T$)
->> $a_T = \alpha\left(1 - \frac{d\varepsilon}{d\alpha}\right)+\alpha_S$
-
