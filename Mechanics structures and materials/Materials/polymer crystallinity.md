@@ -30,3 +30,9 @@ The most common formation is a twisted lamellar ribbon structure.
 
 ![[Pasted image 20211208142606.png]]
 
+- High densitys as chains can pack closer together
+- High strength due to [[van der waals force]]s between adjacent chains
+
+#### Amorphus polymers
+- Not that dense as the chains don't pack tightly
+- Less contact between chains reduce
