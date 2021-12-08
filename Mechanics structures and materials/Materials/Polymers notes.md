@@ -19,3 +19,4 @@ tags: ["NotesPage"]
 ![[polymer crystallinity]]
 
 ![[polymer crystalline structures]]
+
