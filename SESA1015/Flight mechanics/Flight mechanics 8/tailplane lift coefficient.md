@@ -14,6 +14,8 @@ tags: ["Question","QFormat3"]
 >> $a_{2r}= \dfrac{dC_{LT}}{d\eta}=$ constant (for a value constant of $\alpha_T$)
 >> $a_T = \alpha\left(1 - \frac{d\varepsilon}{d\alpha}\right)+\alpha_S$
 
+^d6f08f
+
 
 The tailplane is kinda annoying, because when positioned behined the main wing it ends up recieving the main wings downwash. So the air comes at it with an akward angle, which we need to account for.
 ![[Pasted image 20211206151547.png]]

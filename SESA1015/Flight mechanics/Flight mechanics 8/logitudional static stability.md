@@ -60,4 +60,10 @@ C_{mG} &=  C_{mo} + (h-h_0)C_L - \bar{V}C_{LT}
 
 Well now we have hit a wall, since we don't know how to determine $C_{LT}$, if only there was some sort of "[[tailplane lift coefficient|how do you determine the tailplane lift coefficient]]" document... wait that embeded?! Guess we have unhit said wall.
 
-![[tailplane lift coefficient]]
+From [[tailplane lift coefficient]] we get:
+
+![[tailplane lift coefficient#^d6f08f]]
+
+Which we can now sub back 
+
+C_{LT} = a_{1r} \alpha_T + a_{2e} \eta
