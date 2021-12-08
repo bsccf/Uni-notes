@@ -16,6 +16,10 @@ In reality just about all polymers fall into the 3rd catagory, even then they ca
 ![[Pasted image 20211208140752.png]]
 
 #### Volume properties
-More [[crystalline materials]]
+More [[crystalline materials|crystalline]] polymers will also have greater densitys:
+![[Pasted image 20211208141042.png]]
+Since the chains can become more closely packed.
+
+A
 
 ### Types
