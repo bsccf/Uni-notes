@@ -19,6 +19,8 @@ When polymer chains are aligned with eachother there monomers are closer which m
 #### Necking
 With the previous fact in mind now consider what happens when we stretch a polymer, it leads to polymer chains aligning increasing the [[van der waals force]] and hence the stress needed to extend them increases... now this also applies to necking:
 ![[Pasted image 20211208162054.png]]
-If we look at this graph we can see at stages 1-2 the chains begin to stretch out then at stage 3 necking begins. The narrowed area of the material has highly aligned chains with notably higher stiffness, so as you can see in stages 4-5 instead of the neck narrowing instead nearby material undergoes simular plastic deformation.
+If we look at this graph we can see at stages 1-2 the chains begin to stretch out then at stage 3 necking begins. 
+The narrowed area of the material has highly aligned chains with notably higher stiffness, so as you can see in stages 4-7 instead of the neck narrowing instead nearby material undergoes simular plastic deformation.
+This continues until the stress becomes high enough to overcome the increased strength of the narrowed area and fracture occurs.
 
-This is until a
+Note that this won't occur for all polymers, it only occurs in polymers where they gain a sufficient increase in strength from polymer alignment.
