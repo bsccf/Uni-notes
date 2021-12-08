@@ -14,4 +14,4 @@ For [[linear polymers]] or polymers with few links between chains the [[van der 
 
 ### Behaviour under loads
 #### Effect of polymer alighnment
-When polymer chains are 
+When polymer chains are aligned with eachother there monomers are closer which means that the effect
