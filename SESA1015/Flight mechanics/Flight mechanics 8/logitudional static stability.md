@@ -64,6 +64,10 @@ From [[tailplane lift coefficient]] we get:
 
 ![[tailplane lift coefficient#^d6f08f]]
 
-Which we can now sub back 
+Which we can now sub back:
+$$\begin{align*}
+C_{mG} &=  C_{mo} + (h-h_0)C_L - \bar{V}C_{LT} & C_{LT} &= a_{1r} \alpha_T + a_{2e} \eta \\
+C_{mG} &=  C_{mo} + (h-h_0)C_L - \bar{V}(a_{1r} \alpha_T + a_{2e} \eta) &&& \alpha_T &= \alpha\left(1 - \frac{d\varepsilon}{d\alpha}\right)+\alpha_S\\
+C_{mG} &=  C_{mo} + (h-h_0)C_L - \bar{V}\left(a_{1r} \left(\alpha\left(1 - \frac{d\varepsilon}{d\alpha}\right)+\alpha_S\right) + a_{2e} \eta\right)
+\end{align*}$$
 
-C_{LT} = a_{1r} \alpha_T + a_{2e} \eta
