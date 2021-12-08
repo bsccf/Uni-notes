@@ -27,3 +27,5 @@ tags: ["NotesPage"]
 ![[elastomers]]
 
 ![[thermosetting polymers]]
+
+![[thermoplastic polymer deformation]]
