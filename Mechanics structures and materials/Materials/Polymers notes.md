@@ -7,7 +7,11 @@ tags: ["NotesPage"]
 #### Intro and contents
 - [[polymers]]
 - [[polymer chain length distrobution]]
-- 
+- [[chain length and polymer strength]]
+- [[polymer crystallinity]]
+- [[polymer crystalline structures]]
+- [[elastomers]]
+- [[thermosetting polymers]]
 
 ## Expanded articles
 ![[polymers]]
@@ -22,4 +26,4 @@ tags: ["NotesPage"]
 
 ![[elastomers]]
 
-![[thermosetting plastics]]
+![[thermosetting polymers]]
