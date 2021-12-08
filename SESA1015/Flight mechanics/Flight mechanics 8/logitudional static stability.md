@@ -81,4 +81,11 @@ We now have a final resault for the elevator angle needed for trim:
 >> $=$
 >> $=$
 
-In some cases instead to trimming by adjusting the tailplane, you will adjust the whole airplane
+In some cases instead to trimming by adjusting the tailplane, you will adjust the whole airplanes angle, if that is the case then to achieve trim you do:
+> ### $$ \bar{V} a_{1T} \bar{\alpha_S} = C_{mo} + (h-h_0)a_1 \alpha - \bar{V} a_{1T} \alpha \left(\frac{1-d\varepsilon}{d\alpha}\right) $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
+
+### Implications
