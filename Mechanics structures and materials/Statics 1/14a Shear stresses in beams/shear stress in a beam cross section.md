@@ -48,6 +48,7 @@ $$\begin{align*}
 \int^{0}_{A_s} (\sigma_{xx})\cdot dA + (\sigma_{xy} \times bdx) &= \int^{0}_{A_s} \left(\sigma_{xx}+ \frac{\Delta \sigma_{xx}}{\Delta x} dx\right)\cdot dA\\
  \sigma_{xy} \times bdx &= \int^{0}_{A_s} \left(\frac{\Delta \sigma_{xx}}{\Delta x} dx\right)\cdot dA\\
  \sigma_{xy} \times bdx &= dx \int^{0}_{A_s} \left(\frac{\Delta \sigma_{xx}}{\Delta x} \right)\cdot dA\\
- \sigma_{xy} &= \frac{1}{b} \int^{0}_{A_s} \left(\frac{\Delta \sigma_{xx}}{\Delta x} \right)\cdot dA & \\
-&
+ \sigma_{xy} &= \frac{1}{b} \int^{0}_{A_s} \left(\frac{\Delta \sigma_{xx}}{\Delta x} \right)\cdot dA & \sigma_{xx} &= \frac{My}{I} \\
+& & \frac{\Delta \sigma_{xx}}{\Delta x} &= \frac{dM}{dx}\frac{y}{I}\\
+ \sigma_{xy} &= \frac{1}{b} \int^{0}_{A_s} \frac{dM}{dx}\frac{y}{I}\cdot dA
 \end{align*}$$
