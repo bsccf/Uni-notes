@@ -28,4 +28,8 @@ tags: ["NotesPage"]
 
 ![[thermosetting polymers]]
 
+![[thermoplastic]]
+
 ![[thermoplastic polymer deformation]]
+
+![[comparing polymer]]

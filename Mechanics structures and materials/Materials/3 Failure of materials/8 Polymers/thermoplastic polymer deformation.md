@@ -23,4 +23,5 @@ If we look at this graph we can see at stages 1-2 the chains begin to stretch ou
 The narrowed area of the material has highly aligned chains with notably higher stiffness, so as you can see in stages 4-7 instead of the neck narrowing instead nearby material undergoes simular plastic deformation.
 This continues until the stress becomes high enough to overcome the increased strength of the narrowed area and fracture occurs.
 
-Note that this won't occur for all polymers, it only occurs in polymers where they gain a sufficient increase in strength from polymer alignment.
+Note that this won't occur for all polymers, it only occurs in polymers where they gain a sufficient increase in strength from polymer chain alignment to compensate for the decrease in cross section.
+
