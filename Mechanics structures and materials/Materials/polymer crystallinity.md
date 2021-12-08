@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["crystalline polymer","amorphous polymer"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -8,8 +8,8 @@ tags: ["Question","QFormat3"]
 ### Intro
 When cooling from a liquid to a solid the polymer can become:
 - a crystalline solid, its polymer chains form repeating pattern
-- a amporphous solid, it's chains are irregularly structured
-- somewhere between the two, it has areas of both
+- a amorphous solid, it's chains are irregularly structured
+- somewhere between the two (semicrystalline), it has areas of both
 
 In reality just about all polymers fall into the 3rd catagory, even then they can get incredibly close to either extreme:
 
