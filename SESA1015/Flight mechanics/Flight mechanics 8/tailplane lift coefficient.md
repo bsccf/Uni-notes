@@ -18,9 +18,10 @@ tags: ["Question","QFormat3"]
 
 > ### $$ \alpha_T = \alpha\left(1 - \frac{d\varepsilon}{d\alpha}\right)+\alpha_S $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $\alpha_S=$ angle between tailplane and main wing datum line
+>> $\alpha=$ angle of attack
+>> $\frac{d\varepsilon}{d\alpha}=$ downwash angle rate of change with angle of attack
+>> $\alpha_T=$
 
 
 The tailplane is kinda annoying, because when positioned behined the main wing it ends up recieving the main wings downwash. So the air comes at it with an akward angle, which we need to account for.
