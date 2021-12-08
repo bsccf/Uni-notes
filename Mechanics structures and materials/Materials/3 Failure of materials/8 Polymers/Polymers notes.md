@@ -32,4 +32,6 @@ tags: ["NotesPage"]
 
 ![[thermoplastic deformation]]
 
-![[stress strain graphs of thermoplastics, thermosets and elastomers]]
+![[strength of thermoplastics, thermosets and elastomers]]
+
+![[viscoelasticity in polymers]]
