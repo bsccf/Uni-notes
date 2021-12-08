@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/polymers.md",
+            "file": "Mechanics structures and materials/Materials/types of polymer chains.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/polymers.md",
+                "file": "Mechanics structures and materials/Materials/types of polymer chains.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "50d27321056dd06d",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Materials/types of polymer chains.md",
     "Mechanics structures and materials/Materials/polymers.md",
-    "Mechanics structures and materials/Materials/also known as wired airpods to you degenerates.md",
     "Mechanics structures and materials/Materials/Polymers notes.md",
     "Mechanics structures and materials/Materials/Materials read order.md",
+    "Mechanics structures and materials/Materials/also known as wired airpods to you degenerates.md",
     "Mechanics structures and materials/Materials/1 Atomic composition/1 Atoms and types of bonding/van der waals force.md",
     "Mechanics structures and materials/Materials/1 Atomic composition/1 Atoms and types of bonding/polar molecule induced dipoles.md",
     "Thermofluids/9 Kinetic theory of gas/Van der Waals equation.md",
     "Mechanics structures and materials/Materials/1 Atomic composition/1 Atoms and types of bonding/polarised atoms.md",
-    "SESA1015/Flight mechanics/Flight mechanics 8/logitudional static stability.md",
-    "SESA1015/Flight mechanics/Flight mechanics 8/aircraft controls and dimentions for calculating longitudional stability.md"
+    "SESA1015/Flight mechanics/Flight mechanics 8/logitudional static stability.md"
   ]
 }
