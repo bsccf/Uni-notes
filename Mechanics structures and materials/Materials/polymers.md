@@ -20,4 +20,5 @@ Since each monomer has this degree of rotational freedom these long chains can b
 
 As you can imagine these long polymer chains can get tangled with themselfs and surrounding chains. 
 
-![[types of polymer chains]]
+![[types of polymer chains#Types of polymer chains]]
+
