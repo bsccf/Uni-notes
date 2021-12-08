@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Mechanics structures and materials/Statics 1/14a Shear stresses in beams/shear stress in a beam cross section.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -107,6 +107,7 @@
   "active": "50d27321056dd06d",
   "lastOpenFiles": [
     "Mechanics structures and materials/Statics 1/14a Shear stresses in beams/shear stress in a beam cross section.md",
+    "Mechanics structures and materials/Statics 1/5c Shear force and bending moment diagrams/method for constructing shear force and bending moment diagrams.md",
     "Mechanics structures and materials/Statics 1/7b Bending of beams/engineer's bending theory.md",
     "Mechanics structures and materials/Statics 1/14a Shear stresses in beams/calculating shear stress in beams.md",
     "Mechanics structures and materials/Statics 1/14a Shear stresses in beams/average shear stress in a beam cross section.md",
@@ -114,7 +115,6 @@
     "Mechanics structures and materials/Statics 1/14a Shear stresses in beams/modeling shear stress in beams.md",
     "Mechanics structures and materials/Statics 1/13a Torsion introduction/basic properties of circular shafts under torsion.md",
     "Mechanics structures and materials/Materials/1 Atomic composition/4 Diffusion/modeling diffusion.md",
-    "SESA1015/Flight mechanics/Flight mechanics 6/inaccuracys when modeling cruise patterns.md",
-    "Mechanics structures and materials/Statics 1/7a Beams, stress due to bending/strains effects on cross section of a beam.md"
+    "SESA1015/Flight mechanics/Flight mechanics 6/inaccuracys when modeling cruise patterns.md"
   ]
 }
