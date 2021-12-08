@@ -70,13 +70,15 @@ C_{mG} &=  C_{mo} + (h-h_0)C_L - \bar{V}C_{LT} & C_{LT} &= a_{1T} \alpha_T + a_{
 C_{mG} &=  C_{mo} + (h-h_0)C_L - \bar{V}(a_{1T} \alpha_T + a_{2T} \eta) &&& \alpha_T &= \alpha\left(1 - \frac{d\varepsilon}{d\alpha}\right)+\alpha_S\\
 C_{mG} &=  C_{mo} + (h-h_0)C_L - \bar{V}\left(a_{1T} \left(\alpha\left(1 - \frac{d\varepsilon}{d\alpha}\right)+\alpha_S\right) + a_{2T} \eta\right)\\
 & & at\:C_{mG}&=0\\
-0 &=  C_{mo} + (h-h_0)C_L - \bar{V}a_{1T} \left(\alpha\left(1 - \frac{d\varepsilon}{d\alpha}\right)+\alpha_S\right) - \bar{V} a_{2T} \bar{\eta}\\
-\bar{V} a_{2T} \bar{\eta} &=  C_{mo} + (h-h_0)C_L - \bar{V}a_{1T} \left(\alpha\left(1 - \frac{d\varepsilon}{d\alpha}\right)+\alpha_S\right)\\
+0 &=  C_{mo} + (h-h_0)C_L - \bar{V}a_{1T} \left(\alpha\left(1 - \frac{d\varepsilon}{d\alpha}\right)+\alpha_S\right) - \bar{V} a_{2T} \bar{\eta} &&& C_L&= a_1 \alpha \\
+\bar{V} a_{2T} \bar{\eta} &=  C_{mo} + (h-h_0)a_1 \alpha - \bar{V}a_{1T} \left(\alpha\left(1 - \frac{d\varepsilon}{d\alpha}\right)+\alpha_S\right)\\
 \end{align*}$$
 
 We now have a final resault for the elevator angle needed for trim:
-> ### $$ \bar{V} a_{2T} \bar{\eta} =  C_{mo} + (h-h_0)C_L - \bar{V}a_{1T} \left(\alpha\left(1 - \frac{d\varepsilon}{d\alpha}\right)+\alpha_S\right) $$ 
+> ### $$ \bar{V} a_{2T} \bar{\eta} =  C_{mo} + (h-h_0)a_1 \alpha - \bar{V}a_{1T} \left(\alpha\left(1 - \frac{d\varepsilon}{d\alpha}\right)+\alpha_S\right) $$ 
 >> where:
 >> $=$ 
 >> $=$
 >> $=$
+
+In some cases instead to trimming by adjusting the tailplane, you will adjust the whole airplane
