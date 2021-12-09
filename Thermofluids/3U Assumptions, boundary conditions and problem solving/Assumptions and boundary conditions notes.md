@@ -15,3 +15,5 @@ tags: ["NotesPage"]
 ![[Lagrangian specification of the flow field]]
 
 ![[Eulerian specification of the flow field]]
+
+![[types of flow (thermofluids)]]
