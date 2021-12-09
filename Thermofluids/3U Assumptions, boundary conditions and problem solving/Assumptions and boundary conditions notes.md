@@ -3,7 +3,7 @@ aliases: [""]
 tags: ["NotesPage"]
 ---
 
-# <% tp.file.title.charAt(0).toUpperCase() + tp.file.title.slice(1)%>
+# Assumptions and boundary conditions notes
 
 #### Intro and contents
 - 
@@ -11,3 +11,7 @@ tags: ["NotesPage"]
 
 ## Expanded articles
 ![[system (thermodynamics)]]
+
+![[Lagrangian specification of the flow field]]
+
+![[Eulerian specification of the flow field]]
