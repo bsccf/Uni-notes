@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/the 2 property rule.md",
+            "file": "Thermofluids/equations of state.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/the 2 property rule.md",
+                "file": "Thermofluids/equations of state.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,10 +106,10 @@
   },
   "active": "2ace69f247f488dc",
   "lastOpenFiles": [
+    "Thermofluids/equations of state.md",
     "Thermofluids/the 2 property rule.md",
     "Thermofluids/I have just obliterated you.md",
     "Thermofluids/Phases and behaviours of state notes.md",
-    "Thermofluids/equations of state.md",
     "Thermofluids/quasi-equilibrium process.md",
     "Thermofluids/quasi-equilibrium (thermodynamics).md",
     "Thermofluids/process (thermodynamics).md",
