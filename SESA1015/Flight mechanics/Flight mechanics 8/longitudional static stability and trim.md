@@ -97,6 +97,7 @@ We now have a final resault for the elevator angle needed for trim:
 >> $h_0=$ fraction of the wing chord from the leading edge to aerodynamic centre
 >> $\bar{\eta}=$ tailplane elevator angle for trim
 >> $C_{mo}=$ [[aircraft controls and dimentions for calculating longitudional stability|pitching moment at zero lift coefficient ]]
+>> $a_1=$ a constant relating $C_L=\alpha a_1$
 
 
 In some cases instead of trimming by adjusting the tailplanes elevator ange, you will adjust the whole tailplanes planes angle (rotate the entire back wingy bit), if that is the case then to achieve trim you do:
@@ -111,6 +112,7 @@ In some cases instead of trimming by adjusting the tailplanes elevator ange, you
 >> $h=$ fraction of the wing chord from the leading edge to centre of gravity
 >> $h_0=$ fraction of the wing chord from the leading edge to aerodynamic centre
 >> $C_{mo}=$ [[aircraft controls and dimentions for calculating longitudional stability|pitching moment at zero lift coefficient ]]
+>> $a_1=$ a constant relating $C_L=\alpha a_1$
 
 Note we are assuming that the controls are fixed. (the angle of elevators and such are constant)
 
@@ -141,8 +143,8 @@ Also keep in mind that since:
 
 We can change the sign in our equation to change what is being represented.
 
-#### Equations
-> ### $$ h < h_0 + \frac{\bar{V}a_{1T}}{a_1} \left(1 - \frac{d\varepsilon}{d\alpha}\right) $$ 
+#### Equations n implications
+> ### $$ h < h_0 + \bar{V}\frac{a_{1T}}{a_1} \left(1 - \frac{d\varepsilon}{d\alpha}\right) $$ 
 >> where:
 >> $a_{1T}= \dfrac{dC_{LT}}{d\alpha_T}=$ lift curve slope of tailplane (for a constant value of $\eta$) 
 >> $\frac{d\varepsilon}{d\alpha}=$ downwash angle rate of change with angle of attack
@@ -150,4 +152,9 @@ We can change the sign in our equation to change what is being represented.
 >> $h=$ fraction of the wing chord from the leading edge to centre of gravity
 >> $h_0=$ fraction of the wing chord from the leading edge to aerodynamic centre
 >> $C_{mo}=$ [[aircraft controls and dimentions for calculating longitudional stability|pitching moment at zero lift coefficient ]]
->> $a_1=$ a constant relating $C_L=\alpha a$
+>> $a_1=$ a constant relating $C_L=\alpha a_1$
+
+
+![[aircraft controls and dimentions for calculating longitudional stability#^267a4d]]
+
+By keeping in mind this diagram we can see that achieving static stability requires us to move the centre of mass forward. I
