@@ -10,6 +10,6 @@ All of the other properties can be found if the two independent properties are k
 
 For example:
 - if $p$ and $V$ are known we can define $T$ in the form $T=T(p,V)$ (T is a function of p, V)
-- if $T$ and $V$ are known we can define $U$ in the form $U=U(T,V)$ (U is a function of your mother)
+- if $T$ and $V$ are known we can define $U$ in the form $U=U(T,V)$ (U is a function of [[I have just obliterated you|your mother]])
 
 These
