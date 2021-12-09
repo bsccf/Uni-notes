@@ -10,4 +10,6 @@ Thermodynamics is the science of heat, work and energy. It deals with the proces
 - Typical sizes an engineer will deal with are huge relative to the microscopic
 - Molecular fluctuations are small and so are averaged
 - All substances are continues and pure (we ignore atomic differences)
-- Microscopic phenomina (eg atomic chaotic KE) 
+- Microscopic phenomina (eg atomic chaotic KE) are treated according to their macroscopic effect (in this example temperature)
+
+Of course these assumptions don't work on a molecular level, they are what we call "good enough" (that is the technical term) but when was the last time you had to make an atom sized rocket (no offence intended for those who specialize in atom sized rockets)?
