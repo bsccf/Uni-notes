@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/Flight mechanics 7/runway length needed for take off.md",
-            "mode": "preview"
+            "file": "2021-12-09.md",
+            "mode": "source"
           }
         }
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 7/runway length needed for take off.md",
+                "file": "2021-12-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +107,7 @@
   },
   "active": "2ace69f247f488dc",
   "lastOpenFiles": [
+    "2021-12-09.md",
     "SESA1015/Flight mechanics/Flight mechanics 7/runway length needed for take off.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/endurance and range of jet aircraft.md",
     "SESA1015/Flight mechanics/Flight mechanics 8/Introduction to longitudinal stability.md",
@@ -115,7 +116,6 @@
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/n-p diode.md",
     "Electrical and electronic systems/Electrical read order.md",
     "SESA1015/Flight mechanics/Flight mechanics 7/load factor.md",
-    "SESA1015/Flight mechanics/Flight mechanics 7/Simple accelerated flight.md",
-    "SESA1015/Flight mechanics/Flight mechanics 7/screen speed.md"
+    "SESA1015/Flight mechanics/Flight mechanics 7/Simple accelerated flight.md"
   ]
 }
