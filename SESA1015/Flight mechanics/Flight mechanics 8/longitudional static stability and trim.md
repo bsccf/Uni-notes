@@ -1,5 +1,5 @@
 ---
-aliases: ["logitudional static stability","logitudional trim"]
+aliases: ["longitudional static stability","longitudional trim"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -76,7 +76,6 @@ C_{mG} &=  C_{mo} + (h-h_0)C_L - \bar{V}\left(a_{1T} \left(\alpha\left(1 - \frac
 \end{align*}$$
 
 ### Achieving trim
-
 #### Equations
 
 We now have a final resault for the elevator angle needed for trim:
@@ -114,4 +113,5 @@ Note we are assuming that the controls are fixed. (the angle of elevators and su
 There is a maximum that the elevator can angle too and hence a maximum negative trim, this determines the furthest forward that the centre of mass can go. 
 It should also be noted that there is extra drag created by the tailplane, hence greater air deflection will create more drag this is known as [[trim drag]].
 
-### We can
+### Longitudional static stability
+Refering back to [[longitudional static stability and trim#Desired diagram|this bit]] 

@@ -10,5 +10,5 @@ First if we look at the definition of stability: "Stability is defined as the ab
 
 Then static stability is when: "when an aircraft is disturbed from it's equalibrium position by a small amount, the forces/moments caused by the change in position tend towords returning the aircraft to it's equalibrium"
 
-For example [[logitudional static stability and trim|logitudional static stability]] would be the aircraft gaining a upwards pitch when pitching down and a downwards pitch when pitching up; hence it would automatically remain in it's equalibrium state.
+For example [[longitudional static stability and trim|logitudional static stability]] would be the aircraft gaining a upwards pitch when pitching down and a downwards pitch when pitching up; hence it would automatically remain in it's equalibrium state.
 

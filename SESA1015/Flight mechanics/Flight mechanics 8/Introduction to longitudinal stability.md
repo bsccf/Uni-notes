@@ -13,7 +13,7 @@ tags: ["NotesPage"]
 - [[Basic aircraft trimming]]
 - [[static stability]]
 - [[aircraft controls and dimentions for calculating longitudional stability]]
-- [[logitudional static stability and trim]]
+- [[longitudional static stability and trim]]
 
 
 ## Expanded articles
@@ -22,5 +22,5 @@ tags: ["NotesPage"]
 
 ![[aircraft controls and dimentions for calculating longitudional stability]]
 
-![[logitudional static stability and trim]]
+![[longitudional static stability and trim]]
 
