@@ -107,6 +107,7 @@
   "active": "2ace69f247f488dc",
   "lastOpenFiles": [
     "Thermofluids/properties (thermodynamics).md",
+    "Thermofluids/enthalpy.md",
     "Thermofluids/Phases and behaviours of state notes.md",
     "Thermofluids/equations of state.md",
     "Thermofluids/the 2 property rule.md",
@@ -114,7 +115,6 @@
     "Thermofluids/unlike me (more like geneva suggestion).md",
     "Thermofluids/I have just obliterated you.md",
     "Thermofluids/quasi-equilibrium process.md",
-    "Thermofluids/quasi-equilibrium (thermodynamics).md",
-    "Thermofluids/process (thermodynamics).md"
+    "Thermofluids/quasi-equilibrium (thermodynamics).md"
   ]
 }
