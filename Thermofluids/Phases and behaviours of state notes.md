@@ -14,3 +14,9 @@ tags: ["NotesPage"]
 ![[basic assumptions of thermodynamics]]
 
 ![[assumptions of thermodynamic sytems]]
+
+![[equilibrium (thermodynamics)]]
+
+![[quasi-equilibrium (thermodynamics)]]
+
+![[quasi-equilibrium process]]

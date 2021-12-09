@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["process"]
 tags: ["Question","QFormat3"]
 ---
 
