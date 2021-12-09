@@ -12,8 +12,6 @@ When describing flow in a [[system (thermodynamics)|system]] we describe both it
 - [[steady flow]]
 - [[unsteady flow]]
 
-A good compa
-
 #### Uniformity
 - [[uniform flow]]
 - [[non-uniform flow]]
