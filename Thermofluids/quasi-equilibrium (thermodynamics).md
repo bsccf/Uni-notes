@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["quasi-equilibrium"]
 tags: ["Question","QFormat3"]
 ---
 

@@ -20,3 +20,5 @@ tags: ["NotesPage"]
 ![[quasi-equilibrium (thermodynamics)]]
 
 ![[quasi-equilibrium process]]
+
+![[The 2 property rule]]
