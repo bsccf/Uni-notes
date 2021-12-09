@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 1/14a Shear stresses in beams/Shear stresses in beams notes.md",
+            "file": "Mechanics structures and materials/Statics 1/13b,c Circular beam torsion equation/Circular beam torsion equation notes.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 1/14a Shear stresses in beams/Shear stresses in beams notes.md",
+                "file": "Mechanics structures and materials/Statics 1/13b,c Circular beam torsion equation/Circular beam torsion equation notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,9 +106,9 @@
   },
   "active": "2ace69f247f488dc",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Statics 1/14a Shear stresses in beams/Shear stresses in beams notes.md",
-    "Mechanics structures and materials/Statics 1/Statics 1 read order.md",
     "Mechanics structures and materials/Statics 1/13b,c Circular beam torsion equation/Circular beam torsion equation notes.md",
+    "Mechanics structures and materials/Statics 1/Statics 1 read order.md",
+    "Mechanics structures and materials/Statics 1/14a Shear stresses in beams/Shear stresses in beams notes.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/8 Polymers/damping properties of polymers.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/8 Polymers/Polymers notes.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/8 Polymers/relaxation modulus and temperature.md",
