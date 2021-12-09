@@ -16,6 +16,10 @@ When describing flow in a [[system (thermodynamics)|system]] we describe both it
 - [[uniform flow]]
 - [[non-uniform flow]]
 
+#### Viscosity
+- [[viscous flow]]
+- [[inviscid flow]]
+
 #### Important notes
 You need to consider the time period that the flow is observed over, for example the rapids in a river can be described as examples of [[steady flow]] over the course of a second or so but as [[unsteady flow]] over the course of hours.
 
