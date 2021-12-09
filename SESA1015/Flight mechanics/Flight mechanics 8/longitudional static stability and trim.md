@@ -63,7 +63,7 @@ C_{mG} &=  C_{mo} + (h-h_0)\left(C_{Lw}+\frac{C_{LT}S_T}{S}\right) - \bar{V}C_{L
 C_{mG} &=  C_{mo} + (h-h_0)\left(C_L - C_{LT} \frac{S_T}{S}+\frac{C_{LT}S_T}{S}\right) - \bar{V}C_{LT}\\
 C_{mG} &=  C_{mo} + (h-h_0)C_L - \bar{V}C_{LT}
 \end{align*}$$
-
+# note: find out exactly what $C_L$ refers to here (not 100% sure if its normal?)
 Well now we have hit a wall, since we don't know how to determine $C_{LT}$, if only there was some sort of "[[tailplane lift coefficient|how do you determine the tailplane lift coefficient]]" document... wait that embeded?! Guess we have unhit said wall.
 
 From [[tailplane lift coefficient]] we get:
