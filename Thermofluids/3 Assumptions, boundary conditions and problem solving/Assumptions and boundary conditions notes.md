@@ -9,7 +9,7 @@ tags: ["NotesPage"]
 - [[system (thermodynamics)]]
 - [[Lagrangian specification of the flow field]]
 - [[Eulerian specification of the flow field]]
-- [[T]]
+- [[types of flow (thermofluids)]]
 
 
 ## Expanded articles

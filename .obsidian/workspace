@@ -7,11 +7,8 @@
         "id": "2ace69f247f488dc",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Thermofluids/3U Assumptions, boundary conditions and problem solving/Assumptions and boundary conditions notes.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/3U Assumptions, boundary conditions and problem solving/Assumptions and boundary conditions notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +102,15 @@
   },
   "active": "2ace69f247f488dc",
   "lastOpenFiles": [
-    "Thermofluids/3U Assumptions, boundary conditions and problem solving/Assumptions and boundary conditions notes.md",
-    "Thermofluids/3U Assumptions, boundary conditions and problem solving/types of flow (thermofluids).md",
-    "Thermofluids/3U Assumptions, boundary conditions and problem solving/inviscid flow.md",
-    "Thermofluids/3U Assumptions, boundary conditions and problem solving/viscous flow.md",
-    "Thermofluids/3U Assumptions, boundary conditions and problem solving/ffs.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/8 Polymers/relaxation modulus and temperature.md",
-    "Thermofluids/3U Assumptions, boundary conditions and problem solving/unsteady flow.md",
-    "Thermofluids/3U Assumptions, boundary conditions and problem solving/steady flow.md",
-    "Thermofluids/3U Assumptions, boundary conditions and problem solving/non-uniform flow.md",
-    "Thermofluids/3U Assumptions, boundary conditions and problem solving/uniform flow.md"
+    "Thermofluids/Phases and behaviours of state notes.md",
+    "Thermofluids/Thermofluids read order.md",
+    "Thermofluids/3 Assumptions, boundary conditions and problem solving/Assumptions and boundary conditions notes.md",
+    "Thermofluids/3 Assumptions, boundary conditions and problem solving/types of flow (thermofluids).md",
+    "Thermofluids/3 Assumptions, boundary conditions and problem solving/unsteady flow.md",
+    "Thermofluids/3 Assumptions, boundary conditions and problem solving/eat it you fool.md",
+    "Thermofluids/3 Assumptions, boundary conditions and problem solving/inviscid flow.md",
+    "Thermofluids/3 Assumptions, boundary conditions and problem solving/viscous flow.md",
+    "Thermofluids/3 Assumptions, boundary conditions and problem solving/ffs.md",
+    "Mechanics structures and materials/Materials/3 Failure of materials/8 Polymers/relaxation modulus and temperature.md"
   ]
 }
