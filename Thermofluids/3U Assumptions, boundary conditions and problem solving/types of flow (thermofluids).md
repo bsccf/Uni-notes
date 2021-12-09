@@ -31,3 +31,7 @@ You need to consider the time period that the flow is observed over, for example
 ![[uniform flow]]
 
 ![[non-uniform flow]]
+
+![[viscous flow]]
+
+![[inviscid flow]]
