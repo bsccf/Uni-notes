@@ -6,7 +6,10 @@ tags: ["NotesPage"]
 # Assumptions and boundary conditions notes
 
 #### Intro and contents
-- 
+- [[system (thermodynamics)]]
+- [[Lagrangian specification of the flow field]]
+- [[Eulerian specification of the flow field]]
+- [[T]]
 
 
 ## Expanded articles
