@@ -5,3 +5,9 @@ tags: ["Question","QFormat3"]
 
 #### What are
 ## Equations of state
+Equations of state depend upon microscopic structure of substances and cannot be derived from the laws of thermodynamics. They must either be derived from experimental measurement or deduced from statistical mechanics. They relate 3 or more properties of a [[system (thermodynamics)|system]].
+
+It is not normally possible to write an equation of state in closed form, except for a very limited number of properties.  The major exception is the [[ideal gas law|ideal gas equation]] of state: $pV = mRT$
+
+
+For most substances the equations of state are expressible only in the form of tables or charts. 
