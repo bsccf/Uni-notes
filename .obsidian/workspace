@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/3U Assumptions, boundary conditions and problem solving/system (thermodynamics).md",
+            "file": "Thermofluids/3U Assumptions, boundary conditions and problem solving/closed system.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/3U Assumptions, boundary conditions and problem solving/system (thermodynamics).md",
+                "file": "Thermofluids/3U Assumptions, boundary conditions and problem solving/closed system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "2ace69f247f488dc",
   "lastOpenFiles": [
+    "Thermofluids/3U Assumptions, boundary conditions and problem solving/closed system.md",
     "Thermofluids/3U Assumptions, boundary conditions and problem solving/system (thermodynamics).md",
+    "Thermofluids/3U Assumptions, boundary conditions and problem solving/open system.md",
+    "Thermofluids/3U Assumptions, boundary conditions and problem solving/system boundary.md",
     "Thermofluids/3U Assumptions, boundary conditions and problem solving/Assumptions and boundary conditions notes.md",
     "Thermofluids/Thermofluids read order.md",
     "2021-10-28.md",
     "Thermofluids/6 Dimensional analysis/top 10 reasons for excessive bracket use.md",
     "conflict-files-obsidian-git.md",
-    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/Semiconductor theory notes.md",
-    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/n-p diode.md",
-    "Electrical and electronic systems/Electrical read order.md",
-    "SESA1015/Flight mechanics/Flight mechanics 7/load factor.md"
+    "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/Semiconductor theory notes.md"
   ]
 }
