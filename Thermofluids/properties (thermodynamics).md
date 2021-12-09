@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["properties","property"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -11,4 +11,4 @@ For example some of the most basic properties of a system include: pressure, tem
 
 You need to also be aware of:
 - [[extensive properties (thermodynamics)]]
-- [[intensive pro]]
+- [[intensive properties (thermodynamics)]]
