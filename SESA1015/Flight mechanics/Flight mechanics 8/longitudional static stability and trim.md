@@ -132,5 +132,12 @@ $$\begin{align*}
 0 &> (h-h_0)a_1 - \bar{V}a_{1T}\left(1 - \frac{d\varepsilon}{d\alpha}\right) \\
  \bar{V}a_{1T}\left(1 - \frac{d\varepsilon}{d\alpha}\right) &> (h-h_0)a_1  \\
  \frac{\bar{V}a_{1T}}{a_1} \left(1 - \frac{d\varepsilon}{d\alpha}\right) &> h-h_0 \\
+ h_0 + \frac{\bar{V}a_{1T}}{a_1} \left(1 - \frac{d\varepsilon}{d\alpha}\right) &> h \\
 \end{align*}$$
+Also keep in mind that since:
+- $\frac{dC_{mG}}{d\alpha} < 0$ is static stability
+- $\frac{dC_{mG}}{d\alpha} > 0$ is static instability
+- $\frac{dC_{mG}}{d\alpha} = 0$ is neutral stability
+
+We can change the sign in our equation to change what is being represented.
 
