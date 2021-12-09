@@ -90,12 +90,12 @@ We now have a final resault for the elevator angle needed for trim:
 >> $C_{mo}=$ [[aircraft controls and dimentions for calculating longitudional stability|pitching moment at zero lift coefficient ]]
 
 
-In some cases instead to trimming by adjusting the tailplane, you will adjust the whole airplanes angle, if that is the case then to achieve trim you do:
+In some cases instead of trimming by adjusting the tailplanes elevator ange, you will adjust the whole tailplanes planes angle (rotate the entire back wingy bit), if that is the case then to achieve trim you do:
 > ### $$ \bar{V} a_{1T} \bar{\alpha_S} = C_{mo} + (h-h_0)a_1 \alpha - \bar{V} a_{1T} \alpha \left(1-\frac{d\varepsilon}{d\alpha}\right) $$ 
 >> where: 
 >> $a_{1T}= \dfrac{dC_{LT}}{d\alpha_T}=$ lift curve slope of tailplane (for a constant value of $\eta$) 
 >> $a_{2T}= \dfrac{dC_{LT}}{d\eta}=$ constant (for a value constant of $\alpha_T$)
->> $\alpha_S=$ angle between tailplane and main wing datum line
+>> $\bar{\alpha_S}=$ angle between tailplane and main wing datum line required for trim
 >> $\alpha=$ angle of attack
 >> $\frac{d\varepsilon}{d\alpha}=$ downwash angle rate of change with angle of attack
 >> $\bar{V}=$ [[tail volume coefficient]]
