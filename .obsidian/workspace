@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/equations of state.md",
+            "file": "Thermofluids/closed form.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/equations of state.md",
+                "file": "Thermofluids/closed form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +106,8 @@
   },
   "active": "2ace69f247f488dc",
   "lastOpenFiles": [
-    "Thermofluids/equations of state.md",
     "Thermofluids/closed form.md",
+    "Thermofluids/equations of state.md",
     "Thermofluids/the 2 property rule.md",
     "Thermofluids/I have just obliterated you.md",
     "Thermofluids/Phases and behaviours of state notes.md",
