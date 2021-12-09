@@ -32,6 +32,7 @@ Here the $M_0 + L_W(h-h_0)c$ is from the wing and $- P( l_T - (h-h_0)c )$ is fro
 So we can see by the equation that $P(...)$ is counteracting $L_W(...)$, which is desireable for static stability. But the important bit is how they change with changing $\alpha$ (angle of attack), to get an automatic return to the correct $\alpha$ we will need:
 - $M_G<0$ when pitched upward
 - $M_G>0$ when pitched downward
+- Note that at $M_G=0$ the aircrafts in [[Basic aircraft trimming|trimmed flight]]
 
 Hence:
 - $M_0+L_W(...) < P(...)$ when pitched upward
@@ -64,7 +65,7 @@ From [[tailplane lift coefficient]] we get:
 
 ![[tailplane lift coefficient#^d6f08f]]
 
-Which we can now sub back:
+Which we can now sub back and  will be able to find the values needed for [[Basic aircraft trimming|trimmed flight]] by setting $C_{mG}=0$:
 $$\begin{align*}
 C_{mG} &=  C_{mo} + (h-h_0)C_L - \bar{V}C_{LT} & C_{LT} &= a_{1T} \alpha_T + a_{2T} \eta \\
 C_{mG} &=  C_{mo} + (h-h_0)C_L - \bar{V}(a_{1T} \alpha_T + a_{2T} \eta) &&& \alpha_T &= \alpha\left(1 - \frac{d\varepsilon}{d\alpha}\right)+\alpha_S\\
@@ -113,4 +114,4 @@ Note we are assuming that the controls are fixed. (the angle of elevators and su
 There is a maximum that the elevator can angle too and hence a maximum negative trim, this determines the furthest forward that the centre of mass can go. 
 It should also be noted that there is extra drag created by the tailplane, hence greater air deflection will create more drag this is known as [[trim drag]].
 
-### 
+### We can

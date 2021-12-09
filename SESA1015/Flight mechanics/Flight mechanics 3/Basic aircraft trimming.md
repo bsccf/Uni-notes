@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["trimmed flight"]
 tags: ["Question","QFormat3","SESA1015"]
 ---
 
