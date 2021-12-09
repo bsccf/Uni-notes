@@ -97,7 +97,7 @@ We now have a final resault for the elevator angle needed for trim:
 >> $h_0=$ fraction of the wing chord from the leading edge to aerodynamic centre
 >> $\bar{\eta}=$ tailplane elevator angle for trim
 >> $C_{mo}=$ [[aircraft controls and dimentions for calculating longitudional stability|pitching moment at zero lift coefficient ]]
->> $a_1=$ a constant relating $C_L=\alpha a_1$
+>> $a_1=$ a function relating $C_L=\alpha a_1$
 
 
 In some cases instead of trimming by adjusting the tailplanes elevator ange, you will adjust the whole tailplanes planes angle (rotate the entire back wingy bit), if that is the case then to achieve trim you do:
@@ -112,7 +112,7 @@ In some cases instead of trimming by adjusting the tailplanes elevator ange, you
 >> $h=$ fraction of the wing chord from the leading edge to centre of gravity
 >> $h_0=$ fraction of the wing chord from the leading edge to aerodynamic centre
 >> $C_{mo}=$ [[aircraft controls and dimentions for calculating longitudional stability|pitching moment at zero lift coefficient ]]
->> $a_1=$ a constant relating $C_L=\alpha a_1$
+>> $a_1=$ a function relating $C_L=\alpha a_1$
 
 Note we are assuming that the controls are fixed. (the angle of elevators and such are constant)
 
@@ -152,7 +152,7 @@ We can change the sign in our equation to change what is being represented.
 >> $h=$ fraction of the wing chord from the leading edge to centre of gravity
 >> $h_0=$ fraction of the wing chord from the leading edge to aerodynamic centre
 >> $C_{mo}=$ [[aircraft controls and dimentions for calculating longitudional stability|pitching moment at zero lift coefficient ]]
->> $a_1=$ a constant relating $C_L=\alpha a_1$
+>> $a_1=$ a function relating $C_L=\alpha a_1$
 
 ^29c51c
 
