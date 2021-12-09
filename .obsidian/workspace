@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/Flight mechanics 8/logitudional static stability.md",
-            "mode": "preview"
+            "file": "SESA1015/Flight mechanics/Flight mechanics 8/logitudional trimming.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 8/logitudional static stability.md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 8/logitudional trimming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
   },
   "active": "2ace69f247f488dc",
   "lastOpenFiles": [
-    "SESA1015/Flight mechanics/Flight mechanics 8/logitudional static stability.md",
+    "SESA1015/Flight mechanics/Flight mechanics 8/logitudional trimming.md",
     "SESA1015/Flight mechanics/Flight mechanics 8/Introduction to longitudinal stability.md",
     "Mechanics structures and materials/Statics 1/13b,c Circular beam torsion equation/Circular beam torsion equation notes.md",
     "Mechanics structures and materials/Statics 1/Statics 1 read order.md",
