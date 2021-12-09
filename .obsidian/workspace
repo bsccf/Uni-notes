@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/closed form.md",
+            "file": "Thermofluids/unlike me.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/closed form.md",
+                "file": "Thermofluids/unlike me.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "2ace69f247f488dc",
   "lastOpenFiles": [
+    "Thermofluids/unlike me.md",
     "Thermofluids/closed form.md",
     "Thermofluids/equations of state.md",
     "Thermofluids/the 2 property rule.md",
@@ -114,7 +115,6 @@
     "Thermofluids/quasi-equilibrium process.md",
     "Thermofluids/quasi-equilibrium (thermodynamics).md",
     "Thermofluids/process (thermodynamics).md",
-    "Thermofluids/assumptions of thermodynamic sytems.md",
-    "Thermofluids/equilibrium (thermodynamics).md"
+    "Thermofluids/assumptions of thermodynamic sytems.md"
   ]
 }
