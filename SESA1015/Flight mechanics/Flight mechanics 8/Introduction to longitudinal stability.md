@@ -14,6 +14,8 @@ tags: ["NotesPage"]
 - [[static stability]]
 - [[aircraft controls and dimentions for calculating longitudional stability]]
 - [[longitudional static stability and trim]]
+- [[tailplane lift coefficient]]
+- [[static margin]]
 
 
 ## Expanded articles
@@ -24,3 +26,4 @@ tags: ["NotesPage"]
 
 ![[longitudional static stability and trim]]
 
+![[trim and centre of gravity margin]]
