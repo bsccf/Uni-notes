@@ -40,6 +40,11 @@ Hence:
 
 ![[Pasted image 20211206143540.png]]
 
+Hence the need for:
+$$\begin{align*}
+\frac{dC_{mG}}{d\alpha} &< 0 
+\end{align*}$$
+
 #### Back to maths
 Now we can convert everything into coefficients:
 $$\begin{align*}
@@ -114,4 +119,8 @@ There is a maximum that the elevator can angle too and hence a maximum negative 
 It should also be noted that there is extra drag created by the tailplane, hence greater air deflection will create more drag this is known as [[trim drag]].
 
 ### Longitudional static stability
-Refering back to [[longitudional static stability and trim#Desired diagram|this bit]] 
+Refering back to [[longitudional static stability and trim#Desired diagram|this bit]] we require:
+$$\begin{align*}
+\frac{dC_{mG}}{d\alpha} &< 0 & o&r & \frac{dM_G}{d\alpha} &<0
+\end{align*}$$
+So we need to 
