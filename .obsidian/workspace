@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/Semiconductor theory notes.md",
+            "file": "Thermofluids/6 Dimensional analysis/top 10 reasons for excessive bracket use.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/Semiconductor theory notes.md",
+                "file": "Thermofluids/6 Dimensional analysis/top 10 reasons for excessive bracket use.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "2ace69f247f488dc",
   "lastOpenFiles": [
+    "Thermofluids/6 Dimensional analysis/top 10 reasons for excessive bracket use.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/Semiconductor theory notes.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/n-p diode.md",
     "Electrical and electronic systems/Electrical read order.md",
@@ -114,7 +115,6 @@
     "SESA1015/Flight mechanics/Flight mechanics 7/runway length needed for take off.md",
     "SESA1015/Flight mechanics/Flight mechanics 7/screen speed.md",
     "SESA1015/Flight mechanics/Flight mechanics 8/longitudional static stability and trim.md",
-    "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing aspect ratio.md",
-    "SESA1015/Flight mechanics/Flight mechanics 2/refrence wing area.md"
+    "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing aspect ratio.md"
   ]
 }
