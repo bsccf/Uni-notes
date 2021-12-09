@@ -1,10 +1,10 @@
 ---
-aliases: [""]
+aliases: ["logitudional static stability","logitudional trim"]
 tags: ["Question","QFormat3"]
 ---
 
-#### Describe and explain
-## Logitudional static stability
+#### Describe how to achieve
+## Logitudional static stability and trim
 ### Intro
 
 This is where you get [[static stability]] in the pitch axis of the aircraft, expressed mathamatically:
@@ -74,6 +74,10 @@ C_{mG} &=  C_{mo} + (h-h_0)C_L - \bar{V}\left(a_{1T} \left(\alpha\left(1 - \frac
 \bar{V} a_{2T} \bar{\eta} &=  C_{mo} + (h-h_0)a_1 \alpha - \bar{V}a_{1T} \left(\alpha\left(1 - \frac{d\varepsilon}{d\alpha}\right)+\alpha_S\right)\\
 \end{align*}$$
 
+### Achieving trim
+
+#### Equations
+
 We now have a final resault for the elevator angle needed for trim:
 > ### $$ \bar{V} a_{2T} \bar{\eta} =  C_{mo} + (h-h_0)a_1 \alpha - \bar{V}a_{1T} \left(\alpha\left(1 - \frac{d\varepsilon}{d\alpha}\right)+\alpha_S\right) $$ 
 > ### $$ \bar{\eta} =  \frac{C_{mo}}{\bar{V}a_{2T}} + \frac{(h-h_0)a_1 }{\bar{V} a_{2T}}\alpha - \frac{a_{1T} }{ a_{2T}}\left(\alpha\left(1 - \frac{d\varepsilon}{d\alpha}\right)+\alpha_S\right) $$ 
@@ -105,6 +109,8 @@ In some cases instead of trimming by adjusting the tailplanes elevator ange, you
 
 Note we are assuming that the controls are fixed. (the angle of elevators and such are constant)
 
-### Implications
+#### Implications
 There is a maximum that the elevator can angle too and hence a maximum negative trim, this determines the furthest forward that the centre of mass can go. 
 It should also be noted that there is extra drag created by the tailplane, hence greater air deflection will create more drag this is known as [[trim drag]].
+
+### 
