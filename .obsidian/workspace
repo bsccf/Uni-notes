@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/3U Assumptions, boundary conditions and problem solving/types of flow (thermofluids).md",
+            "file": "Thermofluids/3U Assumptions, boundary conditions and problem solving/eat it you fool.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/3U Assumptions, boundary conditions and problem solving/types of flow (thermofluids).md",
+                "file": "Thermofluids/3U Assumptions, boundary conditions and problem solving/eat it you fool.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,8 @@
   },
   "active": "2ace69f247f488dc",
   "lastOpenFiles": [
+    "Thermofluids/3U Assumptions, boundary conditions and problem solving/eat it you fool.md",
+    "Thermofluids/3U Assumptions, boundary conditions and problem solving/unsteady flow.md",
     "Thermofluids/3U Assumptions, boundary conditions and problem solving/types of flow (thermofluids).md",
     "Thermofluids/3U Assumptions, boundary conditions and problem solving/Assumptions and boundary conditions notes.md",
     "Thermofluids/3U Assumptions, boundary conditions and problem solving/closed system.md",
@@ -113,8 +115,6 @@
     "Thermofluids/3U Assumptions, boundary conditions and problem solving/Eulerian specification of the flow field.md",
     "Thermofluids/3U Assumptions, boundary conditions and problem solving/system (thermodynamics).md",
     "Thermofluids/3U Assumptions, boundary conditions and problem solving/open system.md",
-    "Thermofluids/3U Assumptions, boundary conditions and problem solving/system boundary.md",
-    "Thermofluids/Thermofluids read order.md",
-    "2021-10-28.md"
+    "Thermofluids/3U Assumptions, boundary conditions and problem solving/system boundary.md"
   ]
 }
