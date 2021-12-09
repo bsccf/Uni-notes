@@ -21,4 +21,6 @@ tags: ["NotesPage"]
 
 ![[quasi-equilibrium process]]
 
-![[The 2 property rule]]
+![[the 2 property rule]]
+
+![[equations of state]]

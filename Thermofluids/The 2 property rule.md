@@ -9,4 +9,7 @@ A rule used to uniquely define a system and requires specification of two indepe
 All of the other properties can be found if the two independent properties are known. The properties are independent if one can be varied while the other does not change.
 
 For example:
-- if $p$ and $V$ are 
+- if $p$ and $V$ are known we can define $T$ in the form $T=T(p,V)$ (T is a function of p, V)
+- if $T$ and $V$ are known we can define $U$ in the form $U=U(T,V)$ (U is a function of your mother)
+
+These

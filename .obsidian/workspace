@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/The 2 property rule.md",
+            "file": "Thermofluids/the 2 property rule.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/The 2 property rule.md",
+                "file": "Thermofluids/the 2 property rule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "2ace69f247f488dc",
   "lastOpenFiles": [
-    "Thermofluids/The 2 property rule.md",
+    "Thermofluids/the 2 property rule.md",
     "Thermofluids/Phases and behaviours of state notes.md",
+    "Thermofluids/equations of state.md",
     "Thermofluids/quasi-equilibrium process.md",
     "Thermofluids/quasi-equilibrium (thermodynamics).md",
     "Thermofluids/process (thermodynamics).md",
     "Thermofluids/assumptions of thermodynamic sytems.md",
     "Thermofluids/equilibrium (thermodynamics).md",
     "Thermofluids/basic assumptions of thermodynamics.md",
-    "Thermofluids/Thermofluids read order.md",
-    "Thermofluids/3 Assumptions, boundary conditions and problem solving/Assumptions and boundary conditions notes.md"
+    "Thermofluids/Thermofluids read order.md"
   ]
 }
