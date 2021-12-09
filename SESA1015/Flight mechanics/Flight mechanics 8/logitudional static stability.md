@@ -104,3 +104,5 @@ In some cases instead of trimming by adjusting the tailplanes elevator ange, you
 >> $C_{mo}=$ [[aircraft controls and dimentions for calculating longitudional stability|pitching moment at zero lift coefficient ]]
 
 ### Implications
+There is a maximum that the elevator can angle too and hence a maximum negative trim, this determines the furthest forward that the centre of mass can go. 
+It should also be noted that there is extra drag created by the tailplane, 
