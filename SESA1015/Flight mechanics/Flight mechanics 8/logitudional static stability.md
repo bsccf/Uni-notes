@@ -105,4 +105,4 @@ In some cases instead of trimming by adjusting the tailplanes elevator ange, you
 
 ### Implications
 There is a maximum that the elevator can angle too and hence a maximum negative trim, this determines the furthest forward that the centre of mass can go. 
-It should also be noted that there is extra drag created by the tailplane, 
+It should also be noted that there is extra drag created by the tailplane, hence greater air deflection will create more drag this is known as [[trim drag]].

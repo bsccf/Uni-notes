@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "SESA1015/Flight mechanics/Flight mechanics 8/logitudional static stability.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -107,6 +107,7 @@
   "active": "2ace69f247f488dc",
   "lastOpenFiles": [
     "SESA1015/Flight mechanics/Flight mechanics 8/logitudional static stability.md",
+    "SESA1015/Flight mechanics/Flight mechanics 8/Introduction to longitudinal stability.md",
     "Mechanics structures and materials/Statics 1/13b,c Circular beam torsion equation/Circular beam torsion equation notes.md",
     "Mechanics structures and materials/Statics 1/Statics 1 read order.md",
     "Mechanics structures and materials/Statics 1/14a Shear stresses in beams/Shear stresses in beams notes.md",
@@ -114,7 +115,6 @@
     "Mechanics structures and materials/Materials/3 Failure of materials/8 Polymers/Polymers notes.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/8 Polymers/relaxation modulus and temperature.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/8 Polymers/what did you expect.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/8 Polymers/relaxation modulus.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/8 Polymers/viscoelasticity in polymers.md"
+    "Mechanics structures and materials/Materials/3 Failure of materials/8 Polymers/relaxation modulus.md"
   ]
 }

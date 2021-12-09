@@ -23,3 +23,4 @@ tags: ["NotesPage"]
 ![[aircraft controls and dimentions for calculating longitudional stability]]
 
 ![[logitudional static stability]]
+
