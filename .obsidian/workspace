@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/Flight mechanics 8/longitudional static stability and trim.md",
-            "mode": "source"
+            "file": "SESA1015/Flight mechanics/Flight mechanics 8/static margin.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 8/longitudional static stability and trim.md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 8/static margin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "2ace69f247f488dc",
   "lastOpenFiles": [
+    "SESA1015/Flight mechanics/Flight mechanics 8/static margin.md",
     "SESA1015/Flight mechanics/Flight mechanics 8/longitudional static stability and trim.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/Angle of attack.md",
     "SESA1015/Flight mechanics/Flight mechanics 3/Basic aircraft trimming.md",
@@ -114,7 +115,6 @@
     "Mechanics structures and materials/Statics 1/13b,c Circular beam torsion equation/Circular beam torsion equation notes.md",
     "Mechanics structures and materials/Statics 1/Statics 1 read order.md",
     "Mechanics structures and materials/Statics 1/14a Shear stresses in beams/Shear stresses in beams notes.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/8 Polymers/damping properties of polymers.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/8 Polymers/Polymers notes.md"
+    "Mechanics structures and materials/Materials/3 Failure of materials/8 Polymers/damping properties of polymers.md"
   ]
 }

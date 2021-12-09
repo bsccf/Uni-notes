@@ -154,7 +154,10 @@ We can change the sign in our equation to change what is being represented.
 >> $C_{mo}=$ [[aircraft controls and dimentions for calculating longitudional stability|pitching moment at zero lift coefficient ]]
 >> $a_1=$ a constant relating $C_L=\alpha a_1$
 
+^29c51c
+
 
 ![[aircraft controls and dimentions for calculating longitudional stability#^267a4d]]
 
-By keeping in mind this diagram we can see that achieving static stability requires us to move the centre of mass forward. I
+By keeping in mind this diagram we can see that achieving static stability requires us to move the centre of mass forward.
+It should also be kept in mind that fuel usage can shift the centre of mass, so we will need to find the point of neutral stability and then ensure that the plane isn't in a situation where that point is reached. This is known as [[static margin]].
