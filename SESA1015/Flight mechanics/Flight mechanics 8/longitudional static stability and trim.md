@@ -123,4 +123,8 @@ Refering back to [[longitudional static stability and trim#Desired diagram|this 
 $$\begin{align*}
 \frac{dC_{mG}}{d\alpha} &< 0 & o&r & \frac{dM_G}{d\alpha} &<0
 \end{align*}$$
-So we need to 
+So we need to use our previous expression for $C_{mG}$ and differentiate with respect to $\alpha$:
+$$\begin{align*}
+ C_{mG} &=  C_{mo} + (h-h_0)a_1 \alpha - \bar{V}\left(a_{1T} \left(\alpha\left(1 - \frac{d\varepsilon}{d\alpha}\right)+\alpha_S\right) + a_{2T} \eta\right)\\
+ dC_{mG} &=  C_{mo} + (h-h_0)a_1 \alpha - \bar{V}\left(a_{1T} \left(\alpha\left(1 - \frac{d\varepsilon}{d\alpha}\right)+\alpha_S\right) + a_{2T} \eta\right)\\
+\end{align*}$$
