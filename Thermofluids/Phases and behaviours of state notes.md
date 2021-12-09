@@ -24,3 +24,5 @@ tags: ["NotesPage"]
 ![[the 2 property rule]]
 
 ![[equations of state]]
+
+![[properties (thermodynamics)]]
