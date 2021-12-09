@@ -31,3 +31,5 @@ tags: ["NotesPage"]
 
 ![[intensive properties (thermodynamics)]]
 
+![[specific properties (thermodynamics)]]
+

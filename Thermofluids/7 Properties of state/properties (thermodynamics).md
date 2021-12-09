@@ -12,3 +12,4 @@ For example some of the most basic properties of a system include: pressure, tem
 You need to also be aware of:
 - [[extensive properties (thermodynamics)]]
 - [[intensive properties (thermodynamics)]]
+- [[specific properties (thermodynamics)]]
