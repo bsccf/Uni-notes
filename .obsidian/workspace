@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/Flight mechanics 8/trim and centre of gravity margin.md",
-            "mode": "source"
+            "file": "SESA1015/Flight mechanics/Flight mechanics 8/Introduction to longitudinal stability.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 8/trim and centre of gravity margin.md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 8/Introduction to longitudinal stability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +106,8 @@
   },
   "active": "2ace69f247f488dc",
   "lastOpenFiles": [
-    "SESA1015/Flight mechanics/Flight mechanics 8/trim and centre of gravity margin.md",
     "SESA1015/Flight mechanics/Flight mechanics 8/Introduction to longitudinal stability.md",
+    "SESA1015/Flight mechanics/Flight mechanics 8/trim and centre of gravity margin.md",
     "SESA1015/Flight mechanics/Flight mechanics 8/longitudional static stability and trim.md",
     "SESA1015/Flight mechanics/Flight mechanics 8/static margin.md",
     "SESA1015/Flight mechanics/Flight mechanics 8/trolled.md",
