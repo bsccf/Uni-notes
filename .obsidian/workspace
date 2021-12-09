@@ -107,6 +107,7 @@
   "active": "2ace69f247f488dc",
   "lastOpenFiles": [
     "Thermofluids/equations of state.md",
+    "Thermofluids/closed form.md",
     "Thermofluids/the 2 property rule.md",
     "Thermofluids/I have just obliterated you.md",
     "Thermofluids/Phases and behaviours of state notes.md",
@@ -114,7 +115,6 @@
     "Thermofluids/quasi-equilibrium (thermodynamics).md",
     "Thermofluids/process (thermodynamics).md",
     "Thermofluids/assumptions of thermodynamic sytems.md",
-    "Thermofluids/equilibrium (thermodynamics).md",
-    "Thermofluids/basic assumptions of thermodynamics.md"
+    "Thermofluids/equilibrium (thermodynamics).md"
   ]
 }
