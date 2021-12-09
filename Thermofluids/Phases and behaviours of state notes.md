@@ -26,3 +26,8 @@ tags: ["NotesPage"]
 ![[equations of state]]
 
 ![[properties (thermodynamics)]]
+
+![[extensive properties (thermodynamics)]]
+
+![[intensive properties (thermodynamics)]]
+

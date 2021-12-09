@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/properties (thermodynamics).md",
+            "file": "Thermofluids/Phases and behaviours of state notes.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/properties (thermodynamics).md",
+                "file": "Thermofluids/Phases and behaviours of state notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "2ace69f247f488dc",
   "lastOpenFiles": [
+    "Thermofluids/Phases and behaviours of state notes.md",
+    "Thermofluids/intensive properties (thermodynamics).md",
+    "Thermofluids/extensive properties (thermodynamics).md",
     "Thermofluids/properties (thermodynamics).md",
     "Thermofluids/enthalpy.md",
-    "Thermofluids/Phases and behaviours of state notes.md",
     "Thermofluids/equations of state.md",
     "Thermofluids/the 2 property rule.md",
     "Thermofluids/closed form.md",
     "Thermofluids/unlike me (more like geneva suggestion).md",
-    "Thermofluids/I have just obliterated you.md",
-    "Thermofluids/quasi-equilibrium process.md",
-    "Thermofluids/quasi-equilibrium (thermodynamics).md"
+    "Thermofluids/I have just obliterated you.md"
   ]
 }
