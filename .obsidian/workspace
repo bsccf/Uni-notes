@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/Flight mechanics 8/static margin.md",
+            "file": "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing aspect ratio.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 8/static margin.md",
+                "file": "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing aspect ratio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "2ace69f247f488dc",
   "lastOpenFiles": [
-    "SESA1015/Flight mechanics/Flight mechanics 8/static margin.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/aircraft geometry/Wing aspect ratio.md",
+    "SESA1015/Flight mechanics/Flight mechanics 8/static margin.md",
     "SESA1015/Flight mechanics/Flight mechanics 8/longitudional static stability and trim.md",
+    "SESA1015/Flight mechanics/Flight mechanics 8/tail volume coefficient.md",
     "SESA1015/Flight mechanics/Flight mechanics 8/Introduction to longitudinal stability.md",
     "SESA1015/Flight mechanics/Flight mechanics 8/trim and centre of gravity margin.md",
     "SESA1015/Flight mechanics/Flight mechanics 8/trolled.md",
     "SESA1015/Flight mechanics/Flight mechanics 8/aircraft controls and dimentions for calculating longitudional stability.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/Angle of attack.md",
-    "SESA1015/Flight mechanics/Flight mechanics 3/Basic aircraft trimming.md",
-    "SESA1015/Flight mechanics/Flight mechanics 8/static stability.md"
+    "SESA1015/Flight mechanics/Flight mechanics 3/Basic aircraft trimming.md"
   ]
 }
