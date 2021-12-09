@@ -12,6 +12,7 @@ tags: ["Question","QFormat3"]
 This is basically just the distance needed to accelerate up to [[screen speed]] from rest.
 
 > ### $$ s_1 = \frac{1.44 }{\left(\frac{T}{W} - \mu\right)\rho S C_{Lmax} } \frac{W}{g} $$ 
+> ### $$ s_1 = \frac{(V_2)^{2}}{2g\left(\frac{T}{W} - \mu\right) } $$
 >> where:
 >> $T=$ Thrust
 >> $W=$ Weight
