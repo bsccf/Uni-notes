@@ -20,3 +20,10 @@ When describing flow in a [[system (thermodynamics)|system]] we describe both it
 You need to consider the time period that the flow is observed over, for example the rapids in a river can be described as examples of [[steady flow]] over the course of a second or so but as [[unsteady flow]] over the course of hours.
 
 ### Embeds
+![[steady flow]]
+
+![[unsteady flow]]
+
+![[uniform flow]]
+
+![[non-uniform flow]]
