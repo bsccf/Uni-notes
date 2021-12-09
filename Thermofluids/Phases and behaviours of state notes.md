@@ -12,3 +12,5 @@ tags: ["NotesPage"]
 ## Expanded articles
 
 ![[basic assumptions of thermodynamics]]
+
+![[assumptions of thermodynamic sytems]]
