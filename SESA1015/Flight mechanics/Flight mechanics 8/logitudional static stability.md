@@ -103,6 +103,8 @@ In some cases instead of trimming by adjusting the tailplanes elevator ange, you
 >> $h_0=$ fraction of the wing chord from the leading edge to aerodynamic centre
 >> $C_{mo}=$ [[aircraft controls and dimentions for calculating longitudional stability|pitching moment at zero lift coefficient ]]
 
+Note we are assuming that the controls are fixed. (the angle of elevators and such are constant)
+
 ### Implications
 There is a maximum that the elevator can angle too and hence a maximum negative trim, this determines the furthest forward that the centre of mass can go. 
 It should also be noted that there is extra drag created by the tailplane, hence greater air deflection will create more drag this is known as [[trim drag]].
