@@ -141,3 +141,13 @@ Also keep in mind that since:
 
 We can change the sign in our equation to change what is being represented.
 
+#### Equations
+> ### $$ h < h_0 + \frac{\bar{V}a_{1T}}{a_1} \left(1 - \frac{d\varepsilon}{d\alpha}\right) $$ 
+>> where:
+>> $a_{1T}= \dfrac{dC_{LT}}{d\alpha_T}=$ lift curve slope of tailplane (for a constant value of $\eta$) 
+>> $\frac{d\varepsilon}{d\alpha}=$ downwash angle rate of change with angle of attack
+>> $\bar{V}=$ [[tail volume coefficient]]
+>> $h=$ fraction of the wing chord from the leading edge to centre of gravity
+>> $h_0=$ fraction of the wing chord from the leading edge to aerodynamic centre
+>> $C_{mo}=$ [[aircraft controls and dimentions for calculating longitudional stability|pitching moment at zero lift coefficient ]]
+>> $a_1=$ a constant relating $C_L=\alpha a$
