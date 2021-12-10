@@ -12,7 +12,7 @@ This is a [[process (thermodynamics)|process]] in a [[closed system]] where ther
 
 Notice that dosn't follow [[isotherms (thermodynamics)|isotherms]].
 
-It should be noted that to get an [[isothermal expansion or compression|isothermal]] process [[heat]] transfer needs to occur over a negligible temperature difference. A consiquence is that to ahcieve this requires impractically slow expansion/compression so it's more for theoretical efficiency benchmarking.
+It should be noted that to get  an [[adiabetic expansion or compression|adiabetic]] process there must be no net heat transfer across the [[system boundary]], to achieve this (or atleast a close approximation) you need to either have the process be incredibly
 
 According to $P(\Delta V)=W$ since there is a change in volume in an [[isothermal expansion or compression|isothermal]] process there is [[pressure volume work]] done.
 
@@ -45,16 +45,14 @@ from [[pressure volume work]]:
 >> $P(V)=$ pressure as a function of volume
 
 ##### [[heat|Heat]] transfer
-> ### $$\begin{align*} Q_{12} =  W_{12} \end{align*}$$
->> where:
->> $Q_{12}=$ [[heat]] transfer from starting to ending conditions
->> $W_{12}=$ work done from starting to ending conditions
+$Q_{12}=0$
+Nada.
 
 ##### [[enthalpy]] change
-> ### $$ Q_{12} = E_{h12} $$ 
+> ### $$ Q_{12} = E_{h12} = 0 $$ 
 >> where:
 >> $Q_{12}=$ [[heat]] transfer from starting to ending conditions
 >> $E_{h12}=$ [[enthalpy]] change from starting to ending conditions
 
 ### Uses
-Theoretical engine efficiency benchmarking.
+It is a good approximation of the power and compression strokes in a internal combustion engine.
