@@ -1,27 +1,19 @@
 ---
-aliases: ["isothermal expansion","isothermal","isothermal process","isothermal compression"]
+aliases: ["isothermal expansion","isothermal","isothermal process","constant temperature process","isothermal compression"]
 tags: ["Question","QFormat3"]
 ---
 
 #### What is
 ## Isothermal expansion or compression
 ### Definition
-This is a [[process (thermodynamics)|process]] in a [[closed system]] where there is no change in pressure, as represented on this [[p-v diagrams|pv diagram]]:
+This is a [[process (thermodynamics)|process]] in a [[closed system]] where there is no change in temperature, as represented on this [[p-v diagrams|pv diagram]]:
 
-![[Pasted image 20211210154545.png]]
+![[Pasted image 20211210164803.png]]
 
-According to $P(\Delta V)=W$ since there can be a change in volume in an [[isobaric expansion or compression|isobaric]] process there can be [[pressure volume work]] done.
+According to $P(\Delta V)=W$ since there can be a change in volume in an [[isothermal expansion or compression|isothermal]] process there can be [[pressure volume work]] done.
 
 ### Consequential relationships
 These are useful when doing calculations on [[p-v diagrams]] since they can be used to calculate the changes in the properties between [[state (thermodynamics)|states]] where the [[process (thermodynamics)|process]] is [[isochoric heat transfer|isochoric]].
-
-##### Pressure volume temp relationship
-Simply [[ideal gas law]]:
-> ### $$ \frac{P_1 V_1}{T_1} = \frac{P_2 V_2}{T_2} $$ 
->> where:
->> $P=$ Pressure
->> $V=$ Volume
->> $T=$ Temperature
 
 ##### Conservation of energy
 > ### $$ Q_{12} - W_{12} = E_{u12} $$ 

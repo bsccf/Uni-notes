@@ -1,5 +1,5 @@
 ---
-aliases: ["isobaric","isobaric compression","isobaric process","isobaric expansion"]
+aliases: ["isobaric","isobaric compression","constant pressure process","isobaric process","isobaric expansion"]
 tags: ["Question","QFormat3"]
 ---
 
