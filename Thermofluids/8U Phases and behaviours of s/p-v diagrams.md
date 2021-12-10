@@ -10,5 +10,9 @@ They are used to describe corresponding changes in volume and pressure in a syst
 
 P-v diagrams are especially useful for describing [[process (thermodynamics)|processes]], this is because:
 $$\begin{align*}
-(\Delta p) \times V &= 
+(\Delta p) \times (\Delta V) &= Energy 
 \end{align*}$$
+So for a process cycle (like that which exists in a heat engine):
+![[Pasted image 20211210102225.png]]
+We can find the theoretical work out by the area enclosed inside the diagram, with wasted energy being the area below the diagram.
+
