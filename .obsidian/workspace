@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/11U Processes, paths and reversibility/reversible and irreversible processes.md",
+            "file": "Thermofluids/11U Processes, paths and reversibility/internally reversible processes.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/11U Processes, paths and reversibility/reversible and irreversible processes.md",
+                "file": "Thermofluids/11U Processes, paths and reversibility/internally reversible processes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "2ace69f247f488dc",
   "lastOpenFiles": [
+    "Thermofluids/11U Processes, paths and reversibility/internally reversible processes.md",
     "Thermofluids/11U Processes, paths and reversibility/reversible and irreversible processes.md",
     "Thermofluids/11U Processes, paths and reversibility/Processes, paths and reversibility notes.md",
     "Thermofluids/11U Processes, paths and reversibility/cycle (thermodynamics).md",
@@ -114,7 +115,6 @@
     "Thermofluids/7 Properties of state/process (thermodynamics).md",
     "Thermofluids/10U Specific heats and the first law of thermodynamics/heat.md",
     "Thermofluids/7 Properties of state/the 2 property rule.md",
-    "Thermofluids/8U Phases and behaviours of s/pVT surface.md",
-    "Thermofluids/11U Processes, paths and reversibility/cycle for a gas.md"
+    "Thermofluids/8U Phases and behaviours of s/pVT surface.md"
   ]
 }

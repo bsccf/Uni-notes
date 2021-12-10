@@ -1,5 +1,5 @@
 ---
-aliases: ["reversible process","irreversible processes"]
+aliases: ["reversible process","reversible processes","irreversible processes","irreversible process"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -12,3 +12,9 @@ A reversible [[process (thermodynamics)|process]] is a [[process (thermodynamics
 #### Characteristics
 - zero friction
 - [[heat]] transfer resaults in no temperature difference
+
+#### Subcatagorys
+Not all reversibled procces are the same, there are:
+- [[internally reversible processes]]
+- [[externally reversible processes]]
+- [[fully reversible processes]]
