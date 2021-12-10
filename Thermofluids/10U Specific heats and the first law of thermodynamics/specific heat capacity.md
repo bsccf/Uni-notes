@@ -17,5 +17,5 @@ This is the change in internal energy required to increase the temperature of 1k
 Specific heat capacity usually changes with temperature, if a gas has a constant specific heat for all temperatures we call it a [[perfect gas]].
 
 There are multiple types of specific heat capacity:
-- [[constant volume specific heat]] ($C_V$)
-- [[constant volume specific heat]] ($C_P$)
+- [[constant volume specific heat]] ($C_v$)
+- [[constant pressure specific heat]] ($C_p$)

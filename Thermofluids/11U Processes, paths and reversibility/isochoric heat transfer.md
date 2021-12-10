@@ -14,7 +14,7 @@ According to $P(\Delta V)=W$ since there is no change in volume in an [[isochori
 
 ### Consequential relationships
 ##### Work transfer
-None
+Total work = None + (zero) + nothing + [[wait shit by reading this it applied to me|your IQ]] + 
 ##### [[heat|Heat]] transfer
 > ### $$ Q_{12} = E_{u12} = mC_v (T_2-T_1) $$ 
 >> where:
@@ -23,4 +23,4 @@ None
 >> $T_1=$ initial temperature
 >> $T_2=$ final temperature
 >> $m=$ mass 
->> $C_v=$ [[specific heat capacity]]
+>> $C_v=$ [[constant volume specific heat]]
