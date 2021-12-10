@@ -14,4 +14,4 @@ On the second one the flat sections represent temperatures where forms with diff
 
 Also note that phase diagrams can also be 3D:
 ![[Pasted image 20211210095813.png]]
-You are expected to be [[youvable to draw this during exams]].
+You are expected to [[you have been trolled|be able to draw this during exams]].
