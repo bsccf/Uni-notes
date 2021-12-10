@@ -26,4 +26,4 @@ tags: ["NotesPage"]
 
 ![[p-v diagrams]]
 
-![[pVT ]]
+![[pVT surface]]
