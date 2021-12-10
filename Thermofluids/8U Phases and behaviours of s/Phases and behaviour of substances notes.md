@@ -15,3 +15,5 @@ tags: ["NotesPage"]
 ![[solids and fluids under shear stress]]
 
 ![[continuum asumption]]
+
+![[]]
