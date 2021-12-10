@@ -13,3 +13,4 @@ tags: ["NotesPage"]
 ![[solids and fluids under normal stress]]
 
 ![[solids and fluids under shear stress]]
+
