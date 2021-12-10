@@ -5,4 +5,9 @@ tags: ["NotesPage"]
 
 # Processes, paths and reversibility notes
 
-![[cycle for a gas]]
+#### Intro and contents
+- 
+
+
+## Expanded articles
+![[cycle (thermodynamics)]]
