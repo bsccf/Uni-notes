@@ -12,9 +12,9 @@ This is a [[process (thermodynamics)|process]] in a [[closed system]] where ther
 
 Notice that dosn't follow [[isotherms (thermodynamics)|isotherms]].
 
-It should be noted that to get  an [[adiabetic expansion or compression|adiabetic]] process there must be no net heat transfer across the [[system boundary]], to achieve this (or atleast a close approximation) you need to either have the process be incredibly
+It should be noted that to get  an [[adiabetic expansion or compression|adiabetic]] process there must be no net heat transfer across the [[system boundary]], to achieve this (or atleast a close approximation) you need to either have the process be incredibly quick or have the [[system (thermodynamics)|system]] be highly insulated.
 
-According to $P(\Delta V)=W$ since there is a change in volume in an [[isothermal expansion or compression|isothermal]] process there is [[pressure volume work]] done.
+According to $P(\Delta V)=W$ since there is a change in volume in an [[adiabetic expansion or compression|adiabetic]] process there is [[pressure volume work]] done.
 
 Note that it will be a [[reversible and irreversible processes|reversible process]] if it's frinctionless since there is zero [[heat]] transfer.
 
