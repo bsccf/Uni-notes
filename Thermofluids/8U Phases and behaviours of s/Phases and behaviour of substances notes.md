@@ -19,3 +19,5 @@ tags: ["NotesPage"]
 ![[phase changes]]
 
 ![[phase diagrams]]
+
+![[applications of phase changes]]
