@@ -39,7 +39,7 @@ from [[pressure volume work]]:
 >> $P(V)=$ pressure as a function of volume
 
 ##### [[heat|Heat]] transfer
-> ### $$ Q_{12} =  E_{u12} + W_{12} = mC_p (T_2-T_1) = P(V_2-V_1) mC_v (T_2-T_1) $$ 
+> ### $$\begin{align*} Q_{12} =  E_{u12} + W_{12} &= mC_p (T_2-T_1)\\ &= mC_v (T_2-T_1) + P(V_2-V_1) \end{align*}$$
 >> where:
 >> $Q_{12}=$ [[heat]] transfer from starting to ending conditions
 >> $E_{u12}=$ [[internal energy]] change from starting to ending conditions
