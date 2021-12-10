@@ -17,3 +17,5 @@ tags: ["NotesPage"]
 ![[continuum asumption]]
 
 ![[phase changes]]
+
+![[phase diagrams]]
