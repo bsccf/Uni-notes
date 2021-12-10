@@ -32,7 +32,7 @@ Simply [[ideal gas law]]:
 
 ##### Work transfer
 from [[pressure volume work]]:
-> ### $$ W_{12} = \int dW = \int P(V) \cdot dV $$ 
+> ### $$ W_{12} = \int dW = P(\Delta V) = \int P(V) \cdot dV $$ 
 >> where:
 >> $W_{12}=$ work done from starting to ending conditions
 >> $V=$ volume
