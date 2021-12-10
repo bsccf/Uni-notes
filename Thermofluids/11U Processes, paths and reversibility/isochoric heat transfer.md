@@ -15,6 +15,13 @@ According to $P(\Delta V)=W$ since there is no change in volume in an [[isochori
 ### Consequential relationships
 These are useful when doing calculations on [[p-v diagrams]] since they can be used to calculate the changes in the properties between [[state (thermodynamics)|states]] where the [[process (thermodynamics)|process]] is [[isochoric heat transfer|isochoric]].
 
+##### Pressure volume temp relationship
+Simply [[ideal gas law]] with constant $V$:
+> ### $$ \frac{P_1 }{T_1} = \frac{P_2 }{T_2} $$ 
+>> where:
+>> $P=$ Pressure
+>> $T=$ Temperature
+
 ##### Conservation of energy:
 > ### $$ Q_{12} - W_{12} = E_{u12} $$ 
 > ### $$ Q_{12} = E_{u12} $$ 
