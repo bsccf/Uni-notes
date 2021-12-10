@@ -11,3 +11,4 @@ tags: ["Question","QFormat3"]
 >> $W=$ Work done
 >> $\Delta V=$ Change in volume
 
+It should be noted that in a situation where P is changing you may need to use integration.
