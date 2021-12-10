@@ -50,6 +50,12 @@ from [[pressure volume work]]:
 >> $C_v=$ [[constant volume specific heat]]
 >> $C_p=$ [[constant pressure specific heat]]
 
+##### [[enthalpy]] transfer
+> ### $$ Q_{12} = E_{h12} $$ 
+>> where:
+>> $Q_{12}=$ [[heat]] transfer from starting to ending conditions
+>> $E_{h12}=$ [[enthalpy]] <--- define it
+
 ### Uses
 - boilers
 - slow/steady combustion
