@@ -13,8 +13,8 @@ A reversible [[process (thermodynamics)|process]] is a [[process (thermodynamics
 - zero friction
 - [[heat]] transfer resaults in no temperature difference
 
-#### Subcatagorys
-Not all reversibled procces are the same, there are:
+#### Subcategory
+Not all reversible proccess are the same, there are:
 - [[internally reversible processes]]
 - [[externally reversible processes]]
 - [[fully reversible processes]]
