@@ -10,7 +10,8 @@ tags: ["NotesPage"]
 - [[reversible and irreversible processes]]
 - [[types of process]]
 - [[isotherms (thermodynamics)]]
-
+- [[entropy]]
+- [[examples of entropy generation]]
 
 ## Expanded articles
 ![[cycle (thermodynamics)]]
@@ -21,4 +22,4 @@ tags: ["NotesPage"]
 
 ![[entropy]]
 
-![[examples of entropy]]
+![[examples of entropy generation]]
