@@ -11,3 +11,5 @@ tags: ["NotesPage"]
 
 ## Expanded articles
 ![[cycle (thermodynamics)]]
+
+![[reversible and irreversible processes]]
