@@ -10,7 +10,7 @@ This is a [[process (thermodynamics)|process]] in a [[closed system]] where ther
 
 ![[Pasted image 20211210170233.png]]
 
-Notice that 
+Notice that dosn't follow [[isotherms (thermodynamics)|isotherms]].
 
 It should be noted that to get an [[isothermal expansion or compression|isothermal]] process [[heat]] transfer needs to occur over a negligible temperature difference. A consiquence is that to ahcieve this requires impractically slow expansion/compression so it's more for theoretical efficiency benchmarking.
 
