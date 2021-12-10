@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/8U Phases and behaviours of s/p-v diagrams.md",
-            "mode": "source"
+            "file": "Mechanics structures and materials/Materials/3 Failure of materials/7 Corrosion/Corrosion notes.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/8U Phases and behaviours of s/p-v diagrams.md",
+                "file": "Mechanics structures and materials/Materials/3 Failure of materials/7 Corrosion/Corrosion notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,8 @@
   },
   "active": "2ace69f247f488dc",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Materials/3 Failure of materials/7 Corrosion/Corrosion notes.md",
+    "Mechanics structures and materials/Materials/Materials read order.md",
     "Thermofluids/8U Phases and behaviours of s/p-v diagrams.md",
     "Thermofluids/7 Properties of state/process (thermodynamics).md",
     "Thermofluids/8U Phases and behaviours of s/Phases and behaviour of substances notes.md",
@@ -113,8 +115,6 @@
     "Thermofluids/8U Phases and behaviours of s/applications of phase changes.md",
     "Thermofluids/8U Phases and behaviours of s/phase diagrams.md",
     "Thermofluids/8U Phases and behaviours of s/you have been trolled.md",
-    "Thermofluids/8U Phases and behaviours of s/phase changes.md",
-    "Thermofluids/10U Specific heats and the first law of thermodynamics/specific heat capacity.md",
-    "Thermofluids/8U Phases and behaviours of s/latent heat.md"
+    "Thermofluids/8U Phases and behaviours of s/phase changes.md"
   ]
 }
