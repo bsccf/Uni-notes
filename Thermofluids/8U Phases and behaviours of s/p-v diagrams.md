@@ -14,5 +14,6 @@ $$\begin{align*}
 \end{align*}$$
 So for a process cycle (like that which exists in a heat engine):
 ![[Pasted image 20211210102225.png]]
-We can find the theoretical work out by the area enclosed inside the diagram, with wasted energy being the area below the diagram.
+We can find the theoretical work out by finding the area enclosed inside the diagram, with wasted energy being the area below the diagram.
 
+The process is represented by the lines connecting different points.
