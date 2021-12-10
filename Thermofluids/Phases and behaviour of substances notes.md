@@ -10,4 +10,6 @@ tags: ["NotesPage"]
 
 
 ## Expanded articles
-![[compression of solids and fluids]]
+![[solids and fluids under normal stress]]
+
+![[solids and fluids under shear stress]]
