@@ -20,8 +20,11 @@ Not all reversible process are the same, there are:
 - [[fully reversible processes]]
 
 #### Examples
-- Reversible: A [[quasi-equilibrium (thermodynamics)|quasi-equilibrium]] heat transfer process is the very slow expansion of very large and thin walled frictionless piston-cylinder at constant temperature.
-- 
+- [[fully reversible processes]]: A [[quasi-equilibrium (thermodynamics)|quasi-equilibrium]] heat transfer process is the very slow expansion of very large and thin walled frictionless piston-cylinder at constant temperature.
+- [[internally reversible processes|internally reversible process]]: A quasi-equilibrium heat transfer process with constant volume heating of a cold gas.
+- [[reversible and irreversible processes|irreversible process]]: A quasi-equilibrium work process with the slow compression of a gas in an insulated piston-cylinder with friction present. (the friction is the bit that trolls you)
+
+Basically reversibilityismness is directly related to the generation of [[ent]]
 
 ### Irriversible processes
 #### Definition
