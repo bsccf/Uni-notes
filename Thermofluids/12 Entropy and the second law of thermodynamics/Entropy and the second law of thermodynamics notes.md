@@ -18,4 +18,4 @@ Entropy do be cringe, in honor of randomness:
 
 ![[second law of thermodynamics]]
 
-![[Kelvin-Planck state]]
+![[first form of the second law of thermodynamics]]
