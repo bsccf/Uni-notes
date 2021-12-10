@@ -31,3 +31,4 @@ We are also going to assume that thrust and drag act through the centre of gravi
 
 ^267a4d
 
+# USE OTHER DIAGRAM AND ADD MISSING CONTENT
