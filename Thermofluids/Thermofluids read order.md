@@ -15,7 +15,7 @@ tags: ["NotesPage"]
 9) [[Kinetic theory of gas notes]]
 10) [[Specific heats, work done and the first law of thermodynamics notes]]
 11) [[Processes, paths and reversibility notes]]
-12) 
+12) [[Entropy and the second law of thermodynamics notes]]
 13) 
 14) 
 15) 
