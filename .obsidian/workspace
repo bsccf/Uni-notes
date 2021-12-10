@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/Thermofluids read order.md",
+            "file": "Thermofluids/Quantification of entropy and T-S diagrams notes.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/Thermofluids read order.md",
+                "file": "Thermofluids/Quantification of entropy and T-S diagrams notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "2ace69f247f488dc",
   "lastOpenFiles": [
+    "Thermofluids/Quantification of entropy and T-S diagrams notes.md",
     "Thermofluids/Thermofluids read order.md",
     "Thermofluids/12 Entropy and the second law of thermodynamics/Entropy and the second law of thermodynamics notes.md",
     "Thermofluids/12 Entropy and the second law of thermodynamics/fourth law of thermodynamics.md",
@@ -114,7 +115,6 @@
     "Thermofluids/12 Entropy and the second law of thermodynamics/first form of the second law of thermodynamics.md",
     "Thermofluids/11 Processes, paths and reversibility/entropy.md",
     "Thermofluids/12 Entropy and the second law of thermodynamics/did you say random embedded meme.md",
-    "Thermofluids/12 Entropy and the second law of thermodynamics/highly unbased.md",
-    "Thermofluids/11 Processes, paths and reversibility/Processes, paths and reversibility notes.md"
+    "Thermofluids/12 Entropy and the second law of thermodynamics/highly unbased.md"
   ]
 }

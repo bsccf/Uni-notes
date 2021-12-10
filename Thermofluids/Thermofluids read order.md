@@ -16,7 +16,7 @@ tags: ["NotesPage"]
 10) [[Specific heats, work done and the first law of thermodynamics notes]]
 11) [[Processes, paths and reversibility notes]]
 12) [[Entropy and the second law of thermodynamics notes]]
-13) 
+13) [[Quantification of entropy and T-S diagrams notes]]
 14) 
 15) 
 16) 
