@@ -38,4 +38,4 @@ Total work = None + (zero) + nothing + [[wait shit by reading this it applied to
 >> $C_v=$ [[constant volume specific heat]]
 
 ### Example
-Adding heat to a sealed ridgid container.
+Adding heat to a sealed ridgid container. (this is basically what you will use this for, [[yes I will use kek unironically|kek]])
