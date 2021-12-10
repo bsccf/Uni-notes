@@ -1,5 +1,5 @@
 ---
-aliases: ["first form (2LT)"]
+aliases: ["first form (2LT)","Kelvin-Planck statement of the second law"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -11,6 +11,6 @@ tags: ["Question","QFormat3"]
 >> $Q_H=$ heat from hot reservoir
 >> $Q_C=$ heat lost to cold reservoir
 >> $W=$ useful work out
->> $Q_C>0$ (from the [[second law of thermodynamics]])
+>> $Q_C \geq 0$ (from the [[second law of thermodynamics]])
 
 ![[Pasted image 20211210174154.png]]
