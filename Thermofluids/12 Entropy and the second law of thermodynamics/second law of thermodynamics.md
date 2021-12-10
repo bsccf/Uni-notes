@@ -13,3 +13,4 @@ It is impossible to extract an amount of heat $Q_H$ from a hot reservoir and use
 ![[Pasted image 20211210173857.png]]
 The second situation is not possible.
 
+An alternative way to describe this law is my prefered version "[[entropy]] increases", I know it is [[did you say random embedded meme|hard to remember]]... bit long.
