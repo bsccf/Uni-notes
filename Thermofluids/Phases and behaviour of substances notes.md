@@ -10,3 +10,4 @@ tags: ["NotesPage"]
 
 
 ## Expanded articles
+![[compression of solids and fluids]]
