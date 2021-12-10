@@ -16,7 +16,7 @@ According to $P(\Delta V)=W$ since there can be a change in volume in an [[isoba
 These are useful when doing calculations on [[p-v diagrams]] since they can be used to calculate the changes in the properties between [[state (thermodynamics)|states]] where the [[process (thermodynamics)|process]] is [[isochoric heat transfer|isochoric]].
 
 ##### Pressure volume temp relationship
-Simply
+Simply [[ideal gas law]]:
 > ### $$ \frac{P_1 V_1}{T_1} = \frac{P_2 V_2}{T_2} $$ 
 >> where:
 >> $P=$ Pressure
@@ -31,21 +31,24 @@ Simply
 >> $W_{12}=$ work done from starting to ending conditions
 
 ##### Work transfer
+from [[pressure volume work]]:
 > ### $$ W_{12} = \int dW = \int P(V) \cdot dV $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $W_{12}=$ work done from starting to ending conditions
+>> $V=$ volume
+>> $P(V)=$ pressure as a function of volume
 
 ##### [[heat|Heat]] transfer
-> ### $$ Q_{12} = E_{u12} = mC_v (T_2-T_1) $$ 
+> ### $$ Q_{12} =  E_{u12} + W_{12} = mC_p (T_2-T_1) = P(V_2-V_1) mC_v (T_2-T_1) $$ 
 >> where:
 >> $Q_{12}=$ [[heat]] transfer from starting to ending conditions
 >> $E_{u12}=$ [[internal energy]] change from starting to ending conditions
+>> $W_{12}=$ work done from starting to ending conditions
 >> $T_1=$ initial temperature
 >> $T_2=$ final temperature
 >> $m=$ mass 
 >> $C_v=$ [[constant volume specific heat]]
+>> $C_p=$ [[constant pressure specific heat]]
 
 ### Uses
 - boilers
