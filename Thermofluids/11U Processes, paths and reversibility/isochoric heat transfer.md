@@ -13,7 +13,7 @@ This is a [[process (thermodynamics)|process]] in a [[closed system]] where ther
 According to $P(\Delta V)=W$ since there is no change in volume in an [[isochoric heat transfer|isochoric]] process there is no [[pressure volume work]] done.
 
 ### Consequential relationships
-These are useful when doing calculations on [[p-v]]
+These are useful when doing calculations on [[p-v diagrams]] since they can be used to calculate the changes in the properties between [[state (thermodynamics)|states]] where the [[process (thermodynamics)|process]] is [[isochoric heat transfer|isochoric]].
 
 ##### Conservation of energy:
 > ### $$ Q_{12} - W_{12} = E_{u12} $$ 
@@ -37,3 +37,5 @@ Total work = None + (zero) + nothing + [[wait shit by reading this it applied to
 >> $m=$ mass 
 >> $C_v=$ [[constant volume specific heat]]
 
+### Example
+Adding heat to a sealed ridgid container.
