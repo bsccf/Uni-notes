@@ -12,7 +12,14 @@ god there is so much to do. ffs why can't we have a reading week?
 5) [[Dimentions and units, ratios and coefficients]]
 6) [[Dimensional Analysis]]
 7) [[Phases and behaviours of state notes]]
-8) 
+8) [[Phases and behaviour of substances notes]]
 9) [[Kinetic theory of gas notes]]
 10) [[Specific heats, work done and the first law of thermodynamics notes]]
 11) [[Processes, paths and reversibility notes]]
+12) 
+13) 
+14) 
+15) 
+16) 
+17) 
+18) 
