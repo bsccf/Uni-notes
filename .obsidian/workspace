@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/12 Entropy and the second law of thermodynamics/fourth law of thermodynamics.md",
-            "mode": "source"
+            "file": "Thermofluids/12 Entropy and the second law of thermodynamics/Entropy and the second law of thermodynamics notes.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/12 Entropy and the second law of thermodynamics/fourth law of thermodynamics.md",
+                "file": "Thermofluids/12 Entropy and the second law of thermodynamics/Entropy and the second law of thermodynamics notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +106,8 @@
   },
   "active": "2ace69f247f488dc",
   "lastOpenFiles": [
-    "Thermofluids/12 Entropy and the second law of thermodynamics/fourth law of thermodynamics.md",
     "Thermofluids/12 Entropy and the second law of thermodynamics/Entropy and the second law of thermodynamics notes.md",
+    "Thermofluids/12 Entropy and the second law of thermodynamics/fourth law of thermodynamics.md",
     "Thermofluids/12 Entropy and the second law of thermodynamics/second law of thermodynamics.md",
     "Thermofluids/12 Entropy and the second law of thermodynamics/Life is pain.md",
     "Thermofluids/12 Entropy and the second law of thermodynamics/first form of the second law of thermodynamics.md",
