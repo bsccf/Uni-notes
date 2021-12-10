@@ -7,3 +7,6 @@ tags: ["Question","QFormat3"]
 ## P-v diagrams
 Also known as pressure, volume diagrams. I wonder if you can guess what two properties of a system they present, it's a really difficult thing to guess.
 
+
+
+![[Pasted image 20211210101739.png]]
