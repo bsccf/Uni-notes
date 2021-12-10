@@ -10,3 +10,4 @@ This is a [[process (thermodynamics)|process]] in a [[closed system]] where ther
 ![[Pasted image 20211210150322.png]]
 
 According to $P(\Delta V)=W$ since there is no change in volume in an [[isochoric heat transfer|isochoric]] process there is no [[pressure volume work]] done.
+
