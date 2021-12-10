@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/11U Processes, paths and reversibility/isochoric heat transfer.md",
+            "file": "Thermofluids/10U Specific heats and the first law of thermodynamics/specific heat capacity.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/11U Processes, paths and reversibility/isochoric heat transfer.md",
+                "file": "Thermofluids/10U Specific heats and the first law of thermodynamics/specific heat capacity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "2ace69f247f488dc",
   "lastOpenFiles": [
+    "Thermofluids/10U Specific heats and the first law of thermodynamics/specific heat capacity.md",
     "Thermofluids/11U Processes, paths and reversibility/isochoric heat transfer.md",
     "Thermofluids/11U Processes, paths and reversibility/pressure volume work.md",
     "Thermofluids/3 Assumptions, boundary conditions and problem solving/closed system.md",
@@ -114,7 +115,6 @@
     "Thermofluids/11U Processes, paths and reversibility/Processes, paths and reversibility notes.md",
     "Thermofluids/11U Processes, paths and reversibility/reversible and irreversible processes.md",
     "Thermofluids/11U Processes, paths and reversibility/entropy.md",
-    "Thermofluids/11U Processes, paths and reversibility/lmao no that is it m8.md",
-    "Thermofluids/11U Processes, paths and reversibility/fully reversible processes.md"
+    "Thermofluids/11U Processes, paths and reversibility/lmao no that is it m8.md"
   ]
 }

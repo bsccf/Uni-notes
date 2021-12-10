@@ -23,4 +23,4 @@ None
 >> $T_1=$ initial temperature
 >> $T_2=$ final temperature
 >> $m=$ mass 
->> $C_v=$ [[]]
+>> $C_v=$ [[specific heat capacity]]
