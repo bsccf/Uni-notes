@@ -15,6 +15,14 @@ According to $P(\Delta V)=W$ since there can be a change in volume in an [[isoba
 ### Consequential relationships
 These are useful when doing calculations on [[p-v diagrams]] since they can be used to calculate the changes in the properties between [[state (thermodynamics)|states]] where the [[process (thermodynamics)|process]] is [[isochoric heat transfer|isochoric]].
 
+##### Pressure volume temp relationship
+Simply
+> ### $$ \frac{P_1 V_1}{T_1} = \frac{P_2 V_2}{T_2} $$ 
+>> where:
+>> $P=$ Pressure
+>> $V=$ Volume
+>> $T=$ Temperature
+
 ##### Conservation of energy:
 > ### $$ Q_{12} - W_{12} = E_{u12} $$ 
 >> where:
@@ -23,7 +31,7 @@ These are useful when doing calculations on [[p-v diagrams]] since they can be u
 >> $W_{12}=$ work done from starting to ending conditions
 
 ##### Work transfer
-> ### $$ W_{12} = \int dW = \int P(V) \cdot $$ 
+> ### $$ W_{12} = \int dW = \int P(V) \cdot dV $$ 
 >> where:
 >> $=$ 
 >> $=$
