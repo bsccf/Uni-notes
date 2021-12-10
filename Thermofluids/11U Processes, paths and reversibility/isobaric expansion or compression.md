@@ -10,7 +10,7 @@ This is a [[process (thermodynamics)|process]] in a [[closed system]] where ther
 
 ![[Pasted image 20211210154545.png]]
 
-According to $P(\Delta V)=W$ since there is no change in volume in an [[isochoric heat transfer|isochoric]] process there is no [[pressure volume work]] done.
+According to $P(\Delta V)=W$ since there can be a change in volume in an [[isobaric expansion or compression|isobaric]] process there can be [[pressure volume work]] done.
 
 ### Consequential relationships
 These are useful when doing calculations on [[p-v diagrams]] since they can be used to calculate the changes in the properties between [[state (thermodynamics)|states]] where the [[process (thermodynamics)|process]] is [[isochoric heat transfer|isochoric]].
