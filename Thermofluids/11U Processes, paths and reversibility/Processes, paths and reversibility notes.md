@@ -19,3 +19,6 @@ tags: ["NotesPage"]
 
 ![[types of process]]
 
+![[entropy]]
+
+![[examples of entropy]]

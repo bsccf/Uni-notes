@@ -7,8 +7,11 @@
         "id": "2ace69f247f488dc",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Thermofluids/11U Processes, paths and reversibility/entropy.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Thermofluids/11U Processes, paths and reversibility/entropy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +106,15 @@
   },
   "active": "2ace69f247f488dc",
   "lastOpenFiles": [
+    "Thermofluids/11U Processes, paths and reversibility/entropy.md",
     "Thermofluids/11U Processes, paths and reversibility/Processes, paths and reversibility notes.md",
+    "Thermofluids/11U Processes, paths and reversibility/examples of entropy.md",
+    "Thermofluids/3 Assumptions, boundary conditions and problem solving/viscous flow.md",
     "Thermofluids/11U Processes, paths and reversibility/types of process.md",
     "Thermofluids/11U Processes, paths and reversibility/isobaric expansion or compression.md",
     "Thermofluids/11U Processes, paths and reversibility/isothermal expansion or compression.md",
     "Thermofluids/11U Processes, paths and reversibility/adiabetic expansion or compression.md",
     "Thermofluids/11U Processes, paths and reversibility/isotherms (thermodynamics).md",
-    "Thermofluids/11U Processes, paths and reversibility/isochoric heat transfer.md",
-    "Thermofluids/7 Properties of state/enthalpy.md",
-    "isobaric expansion/compression.md",
-    "Thermofluids/11U Processes, paths and reversibility/yes I will use kek unironically.md"
+    "Thermofluids/11U Processes, paths and reversibility/isochoric heat transfer.md"
   ]
 }
