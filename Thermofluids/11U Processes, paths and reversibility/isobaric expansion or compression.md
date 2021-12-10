@@ -23,7 +23,7 @@ Simply [[ideal gas law]]:
 >> $V=$ Volume
 >> $T=$ Temperature
 
-##### Conservation of energy:
+##### Conservation of energy
 > ### $$ Q_{12} - W_{12} = E_{u12} $$ 
 >> where:
 >> $Q_{12}=$ [[heat]] transfer from starting to ending conditions
@@ -50,7 +50,7 @@ from [[pressure volume work]]:
 >> $C_v=$ [[constant volume specific heat]]
 >> $C_p=$ [[constant pressure specific heat]]
 
-##### [[enthalpy]] transfer <---- stuff
+##### [[enthalpy]] change
 > ### $$ Q_{12} = E_{h12} $$ 
 >> where:
 >> $Q_{12}=$ [[heat]] transfer from starting to ending conditions
