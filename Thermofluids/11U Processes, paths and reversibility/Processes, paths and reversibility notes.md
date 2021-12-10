@@ -13,3 +13,5 @@ tags: ["NotesPage"]
 ![[cycle (thermodynamics)]]
 
 ![[reversible and irreversible processes]]
+
+![[types of process]]
