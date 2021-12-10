@@ -12,4 +12,4 @@ This large change in energy between phases can be easily represented on a graph:
 ![[Pasted image 20211210094720.png]]
 ![[Pasted image 20211210094911.png]]
 
-We measure [[latent heat]] using [[specific heat capacity]].
+Note that [[specific heat capacity]] is only used for relating energy and temperature in between phase changes and isn't used during them.
