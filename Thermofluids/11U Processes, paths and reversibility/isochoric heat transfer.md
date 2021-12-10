@@ -16,8 +16,11 @@ According to $P(\Delta V)=W$ since there is no change in volume in an [[isochori
 ##### Work transfer
 None
 ##### [[heat|Heat]] transfer
-> ### $$ Q_{12} = W_{12} + E_{u12} = mC_v (T_2-T_1) $$ 
+> ### $$ Q_{12} = E_{u12} = mC_v (T_2-T_1) $$ 
 >> where:
 >> $Q_{12}=$ [[heat]] transfer from starting to ending conditions
->> $W_{12}=$ work don from starting to ending conditions
->> $E_{u12}=$
+>> $E_{u12}=$ [[internal energy]] change from starting to ending conditions
+>> $T_1=$ initial temperature
+>> $T_2=$ final temperature
+>> $m=$ mass 
+>> $C_v=$ [[]]
