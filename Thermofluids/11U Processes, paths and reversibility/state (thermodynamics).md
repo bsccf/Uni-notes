@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["state","states"]
 tags: ["Question","QFormat3"]
 ---
 
