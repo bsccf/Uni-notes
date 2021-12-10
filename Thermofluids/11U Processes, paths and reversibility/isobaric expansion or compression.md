@@ -60,6 +60,3 @@ from [[pressure volume work]]:
 - boilers
 - slow/steady combustion
 - gas turbines
-
-### Example
-Adding heat to a sealed ridgid container. (this is basically what you will use this for, [[yes I will use kek unironically|kek]])
