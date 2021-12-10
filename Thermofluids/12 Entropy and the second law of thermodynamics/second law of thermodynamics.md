@@ -20,4 +20,3 @@ An alternative way to describe this law is my prefered version "[[entropy]] incr
 - At best we can not increase entropy but never reduce the entropy of a closed system
 - Open systems can reduce entropy, but this is just them dumping it outside themselfs so not acc removing it
 - [[Life is pain]]
-- 
