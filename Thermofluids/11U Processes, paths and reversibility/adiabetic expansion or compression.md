@@ -14,19 +14,20 @@ Notice that dosn't follow [[isotherms (thermodynamics)|isotherms]].
 
 It should be noted that to get an [[isothermal expansion or compression|isothermal]] process [[heat]] transfer needs to occur over a negligible temperature difference. A consiquence is that to ahcieve this requires impractically slow expansion/compression so it's more for theoretical efficiency benchmarking.
 
-According to $P(\Delta V)=W$ since there can be a change in volume in an [[isothermal expansion or compression|isothermal]] process there can be [[pressure volume work]] done.
+According to $P(\Delta V)=W$ since there is a change in volume in an [[isothermal expansion or compression|isothermal]] process there is [[pressure volume work]] done.
 
-Note that it will be a [[reversible and irreversible processes|reversible process]] if it's frinctionless.
+Note that it will be a [[reversible and irreversible processes|reversible process]] if it's frinctionless since there is zero [[heat]] transfer.
 
 ### Consequential relationships
 These are useful when doing calculations on [[p-v diagrams]] since they can be used to calculate the changes in the properties between [[state (thermodynamics)|states]] where the [[process (thermodynamics)|process]] is [[isothermal expansion or compression|isothermal]].
 
 ##### Pressure volume temperature
 The [[ideal gas law]] can be used where $T$ is constant:
-> ### $$ P_1 V_1 = P_2 V_2 $$ 
+> ### $$ \frac{P_1 V_1}{T_1} = \frac{P_2 V_2}{T_2} $$ 
 >> where:
 >> $P=$ Pressure
 >> $V=$ Volume
+>> $T=$ Temperature
 
 ##### Conservation of energy
 > ### $$ Q_{12} - W_{12} = E_{u12} $$ 

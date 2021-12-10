@@ -12,7 +12,7 @@ This is a [[process (thermodynamics)|process]] in a [[closed system]] where ther
 
 It should be noted that to get an [[isothermal expansion or compression|isothermal]] process [[heat]] transfer needs to occur over a negligible temperature difference. A consiquence is that to ahcieve this requires impractically slow expansion/compression so it's more for theoretical efficiency benchmarking.
 
-According to $P(\Delta V)=W$ since there can be a change in volume in an [[isothermal expansion or compression|isothermal]] process there can be [[pressure volume work]] done.
+According to $P(\Delta V)=W$ since there is a change in volume in an [[isothermal expansion or compression|isothermal]] process there is [[pressure volume work]] done.
 
 Note that it will be a [[reversible and irreversible processes|reversible process]] if it's frinctionless.
 
