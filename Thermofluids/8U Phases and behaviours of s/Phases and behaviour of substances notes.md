@@ -21,3 +21,5 @@ tags: ["NotesPage"]
 ![[phase diagrams]]
 
 ![[applications of phase changes]]
+
+![[heat]]
