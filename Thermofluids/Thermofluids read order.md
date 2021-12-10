@@ -3,7 +3,6 @@ aliases: [""]
 tags: ["NotesPage"]
 ---
 
-god there is so much to do. ffs why can't we have a reading week?
 
 1) 
 2) 
