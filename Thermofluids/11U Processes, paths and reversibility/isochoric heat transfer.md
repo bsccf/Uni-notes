@@ -37,6 +37,12 @@ Total work = None + (zero) + nothing + [[wait shit by reading this it applied to
 >> $m=$ mass 
 >> $C_v=$ [[constant volume specific heat]]
 
+##### [[enthalpy]] change
+> ### $$ Q_{12} = E_{h12} $$ 
+>> where:
+>> $Q_{12}=$ [[heat]] transfer from starting to ending conditions
+>> $E_{h12}=$ [[enthalpy]] change from starting to ending conditions
+
 ### Uses
 - efficient heat transfer for temperature changes
 - fast combustion in petrol engines

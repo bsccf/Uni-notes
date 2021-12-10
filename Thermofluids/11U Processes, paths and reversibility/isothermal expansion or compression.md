@@ -1,10 +1,10 @@
 ---
-aliases: ["isobaric","isobaric compression","isobaric process","isobaric expansion"]
+aliases: ["isothermal expansion","isothermal","isothermal process","isothermal compression"]
 tags: ["Question","QFormat3"]
 ---
 
 #### What is
-## Isobaric expansion or compression
+## Isothermal expansion or compression
 ### Definition
 This is a [[process (thermodynamics)|process]] in a [[closed system]] where there is no change in pressure, as represented on this [[p-v diagrams|pv diagram]]:
 
@@ -60,3 +60,4 @@ from [[pressure volume work]]:
 - boilers
 - slow/steady combustion
 - gas turbines
+
