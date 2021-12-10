@@ -13,15 +13,20 @@ This is a [[process (thermodynamics)|process]] in a [[closed system]] where ther
 According to $P(\Delta V)=W$ since there is no change in volume in an [[isochoric heat transfer|isochoric]] process there is no [[pressure volume work]] done.
 
 ### Consequential relationships
+These are useful when doing calculations on [[p-v]]
+
 ##### Conservation of energy:
-> ### $$  = $$ 
+> ### $$ Q_{12} - W_{12} = E_{u12} $$ 
+> ### $$ Q_{12} = E_{u12} $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $Q_{12}=$ [[heat]] transfer from starting to ending conditions
+>> $E_{u12}=$ [[internal energy]] change from starting to ending conditions
+>> $W_{12}=$ work done from starting to ending conditions
+
 ##### Work transfer
 Total work = None + (zero) + nothing + [[wait shit by reading this it applied to me|your IQ]] + emptyness = 0
-(there is none is what I'm getting at here)
+(there is none, that is what I'm getting at here)
+
 ##### [[heat|Heat]] transfer
 > ### $$ Q_{12} = E_{u12} = mC_v (T_2-T_1) $$ 
 >> where:
@@ -31,3 +36,4 @@ Total work = None + (zero) + nothing + [[wait shit by reading this it applied to
 >> $T_2=$ final temperature
 >> $m=$ mass 
 >> $C_v=$ [[constant volume specific heat]]
+
