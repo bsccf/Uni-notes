@@ -10,7 +10,8 @@ A phase diagram is a type of chart used to show conditions (pressure, temperatur
 
 ![[Pasted image 20211210095909.png]]
 
-On the second one the flat sections represent temperatures where forms with different densitys exist
+On the second one the flat sections represent temperatures where forms with different densitys exist, these occur at temperatures where phase changes occur. Water has some unique properties that cause it to become more dense when melting hence there is also a line to represent how normal substances behave.
 
-Phase diagrams can also be 3D:
+Also note that phase diagrams can also be 3D:
 ![[Pasted image 20211210095813.png]]
+You are expected to be [[youvable to draw this during exams]].
