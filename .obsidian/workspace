@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/11U Processes, paths and reversibility/pressure volume work.md",
+            "file": "Thermofluids/11U Processes, paths and reversibility/isochoric heat transfer.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/11U Processes, paths and reversibility/pressure volume work.md",
+                "file": "Thermofluids/11U Processes, paths and reversibility/isochoric heat transfer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +106,8 @@
   },
   "active": "2ace69f247f488dc",
   "lastOpenFiles": [
-    "Thermofluids/11U Processes, paths and reversibility/pressure volume work.md",
     "Thermofluids/11U Processes, paths and reversibility/isochoric heat transfer.md",
+    "Thermofluids/11U Processes, paths and reversibility/pressure volume work.md",
     "Thermofluids/3 Assumptions, boundary conditions and problem solving/closed system.md",
     "Thermofluids/8U Phases and behaviours of s/p-v diagrams.md",
     "Thermofluids/11U Processes, paths and reversibility/types of process.md",

@@ -16,6 +16,8 @@
     "downscalePercent": 100
   },
   "spellcheckDictionary": [
-    "lamellar"
+    "lamellar",
+    "Isochoric",
+    "isochoric"
   ]
 }

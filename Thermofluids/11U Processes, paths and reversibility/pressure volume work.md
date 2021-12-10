@@ -5,7 +5,7 @@ tags: ["Question","QFormat3"]
 
 #### What is
 ## Pressure volume work
-This is the work done as a resault of the change in volume of a pressurised fluid
+This is the work done as a resault of the change in volume of a pressurised fluid.
 
 > ### $$ W = P\times(\Delta V) = \int P(V)\cdot dV $$ 
 >> where:
