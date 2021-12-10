@@ -37,5 +37,9 @@ Total work = None + (zero) + nothing + [[wait shit by reading this it applied to
 >> $m=$ mass 
 >> $C_v=$ [[constant volume specific heat]]
 
+### Uses
+- efficient heat transfer for temperature changes
+- fast combustion in petrol engines
+
 ### Example
 Adding heat to a sealed ridgid container. (this is basically what you will use this for, [[yes I will use kek unironically|kek]])

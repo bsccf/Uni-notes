@@ -17,15 +17,17 @@ These are useful when doing calculations on [[p-v diagrams]] since they can be u
 
 ##### Conservation of energy:
 > ### $$ Q_{12} - W_{12} = E_{u12} $$ 
-> ### $$ Q_{12} = E_{u12} $$ 
 >> where:
 >> $Q_{12}=$ [[heat]] transfer from starting to ending conditions
 >> $E_{u12}=$ [[internal energy]] change from starting to ending conditions
 >> $W_{12}=$ work done from starting to ending conditions
 
 ##### Work transfer
-Total work = None + (zero) + nothing + [[wait shit by reading this it applied to me|your IQ]] + emptyness = 0
-(there is none, that is what I'm getting at here)
+> ### $$ W_{12} = \int dW = \int P(V) \cdot $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
 
 ##### [[heat|Heat]] transfer
 > ### $$ Q_{12} = E_{u12} = mC_v (T_2-T_1) $$ 
@@ -36,6 +38,11 @@ Total work = None + (zero) + nothing + [[wait shit by reading this it applied to
 >> $T_2=$ final temperature
 >> $m=$ mass 
 >> $C_v=$ [[constant volume specific heat]]
+
+### Uses
+- boilers
+- slow/steady combustion
+- gas turbines
 
 ### Example
 Adding heat to a sealed ridgid container. (this is basically what you will use this for, [[yes I will use kek unironically|kek]])
