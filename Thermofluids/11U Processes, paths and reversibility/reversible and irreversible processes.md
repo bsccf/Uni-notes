@@ -20,7 +20,11 @@ Not all reversible process are the same, there are:
 - [[fully reversible processes]]
 
 #### Examples
-A fully reversible [[quasi-equilibrium (thermodynamics)|quasi-equilibrium]] heat transfer process is the very slow expansion of very large and thin walled frictionless piston-cylinder at constant temperature.
+- Reversible: A [[quasi-equilibrium (thermodynamics)|quasi-equilibrium]] heat transfer process is the very slow expansion of very large and thin walled frictionless piston-cylinder at constant temperature.
+- 
 
 ### Irriversible processes
 #### Definition
+\![[reversible and irreversible processes|reversible process]]
+
+([[lmao no that is it m8|elaboration]])
