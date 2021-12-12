@@ -15,3 +15,5 @@ tags: ["NotesPage"]
 ![[variables of a differential equation]]
 
 ![[homogeneous and nonhomogeneous differential equations]]
+
+![[General and particular solutions notes]]
