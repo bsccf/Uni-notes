@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["transpose","transposed"]
 tags: ["Question","QFormat3"]
 ---
 

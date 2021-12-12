@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Mathematics for Engineering and the Environment/6U Matrices 1/7 Matrix algebra with determinants/adjoint matrix.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -107,6 +107,7 @@
   "active": "2ace69f247f488dc",
   "lastOpenFiles": [
     "Mathematics for Engineering and the Environment/6U Matrices 1/7 Matrix algebra with determinants/adjoint matrix.md",
+    "Mathematics for Engineering and the Environment/6U Matrices 1/1,2 Intro into matrices/transposed matrix.md",
     "Mathematics for Engineering and the Environment/6U Matrices 1/7 Matrix algebra with determinants/MAWD Preset.md",
     "Mathematics for Engineering and the Environment/6U Matrices 1/7 Matrix algebra with determinants/Matrix algebra with determinants notes.md",
     "Mathematics for Engineering and the Environment/6U Matrices 1/7 Matrix algebra with determinants/product of matrices and the resaulting determinant.md",
@@ -114,7 +115,6 @@
     "Mathematics for Engineering and the Environment/6U Matrices 1/7 Matrix algebra with determinants/adding multiples of rows or columns.md",
     "Mathematics for Engineering and the Environment/6U Matrices 1/7 Matrix algebra with determinants/addition rule with matrix determinants.md",
     "Mathematics for Engineering and the Environment/6U Matrices 1/7 Matrix algebra with determinants/interchange of two rows or columns.md",
-    "Mathematics for Engineering and the Environment/6U Matrices 1/7 Matrix algebra with determinants/multiple of a row by a scalar.md",
-    "Mathematics for Engineering and the Environment/6U Matrices 1/7 Matrix algebra with determinants/matrix sum row or column cofactor relationship.md"
+    "Mathematics for Engineering and the Environment/6U Matrices 1/7 Matrix algebra with determinants/multiple of a row by a scalar.md"
   ]
 }
