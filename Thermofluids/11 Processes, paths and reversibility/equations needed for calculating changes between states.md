@@ -8,7 +8,7 @@ tags: ["Question","QFormat3"]
 
 
 > ### $$ \begin{align*}Q_{12} - W_{12} &= E_{u12} \end{align*} $$ 
-> ### $$ W_{12} = \int dW = \int P(V) \cdot dV $$ 
+> ### $$ W_{12} = \int dW = \int^{V_2}_{V_1} P(V) \cdot dV $$ 
 > ### $$ \frac{P_1 V_1}{T_1} = \frac{P_2 V_2}{T_2} $$ 
 > ### $$ Q_{12} = E_{h12} $$ 
 >> where:
