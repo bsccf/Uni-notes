@@ -11,3 +11,4 @@ tags: ["NotesPage"]
 
 ## Expanded articles
 
+![[boundary conditions]]
