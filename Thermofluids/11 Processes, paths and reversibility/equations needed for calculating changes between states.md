@@ -3,10 +3,9 @@ aliases: []
 tags: ["Question","QFormat3"]
 ---
 
-#### What is
-## 
+#### What are the
+## Equations needed for calculating changes between [[state (thermodynamics)|states]]
 
-### Consequential relationships
 
 > ### $$ \begin{align*}Q_{12} - W_{12} &= E_{u12} \end{align*} $$ 
 > ### $$ W_{12} = \int dW = \int P(V) \cdot dV $$ 
