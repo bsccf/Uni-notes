@@ -54,4 +54,5 @@ $$\begin{align*}
 &&- E_{u14} + Q_{43}  &= Q_{12} - E_{u23}\\
 Q_{43} &\neq Q_{12} && & E_{u14} &\neq E_{u23}
 \end{align*}$$
-This difference resaults in a different change in [[entropy]] depending on the path taken, which can be represented using heat and work transfers.
+This difference resaults in a different change in [[entropy]] depending on the path taken, hence [[entropy]] is a [[state]] property giving us a total of 4 state properties that define a gas: $S, P, V, T$.
+According to the [[the 2 property rule|two property rule]] 

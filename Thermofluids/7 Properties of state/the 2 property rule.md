@@ -1,5 +1,5 @@
 ---
-aliases: ["the two property rule"]
+aliases: ["the two property rule","two property rule"]
 tags: ["Question","QFormat3"]
 ---
 
