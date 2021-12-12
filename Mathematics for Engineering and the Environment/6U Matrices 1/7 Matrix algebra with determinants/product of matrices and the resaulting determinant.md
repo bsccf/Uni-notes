@@ -10,4 +10,4 @@ tags: ["Question","QFormat3"]
 >> $B=$ some matrix
 >> $A=$ some matrix
 
-[[multiplying]]
+This uses [[matrix multiplication]].
