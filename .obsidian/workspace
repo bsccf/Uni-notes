@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/13 Quantification of Entropy and T-S diagrams/TS diagram.md",
+            "file": "Thermofluids/11 Processes, paths and reversibility/types of process.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/13 Quantification of Entropy and T-S diagrams/TS diagram.md",
+                "file": "Thermofluids/11 Processes, paths and reversibility/types of process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "2ace69f247f488dc",
   "lastOpenFiles": [
+    "Thermofluids/11 Processes, paths and reversibility/types of process.md",
+    "Thermofluids/11 Processes, paths and reversibility/isochoric heat transfer.md",
     "Thermofluids/13 Quantification of Entropy and T-S diagrams/TS diagram.md",
+    "Thermofluids/11 Processes, paths and reversibility/equations needed for calculating changes between states.md",
     "Thermofluids/13 Quantification of Entropy and T-S diagrams/Quantification of entropy and T-S diagrams notes.md",
     "Thermofluids/13 Quantification of Entropy and T-S diagrams/need for a TS diagram.md",
     "Thermofluids/13 Quantification of Entropy and T-S diagrams/the two entropy equations.md",
     "Thermofluids/11 Processes, paths and reversibility/entropy.md",
     "Thermofluids/13 Quantification of Entropy and T-S diagrams/state variables.md",
-    "Thermofluids/13 Quantification of Entropy and T-S diagrams/state function.md",
-    "Thermofluids/10U Specific heats and the first law of thermodynamics/heat.md",
-    "Thermofluids/7 Properties of state/the 2 property rule.md",
-    "Thermofluids/11 Processes, paths and reversibility/types of process.md"
+    "Thermofluids/13 Quantification of Entropy and T-S diagrams/state function.md"
   ]
 }

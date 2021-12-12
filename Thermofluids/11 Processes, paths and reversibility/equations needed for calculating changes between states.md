@@ -11,6 +11,7 @@ tags: ["Question","QFormat3"]
 > ### $$ W_{12} = \int dW = \int^{V_2}_{V_1} P(V) \cdot dV $$ 
 > ### $$ \frac{P_1 V_1}{T_1} = \frac{P_2 V_2}{T_2} $$ 
 > ### $$ Q_{12} = E_{h12} $$ 
+> ### $$ \int dS = \int \frac{dQ}{T} $$ 
 >> where:
 >> $Q_{12}=$ [[heat]] transfer from starting to ending conditions
 >> $E_{u12}=$ [[internal energy]] change from starting to ending conditions
@@ -20,3 +21,4 @@ tags: ["Question","QFormat3"]
 >> $T=$ Temperature
 >> $P=$ Pressure
 >> $P(V)=$ pressure as a function of volume
+>> $S=$ [[entropy]]
