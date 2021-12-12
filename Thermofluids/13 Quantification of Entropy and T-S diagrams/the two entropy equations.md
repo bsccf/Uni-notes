@@ -35,4 +35,8 @@ dQ = mC_P \cdot dT &= mC_V \cdot dT + P \cdot dV & PV &= mRT \\
 As you can see we now have the [[entropy]] defined interms of two [[state variables]].
 
 #### [[isochoric heat transfer|isochoric]] heating
-Here we start with the first equ
+Here we start with the first equation and make use of the [[enthalpy]] relation $E_h = E_u + PV$:
+$$\begin{align*}
+S_{12} &= mC_V \ln\left(\frac{T_2}{T_1}\right) + mR \ln\left(\frac{V_2}{V_1}\right) & E_h &= E_u + PV\\
+&& E_h &= E
+\end{align*}$$
