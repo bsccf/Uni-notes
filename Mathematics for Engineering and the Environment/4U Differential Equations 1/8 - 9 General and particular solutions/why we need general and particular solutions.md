@@ -11,4 +11,13 @@ $$\begin{align*}
 \frac{dy}{dx} &= f(x) & f(x) = x^{3} + 69 
 \end{align*}$$
 
+Then we can say:
+$$\begin{align*}
+\frac{dy}{dx} &= x^{3} + 69 \\
+\int 1\cdot dy &= \int x^{3} + 69 dx\\
+&=  \frac{x^{4}}{3} + 69x + k
+\end{align*}$$
 
+(used [[integration]])
+
+But now we have a solution

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/4U Differential Equations 1/8 - 9 General and particular solutions/why we need general and particular solutions.md",
+            "file": "Mathematics for Engineering and the Environment/General org/integration.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/4U Differential Equations 1/8 - 9 General and particular solutions/why we need general and particular solutions.md",
+                "file": "Mathematics for Engineering and the Environment/General org/integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "2ace69f247f488dc",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/General org/integration.md",
+    "Mathematics for Engineering and the Environment/General org/differentiation.md",
+    "Mathematics for Engineering and the Environment/General org/matrices.md",
     "Mathematics for Engineering and the Environment/4U Differential Equations 1/8 - 9 General and particular solutions/why we need general and particular solutions.md",
     "Mathematics for Engineering and the Environment/4U Differential Equations 1/8 - 9 General and particular solutions/General and particular solutions notes.md",
     "Mathematics for Engineering and the Environment/4U Differential Equations 1/Differential Equations 1 overview.md",
     "Mathematics for Engineering and the Environment/7U Differential Equations 3/Differential equations 3 overview.md",
     "Mathematics for Engineering and the Environment/6 Matrices 1/Matrices 1 overview.md",
     "Mathematics for Engineering and the Environment/6 Matrices 1/1,2 Intro into matrices/symetric matrix.md",
-    "Mathematics for Engineering and the Environment/6 Matrices 1/1,2 Intro into matrices/Intro into matrices notes.md",
-    "Mathematics for Engineering and the Environment/Overall Read order.md",
-    "Mathematics for Engineering and the Environment/6 Matrices 1/7 Matrix algebra with determinants/singular matrix.md",
-    "Mathematics for Engineering and the Environment/6 Matrices 1/7 Matrix algebra with determinants/Matrix algebra with determinants notes.md"
+    "Mathematics for Engineering and the Environment/6 Matrices 1/1,2 Intro into matrices/Intro into matrices notes.md"
   ]
 }
