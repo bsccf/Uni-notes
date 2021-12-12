@@ -12,6 +12,8 @@ There are 4 [[process (thermodynamics)|process]] types you need to know, you als
 - [[isothermal expansion or compression]]
 - [[adiabetic expansion or compression]]
 
+The gene [[something]]
+
 ### The embeds
 ![[isochoric heat transfer]]
 ![[isobaric expansion or compression]]
