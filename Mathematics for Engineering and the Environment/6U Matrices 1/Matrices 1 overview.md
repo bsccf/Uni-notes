@@ -13,4 +13,4 @@ You get a prize if you know who's theme this is. (the prize being disappointment
 2) [[Basic operations of matrices notes]]
 3) [[Matrix algebra notes]]
 4) [[Deteminants notes]]
-5) 
+5) [[Matrix algebra with determinants notes]]
