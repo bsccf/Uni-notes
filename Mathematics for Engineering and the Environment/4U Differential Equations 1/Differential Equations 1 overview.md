@@ -18,3 +18,4 @@ tags: ["NotesPage"]
 
 ![[General and particular solutions notes]]
 
+![[Boundary and initial conditions notes]]
