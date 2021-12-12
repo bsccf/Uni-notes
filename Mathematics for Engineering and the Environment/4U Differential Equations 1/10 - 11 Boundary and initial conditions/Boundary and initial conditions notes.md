@@ -3,10 +3,11 @@ aliases: [""]
 tags: ["NotesPage"]
 ---
 
-# <% tp.file.title.charAt(0).toUpperCase() + tp.file.title.slice(1)%>
+# Boundary and initial conditions notes
 
 #### Intro and contents
-- 
+- [[boundary conditions|boundary condition]]
+- [[initial conditions|initial condition]]
 
 
 ## Expanded articles
