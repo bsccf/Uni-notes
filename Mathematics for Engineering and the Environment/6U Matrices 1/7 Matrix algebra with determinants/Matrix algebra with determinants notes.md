@@ -19,4 +19,6 @@ I am using this, in most of these examples
 
 ![[interchange of two rows or columns]]
 
-![[addition rule in matrix determinants]]
+![[addition rule with matrix determinants]]
+
+![[adding multiples of ]]
