@@ -30,9 +30,8 @@ The [[ideal gas law]] can be used where $T$ is constant:
 >> $T=$ Temperature
 
 ##### Conservation of energy
-> ### $$ Q_{12} - W_{12} = E_{u12} $$ 
+> ### $$ \begin{align*}Q_{12} - W_{12} &= E_{u12} \\ - W_{12} &= E_{u12}\end{align*} $$ 
 >> where:
->> $Q_{12}=$ [[heat]] transfer from starting to ending conditions
 >> $E_{u12}=$ [[internal energy]] change from starting to ending conditions
 >> $W_{12}=$ work done from starting to ending conditions
 
