@@ -6,7 +6,7 @@ tags: ["Question","QFormat3"]
 #### What are and how do you get
 ## The two [[entropy]] equations
 ### Final equation
-#### [[isobaric expansion or compression|Isobaric]] heating
+#### [[isobaric expansion or compression|Isobaric]] heating (volume and temp vary)
 (extensive form)
 > ### $$ S_{12} = mC_v \ln\left(\frac{T_2}{T_1}\right) + mR \ln\left(\frac{V_2}{V_1}\right) $$ 
 >> where:
@@ -18,7 +18,7 @@ tags: ["Question","QFormat3"]
 >> $V=$ Volume
 
 
-#### [[isochoric heat transfer|isochoric]] heating
+#### [[isochoric heat transfer|isochoric]] heating (temp and pressure vary)
 
 > ### $$ S_{12} = mC_v \ln\left(\frac{T_2}{T_1}\right) - mR \ln\left(\frac{P_2}{P_1}\right) $$ 
 >> where:

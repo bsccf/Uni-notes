@@ -11,3 +11,5 @@ tags: ["NotesPage"]
 
 ## Expanded articles
 ![[entropy in a pv diagram]]
+
+![[the two entropy equations]]
