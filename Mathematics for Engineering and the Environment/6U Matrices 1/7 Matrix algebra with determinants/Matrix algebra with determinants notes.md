@@ -13,4 +13,4 @@ I am using this, in most of these examples
 
 
 ## Expanded articles
-![[matrix]]
+![[matrix sum row or column cofactor relationship]]
