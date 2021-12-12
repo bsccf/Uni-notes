@@ -23,9 +23,9 @@ These are useful when doing calculations on [[p-v diagrams]] since they can be u
 This relates all [[isothermal expansion or compression|isothermal]] processes on a [[p-v diagrams|pv diagram]]:
 > ### $$ \frac{Q_{12}}{T_1} = S $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $Q_{12}=$ [[heat]] transfer from starting to ending conditions
+>> $T_1=T_2=$ Temp at 1 or 2
+>> $S=$ A constant (same for all isothermal relationships, so it's really fucking useful)
 
 ##### Pressure volume temperature
 The [[ideal gas law]] can be used where $T$ is constant:
