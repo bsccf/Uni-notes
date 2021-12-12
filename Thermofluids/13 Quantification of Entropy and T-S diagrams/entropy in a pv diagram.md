@@ -19,3 +19,8 @@ $1 \to 2$ is [[isothermal expansion or compression|isothermal expansion]] so:
 $$\begin{align*}
  T_1 &= T_2 &Q_{12}&=W_{12} 
 \end{align*}$$
+
+$2 \to 3$ is [[adiabetic expansion or compression|adiabetic expansion]] so:
+$$\begin{align*}
+ &= 
+\end{align*}$$
