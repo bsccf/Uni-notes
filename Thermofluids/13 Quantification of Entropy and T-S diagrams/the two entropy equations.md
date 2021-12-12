@@ -33,11 +33,11 @@ tags: ["Question","QFormat3"]
 #### [[isobaric expansion or compression|Isobaric]] heating
 
 So we know that we transfer a small amount of energy ($dQ$) and allow the volume to change ($dV$) which maintains a constant pressure:
-(equation: [[isobaric expansion or compression#heat Heat transfer]], [[ideal gas law#Useful Based forms of the equation]])
+(equations used: [[isobaric expansion or compression#heat Heat transfer|1]], [[ideal gas law#Useful Based forms of the equation|2]],[[entropy#Equation|3]])
 $$\begin{align*}
 dQ = mC_P \cdot dT &= mC_v \cdot dT + P \cdot dV & PV &= mRT \\
-\frac{dQ}{T} &= \frac{mC_v}{T} \cdot dT + \frac{P}{T} \cdot dV & \frac{P}{T} = \frac{mR}{V}\\
-dS &= mC_V \cdot \frac{dT}{T} + mR \cdot \frac{dV}{V}\\
+\frac{dQ}{T} &= \frac{mC_v}{T} \cdot dT + \frac{P}{T} \cdot dV & \frac{P}{T} &= \frac{mR}{V}& \frac{dQ}{T} &= dS\\
+dS &= mC_V \cdot \frac{dT}{T} + mR \cdot \frac{dV}{V} && \\
 \int^{S_2}_{S_1} 1 \cdot dS &= mC_v \left( \int^{T_2}_{T_1} \frac{1}{T} \cdot dT \right) + mR \left( \int^{V_2}_{V_1} \frac{1}{V} \cdot dV\right) \\
 \therefore S_{12} &= mC_v \ln\left(\frac{T_2}{T_1}\right) + mR \ln\left(\frac{V_2}{V_1}\right)
 \end{align*}$$

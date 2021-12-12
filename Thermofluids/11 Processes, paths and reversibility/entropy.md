@@ -15,6 +15,6 @@ Total entropy always increases (according to the [[second law of thermodynamics]
 ### Equation
 > ### $$ \Delta S = \frac{\Delta Q}{T} $$ 
 >> where:
->> $S=$ 
+>> $S=$ [[entropy]]
 >> $Q=$ [[heat]]
 >> $T=$ Temperature

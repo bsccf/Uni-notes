@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/11 Processes, paths and reversibility/entropy.md",
-            "mode": "source"
+            "file": "Thermofluids/13 Quantification of Entropy and T-S diagrams/the two entropy equations.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/11 Processes, paths and reversibility/entropy.md",
+                "file": "Thermofluids/13 Quantification of Entropy and T-S diagrams/the two entropy equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +106,8 @@
   },
   "active": "2ace69f247f488dc",
   "lastOpenFiles": [
-    "Thermofluids/11 Processes, paths and reversibility/entropy.md",
     "Thermofluids/13 Quantification of Entropy and T-S diagrams/the two entropy equations.md",
+    "Thermofluids/11 Processes, paths and reversibility/entropy.md",
     "Thermofluids/13 Quantification of Entropy and T-S diagrams/Quantification of entropy and T-S diagrams notes.md",
     "Thermofluids/13 Quantification of Entropy and T-S diagrams/TS diagram.md",
     "Thermofluids/13 Quantification of Entropy and T-S diagrams/need for a TS diagram.md",
