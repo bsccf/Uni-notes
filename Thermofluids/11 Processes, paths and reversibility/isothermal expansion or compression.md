@@ -21,16 +21,6 @@ Note that it will be a [[reversible and irreversible processes|reversible proces
 ### Consequential relationships
 These are useful when doing calculations on [[p-v diagrams]] since they can be used to calculate the changes in the properties between [[state (thermodynamics)|states]] where the [[process (thermodynamics)|process]] is [[isothermal expansion or compression|isothermal]].
 
-##### [[entropy|Entropy]] change
-
-> ### $$ S_{12} = \frac{Q_{12}}{T_1} = mR \ln\left(\frac{P_1}{P_2}\right) = mR \ln\left(\frac{V_2}{V_1}\right) $$ 
->> where:
->> $Q_{12}=$ [[heat]] transfer from starting to ending conditions
->> $T_1=T_2=$ Temp at 1 or 2
->> $S_{12}=$ [[entropy]] change
->> $R=$ [[individual gas constant|specific gas constant]]
->> $m=$ mass
-
 ##### Pressure volume temperature
 The [[ideal gas law]] can be used where $T$ is constant:
 > ### $$ P_1 V_1 = P_2 V_2 $$ 
