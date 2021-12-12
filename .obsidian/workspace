@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/6U Matrices 1/7 Matrix algebra with determinants/multiple of a row by a scalar.md",
-            "mode": "preview"
+            "file": "Mathematics for Engineering and the Environment/6U Matrices 1/7 Matrix algebra with determinants/interchange of two rows or columns.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/6U Matrices 1/7 Matrix algebra with determinants/multiple of a row by a scalar.md",
+                "file": "Mathematics for Engineering and the Environment/6U Matrices 1/7 Matrix algebra with determinants/interchange of two rows or columns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "2ace69f247f488dc",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/6U Matrices 1/7 Matrix algebra with determinants/interchange of two rows or columns.md",
+    "Mathematics for Engineering and the Environment/6U Matrices 1/7 Matrix algebra with determinants/Matrix algebra with determinants notes.md",
     "Mathematics for Engineering and the Environment/6U Matrices 1/7 Matrix algebra with determinants/multiple of a row by a scalar.md",
     "Mathematics for Engineering and the Environment/6U Matrices 1/7 Matrix algebra with determinants/MAWD Preset.md",
-    "Mathematics for Engineering and the Environment/6U Matrices 1/7 Matrix algebra with determinants/Matrix algebra with determinants notes.md",
     "Mathematics for Engineering and the Environment/6U Matrices 1/7 Matrix algebra with determinants/matrix sum row or column cofactor relationship.md",
     "Mathematics for Engineering and the Environment/6U Matrices 1/6 Matrix determinants/determinant.md",
     "Mathematics for Engineering and the Environment/6U Matrices 1/6 Matrix determinants/Deteminants notes.md",
     "Mathematics for Engineering and the Environment/6U Matrices 1/6 Matrix determinants/minors and cofactors (matrices).md",
     "Mathematics for Engineering and the Environment/6U Matrices 1/Matrices 1 overview.md",
-    "Mathematics for Engineering and the Environment/6U Matrices 1/5 Matrix algebra/Matrix algebra notes.md",
-    "Thermofluids/11 Processes, paths and reversibility/equations needed for calculating changes between states.md"
+    "Mathematics for Engineering and the Environment/6U Matrices 1/5 Matrix algebra/Matrix algebra notes.md"
   ]
 }

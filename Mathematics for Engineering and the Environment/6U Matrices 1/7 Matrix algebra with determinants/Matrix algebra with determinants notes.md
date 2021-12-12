@@ -16,3 +16,5 @@ I am using this, in most of these examples
 ![[matrix sum row or column cofactor relationship]]
 
 ![[multiple of a row by a scalar]]
+
+![[interchange of two rows or columns]]
