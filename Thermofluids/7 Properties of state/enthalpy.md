@@ -7,12 +7,10 @@ tags: ["Question","QFormat3"]
 ## Enthalpy $E_{h}$
 Enthalpy is a property of a thermodynamic [[system (thermodynamics)|system]], is the equal to the system's [[internal energy]] plus the product of its pressure and volume.
 
-> ### $$ E_{h} = PV + E_u $$ 
-> ### $$ \Delta E_{h} = \Delta PV + \Delta E_u $$ 
+> ### $$ \begin{align*}\Delta E_{h} &= \Delta PV + \Delta  E_u \\ &= \Delta W + \Delta E_u\end{align*} $$ 
 >> where:
 >> $E_{h}=$ [[enthalpy]]
->> $P=$ Pressure
->> $V=$ Volume
+>> $W=$ [[pressure volume work]]
 >> $E_u=$ [[internal energy]]
 
 Something else that is important is that change in enthalpy equals the change in heat:
