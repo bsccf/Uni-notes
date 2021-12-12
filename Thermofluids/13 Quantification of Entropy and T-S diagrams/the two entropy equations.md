@@ -36,8 +36,8 @@ So we know that we transfer a small amount of energy ($dQ$) and allow the volume
 (equation: [[isobaric expansion or compression#heat Heat transfer]], [[ideal gas law#Useful Based forms of the equation]])
 $$\begin{align*}
 dQ = mC_P \cdot dT &= mC_v \cdot dT + P \cdot dV & PV &= mRT \\
-&= \frac{mC_v}{T} \cdot dT + \frac{P}{T} \cdot dV & \frac{P}{T} = \frac{mR}{V}\\
-&= mC_V \cdot \frac{dT}{T} + mR \cdot \frac{dV}{V}\\
+\frac{dQ}{T} &= \frac{mC_v}{T} \cdot dT + \frac{P}{T} \cdot dV & \frac{P}{T} = \frac{mR}{V}\\
+dS &= mC_V \cdot \frac{dT}{T} + mR \cdot \frac{dV}{V}\\
 \int^{S_2}_{S_1} 1 \cdot dS &= mC_v \left( \int^{T_2}_{T_1} \frac{1}{T} \cdot dT \right) + mR \left( \int^{V_2}_{V_1} \frac{1}{V} \cdot dV\right) \\
 \therefore S_{12} &= mC_v \ln\left(\frac{T_2}{T_1}\right) + mR \ln\left(\frac{V_2}{V_1}\right)
 \end{align*}$$
