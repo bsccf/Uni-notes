@@ -15,6 +15,11 @@ Enthalpy is a property of a thermodynamic [[system (thermodynamics)|system]], is
 >> $V=$ Volume
 >> $E_u=$ [[internal energy]]
 
-Something
+Something else that is important is that change in enthalpy equals the change in heat:
+> ### $$ \Delta E_h = \Delta Q $$ 
+>> where:
+>> $E_h=$ [[enthalpy]] 
+>> $Q=$ [[heat]]
+>> $E_h \neq Q$
 
 Since [[enthalpy]] cannot be directly measured we alwayse use relative enthalpys by describing [[enthalpy]] change of a system between states.
