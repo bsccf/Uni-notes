@@ -3,8 +3,8 @@ aliases: [""]
 tags: ["Question","QFormat3"]
 ---
 
-#### Show that there is
-## Entropy in a pv diagram
+#### Show that there is a
+## Need for a TS diagram
 ### Diagram
 If we use the following [[p-v diagrams|pv diagram]]:
 ![[Pasted image 20211212101015.png]]
@@ -57,4 +57,4 @@ Q_{43} &\neq Q_{12} && & E_{u14} &\neq E_{u23}
 This difference resaults in a different change in [[entropy]] depending on the path taken, hence [[entropy]] is a [[state]] property giving us a total of 4 state properties that define a gas: $S, P, V, T$.
 According to the [[the 2 property rule|two property rule]] we must be able to define a relationship for [[entropy]] interms of the other state properties.
 
-This leads into [[the two entropy equations]].
+This leads into [[the two entropy equations]] and the need for a [[TS diagram]].

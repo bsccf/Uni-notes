@@ -10,6 +10,8 @@ tags: ["NotesPage"]
 
 
 ## Expanded articles
-![[entropy in a pv diagram]]
+![[need for a TS diagram]]
 
 ![[the two entropy equations]]
+
+![[TS diagram]]
