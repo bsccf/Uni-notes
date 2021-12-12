@@ -20,4 +20,4 @@ $$\begin{align*}
 
 (used [[integration]])
 
-But now we have a solution 
+But now we have a solution with an undefined value "k", this is what we call a [[general and particular solution]].

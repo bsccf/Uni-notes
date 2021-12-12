@@ -12,3 +12,5 @@ tags: ["NotesPage"]
 ## Expanded articles
 
 ![[why we need general and particular solutions]]
+
+![[general and particular solution]]
