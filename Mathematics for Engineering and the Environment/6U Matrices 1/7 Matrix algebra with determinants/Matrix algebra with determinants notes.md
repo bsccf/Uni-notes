@@ -18,7 +18,7 @@ The contents (the names arn't great but the book names arn't more precise):
 - [[determinant of transposed matrix]]
 - [[product of matrices and the resaulting determinant]]
 - [[adjoint matrix]]
-
+- [[Cauchys theorum]]
 
 ## Expanded articles
 ![[matrix sum row or column cofactor relationship]]
@@ -36,3 +36,5 @@ The contents (the names arn't great but the book names arn't more precise):
 ![[product of matrices and the resaulting determinant]]
 
 ![[adjoint matrix]]
+
+![[Cauchys theorum]]

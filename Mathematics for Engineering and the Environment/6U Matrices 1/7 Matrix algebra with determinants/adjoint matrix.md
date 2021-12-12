@@ -1,5 +1,5 @@
 ---
-aliases: ["adjugate matrix"]
+aliases: ["adjugate matrix","adjoint matrices"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -14,8 +14,8 @@ These are the [[transposed matrix|transpose]] of a matrix of [[minors and cofact
 >> $adj\:A=$ [[adjoint matrix]] of $A$
 
 An [[adjoint matrix]] has some funky properties:
-> ### $$ A \times adj\:A = \begin{pmatrix} |A| & 0 & 0 \\ 0 & |A| & 0 \\ 0 & 0 & |A| \end{pmatrix} $$ 
+> ### $$ A \times adj\:A = \begin{pmatrix} |A| & 0 & 0 \\ 0 & |A| & 0 \\ 0 & 0 & |A| \end{pmatrix} = |A|I $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $A=$ some matrix 
+>> $adj\:A=$ [[adjoint matrix]] of $A$
+>> $I=$ [[unit matrix]]
