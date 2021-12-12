@@ -22,5 +22,6 @@ $$\begin{align*}
 
 $2 \to 3$ is [[adiabetic expansion or compression|adiabetic expansion]] so:
 $$\begin{align*}
-Q_{23} &= 0
+Q_{23} &= 0\\
+E_{h23} &=
 \end{align*}$$
