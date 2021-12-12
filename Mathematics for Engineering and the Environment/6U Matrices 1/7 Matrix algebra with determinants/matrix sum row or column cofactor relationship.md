@@ -9,9 +9,9 @@ If the [[determinant]] is zero then the sum of each index's [[minors and cofacto
 
 ![[MAWD Preset]]
 
-> ### $$ \sum\limits^{}_{} =  $$ 
+> ### $$ 0 = \sum\limits^{i}_{x=0} (a_{xy} \times c_{xy}) $$
+> ### $$ 0 = \sum\limits^{j}_{y=0} (a_{xy} \times c_{xy}) $$ 
 >> where:
->> $det\:A=0$ 
->> $=$
->> $=$
+>> $det\:A=0$
+>> $a$ 
 >> Using [[MAWD Preset]]
