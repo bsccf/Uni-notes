@@ -19,6 +19,14 @@ Note that it will be a [[reversible and irreversible processes|reversible proces
 ### Consequential relationships
 These are useful when doing calculations on [[p-v diagrams]] since they can be used to calculate the changes in the properties between [[state (thermodynamics)|states]] where the [[process (thermodynamics)|process]] is [[isothermal expansion or compression|isothermal]].
 
+##### Special thing
+This relates all [[isothermal expansion or compression|isothermal]] processes on a [[p-v diagrams|pv diagram]]:
+> ### $$ \frac{Q_{12}}{T_1} = S $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
+
 ##### Pressure volume temperature
 The [[ideal gas law]] can be used where $T$ is constant:
 > ### $$ P_1 V_1 = P_2 V_2 $$ 
