@@ -47,3 +47,6 @@ $$\begin{align*}
 W_{13} &= W_{14} + W_{43}\\
 &=  - E_{u14} + Q_{43} 
 \end{align*}$$
+
+#### Path comparision
+Although the final [[state (thermodynamics)|state]] reached is the same (so pressure, internal energy ect are the same) there are differences in [[heat]] transfer and in [[internal energy]] change:
