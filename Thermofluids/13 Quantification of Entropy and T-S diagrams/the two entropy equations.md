@@ -18,6 +18,16 @@ tags: ["Question","QFormat3"]
 >> $V=$ Volume
 
 
+#### [[isochoric heat transfer|isochoric]] heating
+
+> ### $$ S_{12} = mC_v \ln\left(\frac{T_2}{T_1}\right) - mR \ln\left(\frac{P_2}{P_1}\right) $$ 
+>> where:
+>> $S_{12}=$ [[entropy]] change from $1 \to 2$ 
+>> $C_v=$ [[constant volume specific heat]]
+>> $R=$ [[individual gas constant|specific gas constant]]
+>> $m=$ Mass
+>> $T=$ Temperature
+>> $P=$ Pressure
 
 ### Derivation
 #### [[isobaric expansion or compression|Isobaric]] heating
@@ -43,4 +53,4 @@ S_{12} &= mC_v \ln\left(\frac{T_2}{T_1}\right) + mR \ln\left(\frac{V_2}{V_1}\rig
 && m C_p dT - V dP &= m C_v dT + P dV
 \end{align*}$$
 
-You know what I don't get it, I don't think we need to know the proof. It's [[isochoric heat transfer|isochoric]] or "constant volume" so why 
+You know what I don't get it, I don't think we need to know the proof. It's [[isochoric heat transfer|isochoric]] or "constant volume" so why the fuck do we have $dV$, $dV=0$ there is no fucking change in volume?! That should just cancel, but we carry it through?!! what! I just don't get this proof.
