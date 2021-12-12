@@ -32,5 +32,6 @@ dQ = mC_P \cdot dT &= mC_V \cdot dT + P \cdot dV & PV &= mRT \\
 \therefore S_{12} &= mC_V \ln\left(\frac{T_2}{T_1}\right) + mR \ln\left(\frac{V_2}{V_1}\right)
 \end{align*}$$
 
+As you can see we now have the [[entropy]] defined interosm of two [[state variables]].
 
-#### [[I]] heating
+#### [[isochoric heat transfer|isochoric]] heating
