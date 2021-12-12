@@ -24,3 +24,5 @@ I am using this, in most of these examples
 ![[adding multiples of rows or columns]]
 
 ![[determinant of transposed matrix]]
+
+![[product of matrices and the resaulting determinant]]
