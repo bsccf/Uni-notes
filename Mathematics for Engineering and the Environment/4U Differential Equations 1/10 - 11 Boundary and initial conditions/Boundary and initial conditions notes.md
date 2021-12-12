@@ -12,3 +12,5 @@ tags: ["NotesPage"]
 ## Expanded articles
 
 ![[boundary conditions]]
+
+![[initial conditions]]
