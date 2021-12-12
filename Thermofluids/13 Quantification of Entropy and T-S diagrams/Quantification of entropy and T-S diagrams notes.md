@@ -10,3 +10,4 @@ tags: ["NotesPage"]
 
 
 ## Expanded articles
+![[entropy in a pv diagram]]

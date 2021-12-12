@@ -7,8 +7,11 @@
         "id": "2ace69f247f488dc",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Thermofluids/13 Quantification of Entropy and T-S diagrams/entropy in a pv diagram.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Thermofluids/13 Quantification of Entropy and T-S diagrams/entropy in a pv diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +106,15 @@
   },
   "active": "2ace69f247f488dc",
   "lastOpenFiles": [
+    "Thermofluids/13 Quantification of Entropy and T-S diagrams/entropy in a pv diagram.md",
+    "Thermofluids/13 Quantification of Entropy and T-S diagrams/Quantification of entropy and T-S diagrams notes.md",
     "Thermofluids/11 Processes, paths and reversibility/Processes, paths and reversibility notes.md",
     "Thermofluids/Thermofluids read order.md",
-    "Thermofluids/Quantification of entropy and T-S diagrams notes.md",
     "Thermofluids/12 Entropy and the second law of thermodynamics/Entropy and the second law of thermodynamics notes.md",
     "Thermofluids/12 Entropy and the second law of thermodynamics/fourth law of thermodynamics.md",
     "Thermofluids/12 Entropy and the second law of thermodynamics/second law of thermodynamics.md",
     "Thermofluids/12 Entropy and the second law of thermodynamics/Life is pain.md",
     "Thermofluids/12 Entropy and the second law of thermodynamics/first form of the second law of thermodynamics.md",
-    "Thermofluids/11 Processes, paths and reversibility/entropy.md",
-    "Thermofluids/12 Entropy and the second law of thermodynamics/did you say random embedded meme.md"
+    "Thermofluids/11 Processes, paths and reversibility/entropy.md"
   ]
 }
