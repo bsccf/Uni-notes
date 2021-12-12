@@ -50,3 +50,8 @@ W_{13} &= W_{14} + W_{43}\\
 
 #### Path comparision
 Although the final [[state (thermodynamics)|state]] reached is the same (so pressure, internal energy ect are the same) there are differences in [[heat]] transfer and in [[internal energy]] change:
+$$\begin{align*}
+&&- E_{u14} + Q_{43}  &= Q_{12} - E_{u23}\\
+Q_{43} &\neq Q_{12} && & E_{u14} &\neq E_{u23}
+\end{align*}$$
+This difference resaults in a different change in [[entropy]] depending on the path taken, which can be represented using heat and work transfers.
