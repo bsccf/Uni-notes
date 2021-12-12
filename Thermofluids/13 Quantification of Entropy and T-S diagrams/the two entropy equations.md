@@ -39,5 +39,5 @@ Here we start with the first equation and make use of the [[enthalpy]] relation 
 $$\begin{align*}
 S_{12} &= mC_V \ln\left(\frac{T_2}{T_1}\right) + mR \ln\left(\frac{V_2}{V_1}\right) & E_h &= E_u + PV\\
 && dE_h &= dE_u + V\times dP\\
-&& dE_h - V\times dP &= dE_u 
+&& dE_h - V\times dP &= dE_u & dE_u &= m C_V dT
 \end{align*}$$
