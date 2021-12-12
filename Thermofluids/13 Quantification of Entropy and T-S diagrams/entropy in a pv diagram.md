@@ -14,13 +14,36 @@ We can define all it's process paths:
 - 3 to 4: [[isothermal expansion or compression|isothermal expansion]]
 - 4 to 1: [[adiabetic expansion or compression|adiabetic expansion]]
 
-#### Path $1 \to 2 \to 3$ [[enthalpy]] change:
+#### Path $1 \to 2 \to 3$ work:
 $1 \to 2$ is [[isothermal expansion or compression|isothermal expansion]] so:
 $$\begin{align*}
- T_1 &= T_2 &Q_{12}&=W_{12} 
+Q_{12}&=W_{12} 
 \end{align*}$$
 
 $2 \to 3$ is [[adiabetic expansion or compression|adiabetic expansion]] so:
 $$\begin{align*}
-E_{u23} = - W
+E_{u23} = - W_{23}
+\end{align*}$$
+
+So we can find $W_{13}$:
+$$\begin{align*}
+W_{13} &= W_{12} + W_{23}\\
+&=  Q_{12} - E_{u23}
+\end{align*}$$
+
+#### Path $1 \to 4 \to 3$ work:
+$1 \to 4$ is [[adiabetic expansion or compression|adiabetic expansion]] so:
+$$\begin{align*}
+E_{u14} = - W_{14}
+\end{align*}$$
+
+$4 \to 3$ is [[isothermal expansion or compression|isothermal expansion]] so:
+$$\begin{align*}
+Q_{43}&=W_{43} 
+\end{align*}$$
+
+So we can find $W_{13}$:
+$$\begin{align*}
+W_{13} &= W_{14} + W_{43}\\
+&=  Q_{12} - E_{u23}
 \end{align*}$$
