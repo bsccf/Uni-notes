@@ -39,6 +39,8 @@ Here we start with the first equation and make use of the [[enthalpy]] relation 
 $$\begin{align*}
 S_{12} &= mC_v \ln\left(\frac{T_2}{T_1}\right) + mR \ln\left(\frac{V_2}{V_1}\right) & E_h &= E_u + PV\\
 && dE_h &= dE_u + V dP + P dV \\
-&& dE_h - V dP &= dE_u & dE_u &= m C_v dT & dE_h &= m C_p dT\\
-&& m C_p dT - V dP &= m C_v dT
+&& dE_h - V dP &= dE_u + P dV & dE_u &= m C_v dT & dE_h &= m C_p dT\\
+&& m C_p dT - V dP &= m C_v dT + P dV
 \end{align*}$$
+
+You know what I don't get it, I don't think we need to know the proof. It's [[isochoric heat transfer|isochoric]] or "constant volume" so why 
