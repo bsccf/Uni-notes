@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/6U Matrices 1/Matrix algebra with determinants notes.md",
+            "file": "Mathematics for Engineering and the Environment/6U Matrices 1/7 Matrix algebra with determinants/MAWD Preset.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/6U Matrices 1/Matrix algebra with determinants notes.md",
+                "file": "Mathematics for Engineering and the Environment/6U Matrices 1/7 Matrix algebra with determinants/MAWD Preset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "2ace69f247f488dc",
   "lastOpenFiles": [
-    "Mathematics for Engineering and the Environment/6U Matrices 1/Matrix algebra with determinants notes.md",
-    "Mathematics for Engineering and the Environment/6U Matrices 1/Matrices 1 overview.md",
-    "Mathematics for Engineering and the Environment/6U Matrices 1/5 Matrix algebra/Matrix algebra notes.md",
-    "Mathematics for Engineering and the Environment/6U Matrices 1/6 Matrix determinants/Deteminants notes.md",
+    "Mathematics for Engineering and the Environment/6U Matrices 1/7 Matrix algebra with determinants/MAWD Preset.md",
     "Mathematics for Engineering and the Environment/6U Matrices 1/6 Matrix determinants/minors and cofactors (matrices).md",
+    "Mathematics for Engineering and the Environment/6U Matrices 1/Matrices 1 overview.md",
+    "Mathematics for Engineering and the Environment/6U Matrices 1/6 Matrix determinants/Deteminants notes.md",
+    "Mathematics for Engineering and the Environment/6U Matrices 1/7 Matrix algebra with determinants/Matrix algebra with determinants notes.md",
+    "Mathematics for Engineering and the Environment/6U Matrices 1/5 Matrix algebra/Matrix algebra notes.md",
     "Thermofluids/11 Processes, paths and reversibility/equations needed for calculating changes between states.md",
     "Thermofluids/11 Processes, paths and reversibility/types of process.md",
     "Thermofluids/11 Processes, paths and reversibility/entropy.md",
-    "Thermofluids/11 Processes, paths and reversibility/isobaric expansion or compression.md",
-    "Thermofluids/13U Quantification of Entropy and T-S diagrams/TS diagram.md"
+    "Thermofluids/11 Processes, paths and reversibility/isobaric expansion or compression.md"
   ]
 }
