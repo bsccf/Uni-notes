@@ -5,8 +5,10 @@ tags: ["Question","QFormat3"]
 
 #### What is the
 ## Matrix sum row or column cofactor relationship
+If the [[determinant]] is zero then the sum of each index's [[minors and cofactors (matrices)|cofactor]] times the element at that index's value for each row or column will be zero.
+
 > ### $$  = $$ 
 >> where:
->> $=$ 
+>> $det\:A=$ 
 >> $=$
 >> $=$
