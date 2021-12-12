@@ -12,5 +12,6 @@ This is a [[square matrix]] that is symetrical about its [[principle diagonal (m
 >> $m=$ column number 
 >> $n=$ row number
 >> $a_{ii}=$ any element
+>> $A=A^{T}$ ([[transposed matrix|transposed]])
 
 It is possible to prove something is a [[symetric matrix]] using [[transposed matrix addition rules]].
