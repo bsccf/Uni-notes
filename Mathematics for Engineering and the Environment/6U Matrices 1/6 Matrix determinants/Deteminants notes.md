@@ -24,7 +24,7 @@ tags: ["NotesPage"]
 ![[finding the determinant of a 2x2 matrix]]
 
 ![[finding the determinant of a 3x3 matrix]]
-![[minor (matrices)]]
+
 ![[minors and cofactors (matrices)]]
 
 ## Examples

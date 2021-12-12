@@ -32,3 +32,14 @@ minor_{11}=& det\: \begin{pmatrix} a_{11} & a_{13} \\ a_{31} & a_{33} \end{pmatr
 ### Cofactors ($A_{ij}$)
 The cofactor for a specific element in a matix is represented using $A_{ij}$, it is calculated using the same method used for finding minors except you adjust the sign according to:
 ![[Pasted image 20211205210430.png]]
+
+So if we take the following 3x3 (again):
+$$\begin{align*}
+B &= \begin{pmatrix} a_{11} &  a_{12} &  a_{13} \\  a_{21} &  a_{22} &  a_{23} \\  a_{31} &  a_{32} &  a_{33} \end{pmatrix}
+\end{align*}$$
+
+If we made a matrix of all of it's minors (m):
+$$\begin{align*}
+B &= \begin{pmatrix} m_{11} &  m_{12} &  m_{13} \\  m_{21} &  m_{22} &  m_{23} \\  m_{31} &  m_{32} &  m_{33} \end{pmatrix}
+\end{align*}$$
+Then a matrix of its cofactors would be
