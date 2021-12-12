@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/6U Matrices 1/7 Matrix algebra with determinants/Cauchys theorum.md",
-            "mode": "source"
+            "file": "Mathematics for Engineering and the Environment/6U Matrices 1/7 Matrix algebra with determinants/singular matrix.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/6U Matrices 1/7 Matrix algebra with determinants/Cauchys theorum.md",
+                "file": "Mathematics for Engineering and the Environment/6U Matrices 1/7 Matrix algebra with determinants/singular matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "2ace69f247f488dc",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/6U Matrices 1/7 Matrix algebra with determinants/singular matrix.md",
+    "Mathematics for Engineering and the Environment/6U Matrices 1/7 Matrix algebra with determinants/Matrix algebra with determinants notes.md",
     "Mathematics for Engineering and the Environment/6U Matrices 1/7 Matrix algebra with determinants/Cauchys theorum.md",
     "Mathematics for Engineering and the Environment/6U Matrices 1/7 Matrix algebra with determinants/adjoint matrix.md",
-    "Mathematics for Engineering and the Environment/6U Matrices 1/7 Matrix algebra with determinants/Matrix algebra with determinants notes.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/6 Creep/holy shit I'm stupid.md",
     "Mathematics for Engineering and the Environment/6U Matrices 1/1,2 Intro into matrices/transposed matrix.md",
     "Mathematics for Engineering and the Environment/6U Matrices 1/7 Matrix algebra with determinants/MAWD Preset.md",
     "Mathematics for Engineering and the Environment/6U Matrices 1/7 Matrix algebra with determinants/product of matrices and the resaulting determinant.md",
     "Mathematics for Engineering and the Environment/6U Matrices 1/7 Matrix algebra with determinants/determinant of transposed matrix.md",
-    "Mathematics for Engineering and the Environment/6U Matrices 1/7 Matrix algebra with determinants/adding multiples of rows or columns.md",
-    "Mathematics for Engineering and the Environment/6U Matrices 1/7 Matrix algebra with determinants/addition rule with matrix determinants.md"
+    "Mathematics for Engineering and the Environment/6U Matrices 1/7 Matrix algebra with determinants/adding multiples of rows or columns.md"
   ]
 }
