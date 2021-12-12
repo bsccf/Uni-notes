@@ -21,4 +21,6 @@ I am using this, in most of these examples
 
 ![[addition rule with matrix determinants]]
 
-![[adding multiples of ]]
+![[adding multiples of rows or columns]]
+
+![[determinant of transposed matrix]]
