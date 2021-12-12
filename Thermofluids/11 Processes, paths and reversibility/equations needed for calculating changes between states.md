@@ -14,13 +14,12 @@ tags: ["Question","QFormat3"]
 > ### $$ E_{u12} = mC_v (T_2-T_1) $$ 
 > ### $$  dS =  \frac{dQ}{T} $$ 
 >> where:
->> $Q_{12}=$ [[heat]] transfer from starting to ending conditions
->> $E_{u12}=$ [[internal energy]] change from starting to ending conditions
->> $E_{h12}=$ [[enthalpy]] change from starting to ending conditions
->> $W_{12}=$ work done from starting to ending conditions
+>> $Q_{12}=$ [[heat]] transfer from starting to ending state
+>> $E_{u12}=$ [[internal energy]] change from starting to ending state
+>> $E_{h12}=$ [[enthalpy]] change from starting to ending state
+>> $W_{12}=$ work done from starting to ending state
 >> $V=$ Volume
 >> $T=$ Temperature
 >> $P=$ Pressure
 >> $P(V)=$ pressure as a function of volume
 >> $S=$ [[entropy]]
->> Note that (2) is the current position, so for integration (2) varies because it is not representing the "final" position
