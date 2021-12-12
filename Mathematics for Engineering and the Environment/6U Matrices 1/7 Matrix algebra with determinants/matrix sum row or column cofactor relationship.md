@@ -17,4 +17,4 @@ If the [[determinant]] is zero then the sum of each index's [[minors and cofacto
 >> $c_{xy}=$ a [[minors and cofactors (matrices)|cofactor]] of A at column x and row y 
 >> Using [[MAWD Preset]]
 
-So you can show that two rows or columns are equ
+So you can relate two rows or columns to eachother if you know the determinant is zero.
