@@ -9,7 +9,7 @@ tags: ["NotesPage"]
 I am using this, in a few of these things:
 ![[MAWD Preset]]
 
-The contents (the names arn't great but the book names ):
+The contents (the names arn't great but the book names arn't more precise):
 - [[matrix sum row or column cofactor relationship]]
 - [[multiple of a row by a scalar]]
 - [[interchange of two rows or columns]]
@@ -17,6 +17,7 @@ The contents (the names arn't great but the book names ):
 - [[adding multiples of rows or columns]]
 - [[determinant of transposed matrix]]
 - [[product of matrices and the resaulting determinant]]
+- [[adjoint matrix]]
 
 
 ## Expanded articles
@@ -33,3 +34,5 @@ The contents (the names arn't great but the book names ):
 ![[determinant of transposed matrix]]
 
 ![[product of matrices and the resaulting determinant]]
+
+![[adjoint matrix]]
