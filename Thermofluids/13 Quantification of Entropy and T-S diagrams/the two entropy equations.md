@@ -38,5 +38,6 @@ As you can see we now have the [[entropy]] defined interms of two [[state variab
 Here we start with the first equation and make use of the [[enthalpy]] relation $E_h = E_u + PV$:
 $$\begin{align*}
 S_{12} &= mC_V \ln\left(\frac{T_2}{T_1}\right) + mR \ln\left(\frac{V_2}{V_1}\right) & E_h &= E_u + PV\\
-&& E_h &= E
+&& dE_h &= dE_u + V\times dP\\
+&& dE_h - V\times dP &= dE_u 
 \end{align*}$$
