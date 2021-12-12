@@ -13,7 +13,7 @@ Entropy is:
 Total entropy always increases (according to the [[second law of thermodynamics]])
 
 ### Equation
-> ### $$ \Delta S = \frac{\Delta Q}{T} $$ 
+> ### $$ d S = \frac{d Q}{T} $$ 
 >> where:
 >> $S=$ [[entropy]]
 >> $Q=$ [[heat]]

@@ -12,7 +12,7 @@ tags: ["Question","QFormat3"]
 > ### $$ W_{12} = \int dW = \int^{V_2}_{V_1} P(V) \cdot dV $$ 
 > ### $$ \frac{P_1 V_1}{T_1} = \frac{P_2 V_2}{T_2} $$ 
 > ### $$ E_{u12} = mC_v (T_2-T_1) $$ 
-> ### $$ \int dS = \int \frac{dQ}{T} $$ 
+> ### $$  dS =  \frac{dQ}{T} $$ 
 >> where:
 >> $Q_{12}=$ [[heat]] transfer from starting to ending conditions
 >> $E_{u12}=$ [[internal energy]] change from starting to ending conditions
