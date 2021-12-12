@@ -10,7 +10,9 @@ This is a [[process (thermodynamics)|process]] in a [[closed system]] where ther
 
 ![[Pasted image 20211210164803.png]]
 
-It should be noted that to get an [[isothermal expansion or compression|isothermal]] process [[heat]] transfer needs to occur over a negligible temperature difference. A consiquence is that to ahcieve this requires impractically slow expansion/compression so it's more for theoretical efficiency benchmarking.
+You can see on the graph that the [[isothermal expansion or compression|isothermal process]] [[path (thermodynamics)|path]] follows the diagrams [[isotherms (thermodynamics)|isotherms]].
+
+It should be noted that to get an [[isothermal expansion or compression|isothermal]] process [[heat]] transfer needs to occur over a negligible temperature difference. A consiquence is that to achieve this requires impractically slow expansion/compression so it's more for theoretical efficiency benchmarking.
 
 According to $P(\Delta V)=W$ since there is a change in volume in an [[isothermal expansion or compression|isothermal]] process there is [[pressure volume work]] done.
 
