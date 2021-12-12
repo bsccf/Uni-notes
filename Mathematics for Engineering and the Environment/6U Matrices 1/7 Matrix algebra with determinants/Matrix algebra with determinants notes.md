@@ -18,3 +18,5 @@ I am using this, in most of these examples
 ![[multiple of a row by a scalar]]
 
 ![[interchange of two rows or columns]]
+
+![[addition rule in matrix determinants]]
