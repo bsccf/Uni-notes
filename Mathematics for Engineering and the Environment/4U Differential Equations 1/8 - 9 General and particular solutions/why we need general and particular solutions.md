@@ -20,4 +20,4 @@ $$\begin{align*}
 
 (used [[integration]])
 
-But now we have a solution
+But now we have a solution 

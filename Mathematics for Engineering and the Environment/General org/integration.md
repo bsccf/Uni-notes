@@ -3,6 +3,6 @@ aliases: ["integrate"]
 tags: []
 ---
 
-#### What is
-## Integration
-integration integrate 
+# Integration
+Read order:
+1) 
