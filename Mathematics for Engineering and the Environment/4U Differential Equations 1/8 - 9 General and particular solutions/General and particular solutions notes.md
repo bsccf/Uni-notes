@@ -3,10 +3,11 @@ aliases: [""]
 tags: ["NotesPage"]
 ---
 
-# <% tp.file.title.charAt(0).toUpperCase() + tp.file.title.slice(1)%>
+# General and particular solutions notes
 
 #### Intro and contents
-- 
+- [[why we need general and particular solutions]]
+- [[general and particular solution]]
 
 
 ## Expanded articles
