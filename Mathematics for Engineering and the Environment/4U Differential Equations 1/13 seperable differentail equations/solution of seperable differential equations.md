@@ -14,12 +14,12 @@ You can see it is easy to solve in it's final form.
 
 ### Example
 
-> Solve the equation $\frac{dx}{dt} = 4xt$, $where x>0$
+> Solve the equation $\frac{dx}{dt} = 4xt$, where $x>0$
 
 $$\begin{align*}
 \frac{dx}{dt} &= 4xt\\
 \frac{1}{x} \cdot dx &= 4t \cdot dt\\
 \int \frac{1}{x} \cdot dx &= \int 4t \cdot dt\\
 \ln(x) &= 2t^{2} + k\\
-&
+x &= k e^{2t^{2}}
 \end{align*}$$
