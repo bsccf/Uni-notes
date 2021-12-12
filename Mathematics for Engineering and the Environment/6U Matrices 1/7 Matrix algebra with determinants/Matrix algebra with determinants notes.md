@@ -3,12 +3,14 @@ aliases: [""]
 tags: ["NotesPage"]
 ---
 
-# <% tp.file.title.charAt(0).toUpperCase() + tp.file.title.slice(1)%>
+# Matrix algebra with determinants notes
 
 #### Intro and contents
+I am using this, in most of these examples
 ![[MAWD Preset]]
 
 - 
 
 
 ## Expanded articles
+![[matrix]]
