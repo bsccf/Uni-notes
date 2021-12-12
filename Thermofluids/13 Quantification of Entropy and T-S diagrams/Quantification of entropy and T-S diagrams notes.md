@@ -15,3 +15,5 @@ tags: ["NotesPage"]
 ![[the two entropy equations]]
 
 ![[TS diagram]]
+
+![[TS diagrams for the different processes]]
