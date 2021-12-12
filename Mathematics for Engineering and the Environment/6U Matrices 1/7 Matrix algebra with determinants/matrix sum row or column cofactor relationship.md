@@ -9,9 +9,12 @@ If the [[determinant]] is zero then the sum of each index's [[minors and cofacto
 
 ![[MAWD Preset]]
 
-> ### $$ 0 = \sum\limits^{i}_{x=0} (a_{xy} \times c_{xy}) $$
-> ### $$ 0 = \sum\limits^{j}_{y=0} (a_{xy} \times c_{xy}) $$ 
+> ### $$ 0 = \sum\limits^{j}_{y=1} (a_{yx} \times c_{yx}) $$ 
+> ### $$ 0 = \sum\limits^{i}_{x=1} (a_{yx} \times c_{yx}) $$
 >> where:
 >> $det\:A=0$
->> $a$ 
+>> $a_{xy}=$ an element of A at column x and row y
+>> $c_{xy}=$ a [[minors and cofactors (matrices)|cofactor]] of A at column x and row y 
 >> Using [[MAWD Preset]]
+
+So you can show that two rows or columns are equ
