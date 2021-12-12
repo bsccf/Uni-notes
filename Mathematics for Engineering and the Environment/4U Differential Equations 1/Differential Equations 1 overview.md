@@ -21,3 +21,5 @@ tags: ["NotesPage"]
 ![[Boundary and initial conditions notes]]
 
 ![[numerical and analytical solutions]]
+
+![[solution of seperable differential equations]]
