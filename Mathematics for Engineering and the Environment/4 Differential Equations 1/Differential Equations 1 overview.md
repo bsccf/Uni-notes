@@ -31,4 +31,4 @@ tags: ["NotesPage"]
 ![[Linear homogeneous constant-coefficient equation notes]]
 
 ## Test
-[[D]]
+[[Specimin test 6.pdf]]
