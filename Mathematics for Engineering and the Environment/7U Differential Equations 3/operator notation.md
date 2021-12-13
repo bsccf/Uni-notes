@@ -33,9 +33,10 @@ As you can see you can use $f$ or $f(x)$ on the right. I thing $f(x)$ provides m
 Given $\phi[f(x)]=\frac{d}{dx} f(x) + f(x)$ what is the expanded form of $\phi[ x^3+x ]$
 
 $$\begin{align*}
-\phi[f(x)]&=\frac{d}{dx} f(x) + f(x)\\
-\phi[ x^3+x ]&=\frac{d}{dx} (x^3+x) + (x^3+x)\\
-&
+\phi[f(x)]&=\frac{d}{dx} f(x) + 4f(x)\\
+\phi[ x^3+x ]&=\frac{d}{dx} (x^3+x) + 4(x^3+x)\\
+&= (3x^{2} + 1) + (4x^{3} + 4x)\\
+&= 4x^{3} + 3x^{2} + 4x + 1
 \end{align*}$$
 
 #### Example 4
