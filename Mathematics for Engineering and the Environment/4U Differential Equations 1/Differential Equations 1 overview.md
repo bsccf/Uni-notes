@@ -28,4 +28,4 @@ tags: ["NotesPage"]
 
 ![[solution of seperable differential equations]]
 
-![[linear homogeneous constant-coefficient equation]]
+![[Linear homogeneous constant-coefficient equation notes]]

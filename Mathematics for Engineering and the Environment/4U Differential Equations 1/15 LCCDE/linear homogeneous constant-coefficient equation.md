@@ -11,3 +11,5 @@ These are linear equations in which the coefficients of the dependent variable a
 >> where:
 >> $a \neq 0$
 
+^9a6d21
+
