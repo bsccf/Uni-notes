@@ -31,5 +31,8 @@ $$\begin{align*}
 I think you should be able to define these recursively, though in most cases that would probably resault in some infinately increasing value:
 
 $$\begin{align*}
-\phi[ f(x) ] &= \phi[ \phi[ f(x) ]  ] 
+\phi[ f(x) ] &= v( \phi[ f(x) ] )\\
+&=  v(v(v(v(v(v(v(v(v(v(v(v(... f(x) ...))))))))))))
 \end{align*}$$
+
+Some cases it would tend to a value, not sure if this is valid syntax.
