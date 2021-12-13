@@ -55,5 +55,16 @@ m^{2} - 9m + 6 &= 0\\
 
 Hence general solution is:
 $$\begin{align*}
- x(t) = (t+B)e^{m_1 t}
+x(t) = Ae^{\frac{9+ \sqrt{57}}{2} t} + Be^{\frac{9- \sqrt{57}}{2}  t}
+\end{align*}$$
+
+#### Finding a [[general and particular solution|particular solution]]
+> Continueing from the previous example find the [[general and particular solution|particular solution]] given that:
+> $$\begin{align*}
+x(0) &= 1 & \frac{dx}{dt}(0) = 2 
+\end{align*}$$
+
+$$\begin{align*}
+x(t) &= Ae^{\frac{9+ \sqrt{57}}{2} t} + Be^{\frac{9- \sqrt{57}}{2}  t}\\
+&&\frac{dx}{dt} &= \frac{9+ \sqrt{57}}{2} Ae^{\frac{9+ \sqrt{57}}{2} t} + \frac{9-\sqrt{57}}{2} Be^{\frac{9- \sqrt{57}}{2}  t}
 \end{align*}$$
