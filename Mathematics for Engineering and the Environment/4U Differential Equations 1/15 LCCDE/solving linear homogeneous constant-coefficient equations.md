@@ -11,8 +11,22 @@ tags: ["Question","QFormat3"]
 > Treat it like a quadratic and find it's roots:
 > $$ \begin{align*}
 a \frac{d^{2}x}{dt^{2}}+ b \frac{dx}{dt} + cx &= 0 &\to&& am^{2}+bm+c&=0\\
-&& &
+&& roots:\:&m_1,m_2
 \end{align*} $$
 2) 
 > Depending on what roots are found one of the following formats is used:
-> - 
+>> ### $$  = $$ 
+>>> when:
+>>> $m_1=m_2$
+>
+>> ### $$  = $$ 
+>>> when:
+>>> $m_1,m_2=$ real numbers
+>>> $$ 
+>
+>> ### $$  = $$ 
+>>> when:
+>>> $=$ 
+>>> $=$
+>>> $=$
+>
