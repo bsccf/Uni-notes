@@ -30,12 +30,22 @@ As you can see you can use $f$ or $f(x)$ on the right. I thing $f(x)$ provides m
 
 #### Example 3
 
+Given $\phi[f(x)]=\frac{d}{dx} f(x) + f(x)$ what is the expanded form of $\phi[ x^3+x ]$
+
+$$\begin{align*}
+\phi[f(x)]&=\frac{d}{dx} f(x) + f(x)\\
+\phi[ x^3+x ]&=\frac{d}{dx} (x^3+x) + (x^3+x)\\
+&
+\end{align*}$$
+
+#### Example 4
+
 I think you should be able to define these recursively, though in most cases that would probably resault in some infinately increasing value:
 
 $$\begin{align*}
 \phi[ f(x) ] &= v( \phi[ f(x) ] )\\
 &=  v(v(v(v(v(v(v(v(v(v(v(v(... f(x) ...))))))))))))\\
-&= v^{\inf}f(x)
+&= v^{\infty}f(x)
 \end{align*}$$
 
 Some cases it would tend to a value, not sure if this is valid syntax.
