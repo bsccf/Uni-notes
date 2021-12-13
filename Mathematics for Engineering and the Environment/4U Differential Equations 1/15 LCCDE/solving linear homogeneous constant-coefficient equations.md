@@ -48,3 +48,12 @@ a \frac{d^{2}x}{dt^{2}}+ b \frac{dx}{dt} + cx &= 0 &\to&& am^{2}+bm+c&=0\\
 > Find the [[general and particular solution|general solution]] for:
 > $$ \frac{d^{2}x}{dt^{2}} - 9 \frac{dx}{dt} + 6x = 0 $$
 
+$$\begin{align*}
+m^{2} - 9m + 6 &= 0\\
+&& m_1 &= \frac{9+ \sqrt{57}}{2}  & m_2 &= \frac{9- \sqrt{57}}{2} 
+\end{align*}$$
+
+Hence general solution is:
+$$\begin{align*}
+ x(t) = (t+B)e^{m_1 t}
+\end{align*}$$
