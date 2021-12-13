@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "2ace69f247f488dc",
+        "id": "d9f4689a306afb55",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -104,7 +104,7 @@
     "direction": "horizontal",
     "width": 234
   },
-  "active": "2ace69f247f488dc",
+  "active": "d9f4689a306afb55",
   "lastOpenFiles": [
     "Mathematics for Engineering and the Environment/4U Differential Equations 1/15 LCCDE/solving linear homogeneous constant-coefficient equations.md",
     "Mathematics for Engineering and the Environment/4U Differential Equations 1/15 LCCDE/linear homogeneous constant-coefficient equation.md",

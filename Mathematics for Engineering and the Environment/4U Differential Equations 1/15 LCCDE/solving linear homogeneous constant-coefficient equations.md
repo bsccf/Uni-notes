@@ -71,5 +71,8 @@ x(t) &= Ae^{\frac{9+ \sqrt{57}}{2} t} + Be^{\frac{9- \sqrt{57}}{2}  t}\\
 1 &= Ae^{0} + Be^{0} & 2 &= \frac{9+ \sqrt{57}}{2} Ae^{0} + \frac{9-\sqrt{57}}{2} Be^{0}\\
 1 - B &= A & 2 &= \frac{9+ \sqrt{57}}{2} A + \frac{9-\sqrt{57}}{2} B\\
 && 2 &= \frac{9+ \sqrt{57}}{2} (1 - B) + \frac{9-\sqrt{57}}{2} B\\
-&& 2 &= \frac{9- \sqrt{57}}{2}B (1 - ) + \frac{9-\sqrt{57}}{2} B
+&& 2 &= \frac{9+ \sqrt{57}}{2} - \frac{9+ \sqrt{57}}{2}B  + \frac{9-\sqrt{57}}{2} B\\
+&& 2 -\frac{9+ \sqrt{57}}{2} &=  - \sqrt{57} B \\
+B&=0.8311
+A&=1
 \end{align*}$$
