@@ -7,8 +7,11 @@
         "id": "d9f4689a306afb55",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Mathematics for Engineering and the Environment/4 Differential Equations 1/Differential Equations 1 overview.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mathematics for Engineering and the Environment/4 Differential Equations 1/Differential Equations 1 overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
