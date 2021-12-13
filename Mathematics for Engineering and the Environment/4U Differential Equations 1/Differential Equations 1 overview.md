@@ -27,3 +27,5 @@ tags: ["NotesPage"]
 ![[numerical and analytical solutions]]
 
 ![[solution of seperable differential equations]]
+
+![[linear homogeneous constant-coefficient equation]]
