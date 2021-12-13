@@ -5,6 +5,7 @@ tags: ["Question","QFormat3"]
 
 #### What is the method for
 ## Solving linear homogeneous constant-coefficient equations
+### Method
 ![[linear homogeneous constant-coefficient equation#^9a6d21]]
 
 1) 
@@ -38,4 +39,12 @@ a \frac{d^{2}x}{dt^{2}}+ b \frac{dx}{dt} + cx &= 0 &\to&& am^{2}+bm+c&=0\\
 >>> where:
 >>> $A,B$ = constants
 >>> $root=a\pm bi$
->
+3) 
+> Use [[boundary conditions]] and [[initial conditions]] to find the [[general and particular solution|particular solution]] (if possible)
+
+### Example
+
+#### Finding a [[general and particular solution|general solution]]
+> Find the [[general and particular solution|general solution]] for:
+> $$ \frac{d^{2}x}{dt^{2}} - 9 \frac{dx}{dt} + 6x = 0 $$
+
