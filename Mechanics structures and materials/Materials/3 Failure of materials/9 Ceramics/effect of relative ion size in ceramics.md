@@ -17,6 +17,8 @@ In this diagram you can see the [[cation-anion radius ratio]] which resaults in 
 As can be seen as the [[cation-anion radius ratio]] approaches 1 the coordination number increases.
 
 ### Example resaulting structures
+Here a $R_a=0.563$ resaulted in a coordination number of 6, this lead to a [[face centred cubic|FCC]] lattice.
 ![[Pasted image 20211215135903.png]]
 
-
+Here a $R_a=0.752$ resalted in a coordiantion number of 6 and a [[simple cubic|SC]] structure.
+![[Pasted image 20211215135913.png]]
