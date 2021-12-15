@@ -27,6 +27,16 @@ F_c &= F_m + F_f \\
 E_c\varepsilon_c A_c &= E_m\varepsilon_m A_m + E_f\varepsilon_f A_f & \varepsilon_c &= \varepsilon_m = \varepsilon_f\\
 E_c A_c &= E_m A_m + E_f A_f &&& V &\propto A\\
 E_c V_c &= E_m V_m + E_f V_f & V_c &= V_m + V_f\\
-E_c &= \frac{E_m V_m + E_f V_f}{V_m + V_f}\\
-&
+\therefore E_c &= \frac{E_m V_m + E_f V_f}{V_m + V_f}\\
 &\end{align*}$$
+> ### $$ E_c = \frac{E_m V_m + E_f V_f}{V_m + V_f} $$ 
+>> where:
+>> $E_c=$ [[youngs modulus]] of composite (longitudional) 
+>> $E_f=$ [[youngs modulus]] of fibres (longitudional) 
+>> $E_m=$[[youngs modulus]] of matrix (longitudional) 
+>> $V_f=$ volume of fibres
+>> $V_m=$ volume of matrix
+
+As you can see the stiffness is related to an average of the stiffnesses of the fibres and matrix weighted by volume proportions.
+
+##### Transv
