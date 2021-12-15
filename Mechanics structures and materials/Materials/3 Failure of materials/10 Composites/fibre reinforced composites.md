@@ -25,5 +25,8 @@ $$\begin{align*}
 F_c &= F_m + F_f \\
 \sigma_c A_c &= \sigma_m A_m + \sigma_f A_f && & E &= \frac{\sigma}{\varepsilon}\\
 E_c\varepsilon_c A_c &= E_m\varepsilon_m A_m + E_f\varepsilon_f A_f & \varepsilon_c &= \varepsilon_m = \varepsilon_f\\
-E_c A_c &= E_m A_m + E_f A_f
+E_c A_c &= E_m A_m + E_f A_f &&& V &\propto A\\
+E_c V_c &= E_m V_m + E_f V_f & V_c &= V_m + V_f\\
+E_c &= \frac{E_m V_m + E_f V_f}{V_m + V_f}\\
+&
 &\end{align*}$$
