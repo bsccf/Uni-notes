@@ -14,4 +14,8 @@ Hence properties are defined by materials, reinforcement distribution, design an
 
 ### Composition
 A [[composites|composite]] contains a:
-- [[matrix (materials)]]
+- [[matrix (materials)|matrix]]
+- [[reinforcement (materials)|reinforcement]]
+
+![[Pasted image 20211215160154.png]]
+It is common to use fibers, but basically anything seperate 
