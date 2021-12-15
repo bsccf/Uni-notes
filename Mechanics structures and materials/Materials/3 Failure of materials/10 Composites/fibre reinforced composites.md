@@ -48,5 +48,15 @@ $$\begin{align*}
 \frac{E_c}{A_c}  &= \frac{1}{\frac{A_m}{E_m}  + \frac{A_f}{E_f}}\\
 \frac{E_c}{A_c}  &= \frac{E_m E_f}{A_mE_f  + A_fE_m}\\
 E_c  &= \frac{E_m E_f (A_m+A_f) }{A_mE_f  + A_fE_m}& V &\propto A\\
-E_c  &= \frac{E_m E_f (V_m+V_f) }{V_mE_f  + V_fE_m}
+\therefore E_c  &= E_m E_f \frac{ V_m+V_f }{V_mE_f  + V_fE_m}
 \end{align*}$$
+> ### $$ E_c  = E_m E_f \frac{ V_m+V_f }{V_mE_f  + V_fE_m} $$ 
+>> where:
+>> $E_c=$ [[youngs modulus]] of composite (transverse) 
+>> $E_f=$ [[youngs modulus]] of fibres (transverse) 
+>> $E_m=$[[youngs modulus]] of matrix (transverse) 
+>> $V_f=$ volume of fibres
+>> $V_m=$ volume of matrix
+
+Now the stiffness is determined much more by the matrix.
+
