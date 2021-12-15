@@ -19,3 +19,5 @@ tags: ["NotesPage"]
 ![[glasses]]
 
 ![[mechanical properties of ceramics]]
+
+![[distrobution of strengths of ceramics]]
