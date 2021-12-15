@@ -20,7 +20,7 @@ As you can imagine the behaviour under stress will vary directionally assuming t
 ![[Pasted image 20211215162531.png]]
 
 ##### Longitudinal loading
-Here if we start by assuming a good interface between the fibre and matrix we can assume that strains are all the same:
+Here if we assume a good interface between the fibre and matrix we can assume that strains are all the same:
 $$\begin{align*}
 F_c &= F_m + F_f \\
 \sigma_c A_c &= \sigma_m A_m + \sigma_f A_f && & E &= \frac{\sigma}{\varepsilon}\\
@@ -39,4 +39,8 @@ E_c V_c &= E_m V_m + E_f V_f & V_c &= V_m + V_f\\
 
 As you can see the stiffness is related to an average of the stiffnesses of the fibres and matrix weighted by volume proportions.
 
-##### Transv
+##### Transverse loading
+Here we can assume all stresses are the same:
+$$\begin{align*}
+\varepsilon_c &= \varepsilon_m + \varepsilon_f & E &= \frac{\sigma}{\varepsilon}
+\end{align*}$$
