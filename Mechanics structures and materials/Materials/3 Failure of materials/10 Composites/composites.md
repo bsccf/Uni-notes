@@ -5,6 +5,11 @@ tags: ["Question","QFormat3"]
 
 #### What are
 ## Composites
+### Intro
 These are multi[[phase (materials)|phase]] components that have two or more dissimular consitituents to improve desired properties. 
 There properties will have aspects of the properties of the materials that compose them.
-The
+Behaviour under load can often vary depending on the direction the load is applied on (depends on the composite if this is true).
+
+Hence properties are defined by materials, reinforcement distribution, design and processing route.
+
+### Comp
