@@ -7,4 +7,4 @@ tags: ["Question","QFormat3"]
 ## Glasses
 ([[the thing that go on your face stupid|insert joke]])
 
-Glasses are based on silica
+Glasses are a type of [[non-crystalline materials|amorphous material]] and a [[silicates|silicate]].
