@@ -15,3 +15,5 @@ tags: ["NotesPage"]
 ![[composite classification]]
 
 ![[particle reinforced composites]]
+
+![[fibre reinforced composites]]
