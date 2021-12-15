@@ -1,5 +1,5 @@
 ---
-aliases: ["crystalline material"]
+aliases: ["crystalline material","crystalline"]
 tags: ["Question","QFormat3"]
 ---
 
