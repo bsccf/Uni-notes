@@ -1,5 +1,5 @@
 ---
-aliases: ["ionic bond"]
+aliases: ["ionic bond","ionicly bonded"]
 tags: ["Question","QFormat3"]
 ---
 

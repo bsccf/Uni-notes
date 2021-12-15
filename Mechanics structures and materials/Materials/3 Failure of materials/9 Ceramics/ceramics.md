@@ -14,3 +14,4 @@ A ceramic is any of the various hard, brittle, heat-resistant and corrosion-resi
 - Generally the [[cations]] will be smaller than the [[anions]] since they have lost there outer [[electron shell]].
 - The structure is heavily effected by the realtive sizes of the ions and there charges.
 
+[[Ceramics notes]] contains lots more important intorductory information about ceramics.
