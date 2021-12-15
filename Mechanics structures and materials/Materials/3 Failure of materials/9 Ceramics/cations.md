@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["cation"]
 tags: ["Question","QFormat3"]
 ---
 
