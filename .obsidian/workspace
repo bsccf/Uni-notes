@@ -10,17 +10,6 @@
           "type": "markdown",
           "state": {
             "file": "Mechanics structures and materials/Materials/3 Failure of materials/9 Ceramics/glasses.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "afcfd3d2b0f3c2f9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Mechanics structures and materials/Materials/3 Failure of materials/9 Ceramics/network modifiers.md",
             "mode": "source"
           }
         }
@@ -87,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/3 Failure of materials/9 Ceramics/network modifiers.md",
+                "file": "Mechanics structures and materials/Materials/3 Failure of materials/9 Ceramics/glasses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,10 +104,10 @@
     "direction": "horizontal",
     "width": 234
   },
-  "active": "afcfd3d2b0f3c2f9",
+  "active": "d9f4689a306afb55",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Materials/3 Failure of materials/9 Ceramics/network modifiers.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/9 Ceramics/glasses.md",
+    "Mechanics structures and materials/Materials/3 Failure of materials/9 Ceramics/network modifiers.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/9 Ceramics/the thing that go on your face stupid.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/9 Ceramics/Ceramics notes.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/9 Ceramics/silicates.md",
