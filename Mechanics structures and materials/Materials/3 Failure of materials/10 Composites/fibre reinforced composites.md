@@ -22,5 +22,8 @@ As you can imagine the behaviour under stress will vary directionally assuming t
 ##### Longitudinal loading
 Here if we start by assuming a good interface between the fibre and matrix we can assume that strains are all the same:
 $$\begin{align*}
-\varepsilon_c &= \varepsilon_m = \varepsilon_f & E &= \frac{\sigma}{\varepsilon} 
-\end{align*}$$
+F_c &= F_m + F_f \\
+\sigma_c A_c &= \sigma_m A_m + \sigma_f A_f && & E &= \frac{\sigma}{\varepsilon}\\
+E_c\varepsilon_c A_c &= E_m\varepsilon_m A_m + E_f\varepsilon_f A_f & \varepsilon_c &= \varepsilon_m = \varepsilon_f\\
+E_c A_c &= E_m A_m + E_f A_f
+&\end{align*}$$
