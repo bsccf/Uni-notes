@@ -18,4 +18,5 @@ A [[composites|composite]] contains a:
 - [[reinforcement (materials)|reinforcement]]
 
 ![[Pasted image 20211215160154.png]]
-It is common to use fibers, but basically anything seperate 
+It is common to use fibers, but basically anything works:
+![[Pasted image 20211215160309.png]]

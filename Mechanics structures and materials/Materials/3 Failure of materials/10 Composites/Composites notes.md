@@ -12,4 +12,4 @@ tags: ["NotesPage"]
 ## Expanded articles
 ![[composites]]
 
-![[]]
+![[composite classification]]
