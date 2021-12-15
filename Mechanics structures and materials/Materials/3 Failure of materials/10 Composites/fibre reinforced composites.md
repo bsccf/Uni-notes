@@ -43,5 +43,7 @@ As you can see the stiffness is related to an average of the stiffnesses of the 
 Here we can assume all stresses are the same:
 $$\begin{align*}
 \varepsilon_c A_c &= \varepsilon_m A_m + \varepsilon_f A_f & E &= \frac{\sigma}{\varepsilon}\\
-\frac{\sigma_}{E_} A_c &= \frac{\sigma_}{E_} A_m + \frac{\sigma_}{E_} A_f 
+\frac{\sigma_c}{E_c} A_c &= \frac{\sigma_m}{E_m} A_m + \frac{\sigma_m}{E_m} A_f  &&& \sigma_c = \sigma_m = \sigma_f\\
+\frac{A_c}{E_c}  &= \frac{A_m}{E_m}  + \frac{A_f}{E_m} \\
+\frac{E_c}{A_c}  &= \frac{A_m}{E_m}  + \frac{A_f}{E_m}
 \end{align*}$$
