@@ -18,3 +18,4 @@ tags: ["NotesPage"]
 
 ![[glasses]]
 
+![[mechanical properties of ceramics]]
