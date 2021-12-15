@@ -7,3 +7,6 @@ tags: ["Question","QFormat3"]
 ## Ceramics
 A ceramic is any of the various hard, brittle, heat-resistant and corrosion-resistant materials often made by shaping and then firing an inorganic, nonmetallic material.
 
+### Common properties
+- Mostly [[ionic bonding]] though can have [[covalent bonding]].
+- Generally made of a combination of metallic and non metallic elements, where metallic ions are [[cations]] and non metallic ions are [[anions]]
