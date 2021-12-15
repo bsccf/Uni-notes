@@ -12,4 +12,6 @@ Behaviour under load can often vary depending on the direction the load is appli
 
 Hence properties are defined by materials, reinforcement distribution, design and processing route.
 
-### Comp
+### Composition
+A [[composites|composite]] contains a:
+- [[matrix (materials)]]
