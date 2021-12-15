@@ -43,7 +43,10 @@ As you can see the stiffness is related to an average of the stiffnesses of the 
 Here we can assume all stresses are the same:
 $$\begin{align*}
 \varepsilon_c A_c &= \varepsilon_m A_m + \varepsilon_f A_f & E &= \frac{\sigma}{\varepsilon}\\
-\frac{\sigma_c}{E_c} A_c &= \frac{\sigma_m}{E_m} A_m + \frac{\sigma_m}{E_m} A_f  &&& \sigma_c = \sigma_m = \sigma_f\\
-\frac{A_c}{E_c}  &= \frac{A_m}{E_m}  + \frac{A_f}{E_m} \\
-\frac{E_c}{A_c}  &= \frac{A_m}{E_m}  + \frac{A_f}{E_m}
+\frac{\sigma_c}{E_c} A_c &= \frac{\sigma_m}{E_m} A_m + \frac{\sigma_f}{E_f} A_f  &&& \sigma_c = \sigma_m = \sigma_f\\
+\frac{A_c}{E_c}  &= \frac{A_m}{E_m}  + \frac{A_f}{E_f} \\
+\frac{E_c}{A_c}  &= \frac{1}{\frac{A_m}{E_m}  + \frac{A_f}{E_f}}\\
+\frac{E_c}{A_c}  &= \frac{E_m E_f}{A_mE_f  + A_fE_m}\\
+E_c  &= \frac{E_m E_f (A_m+A_f) }{A_mE_f  + A_fE_m}& V &\propto A\\
+E_c  &= \frac{E_m E_f (V_m+V_f) }{V_mE_f  + V_fE_m}
 \end{align*}$$
