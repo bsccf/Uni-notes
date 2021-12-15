@@ -10,3 +10,15 @@ tags: ["Question","QFormat3"]
 ![[Pasted image 20211215160613.png]]
 Not going to put more diagrams in, [[use your brain|I think the names give enough information]].
 
+### Material combinations
+There are a range of combinations:
+- Metal/Metal
+- Metal/Ceramic
+- Metal/Polymer
+- Ceramic/Ceramic
+- Polymer/Polymer
+
+Basically just about anything, where both materials are somewhat distinct.
+
+### Name convention
+The more expensive material is placed first in the name.

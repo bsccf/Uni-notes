@@ -13,3 +13,5 @@ tags: ["NotesPage"]
 ![[composites]]
 
 ![[composite classification]]
+
+![[particle reinforced composites]]
