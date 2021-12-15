@@ -22,3 +22,4 @@ Here a $R_a=0.563$ resaulted in a coordination number of 6, this lead to a [[fac
 
 Here a $R_a=0.752$ resalted in a coordiantion number of 6 and a [[simple cubic|SC]] structure.
 ![[Pasted image 20211215135913.png]]
+

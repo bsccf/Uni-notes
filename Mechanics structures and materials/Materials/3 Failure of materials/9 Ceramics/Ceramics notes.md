@@ -13,3 +13,5 @@ tags: ["NotesPage"]
 ![[ceramics]]
 
 ![[effect of relative ion size in ceramics]]
+
+![[silicates]]
