@@ -20,3 +20,7 @@ As you can imagine the behaviour under stress will vary directionally assuming t
 ![[Pasted image 20211215162531.png]]
 
 ##### Longitudinal loading
+Here if we start by assuming a good interface between the fibre and matrix we can assume that strains are all the same:
+$$\begin{align*}
+\varepsilon_c &= \varepsilon_m = \varepsilon_f & E &= \frac{\sigma}{\varepsilon} 
+\end{align*}$$
