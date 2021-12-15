@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/3 Failure of materials/9 Ceramics/effect of relative ion size in ceramics.md",
+            "file": "Mechanics structures and materials/Materials/3 Failure of materials/9 Ceramics/cation-anion radius ratio.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/3 Failure of materials/9 Ceramics/effect of relative ion size in ceramics.md",
+                "file": "Mechanics structures and materials/Materials/3 Failure of materials/9 Ceramics/cation-anion radius ratio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "d9f4689a306afb55",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Materials/3 Failure of materials/9 Ceramics/cation-anion radius ratio.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/9 Ceramics/effect of relative ion size in ceramics.md",
     "Mechanics structures and materials/Materials/1 Atomic composition/1 Atoms and types of bonding/ionic bonding.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/9 Ceramics/Ceramics notes.md",
@@ -114,7 +115,6 @@
     "Mechanics structures and materials/Materials/3 Failure of materials/9 Ceramics/cations.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/9 Ceramics/ions.md",
     "Mechanics structures and materials/Materials/Materials read order.md",
-    "Mathematics for Engineering and the Environment/7U Differential Equations 3/Differential equations 3 overview.md",
-    "Mathematics for Engineering and the Environment/7U Differential Equations 3/operator notation.md"
+    "Mathematics for Engineering and the Environment/7U Differential Equations 3/Differential equations 3 overview.md"
   ]
 }
