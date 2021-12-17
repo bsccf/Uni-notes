@@ -12,3 +12,6 @@ tags: ["NotesPage"]
 ## Expanded articles
 ![[diode rectification]]
 
+![[half-wave rectification]]
+
+![[full-wave rectification]]
