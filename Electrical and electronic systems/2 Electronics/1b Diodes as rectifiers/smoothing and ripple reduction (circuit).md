@@ -20,4 +20,16 @@ In reality you don't need a perfect constant supply voltage, your use case will 
 #### Deriving equations
 If we want nice equations to calculate the expected smoothing we can derive them.
 Starting with the capacitor equation:
-![[Capacitors|capacitor]]
+
+$$\begin{align*}
+Q &= CV\\
+\frac{dQ}{dt} &= C \frac{dV}{dt}\\
+i_{DC} &= C \frac{dV}{dt}
+\end{align*}$$
+
+If you look back at our ripple graph, the shape can be approximated as triangular so to make working ez we are going to do just that:
+
+$$\begin{align*}
+i_{DC} &= C \frac{\Delta V}{ \Delta t }
+\end{align*}$$
+
