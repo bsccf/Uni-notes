@@ -33,3 +33,12 @@ $$\begin{align*}
 i_{DC} &= C \frac{\Delta V}{ \Delta t }
 \end{align*}$$
 
+We also know that $\Delta t$ will be equivilent to half of the AC period ($T$) so $\Delta t = \frac{1}{2}T$ subbing that in:
+
+$$\begin{align*}
+i_{DC} &= C \frac{\Delta V}{ \frac{1}{2}T } & f = \frac{1}{T}\\
+i_{DC} &= C 2f(\Delta V)\\
+\therefore C &= \frac{i_{DC}}{2f(\Delta V)}
+\end{align*}$$
+
+We can also get this interms of 
