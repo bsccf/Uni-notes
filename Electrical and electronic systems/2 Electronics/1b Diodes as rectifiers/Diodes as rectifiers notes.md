@@ -6,7 +6,10 @@ tags: ["NotesPage"]
 # Diodes as rectifiers notes
 
 #### Intro and contents
-- 
+- [[diode rectification]]
+- [[half-wave rectification]]
+- [[full-wave rectification]]
+- [[smoothing and ripple reduction (circuit)]]
 
 
 ## Expanded articles
@@ -16,3 +19,4 @@ tags: ["NotesPage"]
 
 ![[full-wave rectification]]
 
+![[smoothing and ripple reduction (circuit)]]

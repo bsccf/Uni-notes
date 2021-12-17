@@ -3,7 +3,7 @@ aliases: [""]
 tags: ["NotesPage"]
 ---
 
-# <% tp.file.title.charAt(0).toUpperCase() + tp.file.title.slice(1)%>
+# Zener diodes notes
 
 #### Intro and contents
 - 
@@ -11,3 +11,4 @@ tags: ["NotesPage"]
 
 ## Expanded articles
 
+![[zener diodes]]
