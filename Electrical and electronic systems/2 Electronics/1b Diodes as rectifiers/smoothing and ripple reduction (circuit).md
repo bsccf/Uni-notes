@@ -17,12 +17,16 @@ Since the capacitor charges and discharges depending on the cycle position it le
 As the [[capacitance]] of the capacitor increases the $\Delta V$ decreases, consequently if the $\Delta t$ increases the $\Delta V$ increases. So we can reduce peaks with stronger [[Capacitors|capacitors]] or by increasing the frequency of the AC.
 In reality you don't need a perfect constant supply voltage, your use case will have an acceptable range of voltages, currents and rate of change of these, so basically we just need the ripple reduction to be "good enough".
 
+Note that the following equations are an approximation.
 > ### $$ C = \frac{i_{DC}}{2f(\Delta V)} $$ 
 > ### $$ C = \frac{i_{DC}}{4f(V_p - V_{average})} $$ 
 >> where:
 >> $C=$ [[capacitance]] 
 >> $\Delta V=$ variation between max and min voltage
->> $=$
+>> $f=$ AC frequency
+>> $i_{DC}=$ charge flow in the visinity of the capacitor
+>> $V_{average}=$ average voltage
+>> $V_p=$ max voltage
 
 #### Deriving equations
 If we want nice equations to calculate the expected smoothing we can derive them.
