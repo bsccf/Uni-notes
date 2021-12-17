@@ -41,4 +41,8 @@ i_{DC} &= C 2f(\Delta V)\\
 \therefore C &= \frac{i_{DC}}{2f(\Delta V)}
 \end{align*}$$
 
-We can also get this interms of 
+We can also get this interms of average voltage by subracting $\Delta V \frac{1}{2}$ from $V_p$, where $V_p$ is peak voltage ($V_{average}=V_p - \Delta V \frac{1}{2}$):
+$$\begin{align*}
+C &= \frac{i_{DC}}{2f(\Delta V)} & 2(V_p - V_{average}) &= \Delta V
+C &= \frac{i_{DC}}{2f(2(V_p - V_{average}))}
+\end{align*}$$
