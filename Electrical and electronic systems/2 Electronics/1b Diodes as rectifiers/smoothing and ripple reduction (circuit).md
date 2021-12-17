@@ -16,3 +16,8 @@ Since the capacitor charges and discharges depending on the cycle position it le
 ![[Pasted image 20211217162455.png]]
 As the [[capacitance]] of the capacitor increases the $\Delta V$ decreases, consequently if the $\Delta t$ increases the $\Delta V$ increases. So we can reduce peaks with stronger [[Capacitors|capacitors]] or by increasing the frequency of the AC.
 In reality you don't need a perfect constant supply voltage, your use case will have an acceptable range of voltages, currents and rate of change of these, so basically we just need the ripple reduction to be "good enough".
+
+#### Deriving equations
+If we want nice equations to calculate the expected smoothing we can derive them.
+Starting with the capacitor equation:
+![[Capacitors|capacitor]]
