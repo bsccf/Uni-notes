@@ -14,3 +14,4 @@ It is possible to make a [[full-wave rectification|FULL BRIDGE RECTIFIER!!!!]] e
 ![[Pasted image 20211217162252.png]]
 Since the capacitor charges and discharges depending on the cycle position it leads to a pd/time graph like:
 ![[Pasted image 20211217162455.png]]
+As the [[capacitance]] of the capacitor increases the 
