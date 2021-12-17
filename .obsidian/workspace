@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/Semiconductor theory notes.md",
-            "mode": "preview"
+            "file": "Electrical and electronic systems/Diodes as rectifiers notes.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/Semiconductor theory notes.md",
+                "file": "Electrical and electronic systems/Diodes as rectifiers notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,8 @@
   },
   "active": "d9f4689a306afb55",
   "lastOpenFiles": [
+    "Electrical and electronic systems/Diodes as rectifiers notes.md",
+    "Electrical and electronic systems/Electrical read order.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/Semiconductor theory notes.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/n-p diode.md",
     "Electrical and electronic systems/2 Electronics/1a Semiconductor theory/cope.md",
@@ -113,8 +115,6 @@
     "Mechanics structures and materials/Materials/1 Atomic composition/5 Mechanical Properties/effect of temperature on yield stress.md",
     "Mechanics structures and materials/Materials/1 Atomic composition/2 Crystal Structures/body centred cubic.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/4 Cracks/critical stress intensity factor.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/4 Cracks/critical crack radius.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/Griffith approach.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/4 Cracks/griffith energys relationship with stress intensity factor.md"
+    "Mechanics structures and materials/Materials/3 Failure of materials/4 Cracks/critical crack radius.md"
   ]
 }

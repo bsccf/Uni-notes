@@ -33,4 +33,4 @@ High amounts of based energy. It's easyer to guess where this is from so the \[\
 There is honestly too much to write and research rn, like wtf. I'll finish these notes over christmass... probably. 
 
 1) [[Semiconductor theory notes]]
-2) 
+2) [[Diodes as rectifiers notes]]
