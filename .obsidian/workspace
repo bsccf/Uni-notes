@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/Griffith approach.md",
+            "file": "Mechanics structures and materials/Materials/3 Failure of materials/4 Cracks/critical stress intensity factor.md",
             "mode": "preview"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/Griffith approach.md",
+                "file": "Mechanics structures and materials/Materials/3 Failure of materials/4 Cracks/critical stress intensity factor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,12 +107,12 @@
   },
   "active": "d9f4689a306afb55",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Materials/3 Failure of materials/4 Cracks/critical stress intensity factor.md",
+    "Mechanics structures and materials/Materials/3 Failure of materials/4 Cracks/critical crack radius.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/Griffith approach.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/4 Cracks/griffith energys relationship with stress intensity factor.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/4 Cracks/critical crack radius.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/5 Material fatigue/material fatigue.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/5 Material fatigue/crack initiation (material fatigue).md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/4 Cracks/critical stress intensity factor.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/2 Stress concentration/calculating stored strain energy in a crack.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/10 Composites/Composites notes.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/10 Composites/fibre reinforced composites.md",
