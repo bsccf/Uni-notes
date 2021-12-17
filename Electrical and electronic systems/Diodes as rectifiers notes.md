@@ -10,5 +10,5 @@ tags: ["NotesPage"]
 
 
 ## Expanded articles
-
+![[diode rectification]]
 
