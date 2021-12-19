@@ -10,6 +10,6 @@ This is where you place a [[diode]] in a circuit for use as a [[limiters|limiter
 
 > ### $$ V_{out} >= V_{in} - V_{dth} $$ 
 >> where:
->> $=$ 
->> $=$
->> $V_{dth}=$ [[threashold]]
+>> $V_{out}=$ Voltage output
+>> $V_{in}=$ Voltage input
+>> $V_{dth}=$ diodes [[threashold voltage]]
