@@ -27,7 +27,7 @@ t^{2} &= \frac{d^{2}x}{dt^{2}} + 5\frac{dx}{dt} - 9x & \frac{d^{2}x}{dt^{2}} &= 
  0 &= t^{2} ( -1 - 9P ) + t( 10P - 9Q ) + ( 2P + 5Q - 9R )\\
 & & 1 &= 9P & 0 &= 10P - 9Q & 0 &= 2P +5Q - 9R\\
 && -\frac{1}{9} &= P & \frac{10P}{9} &= Q & \frac{2P +5Q}{9} &= R\\
-&& &&  -\frac{10}{81}&=\\
-&& && &&  &=R \\
-
+&& &&  -\frac{10}{81}&=Q\\
+&& && &&  - \frac{68}{729} &=R \\
+\therefore x(t)&=-\frac{1}{9}t^{2} -\frac{10}{81} t - \frac{68}{729} \: is \:the\:particular\:integral
 \end{align*}$$
