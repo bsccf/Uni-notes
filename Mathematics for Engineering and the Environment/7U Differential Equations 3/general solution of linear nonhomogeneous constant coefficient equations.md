@@ -10,9 +10,11 @@ Well if we look back at [[general solution of a linear nonhomogeneous equation]]
 ![[general solution of a linear nonhomogeneous equation#^50b2a4]]
 
 
-
+When trying to find the [[particular integral]] the page [[solving linear homogeneous constant-coefficient equations]] is often useful.
 
 ### Example
+
+#### Example 1
 
 > Find the general solution of $\frac{d^{2}x}{dt^{2}} + 5\frac{dx}{dt} - 9x = t^{2}$
 
@@ -46,3 +48,4 @@ We can now combine them to find the general solution of $\frac{d^{2}x}{dt^{2}} +
 $$\begin{align*}
 x(t) &= Ae^{t\frac{-5 + \sqrt{61}}{2}}+ Be^{t\frac{-5 - \sqrt{61}}{2}} - \frac{10}{81} t - \frac{68}{729}
 \end{align*}$$
+
