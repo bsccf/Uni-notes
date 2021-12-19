@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/7U Differential Equations 3/finding particular integrals.md",
-            "mode": "preview"
+            "file": "Mathematics for Engineering and the Environment/7U Differential Equations 3/Differential equations 3 overview.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/7U Differential Equations 3/finding particular integrals.md",
+                "file": "Mathematics for Engineering and the Environment/7U Differential Equations 3/Differential equations 3 overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,10 +106,10 @@
   },
   "active": "d9f4689a306afb55",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/7U Differential Equations 3/Differential equations 3 overview.md",
     "Mathematics for Engineering and the Environment/7U Differential Equations 3/finding particular integrals.md",
     "Mathematics for Engineering and the Environment/7U Differential Equations 3/general solution of a linear nonhomogeneous equation.md",
     "Mathematics for Engineering and the Environment/7U Differential Equations 3/general solution of linear nonhomogeneous constant coefficient equations.md",
-    "Mathematics for Engineering and the Environment/7U Differential Equations 3/Differential equations 3 overview.md",
     "Mathematics for Engineering and the Environment/General org/differentiation.md",
     "Mathematics for Engineering and the Environment/7U Differential Equations 3/textbook be doing a little trolling.md",
     "Mathematics for Engineering and the Environment/Overall Read order.md",
