@@ -19,6 +19,8 @@ L[x_c + x*] &= 0 + f(t)\\
 \therefore L[x_c + x*] &= f(t)
 \end{align*}$$
 
+^d8709d
+
 So $x_c + x*$ is a solution of $L[x]=f(t)$
 
 > ### $$ L[x_c + x*] = f(t) $$ 
@@ -28,8 +30,8 @@ So $x_c + x*$ is a solution of $L[x]=f(t)$
 >> $L[x]=$ a [[linear differential equation]]
 
 Note that we define the [[particular integral]] and [[complementary function]] from $x_c$ and $x*$: ^3fefb1
-- $x*$ the "any solution" is the [[particular integral]]
-- $x_c$ is the [[complementary function]]
+- $x*$ the "any solution" is the [[particular integral]] ^eaa815
+- $x_c$ is the [[complementary function]] ^a0a99f
 
 It follows from this that finding the general solution of a nonhomogeneous linear differential equation can be reduced to the problem of finding any solution of thenonhomogeneous equation and adding to it the general solution of the equivalent homogeneous equation.
 
