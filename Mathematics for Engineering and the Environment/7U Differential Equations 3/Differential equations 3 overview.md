@@ -5,6 +5,10 @@ tags: ["NotesPage"]
 
 # Differential equations 3 Overview
 
+[[local supply of memes]]
+
+[[mooore]]
+
 #### Intro and contents
 - [[Differential Equations 1 overview]]
 - 
