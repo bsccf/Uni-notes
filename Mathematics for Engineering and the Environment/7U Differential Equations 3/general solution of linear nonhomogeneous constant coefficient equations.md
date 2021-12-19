@@ -60,5 +60,5 @@ x(t) &= A\cos 2t + B\sin 2t \\
 \frac{d^{2}x}{dt^{2}} &=  -4A\cos 2t - 4B\sin 2t \\
 &&\frac{d^{2}x}{dt^{2}} + 5 \frac{dx}{dt} - 9x &= \cos 2t\\\\
 &&(-4A\cos 2t - 4B\sin 2t) + 5 (-2A\sin 2t + 2B\cos 2t) - 9(A\cos 2t + B\sin 2t) &= \cos 2t\\
-&&  &= 0
+&& A(-13\cos 2t-10\sin 2t) + B( 10\cos 2t -13\sin 2t ) &= 0
 \end{align*}$$
