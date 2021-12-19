@@ -7,7 +7,7 @@ tags: ["NotesPage"]
 
 [[local supply of memes]]
 
-[[mooore]]
+[[stash of the funny|mooore]]
 
 #### Intro and contents
 - [[Differential Equations 1 overview]]

@@ -31,3 +31,5 @@ Note that we define the [[particular integral]] and [[complementary function]] f
 
 It follows from this that finding the general solution of a nonhomogeneous linear differential equation can be reduced to the problem of finding any solution of thenonhomogeneous equation and adding to it the general solution of the equivalent homogeneous equation.
 
+In the event that you are totally confused we can do some examples:
+
