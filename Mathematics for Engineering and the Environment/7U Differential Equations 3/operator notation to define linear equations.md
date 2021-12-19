@@ -18,8 +18,8 @@ Any equation that can satisfy the following is a linear equation:
 Is $f(x) = 5x + 3$ a linear equation?
 
 $$\begin{align*}
-L[af_1(x) + bf_2(x)]&& f_1(x)&= 5x +3 & f_2(x)&=mx+c\\
-L[a(5x +3) + b(mx+c)] &\\
-L[5ax +3a + bmx+cb] &\\
-L[5ax +3a + bmx+cb] &
+& L[af_1(x) + bf_2(x)]& L[t] = 5t+3 \\
+& 5(af_1(x) + bf_2(x))+3 \\
+& 5af_1(x) + 5bf_2(x) +3 \\
+&
 \end{align*}$$
