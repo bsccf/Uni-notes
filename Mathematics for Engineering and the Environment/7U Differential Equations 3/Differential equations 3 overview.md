@@ -20,3 +20,4 @@ tags: ["NotesPage"]
 ![[linearity principle]]
 
 ![[linearly dependent and independent functions]]
+
