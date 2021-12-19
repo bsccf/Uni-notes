@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/7U Differential Equations 3/Differential equations 3 overview.md",
+            "file": "Mathematics for Engineering and the Environment/7U Differential Equations 3/general solution of a linear nonhomogeneous equation.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/7U Differential Equations 3/Differential equations 3 overview.md",
+                "file": "Mathematics for Engineering and the Environment/7U Differential Equations 3/general solution of a linear nonhomogeneous equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "d9f4689a306afb55",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/7U Differential Equations 3/general solution of a linear nonhomogeneous equation.md",
     "Mathematics for Engineering and the Environment/7U Differential Equations 3/Differential equations 3 overview.md",
     "Mathematics for Engineering and the Environment/7U Differential Equations 3/linearly dependent and independent functions.md",
     "Mathematics for Engineering and the Environment/7U Differential Equations 3/linearity principle.md",
@@ -114,7 +115,6 @@
     "Mathematics for Engineering and the Environment/7U Differential Equations 3/operator notation to express non or nonhomogeneous equations.md",
     "Mathematics for Engineering and the Environment/7U Differential Equations 3/operator notation.md",
     "Electrical and electronic systems/2 Electronics/1d Even more shit/clamps.md",
-    "Electrical and electronic systems/2 Electronics/1d Even more shit/Diodes in clamp circuits notes.md",
-    "Electrical and electronic systems/2 Electronics/1d Even more shit/limiters.md"
+    "Electrical and electronic systems/2 Electronics/1d Even more shit/Diodes in clamp circuits notes.md"
   ]
 }
