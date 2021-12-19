@@ -12,13 +12,14 @@ Now let $x*$ be a solution of $L[x]$ so $L[x*] = f(t)$.
 
 Now conider the related [[homogeneous and nonhomogeneous differential equations|homogeneous equation]] $L[x]=0$, and let the solution of this be $x_c$ so $L[x_c]=0$.
 
-[[operator notation to define linear differential equations]]
-If $L[x]$ is a [[linear differential equation]] then $L[ax_1 + bx_2] = aL[x_1] + bL[x_2]$ and since $x_c$ and $x*$ are solutions to $L[x]$ then:
+If $L[x]$ is a [[linear differential equation]] then ([[operator notation to define linear differential equations|from this]]) $L[ax_1 + bx_2] = aL[x_1] + bL[x_2]$ and since $x_c$ and $x*$ are solutions to $L[x]$ then:
 $$\begin{align*}
 L[x_c + x*] &= L[x_c] + L[x*]  & L[x_c]&=0 & L[x*] &= f(t)\\
 L[x_c + x*] &= 0 + f(t)\\
-\therefor &
+\therefore L[x_c + x*] &= f(t)
 \end{align*}$$
+
+So $x_c + x*$ is a solution of $L[x]=f(t)$
 
 > ### $$  = $$ 
 >> where:
