@@ -14,3 +14,12 @@ Any equation that can satisfy the following is a linear equation:
 >> $a,b=$ any constant
 >> $L[]=$ a function
 
+### Example
+Is $f(x) = 5x + 3$ a linear equation?
+
+$$\begin{align*}
+L[af_1(x) + bf_2(x)]&& f_1(x)&= 5x +3 & f_2(x)&=mx+c\\
+L[a(5x +3) + b(mx+c)] &\\
+L[5ax +3a + bmx+cb] &\\
+L[5ax +3a + bmx+cb] &
+\end{align*}$$
