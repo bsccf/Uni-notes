@@ -13,3 +13,5 @@ If we look back at the [[single diode limiter circuit]], we can change the effec
 >> $V_{out}=$ Voltage output
 >> $V_{dth}=$ diodes [[threashold voltage]]
 >> $V_x=$ extra voltage source
+
+The voltage source can of course be flipped to shift it the effective "threashold voltage" of tha branch in the opposite direction.

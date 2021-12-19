@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/2 Electronics/1d Even more shit/diode source limiter circuit.md",
+            "file": "Electrical and electronic systems/2 Electronics/1d Even more shit/limiters.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/2 Electronics/1d Even more shit/diode source limiter circuit.md",
+                "file": "Electrical and electronic systems/2 Electronics/1d Even more shit/limiters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +106,8 @@
   },
   "active": "d9f4689a306afb55",
   "lastOpenFiles": [
-    "Electrical and electronic systems/2 Electronics/1d Even more shit/diode source limiter circuit.md",
     "Electrical and electronic systems/2 Electronics/1d Even more shit/limiters.md",
+    "Electrical and electronic systems/2 Electronics/1d Even more shit/diode source limiter circuit.md",
     "Electrical and electronic systems/2 Electronics/1d Even more shit/daul diode limiter circuit.md",
     "Electrical and electronic systems/2 Electronics/1d Even more shit/single diode limiter circuit.md",
     "Electrical and electronic systems/2 Electronics/1d Even more shit/threashold voltage.md",
