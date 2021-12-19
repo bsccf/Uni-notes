@@ -13,3 +13,4 @@ tags: ["NotesPage"]
 ## Expanded articles
 ![[operator notation]]
 
+![[operator notation to express non or nonhomogeneous equations]]
