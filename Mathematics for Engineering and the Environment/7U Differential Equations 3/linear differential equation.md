@@ -11,6 +11,5 @@ A linear differential equation is a [[differential equation|differential]] equat
 >> where:
 >> $f(x)=$ linear differential equation
 >> $a(x)=$ some arbitrary differentiatable function
->> $=$
 
 Note that a linear differential equation will be differentiatable.

@@ -3,7 +3,7 @@ aliases: [""]
 tags: ["Question","QFormat3"]
 ---
 
-#### How can we
+#### How can we use
 ## Operator notation to define linear equations
 
 Any equation that can satisfy the following is a [[linear differential equation]]:
