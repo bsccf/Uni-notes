@@ -1,8 +1,13 @@
 ---
-aliases: ["clamp"]
+aliases: ["clamp","clamper"]
 tags: ["Question","QFormat3"]
 ---
 
 #### What are
 ## Clamps
-These are circuites that apply
+### Intro
+A clamper is an electronic circuit that fixes either the positive or the negative peak excursions of a signal to a defined value by shifting its DC value.
+
+![[Pasted image 20211219111749.png]]
+
+A distinct feature of a clamper is the use of a capactior.
