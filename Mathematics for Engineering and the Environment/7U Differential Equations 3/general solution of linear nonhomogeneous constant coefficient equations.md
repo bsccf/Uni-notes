@@ -32,4 +32,9 @@ t^{2} &= \frac{d^{2}x}{dt^{2}} + 5\frac{dx}{dt} - 9x & \frac{d^{2}x}{dt^{2}} &= 
 \therefore x(t)&=-\frac{1}{9}t^{2} -\frac{10}{81} t - \frac{68}{729} \\& is \:the\:particular\:integral
 \end{align*}$$
 
-We now need to find the [[complementary function]], we can do this using [[integra]]
+We now need to find the [[complementary function]], we can do this using [[solving linear homogeneous constant-coefficient equations]] since the complementary function is when $L[x]=0$ we solve $\frac{d^{2}x}{dt^{2}} + 5\frac{dx}{dt} - 9x=0$:
+
+$$\begin{align*}
+0 &= m^{2} + 5m - 9\\
+m &= \frac{-5\pm \sqrt{61}}{2} 
+\end{align*}$$
