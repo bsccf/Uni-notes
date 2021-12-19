@@ -16,3 +16,4 @@ If we look back at the [[n-p diode]], we know that if a voltage is applied in th
 
 ### Theory
 ![[Pasted image 20211219095837.png]]
+Basically a [[zener diodes|zener diode]] exploits the breakdown voltage of a diode, and with heavy [[doping semiconductors|doping]] we can make it so that the breakdown voltage occurs at a practical voltage. As you can see on the graph, a very useful attribute of a [[zener diodes|zener diode]] is that once you pass that breakdown voltage the voltage across the diode (is pretty much) constant. This m
