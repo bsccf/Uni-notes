@@ -16,4 +16,10 @@ A linearly dependent functions are sets of functions that can be written interms
 
 ### Example:
 
-> Is $\{ 1+t, t^{2}, 1+t+4t^{2} \}$ a set of independent
+> Is $\{ 1+t, t^{2}, 1+t+4t^{2} \}$ a set of independent functions?
+
+$$\begin{align*}
+0 &= a(2+t) + b(t+t^{2}) + c(1+t+4t^{2})\\
+&= a+c + ct+ at + bt^{2} +4ct^{2}\\
+&& 0&=a+0b+c & 0&= a + 0b + c & 0 &= 
+\end{align*}$$
