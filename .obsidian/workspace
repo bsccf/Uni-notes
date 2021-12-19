@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/7U Differential Equations 3/operator notation to define linear differential equations.md",
-            "mode": "preview"
+            "file": "Mathematics for Engineering and the Environment/7U Differential Equations 3/linear differential equation.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/7U Differential Equations 3/operator notation to define linear differential equations.md",
+                "file": "Mathematics for Engineering and the Environment/7U Differential Equations 3/linear differential equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "d9f4689a306afb55",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/7U Differential Equations 3/linear differential equation.md",
     "Mathematics for Engineering and the Environment/7U Differential Equations 3/operator notation to define linear differential equations.md",
     "Mathematics for Engineering and the Environment/7U Differential Equations 3/Differential equations 3 overview.md",
     "Mathematics for Engineering and the Environment/7U Differential Equations 3/operator notation to express non or nonhomogeneous equations.md",
@@ -114,7 +115,6 @@
     "Electrical and electronic systems/2 Electronics/1d Even more shit/Diodes in clamp circuits notes.md",
     "Electrical and electronic systems/2 Electronics/1d Even more shit/limiters.md",
     "Electrical and electronic systems/2 Electronics/1d Even more shit/daul diode limiter circuit.md",
-    "Electrical and electronic systems/2 Electronics/1d Even more shit/diode source limiter circuit.md",
-    "Electrical and electronic systems/2 Electronics/1d Even more shit/threashold voltage.md"
+    "Electrical and electronic systems/2 Electronics/1d Even more shit/diode source limiter circuit.md"
   ]
 }
