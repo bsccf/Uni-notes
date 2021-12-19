@@ -25,9 +25,11 @@ So $x_c + x*$ is a solution of $L[x]=f(t)$
 
 > ### $$ L[x_c + x*] = f(t) $$ 
 >> where:
->> $x_c=$ a solution of the homogeneous version of $L[x] = f(t)$
->> $x*=$ any solution of $L[x] = f(t)$
+>> $x_c=$ a solution of the homogeneous version of $L[x] = f(t)$ (also known as [[complementary function]])
+>> $x*=$ any solution of $L[x] = f(t)$ (also known as [[particular integral]])
 >> $L[x]=$ a [[linear differential equation]]
+
+^50b2a4
 
 Note that we define the [[particular integral]] and [[complementary function]] from $x_c$ and $x*$: ^3fefb1
 - $x*$ the "any solution" is the [[particular integral]] ^eaa815

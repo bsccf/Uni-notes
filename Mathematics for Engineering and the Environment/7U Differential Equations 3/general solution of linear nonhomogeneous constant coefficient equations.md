@@ -6,7 +6,8 @@ tags: ["Question","QFormat3"]
 #### How can you find the
 ## General solution of linear nonhomogeneous constant coefficient equations
 
-Well if we look back at ![[general solution of a linear nonhomogeneous equation^]]
+Well if we look back at [[general solution of a linear nonhomogeneous equation]] everything we need to do this is there:
+![[general solution of a linear nonhomogeneous equation#^50b2a4]]
 
 
 
