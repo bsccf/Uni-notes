@@ -7,6 +7,6 @@ tags: ["Question","QFormat3"]
 ## Limiters
 These are components introduced to limit voltage within circuits, commonly this can be to protect sensitive components from spikes and fluctuations in supply. Often this is done using [[diode|diodes]].
 
-Protection methods:
+limiters:
 - [[zener diodes as regulators|zener diodes as limiters]]
-- 
+- [[single diode limiter circuit]]
