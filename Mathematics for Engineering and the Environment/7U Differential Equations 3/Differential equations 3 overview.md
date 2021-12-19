@@ -28,3 +28,5 @@ tags: ["NotesPage"]
 ![[general solution of a linear nonhomogeneous equation]] !UNFINISHED, GET BACK TO ONCE STUFF
 
 ![[general solution of linear nonhomogeneous constant coefficient equations]]
+
+![[finding particular integrals]]
