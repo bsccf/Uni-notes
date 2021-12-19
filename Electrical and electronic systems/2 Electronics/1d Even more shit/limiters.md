@@ -10,3 +10,4 @@ These are components introduced to limit voltage within circuits, commonly this 
 limiters:
 - [[zener diodes as regulators|zener diodes as limiters]]
 - [[single diode limiter circuit]]
+- [[daul diode limiter circuit]]
