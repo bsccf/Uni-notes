@@ -70,4 +70,8 @@ x(t) &= A\cos 2t + B\sin 2t \\
 x(t) &= - \frac{13}{269} \cos 2t + \frac{10}{269}\sin 2t
 \end{align*}$$
 
-Now we find the [[general and particular solution|general solution]], but sinc
+Now we find the [[general and particular solution|general solution]], but its the same as example 1 so Ima skip strait to the final answer:
+
+$$\begin{align*}
+x(t) &= Ae^{t\frac{-5 + \sqrt{61}}{2}}+ Be^{t\frac{-5 - \sqrt{61}}{2}} - \frac{13}{269} \cos 2t + \frac{10}{269}\sin 2t
+\end{align*}$$
