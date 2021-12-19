@@ -14,3 +14,5 @@ tags: ["NotesPage"]
 ![[operator notation]]
 
 ![[operator notation to express non or nonhomogeneous equations]]
+
+![[operator notation to define linear equations]]

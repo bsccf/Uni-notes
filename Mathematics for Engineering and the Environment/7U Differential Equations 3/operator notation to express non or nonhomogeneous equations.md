@@ -13,5 +13,5 @@ L[x(t)] &= 0
 
 This is a nonhomogeneous equation:
 $$\begin{align*}
-L[x(t)] &= 0
+L[x(t)] &= f(x)
 \end{align*}$$
