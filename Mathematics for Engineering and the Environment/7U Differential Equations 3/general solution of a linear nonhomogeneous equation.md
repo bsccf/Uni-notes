@@ -21,8 +21,11 @@ L[x_c + x*] &= 0 + f(t)\\
 
 So $x_c + x*$ is a solution of $L[x]=f(t)$
 
-> ### $$  = $$ 
+> ### $$ L[x_c + x*] = f(t) $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $x_c=$ a solution of the homogeneous version of $L[x] = f(t)$
+>> $x*=$ any solution of $L[x] = f(t)$
+>> $L[x]=$ a [[linear differential equation]]
+
+Note that we define the [[particular integral]] and [[complementary function]] from $x_c$ and $x*$.
+
