@@ -21,8 +21,11 @@ First we need a [[particular integral]], so we try something suitable, lets try 
 $$\begin{align*}
 &&x &= Pt^{2} + Qt + R\\
 &&\frac{dx}{dt} &= 2Pt + Q\\
-0 &= \frac{d^{2}x}{dt^{2}} + 5\frac{dx}{dt} - 9x & \frac{d^{2}x}{dt^{2}} &= 2P\\
+t^{2} &= \frac{d^{2}x}{dt^{2}} + 5\frac{dx}{dt} - 9x & \frac{d^{2}x}{dt^{2}} &= 2P\\
  &= (2P )+ 5(2Pt + Q) - 9(Pt^{2} + Qt + R)\\
- &= (2P )+ 5(2Pt + Q) - 9(Pt^{2} + Qt + R)
+ &= 2P + 10Pt + 5Q - 9Pt^{2} + 9Qt + 9R\\
+ 0 &= t^{2} ( -1 - 9P ) + t( 10P + 9Q ) + ( 2P + 5Q + 9R )\\
+& & 1 &= 9P & 0 &= 10P + 9Q & 0 &= 2P +5Q + 9R\\
+&
 
 \end{align*}$$
