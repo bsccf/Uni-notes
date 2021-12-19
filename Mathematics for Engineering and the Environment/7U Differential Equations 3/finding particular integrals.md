@@ -11,13 +11,14 @@ There isn't one.
 
 Well that's kinda true, bascially finding them is trial and error. This is the way:
 
-So you have to find the [[particular integral]] of $L[x_1]=f(x)$:
+So you have to find the [[particular integral]] of $L[x_1]=f(x)$ (if your confused on what $L[x_1]$ is look at [[general solution of a linear nonhomogeneous equation|this]]):
 
 then do:
 $$\begin{align*}
 &\frac{d}{dx} f(x)\\
 &\frac{d^{2}}{dx^{2}} f(x) 
 \end{align*}$$
+well atleast do this if your $L[x_1]$ is in the form $A\frac{d^{2}x}{dt^{2}} + B\frac{dx}{dt} + Cx$, basically you are differentiating $f(x)$ till you can sub in for all differentiated forms that $L[x_1]$ requires.
 
 Then make an equation composed of each unique part of the differential multiplied by a constant, and then differentiate that till you have enough to sub back into $L[x_1]$ and solve for the constants, if it can't be solved you will have to adjust your inputs.
 
