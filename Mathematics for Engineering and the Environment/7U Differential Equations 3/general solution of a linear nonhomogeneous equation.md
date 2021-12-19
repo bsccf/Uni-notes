@@ -12,7 +12,9 @@ Let $L[x] = f(t)$ be a [[homogeneous and nonhomogeneous differential equations|n
 
 Now let $x*$ be a solution of $L[x]$ so $L[x*] = f(t)$.
 
-Now conider the related [[homogeneous and nonhomogeneous differential equations|homogeneous equation]] $L[x]=0$, and let the solution of this be $x_c$ so $L[]$
+Now conider the related [[homogeneous and nonhomogeneous differential equations|homogeneous equation]] $L[x]=0$, and let the solution of this be $x_c$ so $L[x_c]=0$.
+
+According to the [[linearity principle]] since $x_c$ and $x*$ are solutions to $L[x]$ then $L[a x_c + b x*] = 0$
 
 > ### $$  = $$ 
 >> where:
