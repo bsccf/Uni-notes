@@ -12,5 +12,4 @@ So bascially this is the same as a [[single diode limiter circuit]], accept it l
 > ### $$ V_{dth} >= V_{out} >= -V_{dth} $$ 
 >> where:
 >> $V_{out}=$ Voltage output
->> $V_{in}=$ Voltage input
 >> $V_{dth}=$ diodes [[threashold voltage]]

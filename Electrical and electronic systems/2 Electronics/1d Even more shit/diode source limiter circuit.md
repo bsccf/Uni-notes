@@ -8,8 +8,8 @@ tags: ["Question","QFormat3"]
 If we look back at the [[single diode limiter circuit]], we can change the effective [[threashold voltage]] by modifieing the pd on the diodes loop:
 ![[Pasted image 20211219110450.png]]
 
-> ### $$ V_out = $$ 
+> ### $$ V_{out} <= V_x + V_{dth} $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $V_{out}=$ Voltage output
+>> $V_{dth}=$ diodes [[threashold voltage]]
+>> $V_x=$ extra voltage source

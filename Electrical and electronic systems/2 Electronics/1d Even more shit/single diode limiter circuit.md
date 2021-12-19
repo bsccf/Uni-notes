@@ -11,5 +11,4 @@ This is where you place a [[diode]] in a circuit for use as a [[limiters|limiter
 > ### $$ V_{out} >= -V_{dth} $$ 
 >> where:
 >> $V_{out}=$ Voltage output
->> $V_{in}=$ Voltage input
 >> $V_{dth}=$ diodes [[threashold voltage]]
