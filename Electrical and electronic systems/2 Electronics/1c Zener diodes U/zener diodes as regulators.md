@@ -11,8 +11,10 @@ If we think back to [[Kirchov's voltage law]], and how [[zener diodes]] have a m
 
 The resistor $R_S$ will regulate the current, which regulates the current for $R_L$ protecting it from excessive currents as well. We can easily calculate the value of $R_S$ for a particular required diode current and particular load current.
 
-> ### $$ R_S = V_{in}-V_{} $$ 
+> ### $$ R_S = \frac{V_{in}-V_{Z}}{I_{load}+I_Z} $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $R_S=$ Required resistance 
+>> $V_{in}=$ Input voltage
+>> $V_Z=$ voltage across $R_L$ (same as across diode)
+>> $I_{load}=$ Load current
+>> $I_Z=$ Current through diode
