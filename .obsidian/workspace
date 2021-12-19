@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/7U Differential Equations 3/Differential equations 3 overview.md",
+            "file": "Mathematics for Engineering and the Environment/7U Differential Equations 3/linearly dependent and independent functions.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/7U Differential Equations 3/Differential equations 3 overview.md",
+                "file": "Mathematics for Engineering and the Environment/7U Differential Equations 3/linearly dependent and independent functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +106,8 @@
   },
   "active": "d9f4689a306afb55",
   "lastOpenFiles": [
-    "Mathematics for Engineering and the Environment/7U Differential Equations 3/Differential equations 3 overview.md",
     "Mathematics for Engineering and the Environment/7U Differential Equations 3/linearly dependent and independent functions.md",
+    "Mathematics for Engineering and the Environment/7U Differential Equations 3/Differential equations 3 overview.md",
     "Mathematics for Engineering and the Environment/7U Differential Equations 3/linearity principle.md",
     "Mathematics for Engineering and the Environment/7U Differential Equations 3/operator notation to define linear differential equations.md",
     "Mathematics for Engineering and the Environment/7U Differential Equations 3/linear differential equation.md",
