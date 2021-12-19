@@ -9,6 +9,8 @@ A linear differential equation is a [[differential equation|differential]] equat
 
 > ### $$ f(x) = (a_0(x) \times y)  + \left(a_1(x) \times \frac{dy}{dx}\right) + \left(a_2(x) \times \frac{d^{2}y}{dx^{2}}\right) + ... + \left(a_n(x) \times \frac{d^{n}y}{dx^{n}}\right)  $$ 
 >> where:
->> $f(x)=$ some arbitrary differentiatable function
+>> $f(x)=$ linear differential equation
 >> $a(x)=$ some arbitrary differentiatable function
 >> $=$
+
+Note that a linear differential equation will be differentiatable.
