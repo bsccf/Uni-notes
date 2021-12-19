@@ -12,6 +12,10 @@ Well if we look back at [[general solution of a linear nonhomogeneous equation]]
 
 When trying to find the [[complementary function]] the page [[solving linear homogeneous constant-coefficient equations]] is often useful.
 
+Also I like this:
+![[Pasted image 20211219194450.png]]
+"Guess till you get it right, [[textbook be doing a little trolling|good luck bitch]]"
+
 ### Example
 
 #### Example 1
