@@ -14,3 +14,15 @@ Any equation that can satisfy the following is a [[linear differential equation]
 >> $a,b=$ any constant
 >> $L[...]=$ a function function
 
+### Example
+> Prove that $\frac{d^{2}x}{dt^{2}} + 4t \frac{dx}{dt} - (\sin t)x = cos \t$ is a [[linear differential equation]].
+
+$$\begin{align*}
+L = \frac{d^{2}}{dt^{2}} + 4t \frac{d}{dt} - (\sin t)
+\end{align*}$$
+
+$$\begin{align*}
+L[ax_1 + bx_2] = L[ax_1 + bx_2]\\
+&= (ax_1 + bx_2)\frac{d^{2}}{dt^{2}} + (ax_1 + bx_2)4t \frac{d}{dt} - (ax_1 + bx_2)(\sin t)
+\end{align*}$$
+
