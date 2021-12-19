@@ -10,7 +10,7 @@ Well if we look back at [[general solution of a linear nonhomogeneous equation]]
 ![[general solution of a linear nonhomogeneous equation#^50b2a4]]
 
 
-When trying to find the [[particular integral]] the page [[solving linear homogeneous constant-coefficient equations]] is often useful.
+When trying to find the [[complementary function]] the page [[solving linear homogeneous constant-coefficient equations]] is often useful.
 
 ### Example
 
@@ -49,3 +49,14 @@ $$\begin{align*}
 x(t) &= Ae^{t\frac{-5 + \sqrt{61}}{2}}+ Be^{t\frac{-5 - \sqrt{61}}{2}} - \frac{10}{81} t - \frac{68}{729}
 \end{align*}$$
 
+#### Example 2
+> Find the general solution of $\frac{d^{2}x}{dt^{2}} + 5 \frac{dx}{dt} - 9x = \cos 2t$
+
+First we need to find the [[particular integral]]:
+
+$$\begin{align*}
+x(t) &= \cos 2t\\
+\frac{dx}{dt} &= 2 \sin 2t\\
+\frac{d^{2}x}{dt^{2}} &= -4 \cos 2t\\
+\cos 2t &= \frac{d^{2}x}{dt^{2}} + 5 \frac{dx}{dt} - 9x
+\end{align*}$$
