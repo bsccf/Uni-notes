@@ -19,3 +19,4 @@ tags: ["NotesPage"]
 
 ![[linearity principle]]
 
+![[linear dependent and ]]
