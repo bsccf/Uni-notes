@@ -55,9 +55,10 @@ x(t) &= Ae^{t\frac{-5 + \sqrt{61}}{2}}+ Be^{t\frac{-5 - \sqrt{61}}{2}} - \frac{1
 First we need to find the [[particular integral]]:
 
 $$\begin{align*}
-&&x(t) &= A\cos 2t + B\sin 2t \\
-&&\frac{dx}{dt} &= -2A\sin 2t + 2B\cos 2t \\
-&&\frac{d^{2}x}{dt^{2}} &=  -4A\cos 2t - 4B\sin 2t \\
-\frac{d^{2}x}{dt^{2}} + 5 \frac{dx}{dt} - 9x &= \cos 2t\\\\
-(-4A\cos 2t - 4B\sin 2t) + 5 (-2A\sin 2t + 2B\cos 2t) - 9(A\cos 2t + B\sin 2t) &= \cos 2t
+x(t) &= A\cos 2t + B\sin 2t \\
+\frac{dx}{dt} &= -2A\sin 2t + 2B\cos 2t \\
+\frac{d^{2}x}{dt^{2}} &=  -4A\cos 2t - 4B\sin 2t \\
+&&\frac{d^{2}x}{dt^{2}} + 5 \frac{dx}{dt} - 9x &= \cos 2t\\\\
+&&(-4A\cos 2t - 4B\sin 2t) + 5 (-2A\sin 2t + 2B\cos 2t) - 9(A\cos 2t + B\sin 2t) &= \cos 2t\\
+&&  &= 0
 \end{align*}$$
