@@ -18,3 +18,4 @@ tags: ["NotesPage"]
 ![[operator notation to define linear differential equations]]
 
 ![[linearity principle]]
+
