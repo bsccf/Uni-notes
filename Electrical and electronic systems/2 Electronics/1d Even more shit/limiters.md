@@ -15,4 +15,9 @@ limiters:
 - [[diode source limiter circuit]]
 
 ### Expanded
-![[zene]]
+![[zener diodes as regulators|zener diodes as limiters]]
+![[single diode limiter circuit]]
+
+![[daul diode limiter circuit]]
+
+![[diode source limiter circuit]]
