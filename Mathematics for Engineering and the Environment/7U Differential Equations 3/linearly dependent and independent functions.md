@@ -14,7 +14,7 @@ A linearly dependent functions are sets of functions that can be written interms
 >> $k=$ some __non zero__ constant
 >> $f(t)=$ some function
 
-These can be useful when finding solutions to a set of functions, if your set of functions are linearly dependent then
+These can be useful when finding solutions to a set of functions, if your set of functions are linearly dependent then atleast one of them is just a manipulated form of some combination of the other functions of the set hence can be removed to find actual solutions.
 
 ### Example:
 
