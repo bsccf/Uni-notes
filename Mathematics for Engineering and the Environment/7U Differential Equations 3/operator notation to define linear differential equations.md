@@ -14,6 +14,8 @@ Any equation that can satisfy the following is a [[linear differential equation]
 >> $a,b=$ any constant
 >> $L[...]=$ a function function
 
+^785a09
+
 ### Example
 > Prove that $\frac{d^{2}x}{dt^{2}} + 4t \frac{dx}{dt} - (\sin t)x = \cos t$ is a [[linear differential equation]].
 
