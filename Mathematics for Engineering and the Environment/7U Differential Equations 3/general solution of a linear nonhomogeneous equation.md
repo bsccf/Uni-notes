@@ -8,7 +8,11 @@ tags: ["Question","QFormat3"]
 
 First remember [[operator notation]] and the [[linearity principle]] now consider the following:
 
-let $L[x] = f(t)$ be a [[homogeneous and nonhomogeneous differential equations|nonhomogeneous]] [[linear differential equation]]
+Let $L[x] = f(t)$ be a [[homogeneous and nonhomogeneous differential equations|nonhomogeneous]] [[linear differential equation]].
+
+Now let $x*$ be a solution of $L[x]$ so $L[x*] = f(t)$.
+
+Now conider the related [[homogeneous and nonhomogeneous differential equations|homogeneous equation]] $L[x]=0$, and let the solution of this be $x_c$ so $L[]$
 
 > ### $$  = $$ 
 >> where:
