@@ -22,9 +22,17 @@ $$\begin{align*}
 Then make an equation composed of each unique part of the differential multiplied by a constant, and then differentiate that till you have enough to sub back into $L[x_1]$ and solve for the constants, if it can't be solved you will have to adjust your inputs.
 
 ### Example
-> Find the general solution of $\frac{d^{2}x}{dt^{2}} + 5 \frac{dx}{dt} - 9x = \cos 2t$
+> Find the [[particular integral]] of $\frac{d^{2}x}{dt^{2}} + 5 \frac{dx}{dt} - 9x = \cos 2t$
 
-First we need to find the [[particular integral]]:
+So first of all $f(x) = \cos 2t$:
+
+$$\begin{align*}
+x &= \cos 2t\\
+\frac{dx}{dt} &= -2 \sin 2t\\
+\frac{d^{2}x}{dx^{2}} &= -4 \cos 2t 
+\end{align*}$$
+
+So we have unique bits $\cos 2t$ and $\sin 2t$, so I'm going to make a guess that $A\cos 2t + B\sin 2t$ could be a solution:
 
 $$\begin{align*}
 x(t) &= A\cos 2t + B\sin 2t \\
@@ -37,3 +45,5 @@ x(t) &= A\cos 2t + B\sin 2t \\
 && A&= - \frac{13}{269} & B&= \frac{10}{269}\\
 x(t) &= - \frac{13}{269} \cos 2t + \frac{10}{269}\sin 2t
 \end{align*}$$
+
+Would you look at that, it is.
