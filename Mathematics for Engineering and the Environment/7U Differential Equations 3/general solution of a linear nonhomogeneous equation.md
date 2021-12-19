@@ -15,7 +15,9 @@ Now conider the related [[homogeneous and nonhomogeneous differential equations|
 [[operator notation to define linear differential equations]]
 If $L[x]$ is a [[linear differential equation]] then $L[ax_1 + bx_2] = aL[x_1] + bL[x_2]$ and since $x_c$ and $x*$ are solutions to $L[x]$ then:
 $$\begin{align*}
-L[ax_c + bx*] = aL[x_c] + bL[x*] 
+L[x_c + x*] &= L[x_c] + L[x*]  & L[x_c]&=0 & L[x*] &= f(t)\\
+L[x_c + x*] &= 0 + f(t)\\
+\therefor &
 \end{align*}$$
 
 > ### $$  = $$ 
