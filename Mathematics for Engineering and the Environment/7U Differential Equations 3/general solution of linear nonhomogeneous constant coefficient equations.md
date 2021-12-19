@@ -69,3 +69,5 @@ x(t) &= A\cos 2t + B\sin 2t \\
 && A&= - \frac{13}{269} & B&= \frac{10}{269}\\
 x(t) &= - \frac{13}{269} \cos 2t + \frac{10}{269}\sin 2t
 \end{align*}$$
+
+Now we find the [[general and particular solution|general solution]], but sinc
