@@ -16,5 +16,5 @@ The resistor $R_S$ will regulate the current, which regulates the current for $R
 >> $R_S=$ Required resistance 
 >> $V_{in}=$ Input voltage
 >> $V_Z=$ voltage across $R_L$ (same as across diode)
->> $I_{load}=$ Load current
->> $I_Z=$ Current through diode
+>> $I_{load}=$ Load current (current through $R_L$)
+>> $I_Z=$ Current through diode (usually about 5mA)
