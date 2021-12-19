@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["zener diodes as limiters"]
 tags: ["Question","QFormat3"]
 ---
 

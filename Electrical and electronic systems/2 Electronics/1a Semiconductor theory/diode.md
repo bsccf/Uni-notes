@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["diodes"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -10,3 +10,5 @@ tags: ["Question","QFormat3"]
 [[light emitting diode]]
 
 [[n-p diode]]
+
+[[zener diodes|zener diode]]
