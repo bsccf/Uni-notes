@@ -11,7 +11,7 @@ There isn't one.
 
 Well that's kinda true, bascially finding them is trial and error. This is the way:
 
-$L[x_1]=f(x)$
+So you have to find the [[particular integral]] of $L[x_1]=f(x)$:
 
 then do:
 $$\begin{align*}
@@ -19,4 +19,21 @@ $$\begin{align*}
 &\frac{d^{2}}{dx^{2}} f(x) 
 \end{align*}$$
 
-Then make an equation composed of 
+Then make an equation composed of each unique part of the differential multiplied by a constant, and then differentiate that till you have enough to sub back into $L[x_1]$ and solve for the constants, if it can't be solved you will have to adjust your inputs.
+
+### Example
+> Find the general solution of $\frac{d^{2}x}{dt^{2}} + 5 \frac{dx}{dt} - 9x = \cos 2t$
+
+First we need to find the [[particular integral]]:
+
+$$\begin{align*}
+x(t) &= A\cos 2t + B\sin 2t \\
+\frac{dx}{dt} &= -2A\sin 2t + 2B\cos 2t \\
+\frac{d^{2}x}{dt^{2}} &=  -4A\cos 2t - 4B\sin 2t \\
+&&\frac{d^{2}x}{dt^{2}} + 5 \frac{dx}{dt} - 9x &= \cos 2t\\\\
+&&(-4A\cos 2t - 4B\sin 2t) + 5 (-2A\sin 2t + 2B\cos 2t) - 9(A\cos 2t + B\sin 2t) &= \cos 2t\\
+&& A(-13\cos 2t-10\sin 2t) + B( 10\cos 2t -13\sin 2t ) &= \\
+&& -13 A + 10B &= 1 & -10A -13B &= 0\\
+&& A&= - \frac{13}{269} & B&= \frac{10}{269}\\
+x(t) &= - \frac{13}{269} \cos 2t + \frac{10}{269}\sin 2t
+\end{align*}$$
