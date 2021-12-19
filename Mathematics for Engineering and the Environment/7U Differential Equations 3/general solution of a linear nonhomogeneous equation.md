@@ -36,3 +36,4 @@ In the event that you are totally confused we can do some examples.
 ### Examples
 
 Find the general solution of $\frac{d^{2}x}{dt^{2}}+ \lambda^{2}x = 4t^{3}$
+![[Pasted image 20211219172823.png]]

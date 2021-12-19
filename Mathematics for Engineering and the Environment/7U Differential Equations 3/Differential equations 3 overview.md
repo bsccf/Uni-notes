@@ -25,4 +25,5 @@ tags: ["NotesPage"]
 
 ![[linearly dependent and independent functions]]
 
-![[general solution of a linear nonhomogeneous equation]]
+![[general solution of a linear nonhomogeneous equation]] !UNFINISHED, GET BACK TO ONCE STUFF
+
