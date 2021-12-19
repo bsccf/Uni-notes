@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/7U Differential Equations 3/general solution of linear nonhomogeneous constant coefficient equations.md",
-            "mode": "source"
+            "file": "Mathematics for Engineering and the Environment/4 Differential Equations 1/Differential Equations 1 overview.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/7U Differential Equations 3/general solution of linear nonhomogeneous constant coefficient equations.md",
+                "file": "Mathematics for Engineering and the Environment/4 Differential Equations 1/Differential Equations 1 overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "d9f4689a306afb55",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/4 Differential Equations 1/Differential Equations 1 overview.md",
     "Mathematics for Engineering and the Environment/7U Differential Equations 3/general solution of linear nonhomogeneous constant coefficient equations.md",
     "Mathematics for Engineering and the Environment/7U Differential Equations 3/Differential equations 3 overview.md",
     "Mathematics for Engineering and the Environment/7U Differential Equations 3/general solution of a linear nonhomogeneous equation.md",
@@ -114,7 +115,6 @@
     "Mathematics for Engineering and the Environment/7U Differential Equations 3/operator notation to define linear differential equations.md",
     "Mathematics for Engineering and the Environment/7U Differential Equations 3/linearity principle.md",
     "Mathematics for Engineering and the Environment/7U Differential Equations 3/linearly dependent and independent functions.md",
-    "Mathematics for Engineering and the Environment/7U Differential Equations 3/linear differential equation.md",
-    "Mathematics for Engineering and the Environment/7U Differential Equations 3/operator notation to express non or nonhomogeneous equations.md"
+    "Mathematics for Engineering and the Environment/7U Differential Equations 3/linear differential equation.md"
   ]
 }

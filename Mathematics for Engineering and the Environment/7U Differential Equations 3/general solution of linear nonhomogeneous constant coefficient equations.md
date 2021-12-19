@@ -32,3 +32,4 @@ t^{2} &= \frac{d^{2}x}{dt^{2}} + 5\frac{dx}{dt} - 9x & \frac{d^{2}x}{dt^{2}} &= 
 \therefore x(t)&=-\frac{1}{9}t^{2} -\frac{10}{81} t - \frac{68}{729} \\& is \:the\:particular\:integral
 \end{align*}$$
 
+We now need to find the [[complementary function]], we can do this using [[integra]]
