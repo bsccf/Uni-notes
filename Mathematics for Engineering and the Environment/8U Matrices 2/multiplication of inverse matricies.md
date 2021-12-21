@@ -16,3 +16,5 @@ tags: ["Question","QFormat3"]
 >> $A^{-1}=$ [[inverse matrix]]
 >> $I=$ [[unit matrix]]
 
+### Example
+![[Pasted image 20211221110129.png]]

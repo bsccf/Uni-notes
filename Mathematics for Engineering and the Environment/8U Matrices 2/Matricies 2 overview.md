@@ -15,3 +15,5 @@ tags: ["NotesPage"]
 ![[inverse of a 2x2 matrix]]
 
 ![[multiplication of inverse matricies]]
+
+![[solving linear equations with matricies]]
