@@ -1,5 +1,5 @@
 ---
-aliases: ["integration substitution method"]
+aliases: ["integration substitution method","integration by substitution"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -20,6 +20,8 @@ Alternatively you can replace g(x) with t (or some other letter) and use:
 >> $f(t)=$ a function 
 >> $k=$ a constant
 
+(This second one is the way you really use it tbh)
+
 ### Examples
 #### Example 1
 > Find the [[Indefinate integral]] of $\int 2x\sqrt{x^{2}+2}\cdot dx$
@@ -28,5 +30,12 @@ $$\begin{align*}
 &\int 2x\sqrt{x^{2}+2}\cdot dx \\
 &&& t = x^{2}+2\\
 &&& \frac{dt}{dx} = 2x\\
-&\int \frac{dt}{dx} \sqrt{x^{2}+2}\cdot dx
+&\int \frac{dt}{dx} \sqrt{t}\cdot dx\\
+&\int \sqrt{t} \cdot dt\\
+& \frac{2}{3} t^{\frac{3}{2}} + k\\
+& \frac{2}{3} (x^{2}+2)^{\frac{3}{2}} + k
 \end{align*}$$
+
+#### Example 2
+
+>
