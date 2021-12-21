@@ -11,6 +11,29 @@ Ok so we know that [[elementary row operations with constant solutions|elementar
 
 ### Example
 $$\begin{align*}
-\begin{pmatrix} 1 & 5 & -1 \\ -2 & 23 & 21 \\ 0 & 1 & 4 \end{pmatrix}  &= \begin{pmatrix} 7 \\ 5 \\ 0 \end{pmatrix}
+\begin{pmatrix} 1 & 5 & -1 \\ -2 & 23 & 21 \\ 0 & 1 & 4 \end{pmatrix} \begin{pmatrix}x  \\ y \\ z\end{pmatrix}  &= \begin{pmatrix} 7 \\ 5 \\ 0 \end{pmatrix}
 \end{align*}$$
-Subtract 
+Subtract 2x(row 1) from row 2:
+
+$$\begin{align*}
+\begin{pmatrix} 1 & 5 & -1 \\ 0 & 33 & 19 \\ 0 & 1 & 4 \end{pmatrix} \begin{pmatrix}x  \\ y \\ z\end{pmatrix}  &= \begin{pmatrix} 7 \\ 19 \\ 0 \end{pmatrix}
+\end{align*}$$
+
+Divide row 2 by 33 to get the diaganal to equal 1:
+
+$$\begin{align*}
+\begin{pmatrix} 1 & 5 & -1 \\ 0 & 1 & \frac{19}{33} \\ 0 & 1 & 4 \end{pmatrix} \begin{pmatrix}x  \\ y \\ z\end{pmatrix}  &= \begin{pmatrix} 7 \\ \frac{19}{33} \\ 0 \end{pmatrix}
+\end{align*}$$
+
+Subtract 1x(row 2) from row 3:
+$$\begin{align*}
+\begin{pmatrix} 1 & 5 & -1 \\ 0 & 1 & \frac{19}{33} \\ 0 & 0 & \frac{113}{33} \end{pmatrix}\begin{pmatrix}x  \\ y \\ z\end{pmatrix}   &= \begin{pmatrix} 7 \\ \frac{19}{33} \\ -\frac{19}{33} \end{pmatrix}
+\end{align*}$$
+
+Divide row 3 by $\frac{113}{33}$:
+
+$$\begin{align*}
+\begin{pmatrix} 1 & 5 & -1 \\ 0 & 1 & \frac{19}{33} \\ 0 & 0 & 1 \end{pmatrix} \begin{pmatrix}x  \\ y \\ z\end{pmatrix}  &= \begin{pmatrix} 7 \\ \frac{19}{33} \\ -\frac{19}{113} \end{pmatrix}
+\end{align*}$$
+
+Now the equations in [[upper-triangular matrix]] form with 1's on the diaganal. And the solution to the matrix is the same.
