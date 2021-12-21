@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["inverse matricies"]
 tags: ["Question","QFormat3"]
 ---
 
