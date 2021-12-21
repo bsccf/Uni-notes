@@ -18,3 +18,4 @@ tags: ["NotesPage"]
 
 ![[solving linear equations with matricies]]
 
+![[elementary row operations with constant solutions]]
