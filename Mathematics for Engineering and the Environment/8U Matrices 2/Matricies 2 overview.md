@@ -21,3 +21,6 @@ tags: ["NotesPage"]
 ![[elementary row operations with constant solutions]]
 
 ![[using elementary row operations to get the upper-triangular form]]
+
+Worked example of stuff:
+![[Pasted image 20211221135703.png]]
