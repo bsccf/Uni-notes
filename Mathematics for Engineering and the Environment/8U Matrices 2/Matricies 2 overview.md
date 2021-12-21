@@ -17,3 +17,4 @@ tags: ["NotesPage"]
 ![[multiplication of inverse matricies]]
 
 ![[solving linear equations with matricies]]
+

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/8U Matrices 2/I am calling you stupid if you do not understand.md",
+            "file": "Mathematics for Engineering and the Environment/8U Matrices 2/Matricies 2 overview.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/8U Matrices 2/I am calling you stupid if you do not understand.md",
+                "file": "Mathematics for Engineering and the Environment/8U Matrices 2/Matricies 2 overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,9 +106,9 @@
   },
   "active": "872f4aa31559cd46",
   "lastOpenFiles": [
-    "Mathematics for Engineering and the Environment/8U Matrices 2/I am calling you stupid if you do not understand.md",
-    "Mathematics for Engineering and the Environment/8U Matrices 2/solving linear equations with matricies.md",
     "Mathematics for Engineering and the Environment/8U Matrices 2/Matricies 2 overview.md",
+    "Mathematics for Engineering and the Environment/8U Matrices 2/solving linear equations with matricies.md",
+    "Mathematics for Engineering and the Environment/8U Matrices 2/I am calling you stupid if you do not understand.md",
     "Mathematics for Engineering and the Environment/8U Matrices 2/multiplication of inverse matricies.md",
     "Mathematics for Engineering and the Environment/8U Matrices 2/inverse matrix.md",
     "Mathematics for Engineering and the Environment/8U Matrices 2/inverse of a 2x2 matrix.md",
