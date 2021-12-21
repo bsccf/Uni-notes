@@ -13,9 +13,9 @@ tags: ["Question","QFormat3"]
 
 The hard part of using this is getting/seeing that the equation is in that format.
 
-Alternatively you can express x interms of something else (commonly t) and then use the fol
+Alternatively you can replace g(x) with t (or some other letter) and use:
 
-> ### $$ \int f^{'}(t) dt = f(t) + k $$ 
+> ### $$ \int f^{'}(g(x))\times g^{'}(x)\cdot dx = \int f^{'}(t) \frac{dt}{dx} dx = \int f^{'}(t) dt = f(t) + k $$ 
 >> where:
 >> $f(t)=$ a function 
 >> $k=$ a constant
@@ -26,5 +26,7 @@ Alternatively you can express x interms of something else (commonly t) and then 
 
 $$\begin{align*}
 &\int 2x\sqrt{x^{2}+2}\cdot dx \\
-&&& \frac{d}{dx}
+&&& t = x^{2}+2\\
+&&& \frac{dt}{dx} = 2x\\
+&\int \frac{dt}{dx} \sqrt{x^{2}+2}\cdot dx
 \end{align*}$$
