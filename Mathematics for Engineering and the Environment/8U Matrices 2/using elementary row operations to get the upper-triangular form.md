@@ -9,6 +9,8 @@ Fuck I don't have any illuminati memes, ok this sucks I need to find some one mo
 
 Ok so we know that [[elementary row operations with constant solutions|elementary row operations]] can be used to manipulate matrices representing linear equations without changing the solution, so what we are doing here is using these methods to get it the [[square matrix]] in the equation matrix thing into a [[upper-triangular matrix]] where elements along the diaganal are all 1.
 
-To do this we apply the following to each row:
-1) Subtract some multiple of another row in the matrix to get the element that should be zero to be zero
-2) Divide the row 
+### Example
+$$\begin{align*}
+\begin{pmatrix} 1 & 5 & -1 \\ -2 & 23 & 21 \\ 0 & 1 & 4 \end{pmatrix}  &= \begin{pmatrix} 7 \\ 5 \\ 0 \end{pmatrix}
+\end{align*}$$
+Subtract 
