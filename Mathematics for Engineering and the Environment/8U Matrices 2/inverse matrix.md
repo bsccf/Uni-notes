@@ -36,10 +36,6 @@ $$\begin{align*}
 A^{-1}&= \frac{1}{det\:A} adj\:A \\
 &= \frac{1}{det\:A} (cofactors\:A)^{T} \\
 &= \frac{1}{det\:A} (cofactors\:\begin{pmatrix} 5 & 2 & 4 \\ 3 & -1 & 2 \\ 1 & 4 & -3 \end{pmatrix})^{T}\\
-&= \frac{1}{det\:A} \begin{pmatrix}  \end{pmatrix}^{T}\\
-
-\begin{pmatrix} -1 & 2 \\ 4 & -3 \end{pmatrix} & \begin{pmatrix} 3 & 2 \\ 1 & -3 \end{pmatrix} & \begin{pmatrix} 3 & -1 &  \\ 1 & 4 \end{pmatrix}
-\begin{pmatrix} 2 & 4 \\ 4 & -3 \end{pmatrix} & \begin{pmatrix} 5 & 4 \\ 1 & -3 \end{pmatrix} & \begin{pmatrix} 5 & 2 &  \\ 1 & 4 \end{pmatrix}
-\begin{pmatrix} 2 & 4 \\ -1 & 2 \end{pmatrix} & \begin{pmatrix} 5 & 4 \\ 3 & -2 \end{pmatrix} & \begin{pmatrix} 5 & 2 &  \\ 1 & 4 \end{pmatrix}
-
+&= \frac{1}{det\:A} \begin{pmatrix} det \begin{pmatrix} -1 & 2 \\ 4 & -3 \end{pmatrix} & -det \begin{pmatrix} 3 & 2 \\ 1 & -3 \end{pmatrix} & det\begin{pmatrix} 3 & -1 &  \\ 1 & 4 \end{pmatrix} \\ -det\begin{pmatrix} 2 & 4 \\ 4 & -3 \end{pmatrix} & det\begin{pmatrix} 5 & 4 \\ 1 & -3 \end{pmatrix} & -det\begin{pmatrix} 5 & 2 &  \\ 1 & 4 \end{pmatrix} \\det \begin{pmatrix} 2 & 4 \\ -1 & 2 \end{pmatrix} & -det\begin{pmatrix} 5 & 4 \\ 3 & 2 \end{pmatrix} &det \begin{pmatrix} 5 & 2 &  \\ 3 & -1 \end{pmatrix} \end{pmatrix}^{T}\\
+&= \frac{1}{det\:A} \begin{pmatrix} det \begin{pmatrix} -1 & 2 \\ 4 & -3 \end{pmatrix} & -det \begin{pmatrix} 3 & 2 \\ 1 & -3 \end{pmatrix} & det\begin{pmatrix} 3 & -1 &  \\ 1 & 4 \end{pmatrix} \\ -det\begin{pmatrix} 2 & 4 \\ 4 & -3 \end{pmatrix} & det\begin{pmatrix} 5 & 4 \\ 1 & -3 \end{pmatrix} & -det\begin{pmatrix} 5 & 2 &  \\ 1 & 4 \end{pmatrix} \\det \begin{pmatrix} 2 & 4 \\ -1 & 2 \end{pmatrix} & -det\begin{pmatrix} 5 & 4 \\ 3 & 2 \end{pmatrix} &det \begin{pmatrix} 5 & 2 &  \\ 3 & -1 \end{pmatrix} \end{pmatrix}^{T}\\
 \end{align*}$$
