@@ -18,6 +18,11 @@ If you look back at the [[adjoint matrix]] page you can see under it's strange p
 
 ### Example
 #### 2x2 matrix
+> Find the inverse of $A=\begin{pmatrix} 1 & 2 \\ 2 & 3 \end{pmatrix}$
+
 $$\begin{align*}
-\begin{pmatrix} 1 & 2 \\ 2 & 3 \end{pmatrix}
+A^{-1}&= \frac{1}{det\:A} adj\:A \\
+&= \frac{1}{det\:A} (cofactors\:A)^{T} \\
+&= \frac{1}{det\begin{pmatrix} 1 & 2 \\ 2 & 3 \end{pmatrix}} (cofactors\:\begin{pmatrix} 1 & 2 \\ 2 & 3 \end{pmatrix})^{T}\\
+&= \frac{1}{1*3-2*2} (cofactors\:\begin{pmatrix} 1 & 2 \\ 2 & 3 \end{pmatrix})^{T}
 \end{align*}$$
