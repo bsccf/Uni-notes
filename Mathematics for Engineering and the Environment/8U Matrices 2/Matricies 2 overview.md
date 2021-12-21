@@ -11,3 +11,5 @@ tags: ["NotesPage"]
 
 ## Expanded articles
 ![[inverse matrix]]
+
+![[inverse of a 2x2 matrix]]
