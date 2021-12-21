@@ -24,5 +24,18 @@ $$\begin{align*}
 A^{-1}&= \frac{1}{det\:A} adj\:A \\
 &= \frac{1}{det\:A} (cofactors\:A)^{T} \\
 &= \frac{1}{det\begin{pmatrix} 1 & 2 \\ 2 & 3 \end{pmatrix}} (cofactors\:\begin{pmatrix} 1 & 2 \\ 2 & 3 \end{pmatrix})^{T}\\
-&= \frac{1}{1*3-2*2} (cofactors\:\begin{pmatrix} 1 & 2 \\ 2 & 3 \end{pmatrix})^{T}
+&= \frac{1}{1*3-2*2} \begin{pmatrix} 3 & -2 \\ -2 & 1 \end{pmatrix}^{T}\\
+&= \frac{1}{-1} \begin{pmatrix} 3 & -2 \\ -2 & 1 \end{pmatrix}\\
+&= \begin{pmatrix} -3 & 2 \\ 2 & -1 \end{pmatrix}
+\end{align*}$$
+
+#### 3x3 matrix
+> Find the inverse of $A=\begin{pmatrix} 5 & 2 & 4 \\ 3 & -1 & 2 \\ 1 & 4 & -3 \end{pmatrix}$
+
+$$\begin{align*}
+A^{-1}&= \frac{1}{det\:A} adj\:A \\
+&= \frac{1}{det\:A} (cofactors\:A)^{T} \\
+&= \frac{1}{det\:A} (cofactors\:\begin{pmatrix} 5 & 2 & 4 \\ 3 & -1 & 2 \\ 1 & 4 & -3 \end{pmatrix})^{T}\\
+&= \frac{1}{det\:A} \begin{pmatrix}  \end{pmatrix}^{T}\\
+
 \end{align*}$$
