@@ -10,7 +10,18 @@
           "type": "markdown",
           "state": {
             "file": "Mathematics for Engineering and the Environment/8U Matrices 2/elementary row operations with constant solutions.md",
-            "mode": "source"
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "3463bb353a66cb12",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mathematics for Engineering and the Environment/8U Matrices 2/eheheheh I hide memes where I can.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/8U Matrices 2/elementary row operations with constant solutions.md",
+                "file": "Mathematics for Engineering and the Environment/8U Matrices 2/eheheheh I hide memes where I can.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,8 +115,9 @@
     "direction": "horizontal",
     "width": 234
   },
-  "active": "872f4aa31559cd46",
+  "active": "3463bb353a66cb12",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/8U Matrices 2/eheheheh I hide memes where I can.md",
     "Mathematics for Engineering and the Environment/8U Matrices 2/elementary row operations with constant solutions.md",
     "Mathematics for Engineering and the Environment/8U Matrices 2/Matricies 2 overview.md",
     "Mathematics for Engineering and the Environment/8U Matrices 2/solving linear equations with matricies.md",
@@ -114,7 +126,6 @@
     "Mathematics for Engineering and the Environment/8U Matrices 2/inverse matrix.md",
     "Mathematics for Engineering and the Environment/8U Matrices 2/inverse of a 2x2 matrix.md",
     "Mathematics for Engineering and the Environment/6 Matrices 1/7 Matrix algebra with determinants/adjoint matrix.md",
-    "Mathematics for Engineering and the Environment/6 Matrices 1/1,2 Intro into matrices/transposed matrix.md",
-    "Mathematics for Engineering and the Environment/6 Matrices 1/6 Matrix determinants/minors and cofactors (matrices).md"
+    "Mathematics for Engineering and the Environment/6 Matrices 1/1,2 Intro into matrices/transposed matrix.md"
   ]
 }
