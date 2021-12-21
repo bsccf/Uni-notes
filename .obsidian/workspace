@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/8U Matrices 2/inverse matrix.md",
-            "mode": "source"
+            "file": "Mathematics for Engineering and the Environment/6 Matrices 1/7 Matrix algebra with determinants/adjoint matrix.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/8U Matrices 2/inverse matrix.md",
+                "file": "Mathematics for Engineering and the Environment/6 Matrices 1/7 Matrix algebra with determinants/adjoint matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "d9f4689a306afb55",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/6 Matrices 1/7 Matrix algebra with determinants/adjoint matrix.md",
+    "Mathematics for Engineering and the Environment/6 Matrices 1/1,2 Intro into matrices/transposed matrix.md",
+    "Mathematics for Engineering and the Environment/6 Matrices 1/6 Matrix determinants/minors and cofactors (matrices).md",
     "Mathematics for Engineering and the Environment/8U Matrices 2/inverse matrix.md",
     "Mathematics for Engineering and the Environment/8U Matrices 2/Matricies 2 overview.md",
     "Mathematics for Engineering and the Environment/7U Differential Equations 3/Differential equations 3 overview.md",
     "Mathematics for Engineering and the Environment/7U Differential Equations 3/finding particular integrals.md",
     "Mathematics for Engineering and the Environment/7U Differential Equations 3/general solution of a linear nonhomogeneous equation.md",
     "Mathematics for Engineering and the Environment/7U Differential Equations 3/general solution of linear nonhomogeneous constant coefficient equations.md",
-    "Mathematics for Engineering and the Environment/General org/differentiation.md",
-    "Mathematics for Engineering and the Environment/7U Differential Equations 3/textbook be doing a little trolling.md",
-    "Mathematics for Engineering and the Environment/Overall Read order.md",
-    "Mathematics for Engineering and the Environment/General org/matrices (maths).md"
+    "Mathematics for Engineering and the Environment/General org/differentiation.md"
   ]
 }
