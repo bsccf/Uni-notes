@@ -15,3 +15,9 @@ tags: ["Question","QFormat3"]
 >> $I=$ [[unit matrix]]
 
 If you look back at the [[adjoint matrix]] page you can see under it's strange properties how it can easily be manipulated to give an inverse matrix.
+
+### Example
+#### 2x2 matrix
+$$\begin{align*}
+\begin{pmatrix} 1 & 2 \\ 2 & 3 \end{pmatrix}
+\end{align*}$$
