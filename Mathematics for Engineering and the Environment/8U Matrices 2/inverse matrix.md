@@ -11,3 +11,7 @@ tags: ["Question","QFormat3"]
 >> $A^{-1}=$ [[inverse matrix]] 
 >> $|A|=$ [[determinant]] of A
 >> $adj\:A=$ [[adjoint matrix]]
+>> $AA^{-1} = I$
+>> $I=$ [[unit matrix]]
+
+If you look back at the [[adjoint matrix]] page you can see under it's strange properties how it can easily be manipulated to give an inverse matrix.
