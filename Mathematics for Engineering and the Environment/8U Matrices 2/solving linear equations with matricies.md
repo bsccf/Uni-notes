@@ -24,4 +24,6 @@ $$\begin{align*}
  \begin{pmatrix}x \\ y \\ z\end{pmatrix} &= \begin{pmatrix} 1 & 5 & -1 \\ -2 & 23 & 21 \\ 0 & 1 & 4 \end{pmatrix}^{-1} \begin{pmatrix}7  \\ 5 \\ 0\end{pmatrix} \\
 &= \begin{pmatrix} \frac{392}{113} \\ \frac{76}{113} \\ - \frac{19}{113} \end{pmatrix}
 \end{align*}$$
-This is basically the method for [[solving linear equations with matricies]], this works with 2,3,4,5,6, ... n unkowns. Of course the limitations on when it is possible to find a [[inverse matrix]] still applies, this is actually quite useful as we can now use matricies to prove if 
+This is basically the method for [[solving linear equations with matricies]], this works with 2,3,4,5,6, ... n unkowns. ([[I am calling you stupid if you do not understand|me saying unlimited unknowns ok]])
+
+Of course the limitations on when it is possible to find a [[inverse matrix]] still applies, this is actually quite useful as we can now use matricies to prove if a set of linear equations has solutions that can be determined based on whether or not it's [[square matrix]] form has a non zero [[determinant]].
