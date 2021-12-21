@@ -24,3 +24,5 @@ tags: ["NotesPage"]
 
 Worked example of stuff:
 ![[Pasted image 20211221135703.png]]
+
+![[using the elimination method to invert matrices]]
