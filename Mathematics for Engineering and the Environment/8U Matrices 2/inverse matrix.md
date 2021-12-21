@@ -13,6 +13,7 @@ tags: ["Question","QFormat3"]
 >> $adj\:A=$ [[adjoint matrix]]
 >> $AA^{-1} = I$
 >> $I=$ [[unit matrix]]
+>> $|A|\neq 0$ 
 
 If you look back at the [[adjoint matrix]] page you can see under it's strange properties how it can easily be manipulated to give an inverse matrix.
 
@@ -35,8 +36,8 @@ A^{-1}&= \frac{1}{det\:A} adj\:A \\
 $$\begin{align*}
 A^{-1}&= \frac{1}{det\:A} adj\:A \\
 &= \frac{1}{det\:A} (cofactors\:A)^{T} \\
-&= \frac{1}{det\:A} (cofactors\:\begin{pmatrix} 5 & 2 & 4 \\ 3 & -1 & 2 \\ 1 & 4 & -3 \end{pmatrix})^{T}\\
+&= \frac{1}{det\:A} \left(cofactors\:\begin{pmatrix} 5 & 2 & 4 \\ 3 & -1 & 2 \\ 1 & 4 & -3 \end{pmatrix} \right)^{T}\\
 &= \frac{1}{5det \begin{pmatrix} -1 & 2 \\ 4 & -3 \end{pmatrix} -2det \begin{pmatrix} 3 & 2 \\ 1 & -3 \end{pmatrix} +4 det\begin{pmatrix} 3 & -1 &  \\ 1 & 4 \end{pmatrix}} \begin{pmatrix} det \begin{pmatrix} -1 & 2 \\ 4 & -3 \end{pmatrix} & -det \begin{pmatrix} 3 & 2 \\ 1 & -3 \end{pmatrix} & det\begin{pmatrix} 3 & -1 &  \\ 1 & 4 \end{pmatrix} \\ -det\begin{pmatrix} 2 & 4 \\ 4 & -3 \end{pmatrix} & det\begin{pmatrix} 5 & 4 \\ 1 & -3 \end{pmatrix} & -det\begin{pmatrix} 5 & 2 &  \\ 1 & 4 \end{pmatrix} \\det \begin{pmatrix} 2 & 4 \\ -1 & 2 \end{pmatrix} & -det\begin{pmatrix} 5 & 4 \\ 3 & 2 \end{pmatrix} &det \begin{pmatrix} 5 & 2 &  \\ 3 & -1 \end{pmatrix} \end{pmatrix}^{T}\\
-&= \frac{1}{det\:A} \begin{pmatrix} -5 & 11 & 13 \\ 22 & -19 & -18 \\ 8 & 2 & -11 \end{pmatrix}^{T}\\
-&= \frac{1}{det\:A} \begin{pmatrix} -5 & 22 & 8 \\ 11 & -19 & 2 \\ 13 & -18 & -11 \end{pmatrix}\\
+&= \frac{1}{49} \begin{pmatrix} -5 & 11 & 13 \\ 22 & -19 & -18 \\ 8 & 2 & -11 \end{pmatrix}^{T}\\
+&= \frac{1}{49} \begin{pmatrix} -5 & 22 & 8 \\ 11 & -19 & 2 \\ 13 & -18 & -11 \end{pmatrix}\\
 \end{align*}$$
