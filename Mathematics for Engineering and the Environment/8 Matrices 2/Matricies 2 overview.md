@@ -3,10 +3,16 @@ aliases: [""]
 tags: ["NotesPage"]
 ---
 
-# Refrence wing area
+# Matricies 2 overview
 
 #### Intro and contents
-- 
+- [[inverse matrix]]
+- [[inverse of a 2x2 matrix]]
+- [[multiplication of inverse matricies]]
+- [[solving linear equations with matricies]]
+- [[elementary row operations with constant solutions]]
+- [[using elementary row operations to get the upper-triangular form]]
+- [[using the elimination method to invert matrices]]
 
 
 ## Expanded articles
