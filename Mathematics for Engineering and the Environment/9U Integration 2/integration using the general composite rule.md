@@ -22,6 +22,8 @@ Alternatively you can replace g(x) with t (or some other letter) and use:
 
 (This second one is the way you really use it tbh)
 
+##### Important note! Remember to adjust limits appropirately when using this method!!
+
 ### Examples
 #### Example 1
 > Find the [[indefinate integral]] of $\int 2x\sqrt{x^{2}+2}\cdot dx$
@@ -42,5 +44,8 @@ $$\begin{align*}
 &\int \frac{x+1}{x^{2}+2x +2}\cdot dx \\
 && t &= x^{2}+2x +2\\
 && \frac{dt}{dx} &= 2x+2\\
-&\int \frac{\frac{1}{2} \frac{dt}{dx}}{t}\cdot dx
+&\int \frac{\frac{1}{2} \frac{dt}{dx}}{t}\cdot dx\\
+&\frac{1}{2}\int \frac{1}{t} \frac{dt}{dx}\cdot dx\\
+& \frac{1}{2} \ln(t) + k\\
+& \frac{1}{2} \ln(x^{2}+2x +2) + k\\
 \end{align*}$$
