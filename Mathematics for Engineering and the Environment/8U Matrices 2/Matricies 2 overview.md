@@ -13,3 +13,5 @@ tags: ["NotesPage"]
 ![[inverse matrix]]
 
 ![[inverse of a 2x2 matrix]]
+
+![[multiplication of inverse matricies]]
