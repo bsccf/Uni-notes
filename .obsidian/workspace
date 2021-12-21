@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/8U Matrices 2/using the elimination method to invert matrices.md",
-            "mode": "preview"
+            "file": "Mathematics for Engineering and the Environment/Overall Read order.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/8U Matrices 2/using the elimination method to invert matrices.md",
+                "file": "Mathematics for Engineering and the Environment/Overall Read order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "872f4aa31559cd46",
   "lastOpenFiles": [
-    "Mathematics for Engineering and the Environment/8U Matrices 2/using the elimination method to invert matrices.md",
-    "Mathematics for Engineering and the Environment/8U Matrices 2/matrices are useful but also the root of all pain and suffering.md",
-    "Mathematics for Engineering and the Environment/8U Matrices 2/Matricies 2 overview.md",
-    "Mathematics for Engineering and the Environment/8U Matrices 2/using elementary row operations to get the upper-triangular form.md",
-    "Mathematics for Engineering and the Environment/8U Matrices 2/upper-triangular matrix.md",
-    "Mathematics for Engineering and the Environment/8U Matrices 2/yes I am using a meme from the stone age fucking cope.md",
-    "Mathematics for Engineering and the Environment/8U Matrices 2/elementary row operations with constant solutions.md",
-    "Mathematics for Engineering and the Environment/8U Matrices 2/eheheheh I hide memes where I can.md",
-    "Mathematics for Engineering and the Environment/8U Matrices 2/solving linear equations with matricies.md",
-    "Mathematics for Engineering and the Environment/8U Matrices 2/I am calling you stupid if you do not understand.md"
+    "Mathematics for Engineering and the Environment/Overall Read order.md",
+    "Mathematics for Engineering and the Environment/General org/integration.md",
+    "Mathematics for Engineering and the Environment/9U Integration 2/Integration 2 overview.md",
+    "Mathematics for Engineering and the Environment/8 Matrices 2/using the elimination method to invert matrices.md",
+    "Mathematics for Engineering and the Environment/8 Matrices 2/matrices are useful but also the root of all pain and suffering.md",
+    "Mathematics for Engineering and the Environment/8 Matrices 2/Matricies 2 overview.md",
+    "Mathematics for Engineering and the Environment/8 Matrices 2/using elementary row operations to get the upper-triangular form.md",
+    "Mathematics for Engineering and the Environment/8 Matrices 2/upper-triangular matrix.md",
+    "Mathematics for Engineering and the Environment/8 Matrices 2/yes I am using a meme from the stone age fucking cope.md",
+    "Mathematics for Engineering and the Environment/8 Matrices 2/elementary row operations with constant solutions.md"
   ]
 }

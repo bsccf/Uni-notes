@@ -4,6 +4,11 @@ tags: [""]
 ---
 
 # Overall Read order
+Sorted by thing:
+- [[differentiation]]
+- [[integration]]
+- [[matrices (maths)|matrices]]
+
 
 Test 1:
 1) [[MEE Vectors 1]]
@@ -16,5 +21,6 @@ Test 2:
 6) [[Matrices 1 overview]]
 7) [[Differential equations 3 overview]]
 8) [[Matricies 2 overview]]
-9) 4
+9) [[Integration 2 overview]]
 10) 5
+
