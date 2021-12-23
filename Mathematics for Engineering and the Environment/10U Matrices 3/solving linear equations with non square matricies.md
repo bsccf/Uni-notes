@@ -69,5 +69,7 @@ $$\begin{align*}
 Here we can apply [[types of solution to linear equations using matrices#^25079b]], since here $R_F=R_C$ there is a single set of solutions.
 
 $$\begin{align*}
-\begin{pmatrix} 1 & 1 \\ 0 & 1 \end{pmatrix}^{-1} \begin{pmatrix} -1 \\ 1 \end{pmatrix} &= \begin{pmatrix} x \\ y \end{pmatrix}
+\begin{pmatrix} 1 & 1 \\ 0 & 1 \end{pmatrix}^{-1} \begin{pmatrix} -1 \\ 1 \end{pmatrix} &= \begin{pmatrix} x \\ y \end{pmatrix}\\
+\begin{pmatrix} -2  \\  1 \end{pmatrix} &=
 \end{align*}$$
+(there are many ways to find the solution but at this point I just truncated the zero rows and made a lil [[inverse matrix]])
