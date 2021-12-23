@@ -5,6 +5,7 @@ tags: ["Question","QFormat3"]
 
 #### Whats the method for
 ## Integrating standard functions
+### Most common
 We can easily integrate standard functions by substituting the following standard resaults in when we see them (assuming they are in a situation where it is appropriate to do so):
 
 > ### $$ \int x^{n} \cdot dx = \frac{x^{n+1}}{n+1}  +c $$
@@ -27,6 +28,10 @@ We can easily integrate standard functions by substituting the following standar
 
 > ### $$ \int \sec Ax \tan Ax \cdot dx = \frac{\sec Ax}{A} +c $$
 
+### Everything
+
 [[single-page-integral-table.pdf|found this it's very useful]]
 
 ![[single-page-integral-table.pdf]]
+
+[[]]
