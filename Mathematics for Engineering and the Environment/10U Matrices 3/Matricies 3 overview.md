@@ -17,4 +17,6 @@ It's everyone's favorite topic... [[matrices (maths)|matrices]] ([[Please help I
 
 ![[matrix rank]]
 
+![[augmented matrix]]
+
 ![[add a name here]]
