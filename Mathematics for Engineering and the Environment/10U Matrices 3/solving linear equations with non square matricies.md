@@ -28,6 +28,14 @@ $$\begin{align*}
 && x+y+z &= 1 & y+2z &= 1
 \end{align*}$$
 
+You may be required to define each term interms of some arbitrary variable, here lets use $t=z$:
+$$\begin{align*}
+z &= t& x+y+t &= 1 & y+2t &= 1\\
+& & & & y &= 1 - 2t\\
+&& x+1 - 2t+t &= 1\\
+z&=t & x &= y &
+\end{align*}$$
+
 If we recall how to determine [[types of solution to linear equations using matrices]], then since there are less rows in the cofactor/fat matrix than rows in the unknowns matrix there are infinite solutions (as can be intuitively seen by the equation)
 
 ### Example (Overspecified equation)
