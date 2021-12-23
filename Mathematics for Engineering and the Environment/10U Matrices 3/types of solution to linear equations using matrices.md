@@ -21,15 +21,17 @@ Rank of coefficient matrix = rank of the matrix containing the single numerical 
 I think trying to adapt what the book says is confusing so I'll phrase it in a nice way:
 
 > In form (cofactor matrix is the right most one):
+> ### $$ FU=C $$
 > ### $$ \begin{pmatrix} a_{11} &  a_{12} & ... \\ a_{21} & a_{22} & ... \\ ... & ... & ... \end{pmatrix} \begin{pmatrix}  x_1 \\ x_2 \\ ... \end{pmatrix} = \begin{pmatrix} c_{1}  \\ c_{2} \\ ... \end{pmatrix} $$
 > Solutions:
 > ### $$ \begin{align*}R_F < R_C &:\: no\:solutions,\:not\:consistant\\R_F = R_C &:\: single\:set\:of solutions \\R_F > R_C &:\: infinate\:solutions\end{align*} $$
 >> where:
 >> $R_F=$ [[matrix rank|Rank]] of the fat matrix
 >> $R_C=$ [[matrix rank|Rank]] of the cofactor matrix
->> The cofactor matrix
+>> $F_{rows} \geq U_{rows}$ The cofactor matrix/fat matrix has more or equal rows as the unknown's matrix
 
 Note that this can actually be applied to non square matrices as well, plug: [[solving linear equations with non square matricies]]
+Though 
 
 ### Example
 > Given the following matrix, determine how many sets of solutions exist.
