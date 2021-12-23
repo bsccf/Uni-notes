@@ -7,9 +7,10 @@
         "id": "4d79910c9bad4baa",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/9U Integration 2/single-page-integral-table.pdf"
+            "file": "Mathematics for Engineering and the Environment/9U Integration 2/Integration 2 overview.md",
+            "mode": "preview"
           }
         }
       }
@@ -75,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/9U Integration 2/single-page-integral-table.pdf",
+                "file": "Mathematics for Engineering and the Environment/9U Integration 2/Integration 2 overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,8 +114,8 @@
   },
   "active": "4d79910c9bad4baa",
   "lastOpenFiles": [
-    "Mathematics for Engineering and the Environment/9U Integration 2/single-page-integral-table.pdf",
     "Mathematics for Engineering and the Environment/9U Integration 2/Integration 2 overview.md",
+    "Mathematics for Engineering and the Environment/9U Integration 2/single-page-integral-table.pdf",
     "Mathematics for Engineering and the Environment/9U Integration 2/arclength and surface area using integration.md",
     "Mathematics for Engineering and the Environment/9U Integration 2/and yes they do all suck.md",
     "Mechanics structures and materials/Statics 1/9a,b,c Beams, deflection/calculating the deflection of a beam.md",
