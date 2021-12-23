@@ -23,3 +23,4 @@ tags: ["NotesPage"]
 ![[centre of gravity of a volume of revolution]]
 
 ![[mean value by integration]]
+
