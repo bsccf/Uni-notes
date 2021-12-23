@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/10U Matrices 3/types of solution to linear equations using matrices.md",
+            "file": "Mathematics for Engineering and the Environment/10U Matrices 3/if not what have I been teaching you.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/10U Matrices 3/types of solution to linear equations using matrices.md",
+                "file": "Mathematics for Engineering and the Environment/10U Matrices 3/if not what have I been teaching you.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "bf40fb1f35dd5079",
   "lastOpenFiles": [
-    "Mathematics for Engineering and the Environment/10U Matrices 3/types of solution to linear equations using matrices.md",
+    "Mathematics for Engineering and the Environment/10U Matrices 3/if not what have I been teaching you.md",
+    "Mathematics for Engineering and the Environment/10U Matrices 3/solving linear equations with non square matricies.md",
     "Mathematics for Engineering and the Environment/10U Matrices 3/Matricies 3 overview.md",
+    "Mathematics for Engineering and the Environment/10U Matrices 3/types of solution to linear equations using matrices.md",
     "Mathematics for Engineering and the Environment/10U Matrices 3/augmented matrix.md",
     "Mathematics for Engineering and the Environment/8 Matrices 2/elementary row operations with constant solutions.md",
     "Mathematics for Engineering and the Environment/10U Matrices 3/inconsistant equations.md",
     "Mathematics for Engineering and the Environment/10U Matrices 3/free variables.md",
     "Mathematics for Engineering and the Environment/10U Matrices 3/free parameters.md",
-    "Mathematics for Engineering and the Environment/10U Matrices 3/consistant equations.md",
-    "Mathematics for Engineering and the Environment/10U Matrices 3/matrix in echelon form.md",
-    "Mathematics for Engineering and the Environment/10U Matrices 3/matrix rank.md"
+    "Mathematics for Engineering and the Environment/10U Matrices 3/consistant equations.md"
   ]
 }

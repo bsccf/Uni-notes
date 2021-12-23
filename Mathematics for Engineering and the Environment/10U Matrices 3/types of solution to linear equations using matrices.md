@@ -28,7 +28,7 @@ I think trying to adapt what the book says is confusing so I'll phrase it in a n
 >> $R_F=$ [[matrix rank|Rank]] of the fat matrix
 >> $R_C=$ [[matrix rank|Rank]] of the cofactor matrix
 
-Note that this can actually be applied to non square matrices as well, [[u]]
+Note that this can actually be applied to non square matrices as well, plug: [[solving linear equations with non square matricies]]
 
 ### Example
 > Given the following matrix, determine how many sets of solutions exist.

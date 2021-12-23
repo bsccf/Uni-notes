@@ -21,4 +21,4 @@ It's everyone's favorite topic... [[matrices (maths)|matrices]] ([[Please help I
 
 ![[types of solution to linear equations using matrices]]
 
-![[]]
+![[solving linear equations with non square matricies]]
