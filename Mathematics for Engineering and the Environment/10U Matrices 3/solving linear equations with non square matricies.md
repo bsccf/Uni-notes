@@ -27,3 +27,5 @@ $$\begin{align*}
 \begin{pmatrix} 1 & 1 & 1 \\ 0 & 1 & 2 \end{pmatrix} \begin{pmatrix}x \\ y \\ z\end{pmatrix} &= \begin{pmatrix}1 \\ 2\end{pmatrix}\\
 && x+y+z &= 1 & y+2z &= 2
 \end{align*}$$
+
+If we recall how to determine [[types of solution to linear equations using matrices]], then here $R_F=2$ and $R_C=2$
