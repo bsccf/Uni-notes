@@ -7,8 +7,10 @@
         "id": "4d79910c9bad4baa",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "pdf",
+          "state": {
+            "file": "Mathematics for Engineering and the Environment/9U Integration 2/single-page-integral-table.pdf"
+          }
         }
       }
     ],
@@ -73,6 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mathematics for Engineering and the Environment/9U Integration 2/single-page-integral-table.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +113,7 @@
   },
   "active": "4d79910c9bad4baa",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/9U Integration 2/single-page-integral-table.pdf",
     "Mathematics for Engineering and the Environment/9U Integration 2/Integration 2 overview.md",
     "Mathematics for Engineering and the Environment/9U Integration 2/arclength and surface area using integration.md",
     "Mathematics for Engineering and the Environment/9U Integration 2/and yes they do all suck.md",
@@ -118,7 +122,6 @@
     "Mathematics for Engineering and the Environment/8 Matrices 2/upper-triangular matrix.md",
     "Mathematics for Engineering and the Environment/8 Matrices 2/using elementary row operations to get the upper-triangular form.md",
     "Mathematics for Engineering and the Environment/8 Matrices 2/yes I am using a meme from the stone age fucking cope.md",
-    "Mathematics for Engineering and the Environment/8 Matrices 2/Illuminati Confirmed.md",
-    "Mathematics for Engineering and the Environment/9U Integration 2/yes they are all different.md"
+    "Mathematics for Engineering and the Environment/8 Matrices 2/Illuminati Confirmed.md"
   ]
 }
