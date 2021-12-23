@@ -26,4 +26,4 @@ tags: ["NotesPage"]
 
 ![[root mean square by integration]]
 
-![[arclength and surface area]]
+![[arclength and surface area using integration]]
