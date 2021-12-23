@@ -7,6 +7,13 @@ tags: ["Question","QFormat3"]
 ## Augmented matrix
 An augmented matrix is a matrix obtained by appending the columns of two given matrices, usually for the purpose of performing the same [[elementary row operations with constant solutions|elementary row operations]] on each of the given matrices.
 
+You can define an augmented matrix using the notation $(A:B)$
+> ### $$ (A) $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
+
 ### Example
 > Solve:
 > $$\begin{align*}
@@ -52,7 +59,7 @@ $$\begin{align*}
 &\begin{pmatrix} 
 1 & 0 & \frac{1}{2} & 3 \\ 
 0 & 1 & -3 & -9 \\ 
-0 & 0 & 1 & 1
+0 & 0 & 1 & \frac{5}{2}
 \end{pmatrix}\\
 
 \end{align*}$$
@@ -61,7 +68,7 @@ Split it out again:
 $$\begin{align*}
 \begin{pmatrix} 
 1 & 0 & \frac{1}{2} \\ 
-0 & 1 & -9  \\ 
+0 & 1 & -3  \\ 
 0 & 0 & 1 
-\end{pmatrix} \begin{pmatrix}x \\ y \\ z\end{pmatrix} = \begin{pmatrix} 3 \\ -3 \\ 1 \end{pmatrix}
+\end{pmatrix} \begin{pmatrix}x \\ y \\ z\end{pmatrix} = \begin{pmatrix} 3 \\ -9 \\ \frac{5}{2} \end{pmatrix}
 \end{align*}$$
