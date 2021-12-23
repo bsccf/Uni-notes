@@ -66,4 +66,8 @@ $$\begin{align*}
 &\begin{pmatrix} 1 & 1 \\ 0 & 1 \\ 0 & 0 \end{pmatrix} \begin{pmatrix} x \\ y \end{pmatrix} = \begin{pmatrix} -1 \\ 1 \\ 0\end{pmatrix}
 \end{align*}$$
 
-Here we can once again apply [[types of solution to linear equations using matrices^]]
+Here we can apply [[types of solution to linear equations using matrices#^25079b]], since here $R_F=R_C$ there is a single set of solutions.
+
+$$\begin{align*}
+\begin{pmatrix} 1 & 1 \\ 0 & 1 \end{pmatrix}^{-1} \begin{pmatrix} -1 \\ 1 \end{pmatrix} &= \begin{pmatrix} x \\ y \end{pmatrix}
+\end{align*}$$
