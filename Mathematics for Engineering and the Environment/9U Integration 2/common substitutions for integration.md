@@ -28,5 +28,6 @@ $$\begin{align*}
 \int^{2}_{-2} \frac{\sqrt{x+2}}{x+6}\cdot dx & &  u &= \sqrt{x+2}\\
 & & u^{2}-2 &= x\\
 & & 2u &= \frac{dx}{du}\\
-&= \int^{2}_{-2} \frac{\sqrt{x+2}}{x+6}\cdot \frac{du}{dx} dx
+&= \int^{2}_{0} \frac{u}{u^{2}+4}\cdot 2u \frac{du}{dx} dx\\
+&= \int^{2}_{0} \frac{2u^{2}}{u^{2}+4}\cdot du
 \end{align*}$$
