@@ -25,5 +25,43 @@ $$\begin{align*}
 \end{align*}$$
 (Just makes [[elementary row operations with constant solutions|elementary row operations]] more convenient.)
 $$\begin{align*}
- &= 
+&\begin{pmatrix} 
+2 & 0 & 1 & 6 \\ 
+4 & 1 & -1 & 3 \\ 
+0 & 1 & 1 & 1 
+\end{pmatrix}\\\\
+
+&\begin{pmatrix} 
+1 & 0 & \frac{1}{2} & 3 \\ 
+4 & 1 & -1 & 3 \\ 
+0 & 1 & 1 & 1 
+\end{pmatrix}\\\\
+
+&\begin{pmatrix} 
+1 & 0 & \frac{1}{2} & 3 \\ 
+0 & 1 & -3 & -3 \\ 
+0 & 1 & 1 & 1 
+\end{pmatrix}\\\\
+
+&\begin{pmatrix} 
+1 & 0 & \frac{1}{2} & 3 \\ 
+0 & 1 & -3 & -3 \\ 
+0 & 0 & 4 & 4 
+\end{pmatrix}\\\\
+
+&\begin{pmatrix} 
+1 & 0 & \frac{1}{2} & 3 \\ 
+0 & 1 & -3 & -3 \\ 
+0 & 0 & 1 & 1
+\end{pmatrix}\\
+
+\end{align*}$$
+Split it out again:
+
+$$\begin{align*}
+\begin{pmatrix} 
+1 & 0 & \frac{1}{2} \\ 
+0 & 1 & -3  \\ 
+0 & 0 & 1 
+\end{pmatrix} \begin{pmatrix}x \\ y \\ \end{pmatrix}
 \end{align*}$$
