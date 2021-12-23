@@ -17,6 +17,17 @@ Note that:
 Rank of [[augmented matrix]] = $u$
 Rank of coefficient matrix = rank of the matrix containing the single numerical equivilences of each equation (not sure if I phrased that well, the skinny matrix that goes on the right, though you will need to go from [[augmented matrix]] back to the origional split form [[augmented matrix#^5130a9|example]])
 
+I think trying to adapt what the book says is confusing so I'll phrase it in a nice way:
+
+> ### $$ \begin{align*}
+R_S < R_C &:\: \\
+R_S = R_C &:\: single\:set \\
+R_S > R_C &:\:
+\end{align*} $$
+>> where:
+>> $R_S=$ [[matrix rank|Rank]] of the square matrix
+>> $R_C=$ [[matrix rank|Rank]] of the cofactor matrix
+
 ### Example
 > Given the following matrix, determine how many sets of solutions exist.
 > $$ \begin{pmatrix} 0 & 1 & 1 & 0 \\ 1 & 0 & 3 & 2 \\ 2 & 1 & 5 & 4 \\ 1  & -2 & 0 & 2 \end{pmatrix} \begin{pmatrix} x_1 \\ x_2 \\ x_3 \\ x_4 \end{pmatrix} = \begin{pmatrix}1 \\ 3 \\ 7 \\ 2\end{pmatrix} $$
