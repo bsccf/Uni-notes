@@ -6,7 +6,14 @@ tags: ["Question","QFormat3"]
 #### What is
 ## Matrix echelon form
 This is basically when you do the method from [[using elementary row operations to get the upper-triangular form]] but it resaults in a matrix with rows containing zeros along the diagonal:
-
+$$\begin{align*}
+&\begin{pmatrix} 
+1 & 0 & 3 & 2 \\ 
+0 & 1 & -1 & 0 \\ 
+0 & 0 & 1 & 0 \\
+0 & 0 & 0 & 0 
+\end{pmatrix}\\
+\end{align*}$$
 
 ### Example
 > Get the following matrix into [[matrix echelon form]]:
@@ -47,7 +54,7 @@ swap\:1,4&\\
 0 & 0 & 1 & 0 \\
 0 & 0 & 2 & 0 
 \end{pmatrix}\\
-(4)-()
+(4)-(3)&\\
 &\begin{pmatrix} 
 1 & 0 & 3 & 2 \\ 
 0 & 1 & -1 & 0 \\ 
