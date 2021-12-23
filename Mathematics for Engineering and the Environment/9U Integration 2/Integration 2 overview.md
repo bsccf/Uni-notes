@@ -21,3 +21,5 @@ tags: ["NotesPage"]
 ![[centroid of a plane area]]
 
 ![[centre of gravity of a volume of revolution]]
+
+![[mean value by integration]]
