@@ -15,4 +15,5 @@ If we have a [[matrix in echelon form]] as shown above that is acompanyed by a [
 
 Note that:
 Rank of [[augmented matrix]] = $u$
-Rank of coefficient matrix = 
+Rank of coefficient matrix = rank of the matrix containing the single numerical equivilences of each equation (not sure if I phrased that well, the skinny matrix that goes on the right, though you will need to go from [[augmented matrix]] back to the origional split form [[augmented matrix#^5130a9|example]])
+
