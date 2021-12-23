@@ -15,16 +15,16 @@ We can easily integrate standard functions by substituting the following standar
 
 > ### $$ \int \frac{\dot{f}(x)}{f(x)} \cdot dx = ln|f(x)| +c $$
 
-> ### $$ \int \cos x \cdot dx = \sin x+c $$
+> ### $$ \int \cos Ax \cdot dx = \frac{\sin Ax}{A} +c $$
 
-> ### $$ \int \sin x \cdot dx = -\cos x +c $$
+> ### $$ \int \sin Ax \cdot dx = -\frac{\cos Ax}{A}  +c $$
 
-> ### $$ \int \sec^{2}x \cdot dx =\tan x +c $$
+> ### $$ \int \sec^{2} Ax \cdot dx =\frac{\tan Ax}{A} +c $$
 
-> ### $$ \int cosec\: x  \cdot dx = -cosec\:x +c $$
+> ### $$ \int cosec\: Ax  \cdot dx = -\frac{cosec\:Ax}{A} +c $$
 
-> ### $$ \int cosec^{2} x \cdot dx = -\cot x +c $$
+> ### $$ \int cosec^{2} Ax \cdot dx = -\frac{\cot Ax}{A} +c $$
 
-> ### $$ \int \sec x \tan x \cdot dx = \sec x +c $$
+> ### $$ \int \sec Ax \tan Ax \cdot dx = \frac{\sec Ax}{A} +c $$
 
 
