@@ -30,6 +30,8 @@ I think trying to adapt what the book says is confusing so I'll phrase it in a n
 >> $R_C=$ [[matrix rank|Rank]] of the cofactor matrix
 >> $F_{rows} \geq U_{rows}$ The cofactor matrix/fat matrix has more or equal rows as the unknown's matrix
 
+^25079b
+
 Note that this can actually be applied to non square matrices as well, plug: [[solving linear equations with non square matricies]]
 Though secondary note if $F_{rows} < U_{rows}$ then there will alwayse be infinate solutions.
 

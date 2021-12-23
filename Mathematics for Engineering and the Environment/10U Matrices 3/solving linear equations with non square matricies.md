@@ -45,6 +45,7 @@ If we recall how to determine [[types of solution to linear equations using matr
 I'll get it into an [[adjoint matrix]] form, then use elimination:
 
 $$\begin{align*}
+&
 \begin{pmatrix} 
 1 & 1  & -1\\ 
 1 & 2  & 0\\ 
@@ -62,5 +63,7 @@ $$\begin{align*}
 0 & 1  & 1\\ 
 0 & 0  & 0
 \end{pmatrix}\\\\
-&
+&\begin{pmatrix} 1 & 1 \\ 0 & 1 \\ 0 & 0 \end{pmatrix} \begin{pmatrix} x \\ y \end{pmatrix} = \begin{pmatrix} -1 \\ 1 \\ 0\end{pmatrix}
 \end{align*}$$
+
+Here we can once again apply [[types of solution to linear equations using matrices^]]
