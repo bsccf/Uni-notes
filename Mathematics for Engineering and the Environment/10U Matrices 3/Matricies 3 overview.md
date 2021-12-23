@@ -13,4 +13,6 @@ It's everyone's favorite topic... [[matrices (maths)|matrices]] ([[Please help I
 
 
 ## Expanded articles
+![[matrix echelon form]]
+
 ![[matrix rank]]
