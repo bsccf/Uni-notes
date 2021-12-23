@@ -5,7 +5,7 @@ tags: ["Question","QFormat3"]
 
 #### How can we find
 ## Centre of gravity of a volume of revolution
-Here we use the theory from [[volume of a solid of revolution]] and [[centroid of a plane area|centre of area of a graph]], here we are working around the x axis:
+Here we use the theory from [[volume of a solid of revolution]] and [[centroid of a plane area|centre of area of a graph]] ([[lmao I am lazy|lookup proof if you need one]]), here we are working around the x axis:
 ![[Pasted image 20211223111332.png]]
 
 We can instantly tell that the centre lies on the x axis hence $\bar{Y} = 0$, we need to use moments to find $\bar{X}$.
