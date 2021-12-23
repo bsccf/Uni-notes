@@ -26,4 +26,19 @@ It's possible to find the center of this shape using:
 >> $f(x) \geq g(x)$
 
 ### Along the x axis
-If we let $y=0$ 
+If we let $g(x)=0$ (so it's just between $f(x)$ and the x axis):
+
+> ### $$ \bar{y} = \frac{1}{2A} \int^{b}_a  [f(x)]^{2})  \cdot dx $$ 
+>> where:
+>> $A= \int^{b}_a f(x)\cdot dx$ 
+>> $\bar{y} =$ center of y
+>> $a,b=$ limits
+>> $f(x)=$  function that defines the curve
+
+
+> ### $$ \bar{x} = \frac{1}{A} \int^{b}_a xf(x) \cdot dx $$
+>> where:
+>> $A= \int^{b}_a f(x)\cdot dx$ 
+>> $\bar{x} =$ center of x
+>> $a,b=$ limits
+>> $f(x)=$  function that defines the curve
