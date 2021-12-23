@@ -25,5 +25,8 @@ tags: ["Question","QFormat3"]
 > Find $\int^{2}_{-2} \frac{\sqrt{x+2}}{x+6}\cdot dx$
 
 $$\begin{align*}
-\int^{2}_{-2} \frac{\sqrt{x+2}}{x+6}\cdot dx & & & u = 
+\int^{2}_{-2} \frac{\sqrt{x+2}}{x+6}\cdot dx & &  u &= \sqrt{x+2}\\
+& & u^{2}-2 &= x\\
+& & 2u &= \frac{dx}{du}\\
+&= \int^{2}_{-2} \frac{\sqrt{x+2}}{x+6}\cdot \frac{du}{dx} dx
 \end{align*}$$
