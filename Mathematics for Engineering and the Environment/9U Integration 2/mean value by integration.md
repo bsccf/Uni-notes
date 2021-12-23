@@ -16,4 +16,4 @@ Now if you think about this for more than one second you can come up with the fo
 
 If you couldn't figure it out you are [[I need to insult you so I will add a meme|bad]].
 
-Note that this equation averages with negative values too, so for something like [[alternating current]] it would say the mean is zero, which is right but not that useful, hence sometimes we will use [[root mean square by]]
+Note that this equation averages with negative values too, so for something like [[alternating current]] it would say the mean is zero, which is right but not that useful, hence sometimes we will use [[root mean square by integration]].

@@ -24,3 +24,4 @@ tags: ["NotesPage"]
 
 ![[mean value by integration]]
 
+![[root mean square by integration]]

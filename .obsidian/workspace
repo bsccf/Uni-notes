@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/9U Integration 2/mean value by integration.md",
+            "file": "Mathematics for Engineering and the Environment/9U Integration 2/root mean square by integration.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/9U Integration 2/mean value by integration.md",
+                "file": "Mathematics for Engineering and the Environment/9U Integration 2/root mean square by integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "4d79910c9bad4baa",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/9U Integration 2/root mean square by integration.md",
     "Mathematics for Engineering and the Environment/9U Integration 2/mean value by integration.md",
     "Mathematics for Engineering and the Environment/9U Integration 2/Integration 2 overview.md",
     "Mathematics for Engineering and the Environment/9U Integration 2/I need to insult you so I will add a meme.md",
@@ -114,7 +115,6 @@
     "Mathematics for Engineering and the Environment/9U Integration 2/common substitutions for integration.md",
     "images/image3.png",
     "Mathematics for Engineering and the Environment/9U Integration 2/centroid of a plane area.md",
-    "Mathematics for Engineering and the Environment/9U Integration 2/volume of a solid of revolution.md",
-    "Mathematics for Engineering and the Environment/9U Integration 2/integrating standard functions.md"
+    "Mathematics for Engineering and the Environment/9U Integration 2/volume of a solid of revolution.md"
   ]
 }
