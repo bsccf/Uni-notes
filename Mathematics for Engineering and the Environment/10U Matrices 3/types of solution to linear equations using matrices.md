@@ -5,7 +5,7 @@ tags: ["Question","QFormat3"]
 
 #### How can we determine the
 ## Types of solution to linear equations using matrices
-
+### Messy (shit) explenation
 ![[Pasted image 20211223162423.png]]
 
 If we have a [[matrix in echelon form]] as shown above that is acompanyed by a [[column vector]] containing solutions (here we have it in [[adjoint matrix]] form) then the following rules apply (here this is for solving sets of linear equations):
@@ -17,12 +17,13 @@ Note that:
 Rank of [[augmented matrix]] = $u$
 Rank of coefficient matrix = rank of the matrix containing the single numerical equivilences of each equation (not sure if I phrased that well, the skinny matrix that goes on the right, though you will need to go from [[augmented matrix]] back to the origional split form [[augmented matrix#^5130a9|example]])
 
+### Better explenation
 I think trying to adapt what the book says is confusing so I'll phrase it in a nice way:
 
-> In form:
+> In form (cofactor matrix is the right most one):
 > ### $$ \begin{pmatrix} a_{11} &  a_{12} & ... \\ a_{21} & a_{22} & ... \\ ... & ... & ... \end{pmatrix} \begin{pmatrix}  x_1 \\ x_2 \\ ... \end{pmatrix} = \begin{pmatrix} c_{1}  \\ c_{2} \\ ... \end{pmatrix} $$
 > Solutions:
-> ### $$ \begin{align*}R_S < R_C &:\: no\:solutions\\R_S = R_C &:\: single\:set\:of solutions \\R_S > R_C &:\: infinate\:solutions\end{align*} $$
+> ### $$ \begin{align*}R_S < R_C &:\: no\:solutions,\:not\:consistant\\R_S = R_C &:\: single\:set\:of solutions \\R_S > R_C &:\: infinate\:solutions\end{align*} $$
 >> where:
 >> $R_S=$ [[matrix rank|Rank]] of the square matrix
 >> $R_C=$ [[matrix rank|Rank]] of the cofactor matrix
@@ -36,4 +37,4 @@ I think trying to adapt what the book says is confusing so I'll phrase it in a n
 $$\begin{align*}
  \begin{pmatrix}1 & \frac{1}{2} & \frac{5}{2} & 2 \\ 0 & 1 & 1 & 0 \\ 0 & 0 & 1 & 0 \\ 0 & 0 & 0 & 0\end{pmatrix}\begin{pmatrix}x_1 \\ x_2 \\ x_3 \\ x_4\end{pmatrix} &= \begin{pmatrix} \frac{7}{2} \\ \frac{3}{5} \\ - \frac{1}{5} \\ \frac{2}{5}\end{pmatrix}
 \end{align*}$$
-The rank of the main matrix is 3 while the coefficient matrix is 4 
+The rank of the main matrix is 3 while the coefficient matrix is 4, hence there are no solutions.

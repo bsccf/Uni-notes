@@ -20,3 +20,5 @@ It's everyone's favorite topic... [[matrices (maths)|matrices]] ([[Please help I
 ![[augmented matrix]]
 
 ![[types of solution to linear equations using matrices]]
+
+![[]]
