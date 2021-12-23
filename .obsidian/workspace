@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/9U Integration 2/integration using the general composite rule.md",
-            "mode": "preview"
+            "file": "Mathematics for Engineering and the Environment/9U Integration 2/common substitutions for integration.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/9U Integration 2/integration using the general composite rule.md",
+                "file": "Mathematics for Engineering and the Environment/9U Integration 2/common substitutions for integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "d7f3bca4289a3270",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/9U Integration 2/common substitutions for integration.md",
+    "Mathematics for Engineering and the Environment/9U Integration 2/Integration 2 overview.md",
     "Mathematics for Engineering and the Environment/9U Integration 2/integration using the general composite rule.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/7 Corrosion/corrosion.md",
     "Mechanics structures and materials/Materials/Materials read order.md",
     "SESA1015/Flight mechanics/Flight mechanics 5/god just saying that makes me cringe but yeah based.md",
     "Mathematics for Engineering and the Environment/3 Intergration 1/Definite and indefinite intergrals/indefinate integral.md",
-    "Mathematics for Engineering and the Environment/9U Integration 2/Integration 2 overview.md",
     "Mechanics structures and materials/Statics 1/5c Shear force and bending moment diagrams/method for constructing shear force and bending moment diagrams.md",
     "Mathematics for Engineering and the Environment/8 Matrices 2/Matricies 2 overview.md",
-    "Mathematics for Engineering and the Environment/Overall Read order.md",
-    "Mathematics for Engineering and the Environment/General org/integration.md"
+    "Mathematics for Engineering and the Environment/Overall Read order.md"
   ]
 }

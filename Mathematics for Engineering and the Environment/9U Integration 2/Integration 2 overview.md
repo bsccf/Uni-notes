@@ -11,3 +11,5 @@ tags: ["NotesPage"]
 
 ## Expanded articles
 ![[integration using the general composite rule]]
+
+![[common substitutions for integration]]
