@@ -6,6 +6,8 @@ tags: ["NotesPage"]
 # Matricies 3 overview
 
 #### Intro and contents
+It's everyone's favorite topic... [[matrices (maths)|matrices]] ([[Please help I am being held at gunpoint by the ccp they want me to promote matrices for some reason oh god help|I'm not being sarcastic btw]])!
+
 - 
 
 
