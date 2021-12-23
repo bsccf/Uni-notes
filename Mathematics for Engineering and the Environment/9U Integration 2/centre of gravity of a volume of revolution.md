@@ -5,23 +5,16 @@ tags: ["Question","QFormat3"]
 
 #### How can we find
 ## Centre of gravity of a volume of revolution
-Here we use the equations for [[volume of a solid of revolution]] and [[centroid of a plane area|centre of area of a graph]], here we are working around the x axis:
+Here we use the theory from [[volume of a solid of revolution]] and [[centroid of a plane area|centre of area of a graph]], here we are working around the x axis:
 ![[Pasted image 20211223111332.png]]
 
 We can instantly tell that the centre lies on the x axis hence $\bar{Y} = 0$, we need to use moments to find $\bar{X}$.
 
-We take the following from the previously mentioned pages.
+The equation for $\bar{X}$ is given by:
 
-> ### $$ V = \pi \int^{b}_c [ f(x) ]^{2} \cdot dx $$ 
+> ### $$ \bar{X} = \frac{\pi}{V} \int^{b}_a x[f(x)]^{2}\cdot dx $$ 
 >> where:
->> $V=$ Volume of curve rotated 360 degrees around x axis
->> $a,b=$ points on x axis
->> $f(x)=$ Function of curve
-
-> ### $$ \bar{x} = \frac{1}{A} \int^{b}_a xf(x) \cdot dx $$
->> where:
->> $A= \int^{b}_a f(x)\cdot dx$ 
->> $\bar{x} =$ center of x
+>> $V=$ [[volume of a solid of revolution#^c703d0|volume of revolution around x axis]] 
+>> $f(x)=$ function of the curve that defines our shape
+>> $\bar{X}=$ centre of gravity
 >> $a,b=$ limits
->> $f(x)=$  function that defines the curve
-

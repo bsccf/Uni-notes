@@ -12,6 +12,8 @@ tags: ["Question","QFormat3"]
 >> $a,b=$ points on x axis
 >> $f(x)=$ Function of curve
 
+^c703d0
+
 Simularly for the y axis:
 > ### $$ V = \pi \int^{b}_c [ f(y) ]^{2} \cdot dy $$ 
 >> where:
