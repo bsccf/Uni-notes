@@ -22,3 +22,8 @@ tags: ["Question","QFormat3"]
 ![[Pasted image 20211223093006.png]]
 
 ### Examples
+> 
+
+$$\begin{align*}
+ &= 
+\end{align*}$$

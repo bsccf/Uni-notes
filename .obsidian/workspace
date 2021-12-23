@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/9U Integration 2/integrating standard functions.md",
-            "mode": "preview"
+            "file": "Mathematics for Engineering and the Environment/9U Integration 2/common substitutions for integration.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/9U Integration 2/integrating standard functions.md",
+                "file": "Mathematics for Engineering and the Environment/9U Integration 2/common substitutions for integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,11 +106,11 @@
   },
   "active": "d7f3bca4289a3270",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/9U Integration 2/common substitutions for integration.md",
+    "Mathematics for Engineering and the Environment/9U Integration 2/Integration 2 overview.md",
     "Mathematics for Engineering and the Environment/9U Integration 2/integrating standard functions.md",
     "Mathematics for Engineering and the Environment/9U Integration 2/I should have looked for this earlyer.md",
-    "Mathematics for Engineering and the Environment/9U Integration 2/common substitutions for integration.md",
     "Mathematics for Engineering and the Environment/9U Integration 2/integration using the general composite rule.md",
-    "Mathematics for Engineering and the Environment/9U Integration 2/Integration 2 overview.md",
     "Mathematics for Engineering and the Environment/9U Integration 2/single-page-integral-table.pdf",
     "Mathematics for Engineering and the Environment/3 Intergration 1/MEE Intergration 1.md",
     "Mathematics for Engineering and the Environment/3 Intergration 1/Integration as antiderivative/Integration as antiderivative.md",
