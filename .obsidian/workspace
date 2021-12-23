@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/10U Matrices 3/inconsistant equations.md",
-            "mode": "source"
+            "file": "Mathematics for Engineering and the Environment/10U Matrices 3/consistant equations.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/10U Matrices 3/inconsistant equations.md",
+                "file": "Mathematics for Engineering and the Environment/10U Matrices 3/consistant equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,7 @@
   },
   "active": "4d79910c9bad4baa",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/10U Matrices 3/consistant equations.md",
     "Mathematics for Engineering and the Environment/10U Matrices 3/inconsistant equations.md",
     "Mathematics for Engineering and the Environment/10U Matrices 3/add a name here.md",
     "Mathematics for Engineering and the Environment/10U Matrices 3/matrix in echelon form.md",
@@ -122,7 +123,6 @@
     "Mathematics for Engineering and the Environment/8 Matrices 2/using elementary row operations to get the upper-triangular form.md",
     "Mathematics for Engineering and the Environment/10U Matrices 3/Please help I am being held at gunpoint by the ccp they want me to promote matrices for some reason oh god help.md",
     "Mathematics for Engineering and the Environment/General org/matrices (maths).md",
-    "Mathematics for Engineering and the Environment/Overall Read order.md",
-    "Mechanics structures and materials/Statics 1/7b Bending of beams/experience pain.md"
+    "Mathematics for Engineering and the Environment/Overall Read order.md"
   ]
 }
