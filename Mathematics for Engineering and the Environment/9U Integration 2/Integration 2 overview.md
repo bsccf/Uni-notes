@@ -17,3 +17,5 @@ tags: ["NotesPage"]
 ![[common substitutions for integration]]
 
 ![[volume of a solid of revolution]]
+
+![[centroid of a plane area]]
