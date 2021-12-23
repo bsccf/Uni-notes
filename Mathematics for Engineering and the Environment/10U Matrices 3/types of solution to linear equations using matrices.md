@@ -19,11 +19,10 @@ Rank of coefficient matrix = rank of the matrix containing the single numerical 
 
 I think trying to adapt what the book says is confusing so I'll phrase it in a nice way:
 
-> ### $$ \begin{align*}
-R_S < R_C &:\: \\
-R_S = R_C &:\: single\:set \\
-R_S > R_C &:\:
-\end{align*} $$
+> In form:
+> ### $$ \begin{pmatrix} a_{11} &  a_{12} & ... \\ a_{21} & a_{22} & ... \\ ... & ... & ... \end{pmatrix} \begin{pmatrix}  x_1 \\ x_2 \\ ... \end{pmatrix} = \begin{pmatrix} c_{1}  \\ c_{2} \\ ... \end{pmatrix} $$
+> Solutions:
+> ### $$ \begin{align*}R_S < R_C &:\: no\:solutions\\R_S = R_C &:\: single\:set\:of solutions \\R_S > R_C &:\: infinate\:solutions\end{align*} $$
 >> where:
 >> $R_S=$ [[matrix rank|Rank]] of the square matrix
 >> $R_C=$ [[matrix rank|Rank]] of the cofactor matrix
