@@ -31,7 +31,7 @@ I think trying to adapt what the book says is confusing so I'll phrase it in a n
 >> $F_{rows} \geq U_{rows}$ The cofactor matrix/fat matrix has more or equal rows as the unknown's matrix
 
 Note that this can actually be applied to non square matrices as well, plug: [[solving linear equations with non square matricies]]
-Though 
+Though secondary note if $F_{rows} < U_{rows}$ then there will alwayse be infinate solutions.
 
 ### Example
 > Given the following matrix, determine how many sets of solutions exist.

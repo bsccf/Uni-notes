@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["solving underspecified sets of equations with matricies","solving overspecified sets of equations with matricies"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -9,7 +9,7 @@ Instantly you can tell that using [[inverse matrix|inverse matricies]] aint gunn
 
 So instead we now make use of all those juicy [[elementary row operations with constant solutions|elementary row operations]], [[I am being forced to say this against my will|exciting]]!
 
-### Example
+### Example (Underspecified equation)
 > Solve: 
 > $$ \begin{pmatrix} 1 & 1 & 1 \\ 1 & 2 & 3 \end{pmatrix} \begin{pmatrix}x \\ y \\ z\end{pmatrix} = \begin{pmatrix}1 \\ 2\end{pmatrix} $$
 
@@ -28,4 +28,8 @@ $$\begin{align*}
 && x+y+z &= 1 & y+2z &= 2
 \end{align*}$$
 
-If we recall how to determine [[types of solution to linear equations using matrices]], then here $R_F=2$ and $R_C=2$
+If we recall how to determine [[types of solution to linear equations using matrices]], then since there are less rows in the cofactor/fat matrix than rows in the unknowns matrix there are infinite solutions (as can be intuitively seen by the equation)
+
+### Example (Overspecified equation)
+> Solve:
+> $$  $$
