@@ -3,8 +3,8 @@ aliases: ["echelon form"]
 tags: ["Question","QFormat3"]
 ---
 
-#### What is
-## Matrix echelon form
+#### What is a
+## Matrix in echelon form
 This is basically when you do the method from [[using elementary row operations to get the upper-triangular form]] but it resaults in a matrix with rows containing zeros along the diagonal:
 $$\begin{align*}
 &\begin{pmatrix} 
@@ -16,7 +16,7 @@ $$\begin{align*}
 \end{align*}$$
 
 ### Example
-> Get the following matrix into [[matrix echelon form]]:
+> Get the following matrix into [[matrix in echelon form]]:
 > $$ \begin{pmatrix} 0 & 1 & 1 & 0 \\ 1 & 0 & 3 & 2 \\ 2 & 1 & 5 & 4 \\ 1 & -2 & 0 & 2 \end{pmatrix} $$
 
 $$\begin{align*}
