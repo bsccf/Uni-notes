@@ -22,17 +22,3 @@ tags: ["Question","QFormat3"]
 ![[Pasted image 20211223093006.png]]
 
 ### Examples
-> Find $\int^{2}_{-2} \frac{\sqrt{x+2}}{x+6}\cdot dx$
-
-$$\begin{align*}
-\int^{2}_{-2} \frac{\sqrt{x+2}}{x+6}\cdot dx & &  u &= \sqrt{x+2}\\
-& & u^{2}-2 &= x\\
-& & 2u &= \frac{dx}{du}\\
-&= \int^{2}_{0} \frac{u}{u^{2}+4}\cdot 2u \frac{du}{dx} dx\\
-&= \int^{2}_{0} \frac{2u^{2}}{u^{2}+4}\cdot du\\
-&& \frac{2u^{2}}{u^{2}+4} &= A + \frac{B}{u^{2}+4}\\
-&& 2u^{2} &= A(u^{2} +4) + B\\
-&& 2&=A & 0&= 4A + B\\
-&& & & B&=-8\\
-&= \int^{2}_{0} 2 - \frac{8}{u^{2}+4} \cdot du\\
-\end{align*}$$
