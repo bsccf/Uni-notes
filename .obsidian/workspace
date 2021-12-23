@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/9U Integration 2/common substitutions for integration.md",
-            "mode": "preview"
+            "file": "Mathematics for Engineering and the Environment/9U Integration 2/volume of a solid of revolution.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/9U Integration 2/common substitutions for integration.md",
+                "file": "Mathematics for Engineering and the Environment/9U Integration 2/volume of a solid of revolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "d7f3bca4289a3270",
   "lastOpenFiles": [
-    "Mathematics for Engineering and the Environment/9U Integration 2/common substitutions for integration.md",
+    "Mathematics for Engineering and the Environment/9U Integration 2/volume of a solid of revolution.md",
     "Mathematics for Engineering and the Environment/9U Integration 2/Integration 2 overview.md",
+    "Mathematics for Engineering and the Environment/9U Integration 2/common substitutions for integration.md",
     "Mathematics for Engineering and the Environment/9U Integration 2/integrating standard functions.md",
     "Mathematics for Engineering and the Environment/9U Integration 2/I should have looked for this earlyer.md",
     "Mathematics for Engineering and the Environment/9U Integration 2/integration using the general composite rule.md",
     "Mathematics for Engineering and the Environment/9U Integration 2/single-page-integral-table.pdf",
     "Mathematics for Engineering and the Environment/3 Intergration 1/MEE Intergration 1.md",
     "Mathematics for Engineering and the Environment/3 Intergration 1/Integration as antiderivative/Integration as antiderivative.md",
-    "Mathematics for Engineering and the Environment/3 Intergration 1/The Fundamental Theorem of Calculus/The Fundamental Theorem of Calculus.md",
-    "Mathematics for Engineering and the Environment/3 Intergration 1/Definite and indefinite intergrals/Definite and indefinite intergrals.md"
+    "Mathematics for Engineering and the Environment/3 Intergration 1/The Fundamental Theorem of Calculus/The Fundamental Theorem of Calculus.md"
   ]
 }

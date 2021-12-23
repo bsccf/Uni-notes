@@ -15,3 +15,5 @@ tags: ["NotesPage"]
 ![[integration using the general composite rule]]
 
 ![[common substitutions for integration]]
+
+![[volume of a solid of revolution]]
