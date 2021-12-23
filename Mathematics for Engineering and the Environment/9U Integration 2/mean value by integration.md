@@ -5,3 +5,13 @@ tags: ["Question","QFormat3"]
 
 #### How can we find the
 ## Mean value by integration
+Now if you think about this for more than one second you can come up with the formula yourself.
+
+> ### $$ \bar{m} = \frac{1}{b-a} \int^{b}_a f(x) \cdot dx $$ 
+>> where:
+>> $\bar{m}=$ mean value in range a,b 
+>> $a,b=$ range
+>> $f(x)=$ continous function (within limits)
+![[Pasted image 20211223112756.png]]
+
+If you couldn't figure it out you are [[I need to insult you so I will add a meme|bad]]

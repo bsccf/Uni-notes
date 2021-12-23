@@ -10,6 +10,17 @@
           "type": "markdown",
           "state": {
             "file": "Mathematics for Engineering and the Environment/9U Integration 2/mean value by integration.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "2ad5f397f7ccff74",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mathematics for Engineering and the Environment/9U Integration 2/I need to insult you so I will add a meme.md",
             "mode": "source"
           }
         }
@@ -76,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/9U Integration 2/mean value by integration.md",
+                "file": "Mathematics for Engineering and the Environment/9U Integration 2/I need to insult you so I will add a meme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,8 +115,9 @@
     "direction": "horizontal",
     "width": 234
   },
-  "active": "4d79910c9bad4baa",
+  "active": "2ad5f397f7ccff74",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/9U Integration 2/I need to insult you so I will add a meme.md",
     "Mathematics for Engineering and the Environment/9U Integration 2/mean value by integration.md",
     "Mathematics for Engineering and the Environment/9U Integration 2/Integration 2 overview.md",
     "Mathematics for Engineering and the Environment/9U Integration 2/centre of gravity of a volume of revolution.md",
@@ -114,7 +126,6 @@
     "images/image3.png",
     "Mathematics for Engineering and the Environment/9U Integration 2/centroid of a plane area.md",
     "Mathematics for Engineering and the Environment/9U Integration 2/volume of a solid of revolution.md",
-    "Mathematics for Engineering and the Environment/9U Integration 2/integrating standard functions.md",
-    "Mathematics for Engineering and the Environment/9U Integration 2/I should have looked for this earlyer.md"
+    "Mathematics for Engineering and the Environment/9U Integration 2/integrating standard functions.md"
   ]
 }
