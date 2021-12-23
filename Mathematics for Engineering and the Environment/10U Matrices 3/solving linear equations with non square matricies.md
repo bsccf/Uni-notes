@@ -33,7 +33,7 @@ $$\begin{align*}
 z &= t& x+y+t &= 1 & y+2t &= 1\\
 & & & & y &= 1 - 2t\\
 && x+1 - 2t+t &= 1\\
-z&=t & x &= y &
+z&=t & x &= t & y &= 1-2t
 \end{align*}$$
 
 If we recall how to determine [[types of solution to linear equations using matrices]], then since there are less rows in the cofactor/fat matrix than rows in the unknowns matrix there are infinite solutions (as can be intuitively seen by the equation)
@@ -42,6 +42,25 @@ If we recall how to determine [[types of solution to linear equations using matr
 > Solve:
 > $$ \begin{pmatrix} 1 & 1 \\ 1 & 2 \\ 1 & 3 \end{pmatrix} \begin{pmatrix} x \\ y \end{pmatrix} = \begin{pmatrix}-1 \\ 0 \\ 1\end{pmatrix} $$
 
+I'll get it into an [[adjoint matrix]] form, then use elimination:
+
 $$\begin{align*}
- &= 
+\begin{pmatrix} 
+1 & 1  & -1\\ 
+1 & 2  & 0\\ 
+1 & 3  & 1
+\end{pmatrix}\\\\
+&
+\begin{pmatrix} 
+1 & 1  & -1\\ 
+0 & 1  & 1\\ 
+0 & 2  & 2
+\end{pmatrix}\\\\
+&
+\begin{pmatrix} 
+1 & 1  & -1\\ 
+0 & 1  & 1\\ 
+0 & 0  & 0
+\end{pmatrix}\\\\
+&
 \end{align*}$$
