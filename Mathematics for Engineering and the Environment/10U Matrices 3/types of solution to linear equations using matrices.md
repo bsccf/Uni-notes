@@ -23,10 +23,12 @@ I think trying to adapt what the book says is confusing so I'll phrase it in a n
 > In form (cofactor matrix is the right most one):
 > ### $$ \begin{pmatrix} a_{11} &  a_{12} & ... \\ a_{21} & a_{22} & ... \\ ... & ... & ... \end{pmatrix} \begin{pmatrix}  x_1 \\ x_2 \\ ... \end{pmatrix} = \begin{pmatrix} c_{1}  \\ c_{2} \\ ... \end{pmatrix} $$
 > Solutions:
-> ### $$ \begin{align*}R_S < R_C &:\: no\:solutions,\:not\:consistant\\R_S = R_C &:\: single\:set\:of solutions \\R_S > R_C &:\: infinate\:solutions\end{align*} $$
+> ### $$ \begin{align*}R_F < R_C &:\: no\:solutions,\:not\:consistant\\R_F = R_C &:\: single\:set\:of solutions \\R_F > R_C &:\: infinate\:solutions\end{align*} $$
 >> where:
->> $R_S=$ [[matrix rank|Rank]] of the square matrix
+>> $R_F=$ [[matrix rank|Rank]] of the fat matrix
 >> $R_C=$ [[matrix rank|Rank]] of the cofactor matrix
+
+Note that this can actually be applied to non square matrices as well, [[u]]
 
 ### Example
 > Given the following matrix, determine how many sets of solutions exist.
