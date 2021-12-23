@@ -58,4 +58,4 @@ $$\begin{align*}
 \end{pmatrix}\\
 \end{align*}$$
 
-The more accurate definition of matrix rank is: ""
+The more accurate definition of matrix rank is: "the order of the largest square submatrix with non-zero determinant. A square submatrix is formed by deleting rows and columns to form a smaller square matrix."
