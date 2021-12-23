@@ -3,8 +3,8 @@ aliases: [""]
 tags: ["Question","QFormat3"]
 ---
 
-#### What is
-## Add a name here
+#### How can we determine the
+## Types of solution to linear equations using matrices
 
 ![[Pasted image 20211223162423.png]]
 
@@ -17,3 +17,5 @@ Note that:
 Rank of [[augmented matrix]] = $u$
 Rank of coefficient matrix = rank of the matrix containing the single numerical equivilences of each equation (not sure if I phrased that well, the skinny matrix that goes on the right, though you will need to go from [[augmented matrix]] back to the origional split form [[augmented matrix#^5130a9|example]])
 
+### Example
+> Given the following matrix, 

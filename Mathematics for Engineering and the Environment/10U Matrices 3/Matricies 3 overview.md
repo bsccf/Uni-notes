@@ -19,4 +19,4 @@ It's everyone's favorite topic... [[matrices (maths)|matrices]] ([[Please help I
 
 ![[augmented matrix]]
 
-![[add a name here]]
+![[types of solution to linear equations using matrices]]
