@@ -15,4 +15,4 @@ Or use this equation:
 >> $a,b=$ range
 >> $f(x)=$ continous function (within limits)
 
-Remember since it squares the function this measures magnitude since sign gets removed
+Remember since it squares the function this measures magnitude since negatives well.. [[more memememmeadjawfjawof|arn't]] anymore.
