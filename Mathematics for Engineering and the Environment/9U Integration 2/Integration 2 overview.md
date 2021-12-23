@@ -19,3 +19,5 @@ tags: ["NotesPage"]
 ![[volume of a solid of revolution]]
 
 ![[centroid of a plane area]]
+
+![[centre of gravity of a volume of revolution]]

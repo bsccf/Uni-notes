@@ -1,5 +1,5 @@
 ---
-aliases: ["integration to find the center of a laminar"]
+aliases: ["integration to find the center of a laminar","centre of area of a graph","centroid of a curve","cetnre of a curve"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -28,7 +28,7 @@ It's possible to find the center of this shape using:
 ### Along the x axis
 If we let $g(x)=0$ (so it's just between $f(x)$ and the x axis):
 
-> ### $$ \bar{y} = \frac{1}{2A} \int^{b}_a  [f(x)]^{2})  \cdot dx $$ 
+> ### $$ \bar{y} = \frac{1}{2A} \int^{b}_a  [f(x)]^{2}  \cdot dx $$ 
 >> where:
 >> $A= \int^{b}_a f(x)\cdot dx$ 
 >> $\bar{y} =$ center of y
