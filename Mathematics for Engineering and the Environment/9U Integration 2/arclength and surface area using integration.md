@@ -22,4 +22,4 @@ To find surface area uses a simular technique to [[volume of a solid of revoluti
 >> $a,b=$ limits
 >> $y=f(x)$
 
-I only used the word [[it|arc]] 3 times, well rip... I have way more than 3 memes but looks like I'll have to put them somewhere else.
+I only used the word [[and yes they do all suck|arc]] 3 times, well rip... I have way more than 3 memes but looks like I'll have to put them somewhere else.
