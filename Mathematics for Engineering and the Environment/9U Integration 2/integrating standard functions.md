@@ -30,8 +30,9 @@ We can easily integrate standard functions by substituting the following standar
 
 ### Everything
 
+This pdf is [[I should have looked for this earlyer|the best thing since sliced bread]]
+
 [[single-page-integral-table.pdf|found this it's very useful]]
 
 ![[single-page-integral-table.pdf]]
 
-[[]]
