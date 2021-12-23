@@ -27,4 +27,6 @@ We can easily integrate standard functions by substituting the following standar
 
 > ### $$ \int \sec Ax \tan Ax \cdot dx = \frac{\sec Ax}{A} +c $$
 
+[[single-page-integral-table.pdf|found this it's very useful]]
 
+![[single-page-integral-table.pdf]]
