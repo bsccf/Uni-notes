@@ -1,5 +1,5 @@
 ---
-aliases: ["arclength via integration","arclength and surface area"]
+aliases: ["arclength via integration","arclength and surface area","suface area through integration"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -10,6 +10,7 @@ tags: ["Question","QFormat3"]
 
 > ### $$ s = \int^{b}_a \sqrt{ 1 + \left(\frac{dy}{dx}\right)^{2} } \cdot dx $$ 
 >> where:
->> $s=$ arclength
+>> $s=$ [[yes they are all different|arc]]length
 >> $a,b=$ limits
->> $=$
+
+To find surface area uses a simular technique to [[volume of a solid of revolution]], 
