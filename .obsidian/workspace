@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/9U Integration 2/Integration 2 overview.md",
-            "mode": "preview"
+            "file": "Mathematics for Engineering and the Environment/9U Integration 2/integrating standard functions.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/9U Integration 2/Integration 2 overview.md",
+                "file": "Mathematics for Engineering and the Environment/9U Integration 2/integrating standard functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "d7f3bca4289a3270",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/9U Integration 2/integrating standard functions.md",
     "Mathematics for Engineering and the Environment/9U Integration 2/Integration 2 overview.md",
     "Mathematics for Engineering and the Environment/9U Integration 2/integration using the general composite rule.md",
     "Mathematics for Engineering and the Environment/3 Intergration 1/MEE Intergration 1.md",
@@ -114,7 +115,6 @@
     "Mathematics for Engineering and the Environment/3 Intergration 1/Definite and indefinite intergrals/Definite and indefinite intergrals.md",
     "Mathematics for Engineering and the Environment/3 Intergration 1/Basic ideas and definitions/Basic ideas and definitions.md",
     "Mathematics for Engineering and the Environment/9U Integration 2/common substitutions for integration.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/7 Corrosion/corrosion.md",
-    "Mechanics structures and materials/Materials/Materials read order.md"
+    "Mechanics structures and materials/Materials/3 Failure of materials/7 Corrosion/corrosion.md"
   ]
 }
