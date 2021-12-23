@@ -24,5 +24,5 @@ Rank of coefficient matrix = rank of the matrix containing the single numerical 
 (Imagine I have lots of working here (it's the same as [[matrix in echelon form#Example]] but modifieng the coefficient matrix as well during [[elementary row operations with constant solutions|elementary row operations]]))
 
 $$\begin{align*}
-  &= 
+ \begin{pmatrix}1 & \frac{1}{2} & \frac{5}{2} & 2 \\ 0 & 1 & 1 & 0 \\ 0 & 0 & 1 & 0 \\ 0 & 0 & 0 & 0\end{pmatrix}\begin{pmatrix}x_1 & x_2 & x_3 & x_4\end{pmatrix} &= 
 \end{align*}$$
