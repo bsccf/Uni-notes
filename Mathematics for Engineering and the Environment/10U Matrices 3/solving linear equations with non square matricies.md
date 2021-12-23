@@ -24,12 +24,16 @@ $$\begin{align*}
 #### Next bit
 Now we can expand out our matrix into an equation form:
 $$\begin{align*}
-\begin{pmatrix} 1 & 1 & 1 \\ 0 & 1 & 2 \end{pmatrix} \begin{pmatrix}x \\ y \\ z\end{pmatrix} &= \begin{pmatrix}1 \\ 2\end{pmatrix}\\
-&& x+y+z &= 1 & y+2z &= 2
+\begin{pmatrix} 1 & 1 & 1 \\ 0 & 1 & 2 \end{pmatrix} \begin{pmatrix}x \\ y \\ z\end{pmatrix} &= \begin{pmatrix}1 \\ 1\end{pmatrix}\\
+&& x+y+z &= 1 & y+2z &= 1
 \end{align*}$$
 
 If we recall how to determine [[types of solution to linear equations using matrices]], then since there are less rows in the cofactor/fat matrix than rows in the unknowns matrix there are infinite solutions (as can be intuitively seen by the equation)
 
 ### Example (Overspecified equation)
 > Solve:
-> $$  $$
+> $$ \begin{pmatrix} 1 & 1 \\ 1 & 2 \\ 1 & 3 \end{pmatrix} \begin{pmatrix} x \\ y \end{pmatrix} = \begin{pmatrix}-1 \\ 0 \\ 1\end{pmatrix} $$
+
+$$\begin{align*}
+ &= 
+\end{align*}$$
