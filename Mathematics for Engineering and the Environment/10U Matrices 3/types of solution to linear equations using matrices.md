@@ -21,4 +21,8 @@ Rank of coefficient matrix = rank of the matrix containing the single numerical 
 > Given the following matrix, determine how many sets of solutions exist.
 > $$ \begin{pmatrix} 0 & 1 & 1 & 0 \\ 1 & 0 & 3 & 2 \\ 2 & 1 & 5 & 4 \\ 1  & -2 & 0 & 2 \end{pmatrix} \begin{pmatrix} x_1 \\ x_2 \\ x_3 \\ x_4 \end{pmatrix} = \begin{pmatrix}1 \\ 3 \\ 7 \\ 2\end{pmatrix} $$
 
-(Imagine I have lots of working here (it's the same as [[matrix in echelon form#Example]] but modifieng the coefficient matrix as well during [[el]]))
+(Imagine I have lots of working here (it's the same as [[matrix in echelon form#Example]] but modifieng the coefficient matrix as well during [[elementary row operations with constant solutions|elementary row operations]]))
+
+$$\begin{align*}
+  &= 
+\end{align*}$$
