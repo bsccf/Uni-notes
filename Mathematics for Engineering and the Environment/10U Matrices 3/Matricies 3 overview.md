@@ -16,3 +16,5 @@ It's everyone's favorite topic... [[matrices (maths)|matrices]] ([[Please help I
 ![[matrix echelon form]]
 
 ![[matrix rank]]
+
+![[add a name here]]
