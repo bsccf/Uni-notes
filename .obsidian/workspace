@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/13 Quantification of Entropy and T-S diagrams/TS diagram.md",
+            "file": "Thermofluids/14U Introduction to heat cycles/Introduction to heat cycles.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/13 Quantification of Entropy and T-S diagrams/TS diagram.md",
+                "file": "Thermofluids/14U Introduction to heat cycles/Introduction to heat cycles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,9 +115,9 @@
   },
   "active": "bf40fb1f35dd5079",
   "lastOpenFiles": [
+    "Thermofluids/14U Introduction to heat cycles/Introduction to heat cycles.md",
     "Thermofluids/13 Quantification of Entropy and T-S diagrams/TS diagram.md",
     "Thermofluids/13 Quantification of Entropy and T-S diagrams/need for a TS diagram.md",
-    "Thermofluids/14U Introduction to heat cycles/Introduction to heat cycles.md",
     "Thermofluids/Thermofluids read order.md",
     "Thermofluids/13 Quantification of Entropy and T-S diagrams/TS diagrams for the different processes.md",
     "Thermofluids/13 Quantification of Entropy and T-S diagrams/isentropic process.md",
