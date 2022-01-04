@@ -18,3 +18,5 @@ Total entropy always increases (according to the [[second law of thermodynamics]
 >> $S=$ [[entropy]]
 >> $Q=$ [[heat]]
 >> $T=$ Temperature
+
+^8db5aa

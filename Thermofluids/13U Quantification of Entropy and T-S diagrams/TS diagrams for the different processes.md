@@ -16,5 +16,10 @@ This is the one labelled $C_p$ if we compare [[the two entropy equations]] we ca
 ![[the two entropy equations#^a33899]]
 The top one is for a [[isobaric expansion or compression|isobaric]] process and the bottom one is for a [[isochoric heat transfer|isochoric]] process, that lil minus bit on the end shows that the [[isochoric heat transfer|isochoric]] process for the same temp change produces a smaller increase in [[entropy]].
 
-### [[adiabetic expansion or compression|Adiabetic]] and [[isothermal expansion or compression|isothermal]] heat transfer
-Both of these 
+### [[isothermal expansion or compression|Isothermal]] heat transfer
+[[isothermal expansion or compression|Isothermal]] occurs at constant temperature, so refering back to the equation for [[entropy]]:
+![[entropy#^8db5aa]]
+It is litterally just this, so highly ez.
+
+### [[adiabetic expansion or compression|Adiabetic]] heat transfer
+Assuming that it is frictionless th
