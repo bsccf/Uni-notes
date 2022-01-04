@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "bf40fb1f35dd5079",
+        "id": "0a13e13e7488c9d8",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -113,9 +113,10 @@
     "direction": "horizontal",
     "width": 234
   },
-  "active": "bf40fb1f35dd5079",
+  "active": "0a13e13e7488c9d8",
   "lastOpenFiles": [
     "Thermofluids/14U Introduction to heat cycles/Introduction to heat cycles.md",
+    "Thermofluids/14U Introduction to heat cycles/heat engines and heat pumps.md",
     "Thermofluids/13 Quantification of Entropy and T-S diagrams/TS diagram.md",
     "Thermofluids/13 Quantification of Entropy and T-S diagrams/need for a TS diagram.md",
     "Thermofluids/Thermofluids read order.md",
@@ -123,7 +124,6 @@
     "Thermofluids/13 Quantification of Entropy and T-S diagrams/isentropic process.md",
     "Thermofluids/13 Quantification of Entropy and T-S diagrams/the two entropy equations.md",
     "Thermofluids/13 Quantification of Entropy and T-S diagrams/Quantification of entropy and T-S diagrams notes.md",
-    "Mathematics for Engineering and the Environment/10U Matrices 3/solving linear equations with non square matricies.md",
-    "Mathematics for Engineering and the Environment/10U Matrices 3/types of solution to linear equations using matrices.md"
+    "Mathematics for Engineering and the Environment/10U Matrices 3/solving linear equations with non square matricies.md"
   ]
 }
