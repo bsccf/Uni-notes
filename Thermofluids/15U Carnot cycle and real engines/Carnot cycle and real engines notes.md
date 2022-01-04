@@ -15,3 +15,5 @@ tags: ["NotesPage"]
 ![[carnot engine vs practical engine]]
 
 ![[reciprocating engines]]
+
+![[first look at a real engine]]
