@@ -3,3 +3,5 @@
 ![[bfe.png]]
 ![[20211122_131810.png]]
 ![[poijppoj.jpg]]
+![[pog 1.png]]
+![[peng.png]]
