@@ -12,6 +12,6 @@ tags: ["NotesPage"]
 ## Expanded articles
 ![[carnot engine]]
 
-![[entropy in the carnot cycle]]
-
 ![[carnot engine vs practical engine]]
+
+![[reciprocating engines]]
