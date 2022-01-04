@@ -116,6 +116,7 @@
   "active": "0a13e13e7488c9d8",
   "lastOpenFiles": [
     "Thermofluids/15U Carnot cycle and real engines/carnot engine.md",
+    "Thermofluids/13 Quantification of Entropy and T-S diagrams/isentropic process.md",
     "Thermofluids/15U Carnot cycle and real engines/Carnot cycle and real engines notes.md",
     "Thermofluids/11 Processes, paths and reversibility/isothermal expansion or compression.md",
     "Thermofluids/11 Processes, paths and reversibility/types of process.md",
@@ -123,7 +124,6 @@
     "Thermofluids/11 Processes, paths and reversibility/Processes, paths and reversibility notes.md",
     "Thermofluids/11 Processes, paths and reversibility/isotherms (thermodynamics).md",
     "Thermofluids/11 Processes, paths and reversibility/path (thermodynamics).md",
-    "Thermofluids/11 Processes, paths and reversibility/state (thermodynamics).md",
-    "Thermofluids/13 Quantification of Entropy and T-S diagrams/TS diagrams for the different processes.md"
+    "Thermofluids/11 Processes, paths and reversibility/state (thermodynamics).md"
   ]
 }

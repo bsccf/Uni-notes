@@ -1,1 +1,1 @@
-no change in [[entropy]]
+process with no change in [[entropy]], is [[adiabetic expansion or compression|adiabetic]]

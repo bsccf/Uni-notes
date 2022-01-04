@@ -10,7 +10,9 @@ tags: ["Question","QFormat3"]
 
 It consists of:
 1) [[reversible and irreversible processes|Reversible]] [[isothermal expansion or compression|isothermal compression]]
-2) [[isentropic process]]
+2) [[isentropic process|Isentropic compression]]
+3) [[reversible and irreversible processes|Reversible]] [[isothermal expansion or compression|isothermal expansion]]
+4) [[Isen]]
 
 #### Diagrams
 ![[Pasted image 20220104134526.png]]
