@@ -18,7 +18,13 @@ The general function is:
 - It cycles clearing exhuast expanding and compressing gas to extract work which drives some shaft
 
 ### Terms
+These are terms related to [[reciprocating engines]] that you should be able to define/describe:
 - [[clearance volume]]
 - [[total volume]]
 - [[volume compression ratio]]
-- 
+- [[spark ignition engine]]
+- [[compression ignition engine]]
+- [[cylinder]]
+- [[geometric cylinder arrangement terms]]
+
+Yes there are quite a lot, and yes you should know them. [[wait shit I also need to learn them|Suffer bitch.]]
