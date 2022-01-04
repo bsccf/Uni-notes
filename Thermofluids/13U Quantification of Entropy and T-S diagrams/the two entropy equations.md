@@ -17,6 +17,8 @@ tags: ["Question","QFormat3"]
 >> $T=$ Temperature
 >> $V=$ Volume
 
+^40621f
+
 
 #### [[isochoric heat transfer|isochoric]] heating (temp and pressure vary)
 
@@ -28,6 +30,8 @@ tags: ["Question","QFormat3"]
 >> $m=$ Mass
 >> $T=$ Temperature
 >> $P=$ Pressure
+
+^a33899
 
 ### Derivation
 #### [[isobaric expansion or compression|Isobaric]] heating
