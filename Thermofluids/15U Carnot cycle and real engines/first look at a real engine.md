@@ -7,3 +7,6 @@ There are a few steps that are done in order and repeated as cycles:
 
 ![[Pasted image 20220104150149.png]]
 (Yes the image quality is shit)
+
+The idealised diagram:
+![[Pasted image 20220104150247.png]]
