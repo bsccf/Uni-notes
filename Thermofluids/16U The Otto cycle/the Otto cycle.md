@@ -12,3 +12,4 @@ tags: ["Question","QFormat3"]
 2) ($2 \to 3$) [[isochoric heat transfer|isochoric process]]
 3) ($3 \to 4$) [[isentropic process]]
 4) ($4 \to 1$) [[isochoric heat transfer|isochoric process]]
+
