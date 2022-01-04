@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/15U Carnot cycle and real engines/Carnot cycle and real engines notes.md",
+            "file": "Thermofluids/13 Quantification of Entropy and T-S diagrams/TS diagrams for the different processes.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/15U Carnot cycle and real engines/Carnot cycle and real engines notes.md",
+                "file": "Thermofluids/13 Quantification of Entropy and T-S diagrams/TS diagrams for the different processes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,8 @@
   },
   "active": "0a13e13e7488c9d8",
   "lastOpenFiles": [
+    "Thermofluids/13 Quantification of Entropy and T-S diagrams/TS diagrams for the different processes.md",
+    "Thermofluids/13 Quantification of Entropy and T-S diagrams/TS diagram.md",
     "Thermofluids/15U Carnot cycle and real engines/Carnot cycle and real engines notes.md",
     "Thermofluids/Thermofluids read order.md",
     "Thermofluids/14 Introduction to heat cycles/Introduction to heat cycles.md",
@@ -122,8 +124,6 @@
     "Thermofluids/14 Introduction to heat cycles/heat cycles in a PV diagram.md",
     "Thermofluids/14 Introduction to heat cycles/insert a lil bit of shitpost.md",
     "Thermofluids/14 Introduction to heat cycles/heat engines and heat pumps.md",
-    "Thermofluids/13 Quantification of Entropy and T-S diagrams/TS diagram.md",
-    "Thermofluids/13 Quantification of Entropy and T-S diagrams/need for a TS diagram.md",
-    "Thermofluids/13 Quantification of Entropy and T-S diagrams/TS diagrams for the different processes.md"
+    "Thermofluids/13 Quantification of Entropy and T-S diagrams/need for a TS diagram.md"
   ]
 }
