@@ -25,3 +25,4 @@ For a reversible engine efficiency is defined purely by the temp of the hot and 
 >> $T_c=$ Temp of cold reseviour
 >> $\eta=$ Efficiency of cycle
 
+So you can see that for a reversible engine you want to maxamise the value of $T_h$ and minimise the value of $T_c$ 

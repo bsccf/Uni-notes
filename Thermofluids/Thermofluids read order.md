@@ -18,7 +18,7 @@ tags: ["NotesPage"]
 12) [[Entropy and the second law of thermodynamics notes]]
 13) [[Quantification of entropy and T-S diagrams notes]]
 14) [[Introduction to heat cycles]]
-15) 
+15) [[Carnot cycle and real engines notes]]
 16) 
 17) 
 18) 
