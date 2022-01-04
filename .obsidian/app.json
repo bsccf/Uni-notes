@@ -19,5 +19,7 @@
     "lamellar",
     "Isochoric",
     "isochoric"
-  ]
+  ],
+  "legacyEditor": false,
+  "livePreview": true
 }
