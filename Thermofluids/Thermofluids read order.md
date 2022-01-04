@@ -17,7 +17,7 @@ tags: ["NotesPage"]
 11) [[Processes, paths and reversibility notes]]
 12) [[Entropy and the second law of thermodynamics notes]]
 13) [[Quantification of entropy and T-S diagrams notes]]
-14) 
+14) [[Introduction to heat cycles]]
 15) 
 16) 
 17) 
