@@ -19,12 +19,12 @@ The general function is:
 
 ### Terms
 These are terms related to [[reciprocating engines]] that you should be able to define/describe:
-- [[clearance volume]]
-- [[total volume]]
-- [[volume compression ratio]]
-- [[spark ignition engine]]
-- [[compression ignition engine]]
-- [[cylinder]]
-- [[geometric cylinder arrangement terms]]
+- [[clearance volume (engines)]]
+- [[total volume (engines)]]
+- [[volume compression ratio (engines)]]
+- [[spark ignition engine (engines)]]
+- [[compression ignition engine (engines)]]
+- [[cylinder (engines)]]
+- [[geometric cylinder arrangement terms (engines)]]
 
 Yes there are quite a lot, and yes you should know them. [[wait shit I also need to learn them|Suffer bitch.]]
