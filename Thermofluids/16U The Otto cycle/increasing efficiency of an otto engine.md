@@ -8,4 +8,8 @@ tags: ["Question","QFormat3"]
 If we are keeping it over the same temperature range then the main method is to increase the [[volume compression ratio (engines)|compression ratio]], this "stretches" the graph resaulting in a greater area of the shape and hence a greater work to be extracted:
 ![[Pasted image 20220104155553.png]]
 
-There are som
+There are some limitations of this of course:
+- There are diminishing returns on increasing the [[volume compression ratio (engines)|compression ratio]]
+- If the fuel gets compressed too much it can spontaniously combust which causes a [[as alwayse this is the technical term|shitshow]]
+
+You can reduce
