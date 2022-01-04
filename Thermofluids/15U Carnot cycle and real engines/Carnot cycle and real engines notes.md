@@ -12,4 +12,4 @@ tags: ["NotesPage"]
 ## Expanded articles
 ![[carnot engine]]
 
-![[carnot engine ]]
+![[carnot engine vs practical engine]]
