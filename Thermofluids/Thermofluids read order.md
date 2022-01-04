@@ -19,6 +19,7 @@ tags: ["NotesPage"]
 13) [[Quantification of entropy and T-S diagrams notes]]
 14) [[Introduction to heat cycles]]
 15) [[Carnot cycle and real engines notes]]
-16) 
+16) [[The Otto cycle notes]]
 17) 
 18) 
+19) 
