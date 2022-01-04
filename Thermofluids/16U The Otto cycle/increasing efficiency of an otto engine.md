@@ -12,4 +12,4 @@ There are some limitations of this of course:
 - There are diminishing returns on increasing the [[volume compression ratio (engines)|compression ratio]]
 - If the fuel gets compressed too much it can spontaniously combust which causes a [[as alwayse this is the technical term|shitshow]]
 
-You can reduce
+You can reduce the fuels tendency to spontaniously combust by adding addatives like lead (hence why we did that) but the mouth breathing masses complained about stupid little things like "air polution", "perminant brain damage" and "cancer". So we stopped doing that and now use less dangerous chemicals, smh next people are going to tell me to stop eating cigerettes or stop clubbing baby 
