@@ -6,9 +6,9 @@ tags: ["Question","QFormat3"]
 #### What is the
 ## Carnot engine
 #### Simpler desc
-Basically this is a ideal engine, it is frinctionless, insulated in a perfect way ect. The processes behave perfectly and the gas is ideal, this is a model of "the perfect engine", by looking at how it works and comparing it to real engines we can get idea's on where we loose efficiency and how we can improve.
+A Carnot heat engine is a theoretical engine that operates on the Carnot cycle.
 
-### How it works
+### The carnot cycle
 ![[Pasted image 20220104134434.png]]
 
 It consists of:
@@ -20,7 +20,7 @@ It consists of:
 #### Diagrams
 ![[Pasted image 20220104134526.png]]
 
-#### Properties
+#### Properties of idealised carnot engine
 - Fully reversible
 - Consists of 4 processes
 - It is a frictionless piston cylinder arrangement with perfectly insulated walls
