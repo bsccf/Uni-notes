@@ -7,8 +7,12 @@
         "id": "bf40fb1f35dd5079",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Thermofluids/14U Introduction to heat cycles/Introduction to heat cycles.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Thermofluids/14U Introduction to heat cycles/Introduction to heat cycles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
