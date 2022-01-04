@@ -26,5 +26,7 @@ These are terms related to [[reciprocating engines]] that you should be able to 
 - [[compression ignition engine]]
 - [[cylinder (engines)]]
 - [[geometric cylinder arrangement terms (engines)]]
+- [[compression ignition]]
+- [[spark ignition]]
 
 Yes there are quite a lot, and yes you should know them. [[wait shit I also need to learn them|Suffer bitch.]]
