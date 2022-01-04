@@ -12,9 +12,16 @@ Here we will assume that $T_h$ and $T_c$ are very large thermal reseviours so th
 
 ### [[insert a lil bit of shitpost|The equation]]
 This bits quite ez, from [[heat cycles in a PV diagram#Useful notes for future working]] we know that $\Sigma Q = \Sigma W$ we can get a nice equation:
-> ### $$ \eta = 1 - \frac{Q_h}{Q_c} $$ 
+> ### $$ \eta = 1 - \frac{Q_c}{Q_h} $$ 
 >> where:
 >> $Q_h=$ [[heat]] in
 >> $Q_c=$ [[heat]] out
+>> $\eta=$ Efficiency of cycle
+
+For a reversible engine efficiency is defined purely by the temp of the hot and cold reseviour:
+> ### $$ \eta = 1 - \frac{T_c}{T_h} $$ 
+>> where:
+>> $T_h=$ Temp of hot reseviour
+>> $T_c=$ Temp of cold reseviour
 >> $\eta=$ Efficiency of cycle
 
