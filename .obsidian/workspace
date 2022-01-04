@@ -10,8 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "Thermofluids/16U The Otto cycle/the Otto cycle.md",
-            "mode": "preview",
-            "source": true
+            "mode": "source",
+            "source": false
           }
         }
       }
