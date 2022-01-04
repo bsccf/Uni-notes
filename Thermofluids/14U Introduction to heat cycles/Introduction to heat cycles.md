@@ -11,3 +11,4 @@ tags: ["NotesPage"]
 
 ## Expanded articles
 ![[heat engines and heat pumps]]
+![[heat cycles in a PV diagram]]
