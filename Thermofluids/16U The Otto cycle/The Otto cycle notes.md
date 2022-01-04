@@ -11,3 +11,5 @@ tags: ["NotesPage"]
 
 ## Expanded articles
 ![[the Otto cycle]]
+
+![[applications of Otto engines]]
