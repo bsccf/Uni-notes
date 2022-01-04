@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/14U Introduction to heat cycles/insert a lil bit of shitpost.md",
+            "file": "Thermofluids/14U Introduction to heat cycles/heat cycles in a PV diagram.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/14U Introduction to heat cycles/insert a lil bit of shitpost.md",
+                "file": "Thermofluids/14U Introduction to heat cycles/heat cycles in a PV diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,10 +115,10 @@
   },
   "active": "0a13e13e7488c9d8",
   "lastOpenFiles": [
-    "Thermofluids/14U Introduction to heat cycles/insert a lil bit of shitpost.md",
-    "Thermofluids/14U Introduction to heat cycles/efficiency of a heat cycle.md",
-    "Thermofluids/14U Introduction to heat cycles/Introduction to heat cycles.md",
     "Thermofluids/14U Introduction to heat cycles/heat cycles in a PV diagram.md",
+    "Thermofluids/14U Introduction to heat cycles/efficiency of a heat cycle.md",
+    "Thermofluids/14U Introduction to heat cycles/insert a lil bit of shitpost.md",
+    "Thermofluids/14U Introduction to heat cycles/Introduction to heat cycles.md",
     "Thermofluids/14U Introduction to heat cycles/heat engines and heat pumps.md",
     "Thermofluids/13 Quantification of Entropy and T-S diagrams/TS diagram.md",
     "Thermofluids/13 Quantification of Entropy and T-S diagrams/need for a TS diagram.md",

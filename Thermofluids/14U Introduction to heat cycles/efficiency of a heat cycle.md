@@ -11,3 +11,4 @@ We often represent the heat engine with a simple diagram that shows the heat in,
 Here we will assume that $T_h$ and $T_c$ are very large thermal reseviours so that their temperatures remain constant.
 
 ### [[insert a lil bit of shitpost|Maeth]]
+This bits quite ez, from [[heat cycles in a PV diagram#Useful notes for future working]] we know that 
