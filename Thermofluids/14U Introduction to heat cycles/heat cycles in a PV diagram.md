@@ -15,4 +15,3 @@ Since we know on a [[p-v diagrams|pv diagram]] the area under the line is the wo
 These are useful since they apply to all cycles and can allow us to simplify the working for finding the overall output of the machine:
 - The initial and final points are the same hence the cycle [[internal energy]] is zero, hence: $\Sigma Q - \Sigma W = 0$ or $\Sigma Q = \Sigma W$
  - We also know that for [[p-v diagrams]] the inside the shape is work done and for [[TS diagram|T-S diagrams]] the area inside the shape is net heat transfer, so since $\Sigma Q = \Sigma W$, the area enclosed inside both shapes is the same.
-

@@ -15,3 +15,4 @@ The intro is strange but wait till 2:00 it gets (more) based.
 ## Expanded articles
 ![[heat engines and heat pumps]]
 ![[heat cycles in a PV diagram]]
+![[efficiency of a heat cycle]]
