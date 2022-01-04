@@ -11,7 +11,7 @@
           "state": {
             "file": "Thermofluids/15U Carnot cycle and real engines/carnot engine.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       }
