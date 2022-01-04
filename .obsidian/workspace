@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/16U The Otto cycle/the Otto cycle.md",
+            "file": "Thermofluids/15 Carnot cycle and real engines/carnot engine.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/16U The Otto cycle/the Otto cycle.md",
+                "file": "Thermofluids/15 Carnot cycle and real engines/carnot engine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,7 @@
   },
   "active": "016d94f789972a0c",
   "lastOpenFiles": [
+    "Thermofluids/15 Carnot cycle and real engines/carnot engine.md",
     "Thermofluids/16U The Otto cycle/the Otto cycle.md",
     "Mechanics structures and materials/Materials/3 Failure of materials/7 Corrosion/Corrosion notes.md",
     "Thermofluids/6 Dimensional analysis/top 10 reasons for excessive bracket use.md",
@@ -123,7 +124,6 @@
     "Thermofluids/Thermofluids read order.md",
     "Thermofluids/15 Carnot cycle and real engines/first look at a real engine.md",
     "Thermofluids/15 Carnot cycle and real engines/Carnot cycle and real engines notes.md",
-    "Thermofluids/15 Carnot cycle and real engines/reciprocating engines.md",
-    "Thermofluids/15 Carnot cycle and real engines/spark ignition.md"
+    "Thermofluids/15 Carnot cycle and real engines/reciprocating engines.md"
   ]
 }
