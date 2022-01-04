@@ -22,8 +22,8 @@ These are terms related to [[reciprocating engines]] that you should be able to 
 - [[clearance volume (engines)]]
 - [[total volume (engines)]]
 - [[volume compression ratio (engines)]]
-- [[spark ignition engine (engines)]]
-- [[compression ignition engine (engines)]]
+- [[spark ignition engine]]
+- [[compression ignition engine]]
 - [[cylinder (engines)]]
 - [[geometric cylinder arrangement terms (engines)]]
 
