@@ -13,4 +13,12 @@ A reciprocating engine, also often known as a piston engine, is typically a heat
 ![[Pasted image 20220104143631.png]]
 
 The general function is:
-- A poston moves between bottom and top dead centre $\$
+- A piston moves between bottom and top dead centre (BDC and TDC)
+- Fuel is injected which combusts driving the piston
+- It cycles clearing exhuast expanding and compressing gas to extract work which drives some shaft
+
+### Terms
+- [[clearance volume]]
+- [[total volume]]
+- [[volume compression ratio]]
+- 
