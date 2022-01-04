@@ -11,4 +11,4 @@ Here you can see how each of the [[types of process]] have different TS diagrams
 
 Since change in [[entropy]] is defined as:
 ![[entropy#Equation]]
-If there is no change in [[heat]] there is no change in [[entropy]].
+If there is no change in [[heat]] there is no change in [[entropy]], basically the take away is that the area under a T-S line is heat transfer!
