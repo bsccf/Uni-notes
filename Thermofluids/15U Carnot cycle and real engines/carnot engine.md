@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["carnot cycle"]
 tags: ["Question","QFormat3"]
 ---
 
