@@ -19,7 +19,7 @@ The top one is for a [[isobaric expansion or compression|isobaric]] process and 
 ### [[isothermal expansion or compression|Isothermal]] heat transfer
 [[isothermal expansion or compression|Isothermal]] occurs at constant temperature, so refering back to the equation for [[entropy]]:
 ![[entropy#^8db5aa]]
-It is litterally just this, so highly ez.
+It is litterally just this, so highly ez. It is just the horizontal line.
 
 ### [[adiabetic expansion or compression|Adiabetic]] heat transfer
-Assuming that it is frictionless th
+Assuming that it is frictionless this is a [[isentropic process]] so $\Delta S=0$ hence it is the line going strait up.
