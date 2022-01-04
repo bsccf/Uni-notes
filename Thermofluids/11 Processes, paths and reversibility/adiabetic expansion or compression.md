@@ -22,7 +22,7 @@ Note that it will be a [[reversible and irreversible processes|reversible proces
 These are useful when doing calculations on [[p-v diagrams]] since they can be used to calculate the changes in the properties between [[state (thermodynamics)|states]] where the [[process (thermodynamics)|process]] is [[isothermal expansion or compression|isothermal]].
 
 ##### Pressure volume temperature
-The [[ideal gas law]] can be used where $T$ is constant:
+The [[ideal gas law]] can be used:
 > ### $$ \frac{P_1 V_1}{T_1} = \frac{P_2 V_2}{T_2} $$ 
 >> where:
 >> $P=$ Pressure
