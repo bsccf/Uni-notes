@@ -3,10 +3,12 @@ aliases: [""]
 tags: ["NotesPage"]
 ---
 
-# <% tp.file.title.charAt(0).toUpperCase() + tp.file.title.slice(1)%>
+# The Otto cycle notes
 
 #### Intro and contents
-- 
+- [[the Otto cycle]]
+- [[increasing efficiency of an otto engine]]
+- [[applications of Otto engines]]
 
 
 ## Expanded articles

@@ -11,3 +11,5 @@ tags: ["NotesPage"]
 
 ## Expanded articles
 ![[diesel engine]]
+
+![[diesel cycle]]
