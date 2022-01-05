@@ -12,4 +12,6 @@ The diesel cycle is a [[cycle (thermodynamics)|cycle]] consisting of:
 3) $(3 \to 4)$ [[isentropic process|isentropic]] expansion
 4) $(4 \to 1)$ [[isochoric heat transfer|isochoric]] cooling
 
-![[Pasted image 20220105095531.png]]
+![[Pasted image 20220105095726.png]]
+
+![[Pasted image 20220105095750.png]]
