@@ -1,5 +1,5 @@
 ---
-aliases: ["piston engine"]
+aliases: ["piston engine","TDC","BDC","top dead centre","bottom dead centre"]
 tags: ["Question","QFormat3"]
 ---
 
