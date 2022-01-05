@@ -13,4 +13,6 @@ The way that a diesel engine functions is very simular to a [[the Otto cycle|Ott
 
 ### Combustion
 ![[Pasted image 20220105093729.png]]
-Since in diesel engines the fuel is ignited via compression, the exact moment ignition occurs at varys each stroke which leads to slight inefficiency compared to perfectly controlled igni
+Since in diesel engines the fuel is ignited via compression, the exact moment ignition occurs at varys each stroke which leads to slight inefficiency compared to perfectly controlled ignition and more vibration, we tend to compensate for this by increasing the mass of the engine.
+The stability of the fuel:
+- Heat addition is a 
