@@ -29,11 +29,12 @@ The [[ideal gas law]] can be used:
 >> $V=$ Volume
 >> $T=$ Temperature
 
+There is also this guy that applys for adiabetic specificly:
 > ### $$ PV^{\gamma} = constant $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $P=$ Pressure
+>> $V=$ Volume
+>> $\gamma=$ also constant
 
 ##### Conservation of energy
 > ### $$ \begin{align*}Q_{12} - W_{12} &= E_{u12} \\ - W_{12} &= E_{u12}\end{align*} $$ 

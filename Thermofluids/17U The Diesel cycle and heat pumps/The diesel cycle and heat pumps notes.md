@@ -15,3 +15,5 @@ tags: ["NotesPage"]
 ![[diesel cycle]]
 
 ![[diesel engine efficiency]]
+
+![[diesel vs otto cycle]]
