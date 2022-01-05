@@ -17,3 +17,4 @@ The diesel cycle is a [[cycle (thermodynamics)|cycle]] consisting of:
 ![[Pasted image 20220105095750.png]]
 
 ### Realistic representation
+![[Pasted image 20220105111449.png]]
