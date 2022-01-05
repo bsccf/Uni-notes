@@ -22,3 +22,5 @@ tags: ["NotesPage"]
 ![[diesel vs otto cycle]]
 
 ![[coefficient of preformance (heat pumps)]]
+
+![[ground source heat pumps]]
