@@ -15,4 +15,5 @@ The way that a diesel engine functions is very simular to a [[the Otto cycle|Ott
 ![[Pasted image 20220105093729.png]]
 Since in diesel engines the fuel is ignited via compression, the exact moment ignition occurs at varys each stroke which leads to slight inefficiency compared to perfectly controlled ignition and more vibration, we tend to compensate for this by increasing the mass of the engine.
 The stability of the fuel:
-- Heat addition is a 
+- Heat addition is a constant pressure process therefore knock is impossible during the compression stroke. (This kinda confuses me tbh, revisit this later)
+- Since knock dosn't occur you can get greater 
