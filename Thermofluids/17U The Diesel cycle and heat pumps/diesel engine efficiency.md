@@ -10,4 +10,6 @@ tags: ["Question","QFormat3"]
 >> where:
 >> $\eta_{th}=$ Efficiency of diesel engine
 >> $r= v_{1}/v_{2} =$ [[volume compression ratio (engines)|volume compression ratio]]
->> $r_{c} = v_{3}/v= $
+>> $r_{c} = v_{3}/v_2=$ [[cutoff ratio]]
+>> $W_{net}=$ work extracted  
+>> $Q_{in}=$ heat put in
