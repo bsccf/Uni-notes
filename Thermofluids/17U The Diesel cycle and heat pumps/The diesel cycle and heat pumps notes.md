@@ -13,3 +13,5 @@ tags: ["NotesPage"]
 ![[diesel engine]]
 
 ![[diesel cycle]]
+
+![[diesel engine efficiency]]
