@@ -21,5 +21,5 @@ tags: ["NotesPage"]
 15) [[Carnot cycle and real engines notes]]
 16) [[The Otto cycle notes]]
 17) [[The diesel cycle and heat pumps notes]]
-18) 
+18) [[The brayton cycle notes]]
 19) 

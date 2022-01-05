@@ -10,7 +10,9 @@ tags: ["NotesPage"]
 - [[diesel cycle]]
 - [[diesel engine efficiency]]
 - [[diesel vs otto cycle]]
-- [[ground]]
+- [[heat engines and heat pumps|heat pump]]
+- [[ground source heat pumps]]
+- [[limitations on heat pumps]]
 
 
 ## Expanded articles
