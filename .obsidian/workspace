@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/17U The Diesel cycle and heat pumps/The diesel cycle and heat pumps notes.md",
+            "file": "Thermofluids/17U The Diesel cycle and heat pumps/diesel cycle.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/17U The Diesel cycle and heat pumps/The diesel cycle and heat pumps notes.md",
+                "file": "Thermofluids/17U The Diesel cycle and heat pumps/diesel cycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,13 +115,13 @@
   },
   "active": "016d94f789972a0c",
   "lastOpenFiles": [
+    "Thermofluids/17U The Diesel cycle and heat pumps/diesel cycle.md",
     "Thermofluids/17U The Diesel cycle and heat pumps/The diesel cycle and heat pumps notes.md",
     "Thermofluids/16 The Otto cycle/the Otto cycle.md",
     "Thermofluids/16 The Otto cycle/The Otto cycle notes.md",
     "Thermofluids/15 Carnot cycle and real engines/Carnot cycle and real engines notes.md",
     "Thermofluids/15 Carnot cycle and real engines/carnot engine vs practical engine.md",
     "Thermofluids/17U The Diesel cycle and heat pumps/diesel engine.md",
-    "Thermofluids/17U The Diesel cycle and heat pumps/diesel cycle.md",
     "Thermofluids/15 Carnot cycle and real engines/spark ignition engine.md",
     "Thermofluids/15 Carnot cycle and real engines/reciprocating engines.md",
     "Thermofluids/Thermofluids read order.md"
