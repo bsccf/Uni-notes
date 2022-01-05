@@ -7,10 +7,13 @@ tags: ["Question","QFormat3"]
 ## Coefficient of preformance (heat pumps)
 ### Equation
 
-> ### $$ COP = \frac{Q_{C}}{W} = -\frac{Q_{C}}{Q_{H}+Q_{C}} $$ 
+> ### $$ COP_{cooling} = \frac{Q_{C}}{W} = -\frac{Q_{C}}{Q_{H}+Q_{C}} = \frac{T_{C}}{T_{H}-T_{C}} $$ 
 >> where:
->> $COP=$ [[coefficient of preformance (heat pumps)|coefficient of preformance]] 
->> $Q_{C}=$ useful [[heat]] removed from system
+>> $COP_{cooling}=$ [[coefficient of preformance (heat pumps)|coefficient of preformance]] for cooling
+>> $Q_{C}=$ useful [[heat]] removed from system (negativ)
+>> $Q_{H}=$ heat given to hot reseviour
+>> $T_{C}=$ Temperature of cold reseviour
+>> $T_{H}=$ Temperature of hot reseviour
 >> $W=$ Work input
 
 ### Example diagram
