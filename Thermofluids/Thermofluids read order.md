@@ -20,6 +20,6 @@ tags: ["NotesPage"]
 14) [[Introduction to heat cycles]]
 15) [[Carnot cycle and real engines notes]]
 16) [[The Otto cycle notes]]
-17) 
+17) [[The diesel cycle and heat pumps notes]]
 18) 
 19) 

@@ -7,8 +7,12 @@
         "id": "016d94f789972a0c",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Thermofluids/17U The Diesel cycle and heat pumps/The diesel cycle and heat pumps notes.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Thermofluids/17U The Diesel cycle and heat pumps/The diesel cycle and heat pumps notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,15 +115,15 @@
   },
   "active": "016d94f789972a0c",
   "lastOpenFiles": [
+    "Thermofluids/17U The Diesel cycle and heat pumps/The diesel cycle and heat pumps notes.md",
+    "Thermofluids/Thermofluids read order.md",
+    "Mechanics structures and materials/Materials/3 Failure of materials/7 Corrosion/diggy diggy hole.md",
     "Thermofluids/16 The Otto cycle/increasing efficiency of an otto engine.md",
     "Thermofluids/16 The Otto cycle/eating my cigerette.md",
     "Thermofluids/16 The Otto cycle/as alwayse this is the technical term.md",
     "Thermofluids/16 The Otto cycle/The Otto cycle notes.md",
     "Thermofluids/16 The Otto cycle/the Otto cycle.md",
     "Thermofluids/16 The Otto cycle/applications of Otto engines.md",
-    "Thermofluids/15 Carnot cycle and real engines/carnot engine.md",
-    "Mechanics structures and materials/Materials/3 Failure of materials/7 Corrosion/Corrosion notes.md",
-    "Thermofluids/6 Dimensional analysis/top 10 reasons for excessive bracket use.md",
-    "Thermofluids/5 Dimensions and units, ratios and coefficients/why I still can't be asked.md"
+    "Thermofluids/15 Carnot cycle and real engines/carnot engine.md"
   ]
 }
