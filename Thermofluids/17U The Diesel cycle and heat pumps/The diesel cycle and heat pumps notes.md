@@ -24,3 +24,5 @@ tags: ["NotesPage"]
 ![[coefficient of preformance (heat pumps)]]
 
 ![[ground source heat pumps]]
+
+![[limitations on heat pumps]]
