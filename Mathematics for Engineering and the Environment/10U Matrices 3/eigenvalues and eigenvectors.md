@@ -14,7 +14,15 @@ The eigenvalues of a [[square matrix]] can be found using:
 >> $\lambda=$ [[eigenvalues and eigenvectors|eigenvalues]] 
 >> $I=$ [[unit matrix]]
 >> $A=$ some [[square matrix]]
+>> $\det(X)=$ [[determinant]] function
 
 #### Example
 > Find the [[eigenvalues and eigenvectors|eigenvalues]] for:
-> $$ \begin{pmatrix} -2 & 1 \\  \end{pmatrix} $$
+> $$ \begin{pmatrix} -2 & 1 \\ 1 & -2 \end{pmatrix} $$
+
+$$\begin{align*}
+0 & =\det \left( \lambda \begin{pmatrix} 1 & 0 \\ 0 & 1 \end{pmatrix} - \begin{pmatrix} -2 & 1 \\ 1 & -2 \end{pmatrix} \right) \\
+&= \det \begin{pmatrix} \lambda+2 & -1 \\ -1 & \lambda+2 \end{pmatrix} \\
+&= (\lambda+2)^{2} - 1\\
+&= \lambda^{2} + 4\lambda + 3
+\end{align*}$$
