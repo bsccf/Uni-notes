@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/Brayton cycle.md",
-            "mode": "source",
-            "source": true
+            "file": "Mathematics for Engineering and the Environment/10U Matrices 3/Matricies 3 overview.md",
+            "mode": "preview",
+            "source": false
           }
         }
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/Brayton cycle.md",
+                "file": "Mathematics for Engineering and the Environment/10U Matrices 3/Matricies 3 overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,8 @@
   },
   "active": "016d94f789972a0c",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/10U Matrices 3/Matricies 3 overview.md",
+    "Mathematics for Engineering and the Environment/10U Matrices 3/types of solution to linear equations using matrices.md",
     "Thermofluids/Brayton cycle.md",
     "Thermofluids/The brayton cycle notes.md",
     "Thermofluids/Thermofluids read order.md",
@@ -122,8 +124,6 @@
     "Thermofluids/17U The Diesel cycle and heat pumps/limitations on heat pumps.md",
     "Thermofluids/17U The Diesel cycle and heat pumps/ground source heat pumps.md",
     "Thermofluids/14 Introduction to heat cycles/heat engines and heat pumps.md",
-    "Thermofluids/17U The Diesel cycle and heat pumps/coefficient of preformance (heat pumps).md",
-    "Thermofluids/17U The Diesel cycle and heat pumps/diesel cycle.md",
-    "Thermofluids/17U The Diesel cycle and heat pumps/diesel vs otto cycle.md"
+    "Thermofluids/17U The Diesel cycle and heat pumps/coefficient of preformance (heat pumps).md"
   ]
 }
