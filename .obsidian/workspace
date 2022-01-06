@@ -10,8 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "Mathematics for Engineering and the Environment/10U Matrices 3/eigenvalues and eigenvectors.md",
-            "mode": "preview",
-            "source": false
+            "mode": "source",
+            "source": true
           }
         }
       }

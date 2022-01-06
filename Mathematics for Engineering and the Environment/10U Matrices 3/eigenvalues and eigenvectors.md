@@ -12,3 +12,5 @@ The eigenvalues of a [[square matrix]] can be found using:
 >> $\lambda=$ [[eigenvalues and eigenvectors|eigenvalues]] 
 >> $I=$ [[unit matrix]]
 >> $A=$ some [[square matrix]]
+
+
