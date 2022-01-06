@@ -52,3 +52,9 @@ $$\begin{align*}
 \lambda &= 2,\:1,\:-1
 \end{align*}$$
 
+Now for each eigenvalue you need to find the corresponding [[eigenvalues and eigenvectors|eigenvector]], we can use the identity $Au = \lambda u$:
+$$\begin{align*}
+\begin{pmatrix} 1 & 1 & -2 \\ -1 & 2 & 1 \\ 0 & 1 & -1 \end{pmatrix} \begin{pmatrix}a  \\ b \\ c\end{pmatrix} &= \lambda \begin{pmatrix}a \\ b \\ c\end{pmatrix} \\
+&& a+b-2c&=\lambda a & -a +2b +c &= \lambda b
+\end{align*}$$
+We then sub in our eigenvalues and solve.
