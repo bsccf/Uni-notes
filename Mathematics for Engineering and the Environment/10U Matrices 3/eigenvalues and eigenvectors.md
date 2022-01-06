@@ -7,6 +7,8 @@ tags: ["Question","QFormat3"]
 ## Eigenvalues and eigenvectors
 
 ### Eigenvalues
+These are values that induce the equivilent transformation as a specific square matrix for a specific column vector. ($Au=\/lambda$)
+
 The eigenvalues of a [[square matrix]] can be found using:
 > ### $$ 0 = \det ( \lambda I - A) $$ 
 >> where:
