@@ -46,6 +46,9 @@ Basically this is the [[column vector]] that goes with a [[eigenvalues and eigen
 First you find the eigenvalues:
 $$\begin{align*}
 0 &= \det\: \begin{pmatrix} \lambda & 0 & 0 \\ 0 & \lambda & 0 \\ 0 & 0 & \lambda \end{pmatrix} - \begin{pmatrix} 1 & 1 & -2 \\ -1 & 2 & 1 \\ 0 & 1 & -1 \end{pmatrix}\\
-&= \det\: \begin{pmatrix} \lambda & 0 & 0 \\ 0 & \lambda & 0 \\ 0 & 0 & \lambda \end{pmatrix} - \begin{pmatrix} 1 & 1 & -2 \\ -1 & 2 & 1 \\ 0 & 1 & -1 \end{pmatrix}
+&= \det\:  \begin{pmatrix} \lambda-1 & -1 & 2 \\ 1 & \lambda-2 & -1 \\ 0 & -1 & \lambda+1 \end{pmatrix}\\
+&= 0 \det\begin{pmatrix} -1 & 2 \\ \lambda-2 & -1 \end{pmatrix} + 1\det\begin{pmatrix} \lambda-1 & 2 \\ 1 & -1 \end{pmatrix} + (\lambda+1)det\begin{pmatrix} \lambda-1 & -1 \\ 1 & \lambda-2 \end{pmatrix}\\
+&= \lambda^{3}-2\lambda^{2}-\lambda+2\\
+\lambda &= 2,\:1,\:-1
 \end{align*}$$
 
