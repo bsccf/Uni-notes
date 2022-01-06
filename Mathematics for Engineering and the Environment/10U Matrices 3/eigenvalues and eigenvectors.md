@@ -58,3 +58,14 @@ $$\begin{align*}
 && a+b-2c&=\lambda a & -a +2b +c &= \lambda b
 \end{align*}$$
 We then sub in our eigenvalues and solve.
+$$\begin{align*}\\
+ \lambda &= 2 \\
+a+b-2c&=2a & -a +2b +c &= 2 b \\
+b-2c&=a & -a  +c &= 0\\
+& & a &= c\\
+b &= 3c
+\end{align*}$$
+Hence our [[eigenvalues and eigenvectors|eigenvector]] for our [[eigenvalues and eigenvectors|eigenvalue]] of 2 is:
+$$\begin{align*}
+ &= 
+\end{align*}$$
