@@ -7,7 +7,7 @@ tags: ["Question","QFormat3"]
 ## Eigenvalues and eigenvectors
 
 ### Eigenvalues
-Eigenvalues are scalar multipliers that 
+Eigenvalues are scalar multipliers that transform a [[column vector]] in the same way that a matrix would $AC=\lambda C$
 
 The eigenvalues of a [[square matrix]] can be found using:
 > ### $$ 0 = \det ( \lambda I - A) $$ 
