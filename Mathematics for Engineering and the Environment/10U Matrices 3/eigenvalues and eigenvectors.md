@@ -7,6 +7,7 @@ tags: ["Question","QFormat3"]
 ## Eigenvalues and eigenvectors
 
 ### Eigenvalues
+Eigenvalues are scalar multipliers that 
 
 The eigenvalues of a [[square matrix]] can be found using:
 > ### $$ 0 = \det ( \lambda I - A) $$ 
@@ -24,5 +25,9 @@ $$\begin{align*}
 0 & =\det \left( \lambda \begin{pmatrix} 1 & 0 \\ 0 & 1 \end{pmatrix} - \begin{pmatrix} -2 & 1 \\ 1 & -2 \end{pmatrix} \right) \\
 &= \det \begin{pmatrix} \lambda+2 & -1 \\ -1 & \lambda+2 \end{pmatrix} \\
 &= (\lambda+2)^{2} - 1\\
-&= \lambda^{2} + 4\lambda + 3
+&= \lambda^{2} + 4\lambda + 3\\
+&& \lambda &= -1 & \lambda &= -3
 \end{align*}$$
+
+[[eigenvalues and eigenvectors|Eigenvalues]] are -1, -3
+
