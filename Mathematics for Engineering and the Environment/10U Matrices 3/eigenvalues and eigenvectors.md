@@ -101,4 +101,4 @@ Hence the [[eigenvalues and eigenvectors]] for matrix A are:
 2) >$$ 1 , \begin{pmatrix} 3 \\ 2 \\ 1 \end{pmatrix} $$
 3) >$$ -1 , \begin{pmatrix} 1 \\ 0 \\ 1 \end{pmatrix} $$
 
-Notice the $\beta$ is
+Notice the $\beta$ is excluded, it's kinda just not needed as you can multiply/divide both sides by any constant.
