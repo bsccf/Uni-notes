@@ -41,7 +41,7 @@ Basically this is the [[column vector]] that goes with a [[eigenvalues and eigen
 
 Note: The method shown below also works for when eigenvalues are complex numbers, which is very common though annoying.
 
-Also note: [[matrices are tools of the devil invented to torture the living|]]
+Also note: [[matrices are tools of the devil invented to torture the living|I love matrices]].
 
 #### Examples
 > Find the eigenvectors and eigenvalues for the following matrix:
