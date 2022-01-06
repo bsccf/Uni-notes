@@ -92,6 +92,13 @@ a+b-2c&=-a & -a +2b +c &= -b \\
 && c &= a
 \end{align*}$$
 $$\begin{align*}
-\begin{pmatrix} a \\ 0 \\ c \end{pmatrix} &= \beta \begin{pmatrix} 3 \\ 2 \\ 1 \end{pmatrix}\\
-&&  \begin{pmatrix} 1 & 1 & -2 \\ -1 & 2 & 1 \\ 0 & 1 & -1 \end{pmatrix} \beta \begin{pmatrix} 3 \\ 2 \\ 1 \end{pmatrix} &= 1 \times \beta \begin{pmatrix} 3 \\ 2 \\ 1 \end{pmatrix}
+\begin{pmatrix} a \\ 0 \\ a \end{pmatrix} &= \beta \begin{pmatrix} 1 \\ 0 \\ 1 \end{pmatrix}\\
+&&  \begin{pmatrix} 1 & 1 & -2 \\ -1 & 2 & 1 \\ 0 & 1 & -1 \end{pmatrix} \beta \begin{pmatrix} 1 \\ 0 \\ 1 \end{pmatrix} &= -1 \times \beta \begin{pmatrix} 1 \\ 0 \\ 1 \end{pmatrix}
 \end{align*}$$
+
+Hence the [[eigenvalues and eigenvectors]] for matrix A are:
+1) >$$ 2 , \begin{pmatrix} 1 \\ 3 \\ 1 \end{pmatrix} $$
+2) >$$ 1 , \begin{pmatrix} 3 \\ 2 \\ 1 \end{pmatrix} $$
+3) >$$ -1 , \begin{pmatrix} 1 \\ 0 \\ 1 \end{pmatrix} $$
+
+Notice the $\beta$ is
