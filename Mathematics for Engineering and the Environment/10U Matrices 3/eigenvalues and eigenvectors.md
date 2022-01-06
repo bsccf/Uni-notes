@@ -41,6 +41,8 @@ Basically this is the [[column vector]] that goes with a [[eigenvalues and eigen
 
 Note: The method shown below also works for when eigenvalues are complex numbers, which is very common though annoying.
 
+Also note: [[matrices are tools of the devil invented to torture the living|]]
+
 #### Examples
 > Find the eigenvectors and eigenvalues for the following matrix:
 > $$ A = \begin{pmatrix} 1 & 1 & -2 \\ -1 & 2 & 1 \\ 0 & 1 & -1 \end{pmatrix} $$
