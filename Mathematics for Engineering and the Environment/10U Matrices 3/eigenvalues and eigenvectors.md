@@ -40,3 +40,12 @@ $$\begin{align*}
 Basically this is the [[column vector]] that goes with a [[eigenvalues and eigenvectors|eigenvalue]]. Using all the same definitions as above.
 
 #### Examples
+> Find the eigenvectors and eigenvalues for the following matrix:
+> $$ A = \begin{pmatrix} 1 & 1 & -2 \\ -1 & 2 & 1 \\ 0 & 1 & -1 \end{pmatrix} $$
+
+First you find the eigenvalues:
+$$\begin{align*}
+0 &= \det\: \begin{pmatrix} \lambda & 0 & 0 \\ 0 & \lambda & 0 \\ 0 & 0 & \lambda \end{pmatrix} - \begin{pmatrix} 1 & 1 & -2 \\ -1 & 2 & 1 \\ 0 & 1 & -1 \end{pmatrix}\\
+&= \det\: \begin{pmatrix} \lambda & 0 & 0 \\ 0 & \lambda & 0 \\ 0 & 0 & \lambda \end{pmatrix} - \begin{pmatrix} 1 & 1 & -2 \\ -1 & 2 & 1 \\ 0 & 1 & -1 \end{pmatrix}
+\end{align*}$$
+
