@@ -70,6 +70,7 @@ $$\begin{align*}
 \begin{pmatrix} c \\ 3c \\ c \end{pmatrix} &= \beta \begin{pmatrix} 1 \\ 3 \\ 1 \end{pmatrix}\\
 &&  \begin{pmatrix} 1 & 1 & -2 \\ -1 & 2 & 1 \\ 0 & 1 & -1 \end{pmatrix} \beta \begin{pmatrix} 1 \\ 3 \\ 1 \end{pmatrix} &= 2 \times \beta \begin{pmatrix} 1 \\ 3 \\ 1 \end{pmatrix}
 \end{align*}$$
+Now to do the same for $\lambda=1$:
 $$\begin{align*}\\
  \lambda &= 1 \\
 a+b-2c&=a & -a +2b +c &= b \\
@@ -79,5 +80,18 @@ b&=2c & -a +b +c &= 0\\
 \end{align*}$$
 $$\begin{align*}
 \begin{pmatrix} 3c \\ 2c \\ c \end{pmatrix} &= \beta \begin{pmatrix} 3 \\ 2 \\ 1 \end{pmatrix}\\
+&&  \begin{pmatrix} 1 & 1 & -2 \\ -1 & 2 & 1 \\ 0 & 1 & -1 \end{pmatrix} \beta \begin{pmatrix} 3 \\ 2 \\ 1 \end{pmatrix} &= 1 \times \beta \begin{pmatrix} 3 \\ 2 \\ 1 \end{pmatrix}
+\end{align*}$$
+Now to do the same for $\lambda=-1$:
+$$\begin{align*}\\
+ \lambda &= 1 \\
+a+b-2c&=-a & -a +2b +c &= -b \\
+2a+b-2c&=0 & 3b +c &= a \\
+2(3b +c)+b-2c&=0\\
+7b&=0\\
+&& c &= a
+\end{align*}$$
+$$\begin{align*}
+\begin{pmatrix} a \\ 0 \\ c \end{pmatrix} &= \beta \begin{pmatrix} 3 \\ 2 \\ 1 \end{pmatrix}\\
 &&  \begin{pmatrix} 1 & 1 & -2 \\ -1 & 2 & 1 \\ 0 & 1 & -1 \end{pmatrix} \beta \begin{pmatrix} 3 \\ 2 \\ 1 \end{pmatrix} &= 1 \times \beta \begin{pmatrix} 3 \\ 2 \\ 1 \end{pmatrix}
 \end{align*}$$
