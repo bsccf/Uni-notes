@@ -67,5 +67,6 @@ b &= 3c
 \end{align*}$$
 Hence our [[eigenvalues and eigenvectors|eigenvector]] for our [[eigenvalues and eigenvectors|eigenvalue]] of 2 is:
 $$\begin{align*}
- &= 
+\begin{pmatrix} c \\ 3c \\ c \end{pmatrix} &= \beta \begin{pmatrix} 1 \\ 3 \\ 1 \end{pmatrix}\\
+&&  \begin{pmatrix} 1 & 1 & -2 \\ -1 & 2 & 1 \\ 0 & 1 & -1 \end{pmatrix} \beta \begin{pmatrix} 1 \\ 3 \\ 1 \end{pmatrix} &= 2 \beta \begin{pmatrix} 1 \\ 3 \\ 1 \end{pmatrix}
 \end{align*}$$
