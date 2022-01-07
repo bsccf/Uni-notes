@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/10U Specific heats and the first law of thermodynamics/first law of thermodynamics.md",
+            "file": "Thermofluids/11 Processes, paths and reversibility/entropy.md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "law",
+                "query": "entropy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/10U Specific heats and the first law of thermodynamics/first law of thermodynamics.md",
+                "file": "Thermofluids/11 Processes, paths and reversibility/entropy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,7 @@
   },
   "active": "016d94f789972a0c",
   "lastOpenFiles": [
+    "Thermofluids/11 Processes, paths and reversibility/entropy.md",
     "Thermofluids/10U Specific heats and the first law of thermodynamics/first law of thermodynamics.md",
     "Thermofluids/12 Entropy and the second law of thermodynamics/second law of thermodynamics.md",
     "Thermofluids/12 Entropy and the second law of thermodynamics/Life is pain.md",
@@ -124,7 +125,6 @@
     "Mathematics for Engineering and the Environment/10 Matrices 3/Matricies 3 overview.md",
     "Mathematics for Engineering and the Environment/10 Matrices 3/augmented matrix.md",
     "Mathematics for Engineering and the Environment/7U Differential Equations 3/local supply of memes.md",
-    "Mathematics for Engineering and the Environment/7U Differential Equations 3/Differential equations 3 overview.md",
-    "Mathematics for Engineering and the Environment/7U Differential Equations 3/general solution of linear nonhomogeneous constant coefficient equations.md"
+    "Mathematics for Engineering and the Environment/7U Differential Equations 3/Differential equations 3 overview.md"
   ]
 }
