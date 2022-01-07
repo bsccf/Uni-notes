@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/10 Matrices 3/Matricies 3 overview.md",
+            "file": "Thermofluids/17U The Diesel cycle and heat pumps/diesel engine efficiency.md",
             "mode": "preview",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/10 Matrices 3/Matricies 3 overview.md",
+                "file": "Thermofluids/17U The Diesel cycle and heat pumps/diesel engine efficiency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,7 @@
   },
   "active": "016d94f789972a0c",
   "lastOpenFiles": [
+    "Thermofluids/17U The Diesel cycle and heat pumps/diesel engine efficiency.md",
     "Mathematics for Engineering and the Environment/10 Matrices 3/Matricies 3 overview.md",
     "Mathematics for Engineering and the Environment/10 Matrices 3/augmented matrix.md",
     "Mathematics for Engineering and the Environment/7U Differential Equations 3/local supply of memes.md",
@@ -123,7 +124,6 @@
     "Mathematics for Engineering and the Environment/7U Differential Equations 3/textbook be doing a little trolling.md",
     "Mathematics for Engineering and the Environment/10 Matrices 3/eigenvalues and eigenvectors.md",
     "Mathematics for Engineering and the Environment/10 Matrices 3/matrices are tools of the devil invented to torture the living.md",
-    "Mathematics for Engineering and the Environment/10 Matrices 3/types of solution to linear equations using matrices.md",
-    "Thermofluids/Brayton cycle.md"
+    "Mathematics for Engineering and the Environment/10 Matrices 3/types of solution to linear equations using matrices.md"
   ]
 }
