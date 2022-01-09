@@ -11,7 +11,10 @@ tags: ["NotesPage"]
 
 #### Intro and contents
 - [[Differential Equations 1 overview]]
-- 
+- [[operator notation]]
+- [[operator notation to define linear differential equations]]
+- [[linearity principle]]
+- [[lineari]]
 
 
 ## Expanded articles
