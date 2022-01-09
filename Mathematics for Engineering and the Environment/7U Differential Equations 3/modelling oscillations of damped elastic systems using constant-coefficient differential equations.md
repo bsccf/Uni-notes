@@ -27,6 +27,7 @@ ml \frac{d^{2}\theta}{dt^{2}}+ \frac{d\theta}{dt}k + mg \theta &= 0
 Wow would you look at that, this looks like a [[Linear homogeneous constant-coefficient equation notes|thing]] :thinking:, it's almost as if that is intentianal! Now we have a practical use for all of that stuff we did over differential equations 1 n 3.
 
 > ### $$ ml \frac{d^{2}\theta}{dt^{2}}+ k\frac{d\theta}{dt} + mg \theta = 0 $$
-> ### $$ \frac{d^{2}}{dt^{2}} + 2 \omega^{2} \frac{dx}{dt} + \omega^{2} x = 0 $$ 
+> ### $$ \frac{d^{2}}{dt^{2}} + 2 \zeta \omega \frac{dx}{dt} + \omega^{2} x = 0 $$ 
 >> where:
->> 
+>> $\zeta =$ [[natural frequency (differentially modelled ocillator)]]
+>> $\omega =$ [[damping parameter (differentially modelled ocillator)]]
