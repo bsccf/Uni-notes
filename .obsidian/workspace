@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/General org/integration.md",
+            "file": "Mathematics for Engineering and the Environment/General org/differentiation.md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "integ",
+                "query": "differentiate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/General org/integration.md",
+                "file": "Mathematics for Engineering and the Environment/General org/differentiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,7 @@
   },
   "active": "016d94f789972a0c",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/General org/differentiation.md",
     "Mathematics for Engineering and the Environment/General org/integration.md",
     "Mathematics for Engineering and the Environment/9 Integration 2/single-page-integral-table.pdf",
     "Thermofluids/15 Carnot cycle and real engines/carnot engine.md",
@@ -124,7 +125,6 @@
     "Thermofluids/12 Entropy and the second law of thermodynamics/second law of thermodynamics.md",
     "Thermofluids/12 Entropy and the second law of thermodynamics/Life is pain.md",
     "Thermofluids/12 Entropy and the second law of thermodynamics/first form of the second law of thermodynamics.md",
-    "Thermofluids/17U The Diesel cycle and heat pumps/diesel engine efficiency.md",
-    "Mathematics for Engineering and the Environment/10 Matrices 3/Matricies 3 overview.md"
+    "Thermofluids/17U The Diesel cycle and heat pumps/diesel engine efficiency.md"
   ]
 }
