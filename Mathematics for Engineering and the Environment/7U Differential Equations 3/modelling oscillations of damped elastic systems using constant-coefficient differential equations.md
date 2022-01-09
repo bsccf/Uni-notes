@@ -29,5 +29,9 @@ Wow would you look at that, this looks like a [[Linear homogeneous constant-coef
 > ### $$ ml \frac{d^{2}\theta}{dt^{2}}+ k\frac{d\theta}{dt} + mg \theta = 0 $$
 > ### $$ \frac{d^{2}}{dt^{2}} + 2 \zeta \omega \frac{dx}{dt} + \omega^{2} x = 0 $$ 
 >> where:
->> $\zeta =$ [[natural frequency (differentially modelled ocillator)|natural frequency]]
->> $\omega =$ [[damping parameter (differentially modelled ocillator)|damping parameter]]
+>> $\zeta =$ [[natural frequency (differentially modelled oscillator)|natural frequency]]
+>> $\omega =$ [[damping parameter (differentially modelled oscillator)|damping parameter]]
+
+^d6891c
+
+![[types of dampening (differentuially modeeled oscillator)]]
