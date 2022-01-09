@@ -1,0 +1,8 @@
+---
+aliases: [""]
+tags: ["Question","QFormat3"]
+---
+
+#### Whats the method for
+## Modelling forced elastic systems expereincing oscillation
+tldr, you get the [[modelling oscillations of damped elastic systems using constant-coefficient differential equations|equation for modelling oscillating systems]] and add some thing onto it then use methods from [[]]

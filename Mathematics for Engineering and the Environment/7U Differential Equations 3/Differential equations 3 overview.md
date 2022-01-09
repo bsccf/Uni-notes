@@ -41,4 +41,4 @@ tags: ["NotesPage"]
 
 ![[general solutions for modelling oscillations of damped elastic systems using constant-coefficient differential equations]]
 
-![[]]
+![[modelling forced elastic systems expereincing oscillation]]
