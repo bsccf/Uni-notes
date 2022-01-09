@@ -20,3 +20,10 @@ Using a bunch of assumptions are rearrangements as described [[Pasted image 2022
 $$ \frac{d^{2}x}{dt^{2}} + 2\zeta \omega \frac{dx}{dt} + \omega^{2}x = F\cos\Omega t $$
 
 Now it's just following the method in [[general solution of linear nonhomogeneous constant coefficient equations]]:
+
+$$\begin{align*}
+&&x &= aF\cos\Omega t + bF\sin\Omega t \\
+&&\frac{dx}{dt} &= -aF\Omega\sin\Omega t + bF\Omega\cos\Omega t \\
+&&\frac{d^{2}x}{dt^{2}} &= -aF\Omega^{2}\cos\Omega t - bF\Omega^{2}\cos\Omega t \\
+& 
+\end{align*}$$
