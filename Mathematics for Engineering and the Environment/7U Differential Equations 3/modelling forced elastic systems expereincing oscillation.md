@@ -12,3 +12,7 @@ Basically this is where you have some oscillating system that has some extra dri
 - [[free vibrations]]
 - [[forced vibrations]]
 
+### Example
+So if we model a lamp post vibrating in the wind:
+![[Pasted image 20220109122644.png]]
+Using a much of assumptions are rearrangements as described [[some stuff explaining|here]]
