@@ -25,5 +25,7 @@ $$\begin{align*}
 &&x &= aF\cos\Omega t + bF\sin\Omega t \\
 &&\frac{dx}{dt} &= -aF\Omega\sin\Omega t + bF\Omega\cos\Omega t \\
 &&\frac{d^{2}x}{dt^{2}} &= -aF\Omega^{2}\cos\Omega t - bF\Omega^{2}\cos\Omega t \\
-& 
+\frac{d^{2}x}{dt^{2}} + 2\zeta \omega \frac{dx}{dt} + \omega^{2}x &= F\cos\Omega t\\
+\left(-aF\Omega^{2}\cos\Omega t - bF\Omega^{2}\cos\Omega t\right) + 2 \left(-aF\Omega\sin\Omega t + bF\Omega\cos\Omega t\right) + \omega^{2}\left(aF\cos\Omega t + bF\sin\Omega t\right) &= F\cos\Omega t\\
+\left(-aF\Omega^{2}\cos\Omega t - bF\Omega^{2}\cos\Omega t\right) + 2 \left(-aF\Omega\sin\Omega t + bF\Omega\cos\Omega t\right) + \omega^{2}\left(aF\cos\Omega t + bF\sin\Omega t\right) &= F\cos\Omega t\\
 \end{align*}$$
