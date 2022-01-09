@@ -43,3 +43,7 @@ Now rearrange for $b$ and sub that into the equation from earlyer ([[that would 
 $$\begin{align*}
 \frac{(\omega^{2}-\Omega^{2})F \cos \Omega t + 2 \zeta \omega \Omega F \sin \Omega t }{ \sqrt{ (\omega^{2} - \Omega^{2})^{2} + 4\zeta^{2}\omega^{2}\Omega^{2} } }
 \end{align*}$$
+
+Then you need to find the [[complementary function]] which you can also get using [[general solutions for modelling oscillations of damped elastic systems using constant-coefficient differential equations]] and slap them together...
+
+(life is pain)
