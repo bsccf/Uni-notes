@@ -46,4 +46,4 @@ $$\begin{align*}
 
 Then you need to find the [[complementary function]] which you can also get using [[general solutions for modelling oscillations of damped elastic systems using constant-coefficient differential equations]] and slap them together...
 
-(life is pain)
+(life is pain, now imagine they give you some values and force you to differentiate this fucking abomination, acc that said it wouldn't be that bad... but still this hurts my head looking at it)
