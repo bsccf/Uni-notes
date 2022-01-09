@@ -8,7 +8,7 @@ tags: ["Question","QFormat3"]
 
 Refering to [[types of dampening (differentuially modeeled oscillator)|types of dampening]]:
 
-> ### $$ x = A e^{\left(\zeta-\sqrt{\zeta^{2}-1} \right)} \omega t $$ 
+> ### $$ x = A e^{\left(\sqrt{\zeta^{2}-1} - \zeta \right) \omega t} + B e^{\left(\sqrt{\zeta^{2}-1} - \zeta \right) \omega t} $$ 
 >> conditions:
 >> $\zeta > 1$
 >
@@ -17,3 +17,5 @@ Refering to [[types of dampening (differentuially modeeled oscillator)|types of 
 >> $x=$ displancement 
 >> $\zeta=$ [[damping parameter (differentially modelled oscillator)|damping parameter]]
 >> $\omega=$ [[natural frequency (differentially modelled oscillator)|natural frequency]]
+>> $A=$ Some constant
+>> $B=$ Some constant
