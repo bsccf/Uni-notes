@@ -32,5 +32,5 @@ Wow would you look at that, this looks like a [[Linear homogeneous constant-coef
 >> $p= \frac{\mu}{m}$ 
 >> $q= \frac{\lambda}{m}$
 >> $\mu=$
->> $\lambda=$ 
+>> $\lambda= \frac{gm}{l} =$  
 >> $m=$ mass
