@@ -30,7 +30,7 @@ Refering to [[types of dampening (differentuially modeeled oscillator)|types of 
 
 #### When $\zeta < 1$
 
-> ### $$ x =  $$ 
+> ### $$ x = A\cos\left(\omega t\sqrt{1-\zeta^{2}}\right)e^{-\omega\zeta} + B\sin\left(\omega t\sqrt{1-\zeta^{2}}\right)e^{-\omega\zeta} $$ 
 >> where:
 >> $t=$ time
 >> $x=$ displancement 
