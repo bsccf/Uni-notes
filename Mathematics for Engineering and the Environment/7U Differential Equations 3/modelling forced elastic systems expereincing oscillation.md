@@ -27,8 +27,12 @@ $$\begin{align*}
 &&\frac{d^{2}x}{dt^{2}} &= -aF\Omega^{2}\cos\Omega t - bF\Omega^{2}\sin\Omega t \\
 \frac{d^{2}x}{dt^{2}} + 2\zeta \omega \frac{dx}{dt} + \omega^{2}x &= F\cos\Omega t\\
 \left(-aF\Omega^{2}\cos\Omega t - bF\Omega^{2}\sin\Omega t\right) + 2 \left(-aF\Omega\sin\Omega t + bF\Omega\cos\Omega t\right) + \omega^{2}\left(aF\cos\Omega t + bF\sin\Omega t\right) &= F\cos\Omega t\\
+
 \left(-a\Omega^{2}\cos\Omega t - b\Omega^{2}\sin\Omega t\right) + 2 \left(-a\Omega\sin\Omega t + b\Omega\cos\Omega t\right) + \omega^{2}\left(a\cos\Omega t + b\sin\Omega t\right) &= \cos\Omega t\\
+
 \end{align*}$$
+
 $$\begin{align*}
--a\Omega^{2}\cos\Omega t &= 
+-a\Omega^{2}\cos\Omega t + 2b\Omega\cos\Omega t + \omega^{2}\cos\Omega t &= \cos\Omega t & - b\Omega^{2}\sin\Omega t -a\Omega\sin\Omega t + b\sin\Omega t &= 0\\
+-a\Omega^{2}+ 2b\Omega + \omega^{2} &= 1\\
 \end{align*}$$
