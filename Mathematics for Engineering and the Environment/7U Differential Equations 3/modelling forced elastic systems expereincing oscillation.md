@@ -35,5 +35,7 @@ $$\begin{align*}
 $$\begin{align*}
 -a\Omega^{2}\cos\Omega t + 2b\Omega\cos\Omega t + a\omega^{2}\cos\Omega t &= \cos\Omega t & - b\Omega^{2}\sin\Omega t -2a\Omega\sin\Omega t + \omega^{2}b\sin\Omega t &= 0\\
 -a\Omega^{2}+ 2b\Omega +a \omega^{2} &= 1 & - b\Omega^{2} -2a\Omega+ \omega^{2}b &= 0\\
-&&  - b\Omega^{2} -2a\Omega+ \omega^{2}b &= 0
+&&  \frac{\omega^{2}b - b\Omega^{2}}{2\Omega} &= a\\
+-\frac{\omega^{2}b - b\Omega^{2}}{2\Omega}\Omega^{2}+ 2b\Omega +\frac{\omega^{2}b - b\Omega^{2}}{2\Omega} \omega^{2} &= 1
 \end{align*}$$
+Now rearrange for $b$ and sub that into the equation from earlyer ([[that would take way too long so I'm just skipping to the final particular solution]])
