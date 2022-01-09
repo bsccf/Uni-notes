@@ -26,3 +26,11 @@ ml \frac{d^{2}\theta}{dt^{2}}+ \frac{d\theta}{dt}k + mg \theta &= 0
 \end{align*}$$
 Wow would you look at that, this looks like a [[Linear homogeneous constant-coefficient equation notes|thing]] :thinking:, it's almost as if that is intentianal! Now we have a practical use for all of that stuff we did over differential equations 1 n 3.
 
+> ### $$ ml \frac{d^{2}\theta}{dt^{2}}+ k\frac{d\theta}{dt} + mg \theta = 0 $$
+> ### $$ m \frac{d^{2}x}{dt^{2}} + p \frac{dx}{dt} + qx = 0 $$ 
+>> where:
+>> $p= \frac{\mu}{m}$ 
+>> $q= \frac{\lambda}{m}$
+>> $\mu=$
+>> $\lambda=$ 
+>> $m=$ mass
