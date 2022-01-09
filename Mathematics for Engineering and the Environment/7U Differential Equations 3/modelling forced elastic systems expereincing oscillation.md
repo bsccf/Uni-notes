@@ -15,4 +15,8 @@ Basically this is where you have some oscillating system that has some extra dri
 ### Example
 So if we model a lamp post vibrating in the wind:
 ![[Pasted image 20220109122644.png]]
-Using a much of assumptions are rearrangements as described [[some stuff explaining|here]]
+Using a bunch of assumptions are rearrangements as described [[Pasted image 20220109122742.png|here]] we get the equation:
+
+$$ \frac{d^{2}x}{dt^{2}} + 2\zeta \omega \frac{dx}{dt} + \omega^{2}x = F\cos\Omega t $$
+
+Now it's just following the method in [[general solution of linear nonhomogeneous constant coefficient equations]]:
