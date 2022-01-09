@@ -16,6 +16,12 @@ But this equation predicts motion that is perpetual, which is... well not realis
 $$  ml \frac{d^{2}\theta}{dt^{2}} = -R - mg\sin \theta  $$
 Now this is where people start to do their own thing, R can be modelled in a bunch of ways if you recall [[Drag equation|the drag equation]] models it as $V^2$, though at low speeds drag is basically just a constant, another approach would be to say $R(V)=Vk$ and just model it as being proportional to V, this is the mathamatical equivilent of "if one increases the other does too, [[lazyness is alwayse the answer|cba]] lets just say they're proportional" hence:
 $$\begin{align*}
-ml \frac{d^{2}\theta}{dt^{2}} &= Vk - mg\sin \theta & \frac{d\theta}{dt} &\propto V\\
-&= \frac{d\theta}{dt}k - mg\sin \theta
+ml \frac{d^{2}\theta}{dt^{2}} &= -Vk - mg\sin \theta & \frac{d\theta}{dt} &\propto V\\
+&= -\frac{d\theta}{dt}k - mg\sin \theta
 \end{align*}$$
+Now we can also be lazy and model $\sin \theta = \theta$, because small angle approximations lets go:
+$$\begin{align*}
+ml \frac{d^{2}\theta}{dt^{2}} &= -\frac{d\theta}{dt}k - mg \theta\\
+ml \frac{d^{2}\theta}{dt^{2}}+ \frac{d\theta}{dt}k + mg \theta &= 0
+\end{align*}$$
+Wow would you look at that, this looks like a [[general solution of linear nonhomogeneous constant coefficient equations]]
