@@ -38,4 +38,8 @@ $$\begin{align*}
 &&  \frac{\omega^{2}b - b\Omega^{2}}{2\Omega} &= a\\
 -\frac{\omega^{2}b - b\Omega^{2}}{2\Omega}\Omega^{2}+ 2b\Omega +\frac{\omega^{2}b - b\Omega^{2}}{2\Omega} \omega^{2} &= 1
 \end{align*}$$
-Now rearrange for $b$ and sub that into the equation from earlyer ([[that would take way too long so I'm just skipping to the final particular solution]])
+Now rearrange for $b$ and sub that into the equation from earlyer ([[that would take way too long so I'm just skipping to the final particular integral]]):
+
+$$\begin{align*}
+\frac{(\omega^{2}-\Omega^{2})F \cos \Omega t + 2 \zeta \omega \Omega F \sin \Omega t }{ \sqrt{ (\omega^{2} - \Omega^{2})^{2} + 4\zeta^{2}\omega^{2}\Omega^{2} } }
+\end{align*}$$
