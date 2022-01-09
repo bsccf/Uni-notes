@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/15 Carnot cycle and real engines/carnot engine.md",
+            "file": "Mathematics for Engineering and the Environment/General org/integration.md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "carnot",
+                "query": "integ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/15 Carnot cycle and real engines/carnot engine.md",
+                "file": "Mathematics for Engineering and the Environment/General org/integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,8 @@
   },
   "active": "016d94f789972a0c",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/General org/integration.md",
+    "Mathematics for Engineering and the Environment/9 Integration 2/single-page-integral-table.pdf",
     "Thermofluids/15 Carnot cycle and real engines/carnot engine.md",
     "Thermofluids/11 Processes, paths and reversibility/entropy.md",
     "Thermofluids/10U Specific heats and the first law of thermodynamics/first law of thermodynamics.md",
@@ -123,8 +125,6 @@
     "Thermofluids/12 Entropy and the second law of thermodynamics/Life is pain.md",
     "Thermofluids/12 Entropy and the second law of thermodynamics/first form of the second law of thermodynamics.md",
     "Thermofluids/17U The Diesel cycle and heat pumps/diesel engine efficiency.md",
-    "Mathematics for Engineering and the Environment/10 Matrices 3/Matricies 3 overview.md",
-    "Mathematics for Engineering and the Environment/10 Matrices 3/augmented matrix.md",
-    "Mathematics for Engineering and the Environment/7U Differential Equations 3/local supply of memes.md"
+    "Mathematics for Engineering and the Environment/10 Matrices 3/Matricies 3 overview.md"
   ]
 }
