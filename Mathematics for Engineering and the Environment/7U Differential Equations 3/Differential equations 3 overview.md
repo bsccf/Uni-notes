@@ -38,3 +38,5 @@ tags: ["NotesPage"]
 ![[finding particular integrals]]
 
 ![[modelling oscillations of damped elastic systems using constant-coefficient differential equations]]
+
+![[general solutions for modelling oscillations of damped elastic systems using constant-coefficient differential equations]]
