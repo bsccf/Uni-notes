@@ -14,7 +14,10 @@ tags: ["NotesPage"]
 - [[operator notation]]
 - [[operator notation to define linear differential equations]]
 - [[linearity principle]]
-- [[lineari]]
+- [[linearly dependent and independent functions]]
+- [[general solution of a linear nonhomogeneous equation]]
+- [[general solution of linear nonhomogeneous constant coefficient equations]]
+- [[finding particular integrals]]
 
 
 ## Expanded articles
