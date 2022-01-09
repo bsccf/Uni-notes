@@ -19,6 +19,7 @@ a \frac{d^{2}x}{dt^{2}}+ b \frac{dx}{dt} + cx &= 0 &\to&& am^{2}+bm+c&=0\\
 >> ### $$ x(t) = Ae^{m_1 t} + Be^{m_2 t} $$ 
 >>> when:
 >>> $m_1,m_2=$ real numbers
+>>> $m_1 \neq m_2$
 >>> $m_1=m_2$
 >>
 >>> where:
@@ -27,7 +28,6 @@ a \frac{d^{2}x}{dt^{2}}+ b \frac{dx}{dt} + cx &= 0 &\to&& am^{2}+bm+c&=0\\
 >> ### $$ x(t) = (At+B)e^{m_1 t} $$ 
 >>> when:
 >>> $m_1,m_2=$ real numbers
->>> $m_1 \neq m_2$
 >>
 >>> where:
 >>> $A,B$ = constants 
