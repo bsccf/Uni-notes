@@ -6,13 +6,6 @@ tags: ["Question","QFormat3"]
 #### How can we use
 ## Operator notation to define linear equations
 
-$$\begin{align*}
-i &= \sqrt{-1}\\
-i^{2} &= -1\\
-i^{4} &= 1\\
-\therefore \sqrt[4]{1} &= i 
-\end{align*}$$
-
 Any equation that can satisfy the following is a [[linear differential equation]]:
 
 > ### $$ L[ax_1 + bx_2] = aL[x_1] + bL[x_2] $$ 
