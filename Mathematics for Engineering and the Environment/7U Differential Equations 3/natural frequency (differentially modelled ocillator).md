@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["natural frequency"]
 tags: ["Question","QFormat3"]
 ---
 
