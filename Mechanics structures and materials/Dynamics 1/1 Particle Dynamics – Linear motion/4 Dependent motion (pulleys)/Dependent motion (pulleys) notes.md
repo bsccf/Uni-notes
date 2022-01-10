@@ -9,6 +9,7 @@ tags: ["NotesPage"]
 - [[basic pulley motion]]
 - [[complex pulley motion]]
 - [[mechanical advantage]]
+- [[compound pulleys]]
 
 ## Expanded articles
 

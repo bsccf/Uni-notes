@@ -20,10 +20,11 @@ We can apply the same differentiation process:
 $$\begin{align*}
 2s_{B} + s_{A} + h  &= l_{T}\\
 2 \frac{ds_{B}}{dt} + \frac{ds_{A}}{dt} &= 0\\
-\frac{ds_{B}}{dt} &= - \frac{1}{2} \frac{ds_{A}}{dt} & W&=F\Delta s\\
-|\frac{ds_{B}}{dt}| &=  \frac{1}{2} |-\frac{ds_{A}}{dt}| & F_{B} \Delta s_{B} &= F_{A} \Delta s_A \\
-\Delta s_{B} &= \frac{1}{2} \Delta s_{A} & F_{B} \left(-\frac{1}{2} \Delta s_{A}\right) &= F_{A} \Delta s_A \\
-&& F_{B} &= -2F_{A}
+\frac{ds_{B}}{dt} &= - \frac{1}{2} \frac{ds_{A}}{dt} \\
+|\frac{ds_{B}}{dt}| &=  \frac{1}{2} |-\frac{ds_{A}}{dt}| & W&=F\Delta s \\
+\Delta s_{B} &= \frac{1}{2} \Delta s_{A}& F_{B} \Delta s_{B} &= F_{A} \Delta s_A \\
+&& F_{B} \frac{1}{2} \Delta s_{A} &= F_{A} \Delta s_A\\
+&& F_{B} &= 2F_{A}
 \end{align*}$$
 
 ^05bf94
