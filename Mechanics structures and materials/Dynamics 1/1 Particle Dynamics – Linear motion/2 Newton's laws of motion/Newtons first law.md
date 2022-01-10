@@ -10,4 +10,4 @@ tags: ["Question","QFormat3"]
 >> $\sum\limits \bar{F}=0$
 >> $\bar{v}=$ [[velocity and speed|velocity]]
 
-Simple, not net force, no [[acc]]
+Simple, not net force, no [[acceleration]] and so the thing keeps moving as it was before.

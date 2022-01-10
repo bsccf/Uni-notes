@@ -12,3 +12,5 @@ tags: ["NotesPage"]
 ## Expanded articles
 
 ![[Newtons first law]]
+
+![[Newtons second law]]
