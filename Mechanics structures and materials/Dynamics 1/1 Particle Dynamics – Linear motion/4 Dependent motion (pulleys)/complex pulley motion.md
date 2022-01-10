@@ -21,6 +21,8 @@ $$\begin{align*}
 2s_{B} + s_{A} + h  &= l_{T}\\
 2 \frac{ds_{B}}{dt} + \frac{ds_{A}}{dt} &= 0\\
 \frac{ds_{B}}{dt} &= - \frac{1}{2} \frac{ds_{A}}{dt}\\
-
+|\frac{ds_{B}}{dt}| &=  \frac{1}{2} |-\frac{ds_{A}}{dt}|\\
 \Delta s_{B} &= \frac{1}{2} \Delta s_{A}
 \end{align*}$$
+
+This can be used in the same way as gears to change the magnitude of output from the input 
