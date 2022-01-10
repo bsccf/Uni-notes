@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Dynamics 1/Dynamics Overview.md",
+            "file": "Mechanics structures and materials/Dynamics 1/1 Particle dynamics/Partical dynamics.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Dynamics 1/Dynamics Overview.md",
+                "file": "Mechanics structures and materials/Dynamics 1/1 Particle dynamics/Partical dynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,7 @@
   },
   "active": "016d94f789972a0c",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Dynamics 1/1 Particle dynamics/Partical dynamics.md",
     "Mechanics structures and materials/Dynamics 1/Dynamics Overview.md",
     "images/Pasted image 20211203123513.png",
     "Mathematics for Engineering and the Environment/7 Differential Equations 3/modelling forced elastic systems expereincing oscillation.md",
@@ -123,7 +124,6 @@
     "Mathematics for Engineering and the Environment/7 Differential Equations 3/that would take way too long so I'm just skipping to the final particular integral.md",
     "Mathematics for Engineering and the Environment/7 Differential Equations 3/forced vibrations.md",
     "Mathematics for Engineering and the Environment/7 Differential Equations 3/free vibrations.md",
-    "Mathematics for Engineering and the Environment/7 Differential Equations 3/insert funny message here.md",
-    "Mathematics for Engineering and the Environment/7 Differential Equations 3/Differential equations 3 overview.md"
+    "Mathematics for Engineering and the Environment/7 Differential Equations 3/insert funny message here.md"
   ]
 }
