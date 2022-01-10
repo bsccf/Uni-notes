@@ -1,5 +1,5 @@
 ---
-aliases: ["static friction","friction"]
+aliases: ["static friction","friction","coefficient of static friction","friction coefficient"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -8,11 +8,13 @@ tags: ["Question","QFormat3"]
 
 Basically this models friction as being directly proportional to the normal reactive force between two surfaces in contact within limits:
 
-> ### $$ \begin{align*}
-\mu R<F_{s max}&: \: F_{s} = \mu R\\
-\mu R\geq F_{s max}&: \: F_{s} = 
-\end{align*} $$ 
+> ### $$ \begin{align*}\mu N<F_{smax}&: \: F_{s} = \mu N\\\mu N\geq F_{smax}&: \: F_{s} = F_{smax} \end{align*} $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $F_{s}=$ [[static friction force]]
+>> $F_{smax}=$ maximum frictional force
+>> $\mu=$ [[static friction force|coefficient of static friction]]
+>> $N=$ The normal reaction force between the two surfaces
+
+The [[co]]
+
+![[Pasted image 20220110143636.png]]
