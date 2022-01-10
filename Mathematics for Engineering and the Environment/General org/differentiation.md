@@ -1,5 +1,5 @@
 ---
-aliases: ["differentiate"]
+aliases: ["differentiate","derivative"]
 tags: ["NotesPage"]
 ---
 
