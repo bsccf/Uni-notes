@@ -20,4 +20,5 @@ tags: ["NotesPage"]
 
 ![[SUVAT]]
 
-![[dynamics position notation]]
+![[dynamics notation]]
+
