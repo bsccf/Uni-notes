@@ -1,5 +1,5 @@
 ---
-aliases: ["static friction","friction","coefficient of static friction","friction coefficient"]
+aliases: ["static friction","coefficient of static friction","friction coefficient"]
 tags: ["Question","QFormat3"]
 ---
 
