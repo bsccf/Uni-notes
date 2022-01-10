@@ -13,3 +13,9 @@ So there are 2 situations:
 We also tend to model ropes as light and inextensible, because [[meh works well enough|lazy]].
 
 ### Maeth
+
+> ### $$  = $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
