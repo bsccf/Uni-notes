@@ -21,7 +21,7 @@ Actaul [[velocity and speed|velocity]] is the rate of change of your position [[
 >> $\bar{s}=$ position [[Scalars and vectors|vector]]
 >> $t=$ time
 
-You can also get [[velocity and speed|speed]] by using the magnitude of your position vector:
+You can also get [[velocity and speed|speed]] by using the change in magnitude of your position vector over time:
 
 > ### $$ v = \frac{ds}{dt} = \frac{d|\bar{s}|}{dt} $$ 
 >> where:
