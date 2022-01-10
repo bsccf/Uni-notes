@@ -14,3 +14,5 @@ tags: ["NotesPage"]
 ![[Newtons first law]]
 
 ![[Newtons second law]]
+
+![[Newtons third law]]
