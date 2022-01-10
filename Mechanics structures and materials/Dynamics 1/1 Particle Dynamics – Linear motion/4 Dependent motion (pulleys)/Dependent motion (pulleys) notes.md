@@ -7,6 +7,7 @@ tags: ["NotesPage"]
 
 #### Intro and contents
 - [[basic pulley motion]]
+- [[complex pulley motion]]
 
 
 ## Expanded articles

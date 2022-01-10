@@ -19,4 +19,5 @@ If we take the [[differentiation|derivative]] this also leads to:
 >> where:
 >> $t=$ time
 >> $s_{A},s_{B}=$ cords on each side of the pully
-Of course this will also apply to acceleration and further derivatives but you get 
+Of course this will also apply to acceleration and further derivatives but you get the point.
+
