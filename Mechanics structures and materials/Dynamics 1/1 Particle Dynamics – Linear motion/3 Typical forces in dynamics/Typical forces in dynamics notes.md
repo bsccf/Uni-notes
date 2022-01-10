@@ -12,6 +12,7 @@ These are just a bunch of forces that come up quite often so you should be aware
 - [[dynamic friction force]]
 - [[tension and compression force]]
 - [[drag force (dynamics)]]
+- [[buoyancy force]]
 
 ## Expanded articles
 
