@@ -3,10 +3,10 @@ aliases: [""]
 tags: ["NotesPage"]
 ---
 
-# Partical dynamics
+# Kinematics notes
 
 #### Intro and contents
-
+- 
 
 
 ## Expanded articles
