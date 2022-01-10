@@ -15,4 +15,10 @@ These are just a bunch of forces that come up quite often so you should be aware
 - [[buoyancy force]]
 
 ## Expanded articles
+![[gravitational attraction]]
+![[static friction force]]
+![[dynamic friction force]]
+![[tension and compression force]]
+![[drag force (dynamics)]]
+![[buoyancy force]]
 
