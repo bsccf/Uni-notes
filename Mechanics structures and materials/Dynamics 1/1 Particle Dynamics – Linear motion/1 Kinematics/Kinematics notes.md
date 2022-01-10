@@ -12,4 +12,4 @@ tags: ["NotesPage"]
 ## Expanded articles
 ![[particle]]
 
-![[velocity]]
+![[velocity and speed]]
