@@ -1,5 +1,5 @@
 ---
-aliases: ["gravity"]
+aliases: ["gravity","weight"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -12,5 +12,13 @@ Any two objects have a mutually attractive gravitational force between them, def
 >> $G=$ [[universal constant of gravitation]]
 >> $m_1,m_2=$ mass of the bodys
 >> $r=$ distance between them
+>> $F_{g}=$ force due to gravity also known as weight
 
-You can also conver
+You can also convert this to get acceleration due to gravity by dividing by $m$:
+> ### $$ g(r) = G \frac{M}{r^{2}} $$ 
+>> where:
+>> $g(r)=$ acceleration as a function of $r$ 
+>> $G=$ [[universal constant of gravitation]]
+>> $r=$ distance from body
+>> $M=$ mass of body being attracted to
+
