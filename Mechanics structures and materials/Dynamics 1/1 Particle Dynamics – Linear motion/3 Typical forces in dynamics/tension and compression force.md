@@ -20,3 +20,5 @@ We also tend to model ropes as light and inextensible, because [[meh works well 
 >> $k=$ [[spring constant]]
 >> $l=$ Deformed length
 >> $l_{0}=$ Origional length
+
+As you can see $F_e$ is a function of distance from origional length.

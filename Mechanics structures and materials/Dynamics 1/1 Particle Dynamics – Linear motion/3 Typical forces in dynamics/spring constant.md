@@ -10,4 +10,4 @@ Used to define [[tension and compression force|elastice force]].
 >> $=$
 >> $=$
 
-There is some formula t
+There is some formula that further describes it, I'll put that here if it pops up on the course.
