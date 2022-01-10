@@ -1,5 +1,5 @@
 ---
-aliases: ["gravity","weight"]
+aliases: ["gravity","weight","acceleration due to gravity"]
 tags: ["Question","QFormat3"]
 ---
 
