@@ -17,7 +17,7 @@ Any two objects have a mutually attractive gravitational force between them, def
 You can also convert this to get acceleration due to gravity by dividing by $m$:
 > ### $$ g(r) = G \frac{M}{r^{2}} $$ 
 >> where:
->> $g(r)=$ acceleration as a function of $r$ 
+>> $g(r)=$ acceleration due to gravity as a function of $r$ 
 >> $G=$ [[universal constant of gravitation]]
 >> $r=$ distance from body
 >> $M=$ mass of body being attracted to
