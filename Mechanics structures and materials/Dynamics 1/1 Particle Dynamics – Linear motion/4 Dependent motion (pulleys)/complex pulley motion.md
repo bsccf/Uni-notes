@@ -25,4 +25,4 @@ $$\begin{align*}
 \Delta s_{B} &= \frac{1}{2} \Delta s_{A}
 \end{align*}$$
 
-This can be used in the same way as gears to change the magnitude of output from the input 
+This can be used in the same way as gears to change the magnitude of output from the input (of course this isn't some [[free energy machine]], the work is the same, which correlates to the changed distance moved between the input and output)
