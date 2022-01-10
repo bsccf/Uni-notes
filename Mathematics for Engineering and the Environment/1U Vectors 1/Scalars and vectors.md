@@ -1,5 +1,5 @@
 ---
-aliases: ["MEE 4.2.2"]
+aliases: ["MEE 4.2.2","vector","vectors","scalar","scalars"]
 tags: ["NotesPage"]
 ---
 

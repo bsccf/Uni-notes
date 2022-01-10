@@ -12,4 +12,4 @@ tags: ["NotesPage"]
 ## Expanded articles
 ![[particle]]
 
-![[MEE Vectors 1|Vectors basic]]
+![[velocity]]
