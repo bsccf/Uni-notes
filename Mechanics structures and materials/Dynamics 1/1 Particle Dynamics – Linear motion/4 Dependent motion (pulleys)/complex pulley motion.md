@@ -12,7 +12,7 @@ Think about the relationship between $s_{A}$ and $s_{B}$, you may think initiall
 > ### $$ 2s_{B} + s_{A} + h  = l_{T} $$ 
 >> where:
 >> $l_{T}=$ total cord length 
->> $l_{CD}=$ cord length over pully (sometimes approximated to zero)
+>> $l_{CD}=$ cord length over pullys
 >> $s_{A},s_{B}=$ cords on each side of the pully
 
 Which is distincly different to the [[basic pulley motion#^f9b477|simular equation taken from basic pully motion]].
@@ -25,4 +25,6 @@ $$\begin{align*}
 \Delta s_{B} &= \frac{1}{2} \Delta s_{A}
 \end{align*}$$
 
-This can be used in the same way as gears to change the magnitude of output from the input (of course this isn't some [[free energy machine]], the work is the same, which correlates to the changed distance moved between the input and output)
+This can be used in the same way as gears to change the magnitude of output from the input (of course this isn't some [[free energy machine]], the work is the same, which correlates to the changed distance moved between the input and output). This is highly [[incredibly based might I add|based]].
+
+There is nothing stopping you getting a ratio of 3:1 or 4:1
