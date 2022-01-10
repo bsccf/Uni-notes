@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/1 Kinematics/SUVAT.md",
+            "file": "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/1 Kinematics/dynamics position notation.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/1 Kinematics/SUVAT.md",
+                "file": "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/1 Kinematics/dynamics position notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "016d94f789972a0c",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/1 Kinematics/dynamics position notation.md",
+    "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/1 Kinematics/Kinematics notes.md",
     "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/1 Kinematics/SUVAT.md",
     "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/1 Kinematics/suuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu.md",
-    "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/1 Kinematics/Kinematics notes.md",
     "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/1 Kinematics/using integration to relate velocity, acceleration and position.md",
     "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/1 Kinematics/do a lil trollin.md",
     "Mathematics for Engineering and the Environment/General org/integration.md",
     "Mathematics for Engineering and the Environment/4 Differential Equations 1/Differential Equations 1 overview.md",
     "Mathematics for Engineering and the Environment/7 Differential Equations 3/Differential equations 3 overview.md",
-    "Mathematics for Engineering and the Environment/9 Integration 2/Integration 2 overview.md",
-    "Mathematics for Engineering and the Environment/3 Intergration 1/MEE Intergration 1.md"
+    "Mathematics for Engineering and the Environment/9 Integration 2/Integration 2 overview.md"
   ]
 }

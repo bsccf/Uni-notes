@@ -19,3 +19,5 @@ tags: ["NotesPage"]
 ![[using integration to relate velocity, acceleration and position]]
 
 ![[SUVAT]]
+
+![[dynamics position notation]]
