@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/General org/integration.md",
+            "file": "Mathematics for Engineering and the Environment/7 Differential Equations 3/modelling oscillations of damped elastic systems using constant-coefficient differential equations.md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dampe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/General org/integration.md",
+                "file": "Mathematics for Engineering and the Environment/7 Differential Equations 3/modelling oscillations of damped elastic systems using constant-coefficient differential equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +116,15 @@
   },
   "active": "016d94f789972a0c",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/7 Differential Equations 3/modelling oscillations of damped elastic systems using constant-coefficient differential equations.md",
+    "Mathematics for Engineering and the Environment/7 Differential Equations 3/damping parameter (differentially modelled oscillator).md",
+    "Mathematics for Engineering and the Environment/7 Differential Equations 3/general solutions for modelling oscillations of damped elastic systems using constant-coefficient differential equations.md",
+    "Mathematics for Engineering and the Environment/7 Differential Equations 3/types of dampening (differentuially modeeled oscillator).md",
     "Mathematics for Engineering and the Environment/General org/integration.md",
     "Mathematics for Engineering and the Environment/9 Integration 2/single-page-integral-table.pdf",
     "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/Particle Dynamics – Linear motion notes.md",
     "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/3 Typical forces in dynamics/Typical forces in dynamics notes.md",
     "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/3 Typical forces in dynamics/buoyancy force.md",
-    "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/3 Typical forces in dynamics/gravitational attraction.md",
-    "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/3 Typical forces in dynamics/drag force (dynamics).md",
-    "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/3 Typical forces in dynamics/also known as trash.md",
-    "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/3 Typical forces in dynamics/tension and compression force.md",
-    "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/3 Typical forces in dynamics/spring constant.md"
+    "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/3 Typical forces in dynamics/gravitational attraction.md"
   ]
 }
