@@ -7,7 +7,8 @@ tags: ["NotesPage"]
 
 #### Intro and contents
 - [[Kinematics notes]]
-
+- [[Newtons laws notes]]
+- 
 
 ## Expanded articles
 ![[Kinematics notes]]
