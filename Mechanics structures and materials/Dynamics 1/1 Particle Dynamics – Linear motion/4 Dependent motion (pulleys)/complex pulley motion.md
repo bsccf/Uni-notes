@@ -27,4 +27,6 @@ $$\begin{align*}
 
 This can be used in the same way as gears to change the magnitude of output from the input (of course this isn't some [[free energy machine]], the work is the same, which correlates to the changed distance moved between the input and output). This is highly [[incredibly based might I add|based]].
 
-There is nothing stopping you getting a ratio of 3:1 or 4:1
+There is nothing stopping you getting a ratio of 3:1 or 4:1 ect, you could even have a ratio of like 2:3 go wild:
+![[Pasted image 20220110213946.png]]
+Here's a 5:1
