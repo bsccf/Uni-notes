@@ -21,9 +21,12 @@ $$\begin{align*}
 2s_{B} + s_{A} + h  &= l_{T}\\
 2 \frac{ds_{B}}{dt} + \frac{ds_{A}}{dt} &= 0\\
 \frac{ds_{B}}{dt} &= - \frac{1}{2} \frac{ds_{A}}{dt}\\
-|\frac{ds_{B}}{dt}| &=  \frac{1}{2} |-\frac{ds_{A}}{dt}|\\
-\Delta s_{B} &= \frac{1}{2} \Delta s_{A}
+|\frac{ds_{B}}{dt}| &=  \frac{1}{2} |-\frac{ds_{A}}{dt}| & \frac{d^{2}s_{B}}{dt^{2}} &= - \frac{1}{2} \frac{d^{2}s_{A}}{dt^{2}} \\
+\Delta s_{B} &= \frac{1}{2} \Delta s_{A}& m\frac{d^{2}s_{B}}{dt^{2}} &= - m\frac{1}{2} \frac{d^{2}s_{A}}{dt^{2}}\\
+&& F_{B} &= - \frac{1}{2} F_{A}
 \end{align*}$$
+
+^05bf94
 
 This can be used in the same way as gears to change the magnitude of output from the input (of course this isn't some [[free energy machine]], the work is the same, which correlates to the changed distance moved between the input and output). This is highly [[incredibly based might I add|based]].
 
