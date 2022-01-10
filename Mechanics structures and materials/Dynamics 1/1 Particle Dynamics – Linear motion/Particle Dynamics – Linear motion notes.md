@@ -9,6 +9,7 @@ tags: ["NotesPage"]
 - [[Kinematics notes]]
 - [[Newtons laws notes]]
 - [[Typical forces in dynamics notes]]
+- [[Dependent motion (pulleys) notes]]
 
 ## Expanded articles
 ![[Kinematics notes]]
@@ -16,3 +17,5 @@ tags: ["NotesPage"]
 ![[Newtons laws notes]]
 
 ![[Typical forces in dynamics notes]]
+
+![[Dependent motion (pulleys) notes]]
