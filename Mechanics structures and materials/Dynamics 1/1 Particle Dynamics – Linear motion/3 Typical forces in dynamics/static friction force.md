@@ -15,6 +15,8 @@ Basically this models friction as being directly proportional to the normal reac
 >> $\mu=$ [[static friction force|coefficient of static friction]]
 >> $N=$ The normal reaction force between the two surfaces
 
-The [[co]]
+The [[static friction force|coefficient of static friction]] is between 0 and 1. It basically describes resistance to motion between the two surfaces.
 
 ![[Pasted image 20220110143636.png]]
+
+Note that [[static friction force]] cannot be applied to moving objects, that is where [[dynamic friction force]] is used!
