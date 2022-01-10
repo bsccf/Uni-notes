@@ -10,3 +10,6 @@ tags: ["NotesPage"]
 
 
 ## Expanded articles
+![[Kinematics notes]]
+
+![[Newtons laws notes]]
