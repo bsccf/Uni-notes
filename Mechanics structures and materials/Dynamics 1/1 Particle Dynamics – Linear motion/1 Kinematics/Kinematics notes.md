@@ -17,3 +17,5 @@ tags: ["NotesPage"]
 ![[acceleration]]
 
 ![[using integration to relate velocity, acceleration and position]]
+
+![[SUVAT]]

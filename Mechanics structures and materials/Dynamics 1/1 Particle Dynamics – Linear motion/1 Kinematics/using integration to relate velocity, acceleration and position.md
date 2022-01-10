@@ -26,5 +26,6 @@ v(s) &= \frac{ds}{dt}\\
 So these can be figured out quite easily tbh.
 
 ### Standard Resaults
-
+Incase you are lazy here:
 ![[Pasted image 20220110125143.png]]
+(Yes I am [[do a lil trollin|too lazy]] to type this out)
