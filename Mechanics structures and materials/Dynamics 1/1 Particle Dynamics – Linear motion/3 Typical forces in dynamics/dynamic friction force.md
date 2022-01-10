@@ -19,4 +19,4 @@ $$ \mu_{k} < \mu_{s} $$
 ![[Pasted image 20220110144549.png]]
 
 ### Extra discussion
-There are some problems with both [[dynamic friction force]] and [[static friction force]], both don't work on lubricated surfaces, friction doesn't account for
+There are some problems with both [[dynamic friction force]] and [[static friction force]], both don't work on lubricated surfaces, friction doesn't account for relative speed and it doesn't account for contact area. So if when you saw the equation origionally you thought "that seems wrong", well done your right. Though it is a descent description of behaviour "friction increases with contact force, with different behaviour when static and when moving" so it's what is used in this module.

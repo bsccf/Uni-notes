@@ -21,4 +21,5 @@ The [[static friction force|coefficient of static friction]] is between 0 and 1.
 
 ![[Pasted image 20220110143636.png]]
 
-Note that [[static friction force]] cannot be applied to moving objects, that is where [[dynamic friction force]] is used!
+Note that [[static friction force]] cannot be applied to moving objects, that is where [[dynamic friction force]] is used! 
+There are also a bunch of important limitations on this model of friction [[dynamic friction force#Extra discussion|that can be found here]].
