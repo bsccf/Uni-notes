@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/3 Typical forces in dynamics/Typical forces in dynamics notes.md",
+            "file": "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/3 Typical forces in dynamics/gravitational attraction.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/3 Typical forces in dynamics/Typical forces in dynamics notes.md",
+                "file": "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/3 Typical forces in dynamics/gravitational attraction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,7 @@
   },
   "active": "016d94f789972a0c",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/3 Typical forces in dynamics/gravitational attraction.md",
     "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/3 Typical forces in dynamics/Typical forces in dynamics notes.md",
     "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/Particle Dynamics – Linear motion notes.md",
     "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/2 Newton's laws of motion/Newtons laws notes.md",
@@ -123,7 +124,6 @@
     "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/2 Newton's laws of motion/Newtons second law.md",
     "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/2 Newton's laws of motion/Newtons third law.md",
     "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/2 Newton's laws of motion/wait I might have one for this.md",
-    "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/2 Newton's laws of motion/Newtons first law.md",
-    "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/1 Kinematics/Kinematics notes.md"
+    "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/2 Newton's laws of motion/Newtons first law.md"
   ]
 }
