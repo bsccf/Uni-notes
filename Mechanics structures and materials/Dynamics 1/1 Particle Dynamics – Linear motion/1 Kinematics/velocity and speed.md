@@ -13,4 +13,18 @@ Sometimes people use velocity and speed interchangably, which is wrong. Speed is
 >> $\Delta s=$ change in position
 >> $\Delta t=$ change in time
 
-But the more useful one is
+Actaul [[velocity and speed|velocity]] is the rate of change of your position [[Scalars and vectors|vector]]:
+
+> ### $$ \bar{v} = \frac{d\bar{s}}{dt} $$ 
+>> where:
+>> $\bar{v}=$ [[velocity and speed|velocity]]
+>> $\bar{s}=$ position [[Scalars and vectors|vector]]
+>> $t=$ time
+
+You can also get [[velocity and speed|speed]] by using the magnitude of your position vector:
+
+> ### $$ v = \frac{ds}{dt} = \frac{d|\bar{s}|}{dt} $$ 
+>> where:
+>> $\bar{v}=$ [[velocity and speed|velocity]]
+>> $\bar{s}=$ position [[Scalars and vectors|vector]]
+>> $t=$ time
