@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/7 Differential Equations 3/modelling oscillations of damped elastic systems using constant-coefficient differential equations.md",
+            "file": "Mathematics for Engineering and the Environment/6 Matrices 1/1,2 Intro into matrices/symetric matrix.md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dampe",
+                "query": "symetric",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/7 Differential Equations 3/modelling oscillations of damped elastic systems using constant-coefficient differential equations.md",
+                "file": "Mathematics for Engineering and the Environment/6 Matrices 1/1,2 Intro into matrices/symetric matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,7 @@
   },
   "active": "016d94f789972a0c",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/6 Matrices 1/1,2 Intro into matrices/symetric matrix.md",
     "Mathematics for Engineering and the Environment/7 Differential Equations 3/modelling oscillations of damped elastic systems using constant-coefficient differential equations.md",
     "Mathematics for Engineering and the Environment/7 Differential Equations 3/types of dampening (differentuially modeeled oscillator).md",
     "Mathematics for Engineering and the Environment/7 Differential Equations 3/damping parameter (differentially modelled oscillator).md",
@@ -124,7 +125,6 @@
     "Mathematics for Engineering and the Environment/9 Integration 2/single-page-integral-table.pdf",
     "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/Particle Dynamics – Linear motion notes.md",
     "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/3 Typical forces in dynamics/Typical forces in dynamics notes.md",
-    "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/3 Typical forces in dynamics/buoyancy force.md",
-    "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/3 Typical forces in dynamics/gravitational attraction.md"
+    "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/3 Typical forces in dynamics/buoyancy force.md"
   ]
 }
