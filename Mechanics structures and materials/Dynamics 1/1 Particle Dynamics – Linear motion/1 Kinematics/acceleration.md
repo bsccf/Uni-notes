@@ -5,7 +5,7 @@ tags: ["Question","QFormat3"]
 
 #### Define mathamatically
 ## Acceleration
-We already have [[Speed, velocity and acceleration]], which describes how integration and differentiation can relate the different things, but here we are going to do a more comprehensive description.
+We already have [[Speed, velocity and acceleration]], but heres some more:
 
 > ### $$ a = \frac{dv}{dt} = v \frac{dv}{ds} $$ 
 >> where:
@@ -14,4 +14,4 @@ We already have [[Speed, velocity and acceleration]], which describes how integr
 >> $s=$ poition as a [[Scalars and vectors|vector]]
 >> $t=$ time
 
-Note that this will also work if you are using scala
+Note that this will also work if you are using scalar equivilents.

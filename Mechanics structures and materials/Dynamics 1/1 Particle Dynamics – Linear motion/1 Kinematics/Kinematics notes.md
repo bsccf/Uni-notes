@@ -15,3 +15,5 @@ tags: ["NotesPage"]
 ![[velocity and speed]]
 
 ![[acceleration]]
+
+![[using integration to relate velocity, acceleration and position]]
