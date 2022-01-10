@@ -11,3 +11,5 @@ tags: ["Question","QFormat3"]
 >> $p=mv=$ momentum
 
 Net force is equal to rate of change of momentum. Or assuming constant mass $\Sigma F=ma$, the reason I'm saying sum of forces is because an object with multiple forces acting on it only has one overal velocity and hence momentum.
+
+[[inertial frame of refrence|Frame of refrence]] also must be considered when doing math involving these equations, 
