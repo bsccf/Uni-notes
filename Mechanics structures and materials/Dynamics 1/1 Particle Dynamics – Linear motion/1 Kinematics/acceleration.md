@@ -7,11 +7,13 @@ tags: ["Question","QFormat3"]
 ## Acceleration
 We already have [[Speed, velocity and acceleration]], but heres some more:
 
-> ### $$ a = \frac{dv}{dt} = v \frac{dv}{ds} $$ 
+> ### $$ \bar{a} = \frac{d\bar{v}}{dt} = \bar{v} \frac{d\bar{v}}{d\bar{s}} $$ 
 >> where:
->> $a=$ [[acceleration]] as a [[Scalars and vectors|vector]] 
->> $v=$ [[velocity and speed|velocity]] as a [[Scalars and vectors|vector]]
->> $s=$ poition as a [[Scalars and vectors|vector]]
+>> $\bar{a}=$ [[acceleration]] as a [[Scalars and vectors|vector]] 
+>> $\bar{v}=$ [[velocity and speed|velocity]] as a [[Scalars and vectors|vector]]
+>> $\bar{s}=$ poition as a [[Scalars and vectors|vector]]
 >> $t=$ time
+
+^f3760f
 
 Note that this will also work if you are using scalar equivilents.
