@@ -25,5 +25,8 @@ I already have basic [[Scalars and vectors|vector]] description, but there are m
 >> where:
 >> $\bar{x}=$ a vector
 
-We usually represent [[Scalars and vectors|scalars]] with non special syntaxed symbols for example scalar:$x$ vs vector:$\textbf{x}$.
-Though if I'm being honest during long pages of working
+We usually represent [[Scalars and vectors|scalars]] with non special syntaxed symbols for example:
+- scalar: $x$ 
+- vector: $\textbf{x}$
+
+Though if I'm being honest during long pages of working it's not uncommon to take the cba approach and write a vector using the syntax of a scalar, so watch out for that, because [[I prefer to say efficient|people are lazy]].
