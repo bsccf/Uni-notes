@@ -29,4 +29,4 @@ This can be used in the same way as gears to change the magnitude of output from
 
 There is nothing stopping you getting a ratio of 3:1 or 4:1 ect, you could even have a ratio of like 2:3 go wild:
 ![[Pasted image 20220110213946.png]]
-Here's a 5:1
+Here's a 5:1, meaning this 100kg create full of [[crack]] can be easily lifted by [[relateable|even someone as weak and pathetic]] as you!

@@ -8,7 +8,7 @@ tags: ["NotesPage"]
 #### Intro and contents
 - [[basic pulley motion]]
 - [[complex pulley motion]]
-
+- [[mechanical advantage]]
 
 ## Expanded articles
 
