@@ -25,6 +25,7 @@ You can also get [[velocity and speed|speed]] by using the magnitude of your pos
 
 > ### $$ v = \frac{ds}{dt} = \frac{d|\bar{s}|}{dt} $$ 
 >> where:
->> $\bar{v}=$ [[velocity and speed|velocity]]
+>> $v=$ [[velocity and speed|speed]]
+>> $s=$ position as a [[Scalars and vectors|scalar]]
 >> $\bar{s}=$ position [[Scalars and vectors|vector]]
 >> $t=$ time
