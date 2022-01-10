@@ -10,6 +10,7 @@ These are just a bunch of forces that come up quite often so you should be aware
 - [[gravitational attraction]]
 - [[static friction force]]
 - [[dynamic friction force]]
+- [[tension and compression force]]
 
 ## Expanded articles
 
