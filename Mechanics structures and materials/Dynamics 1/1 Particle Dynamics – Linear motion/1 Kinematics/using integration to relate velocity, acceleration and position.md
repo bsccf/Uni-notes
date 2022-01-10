@@ -11,4 +11,4 @@ If we look back at the definitions for [[acceleration]] and [[velocity and speed
 
 ![[velocity and speed#^2bea63]]
 
-Basically this just uses [[Integration as antiderivative]]
+Basically this just uses [[integration]]
