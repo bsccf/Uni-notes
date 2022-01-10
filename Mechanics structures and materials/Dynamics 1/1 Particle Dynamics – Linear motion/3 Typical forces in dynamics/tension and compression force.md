@@ -1,5 +1,5 @@
 ---
-aliases: ["tension force","compression force"]
+aliases: ["tension force","compression force","elastice force"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -14,8 +14,9 @@ We also tend to model ropes as light and inextensible, because [[meh works well 
 
 ### Maeth
 
-> ### $$  = $$ 
+> ### $$ F_{e} = k\Delta l = k (l-l_{0}) $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $F_{e}=$ [[tension and compression force|elastice force]]
+>> $k=$ [[spring constant]]
+>> $l=$ Deformed length
+>> $l_{0}=$ Origional length
