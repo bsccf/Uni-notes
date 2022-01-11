@@ -10,8 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/Particle Dynamics – Linear motion notes.md",
-            "mode": "preview",
-            "source": true
+            "mode": "preview"
           }
         }
       }
@@ -97,14 +96,6 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
-            }
-          },
-          {
-            "id": "f129e36997eea1cb",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
             }
           }
         ]
