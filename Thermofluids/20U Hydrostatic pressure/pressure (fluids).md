@@ -40,5 +40,8 @@ dp &= \rho g dh & \frac{p}{RT} &= \rho\\
 Now if we can define column hieght $h_P=H_{0}-H$ at pressure $P$, and then pressure for the entire column height to be a hieght of $H_0$ and pressure of $P_0$:
 $$\begin{align*}
 \int^{P_0}_{P} \frac{1}{p} \cdot dp &= \int^{H_0}_{H_0-H} \frac{1}{RT} g \cdot dh\\
-[ \ln(p) ]&
+[ \ln(p) ]^{P_0}_{P} &= [\frac{gh}{RT}]^{H_0}_{H_0-H}\\
+\ln({P}) - \ln(P_{0})&= \frac{g}{RT}(H_0-H-H_0)\\
+ln\left(\frac{P}{P_{0}}\right)&= \frac{-Hg}{RT}\\
+\frac{P}{P_{0}}&=
 \end{align*}$$
