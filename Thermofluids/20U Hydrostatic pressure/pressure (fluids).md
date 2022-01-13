@@ -46,4 +46,4 @@ ln\left(\frac{P}{P_{0}}\right)&= -\frac{Hg}{RT}\\
 \frac{P}{P_{0}}&=e^{-\frac{Hg}{RT}}\\
 P&=P_{0} \times e^{-\frac{Hg}{RT}}
 \end{align*}$$
-And now you have an equation that (poorly) models the density of the atmosphere above some refrence pressure. Though to be honest the temperature inaccruacy is probably having a greater effect than the gravity inaccuracy.
+And now you have an equation that (poorly) models the density of the atmosphere above some refrence pressure.
