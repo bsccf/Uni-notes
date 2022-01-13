@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/Mechanics of flight read order.md",
+            "file": "Thermofluids/9 Kinetic theory of gas/ideal gas law.md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inverse",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Mechanics of flight read order.md",
+                "file": "Thermofluids/9 Kinetic theory of gas/ideal gas law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,14 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "f129e36997eea1cb",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ]
       }
@@ -107,15 +115,15 @@
   },
   "active": "ef7c4208b9e4729a",
   "lastOpenFiles": [
-    "SESA1015/Flight mechanics/Mechanics of flight read order.md",
-    "Mathematics for Engineering and the Environment/6 Matrices 1/6 Matrix determinants/I do have like 820.md",
+    "Thermofluids/9 Kinetic theory of gas/ideal gas law.md",
+    "conflict-files-obsidian-git.md",
+    "Thermofluids/3 Assumptions, boundary conditions and problem solving/closed system.md",
     "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/Particle Dynamics – Linear motion notes.md",
     "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/4 Dependent motion (pulleys)/Dependent motion (pulleys) notes.md",
     "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/4 Dependent motion (pulleys)/compound pulleys.md",
     "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/4 Dependent motion (pulleys)/I am a comedy genius.md",
     "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/4 Dependent motion (pulleys)/mechanical advantage.md",
     "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/4 Dependent motion (pulleys)/complex pulley motion.md",
-    "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/4 Dependent motion (pulleys)/crack.md",
-    "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/4 Dependent motion (pulleys)/relateable.md"
+    "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/4 Dependent motion (pulleys)/crack.md"
   ]
 }
