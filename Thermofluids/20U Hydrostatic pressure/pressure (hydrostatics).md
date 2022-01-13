@@ -27,7 +27,10 @@ p &= -\frac{dh}{dt} \frac{dt}{dx_{B}} \frac{A_{A}}{A_{B}} \rho g\\
 Now if we get a variable for the rate of movement of volume $dV$:
 
 $$\begin{align*}
- & & dh &= - \frac{dV}{dA_{A}} & dx_{B} &= \frac{dV}{dA_{B}}
+p &= -\frac{dh}{dx_{B}} \frac{A_{A}}{A_{B}} \rho g & dh &= - \frac{dV}{dA_{A}} & dx_{B} &= \frac{dV}{dA_{B}}\\
+&= -\frac{- \frac{dV}{dA_{A}}}{\frac{dV}{dA_{B}}} \frac{A_{A}}{A_{B}} \rho g \\
+&= \frac{ dA_{B}dV}{dA_{A}dV} \frac{A_{A}}{A_{B}} \rho g \\
+&= \frac{ dA_{B}}{A_{B}} \frac{A_{A}}{dA_{A}} \rho g 
 \end{align*}$$
 
 ### Equations
