@@ -7,11 +7,6 @@ tags: ["NotesPage"]
 
 ![[BIG SHOT but it sounds like a chance to be a BIG SHOT!!.mp3#play]]
 
-High amounts of based energy. It's easyer to guess where this is from so the \[\[KROMER\]\] reward is lower:
-- 0.1 \[\[KROMER\]\] - Where is it from?
-- 0.5 \[\[KROMER\]\] - Is it based?
-- 99 \[\[KROMER\]\] - If you knew where I got this version from I would honestly be really really supprised, if you do you get the \[\[KROMER\]\] jackpot
-
 ![[dig.mp4]]
 
 ### Electric circuits
@@ -36,3 +31,6 @@ There is honestly too much to write and research rn, like wtf. I'll finish these
 2) [[Diodes as rectifiers notes]]
 3) [[Zener diodes notes]]
 4) [[Diodes in clamp circuits notes]]
+
+### Electric machines
+1) 
