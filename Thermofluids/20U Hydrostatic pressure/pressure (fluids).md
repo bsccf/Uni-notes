@@ -20,3 +20,4 @@ For uncompressible fluids you can take $\rho$ as constant, but for gases you mig
 >> $h=$ hight of column
 >> $\rho(h)=$ density of fluid as a function of h
 >> $g(h)=$ gravity as a function of h
+
