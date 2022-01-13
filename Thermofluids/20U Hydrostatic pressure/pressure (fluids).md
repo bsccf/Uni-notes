@@ -42,6 +42,8 @@ $$\begin{align*}
 \int^{P_0}_{P} \frac{1}{p} \cdot dp &= \int^{H_0}_{H_0-H} \frac{1}{RT} g \cdot dh\\
 [ \ln(p) ]^{P_0}_{P} &= [\frac{gh}{RT}]^{H_0}_{H_0-H}\\
 \ln({P}) - \ln(P_{0})&= \frac{g}{RT}(H_0-H-H_0)\\
-ln\left(\frac{P}{P_{0}}\right)&= \frac{-Hg}{RT}\\
-\frac{P}{P_{0}}&=
+ln\left(\frac{P}{P_{0}}\right)&= -\frac{Hg}{RT}\\
+\frac{P}{P_{0}}&=e^{-\frac{Hg}{RT}}\\
+P&=P_{0} \times e^{-\frac{Hg}{RT}}
 \end{align*}$$
+And now you have an equation that (poorly) models the density of the atmosphere above some refrence pressure. 
