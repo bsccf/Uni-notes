@@ -32,7 +32,7 @@ p &= -\frac{dh}{dx_{B}} \frac{A_{A}}{A_{B}} \rho gh & dh &= - \frac{dV}{A_{A}} &
 &= \frac{ A_{B}dV}{A_{A}dV} \frac{A_{A}}{A_{B}} \rho g h\\
 &= \rho g h
 \end{align*}$$
-
+Ok so if I was smart I would have 
 
 ### Equations
 The pressure due to the weight of the above an uncompressible fluid column can be determined using:
