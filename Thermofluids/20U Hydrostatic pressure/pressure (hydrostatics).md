@@ -8,7 +8,16 @@ tags: ["Question","QFormat3"]
 ### Intro
 Pressure within a fluid follows has the following properties:
 - Pressure only acts at the normal of the adjasent surfaces
-- 
+
+#### Proof
+Take this situation
+![[Pasted image 20220113190727.png]]
+We can use the [[pressure volume work]] equation and the [[pressure (hydrostatics)#^07ca11]] equations to proof that the pressure at the bottom is entirely dependent on h.
+If we assume that 
+$$\begin{align*}
+pV &= W \\
+pV &
+\end{align*}$$
 
 ### Equations
 The pressure due to the weight of the above an uncompressible fluid column can be determined using:
@@ -18,6 +27,8 @@ The pressure due to the weight of the above an uncompressible fluid column can b
 >> $h=$ hight of column
 >> $\rho=$ density of fluid
 >> $g=$ gravity
+
+^07ca11
 
 For uncompressible fluids you can take $\rho$ as constant, but for gases you might need to be more creative, this form should work:
 > ### $$ d p = \rho(h) \times  g(h) \times d h $$ 
