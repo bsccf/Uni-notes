@@ -29,4 +29,12 @@ To make things easy I'm going to assume:
 - Constant gravity
 - Constant temperature
 - Constant atmospheric composition
-- Ideal gas law is 
+- Ideal gas law is valid
+
+$$\begin{align*}
+& & pV &= mRT\\
+dp &= \rho g dh & \frac{p}{RT} &= \rho\\
+\int 1 \cdot dp &= \int \frac{p}{RT} g \cdot dh\\
+\int \frac{1}{p} \cdot dp &= \int \frac{1}{RT} g \cdot dh
+\end{align*}$$
+Now if we can define column hieght $h_P=$
