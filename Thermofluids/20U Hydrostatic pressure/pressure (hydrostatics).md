@@ -16,8 +16,8 @@ Take this situation:
 We can use the [[pressure volume work]] equation and the [[pressure (hydrostatics)#^07ca11]] equations to proof that the pressure at the bottom is entirely dependent on h.
 We can use conservation of energy and the work done at B and at A to proof the relation:
 $$\begin{align*}
-pV &= E_{B} & E_{A}= \rho g h A_{A} dh\\
-p A_{B} x_{B} &= E_{B}& dE_{A}= \rho g h A_{A} dh\\
+pV &= E_{B} & E_{A}= -dh\rho g h A_{A} \\
+p A_{B} x_{B} &= E_{B}& dE_{A}= -dh\rho g h A_{A} \\
 p A_{B} dx_{B} &= dE_{B}\\
 p A_{B} dx_{B} &= -dh A_{A} \rho gh\\
 p&= -\frac{dh}{dx_{B}} \frac{A_{A}}{A_{B}} \rho gh
@@ -31,7 +31,7 @@ p &= -\frac{dh}{dx_{B}} \frac{A_{A}}{A_{B}} \rho gh & dh &= - \frac{dV}{A_{A}} &
 &= \frac{ A_{B}dV}{A_{A}dV} \frac{A_{A}}{A_{B}} \rho g h\\
 &= \rho g h
 \end{align*}$$
-This also proves it for compressible fluids and variable cross section tubes since the dE bit at the start can take all of those things as constants as they are applied over a tiny distance.
+It's also proven for compressible fluids just replace $\rho$ with
 
 ### Equations
 The pressure due to the weight of the above an uncompressible fluid column can be determined using:
