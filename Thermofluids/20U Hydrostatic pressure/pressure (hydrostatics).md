@@ -17,8 +17,8 @@ We can use the [[pressure volume work]] equation and the [[pressure (hydrostatic
 We can use conservation of energy and the work done at B and at A to proof the relation:
 $$\begin{align*}
 pV &= E_{B} & E_{A}= \rho g h A_{A} dh\\
-p A_{B} x_{B} &= E_{B}& P_{A}= \rho g h A_{A} \frac{dh}{dt}\\
-p A_{B} \frac{dx_{B}}{dt} &= P_{B}\\
+p A_{B} x_{B} &= E_{B}& dE_{A}= \rho g h A_{A} dh\\
+p A_{B} dx_{B} &= dE_{B}\\
 p A_{B} \frac{dx_{B}}{dt} &= -\frac{dh}{dt} A_{A} \rho gh\\
 p &= -\frac{dh}{dt} \frac{dt}{dx_{B}} \frac{A_{A}}{A_{B}} \rho gh\\
 &= -\frac{dh}{dx_{B}} \frac{A_{A}}{A_{B}} \rho gh
@@ -32,7 +32,7 @@ p &= -\frac{dh}{dx_{B}} \frac{A_{A}}{A_{B}} \rho gh & dh &= - \frac{dV}{A_{A}} &
 &= \frac{ A_{B}dV}{A_{A}dV} \frac{A_{A}}{A_{B}} \rho g h\\
 &= \rho g h
 \end{align*}$$
-Ok so if I was smart I would have used slightly different variables, but this should also work for compressable fluids.
+This also proves it for compressible fluids and variable cross section tubes since the dE bit at the start can take all of those things as constants as
 
 ### Equations
 The pressure due to the weight of the above an uncompressible fluid column can be determined using:
