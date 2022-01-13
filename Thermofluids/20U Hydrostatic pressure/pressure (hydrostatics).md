@@ -10,13 +10,13 @@ Pressure within a fluid follows has the following properties:
 - Pressure only acts at the normal of the adjasent surfaces
 
 #### Proof
-Take this situation
-![[Pasted image 20220113190727.png]]
+Take this situation:
+![[Pasted image 20220113190959.png]]
+
 We can use the [[pressure volume work]] equation and the [[pressure (hydrostatics)#^07ca11]] equations to proof that the pressure at the bottom is entirely dependent on h.
-If we assume that 
+We can use conservation of energy and the work done at B and at A to proof the relation:
 $$\begin{align*}
-pV &= W \\
-pV &
+pV &= W_{B} & A_{A} \frac{dh}{dt}
 \end{align*}$$
 
 ### Equations
