@@ -21,7 +21,13 @@ p A_{B} x_{B} &= W_{B}\\
 p A_{B} \frac{dx_{B}}{dt} &= P_{B}\\
 p A_{B} \frac{dx_{B}}{dt} &= -\frac{dh}{dt} A_{A} \rho g\\
 p &= -\frac{dh}{dt} \frac{dt}{dx_{B}} \frac{A_{A}}{A_{B}} \rho g\\
-&= -\frac{dh}{dx_{B}} \rho g
+&= -\frac{dh}{dx_{B}} \frac{A_{A}}{A_{B}} \rho g
+\end{align*}$$
+
+Now if we get a variable for the rate of movement of volume $dV$:
+
+$$\begin{align*}
+ & & dh &= - \frac{dV}{dA_{A}} & dx_{B} &= \frac{dV}{dA_{B}}
 \end{align*}$$
 
 ### Equations
