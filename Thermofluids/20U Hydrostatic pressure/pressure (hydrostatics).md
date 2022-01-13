@@ -16,7 +16,9 @@ Take this situation:
 We can use the [[pressure volume work]] equation and the [[pressure (hydrostatics)#^07ca11]] equations to proof that the pressure at the bottom is entirely dependent on h.
 We can use conservation of energy and the work done at B and at A to proof the relation:
 $$\begin{align*}
-pV &= W_{B} & A_{A} \frac{dh}{dt}
+pV &= E_{B} & -\frac{dh}{dt} A_{A} \rho g = W_{A}\\
+p A_{B} x_{B} &= W_{B}\\
+p A_{B} \frac{dx_{B}}{dt} &= W_{B}
 \end{align*}$$
 
 ### Equations
