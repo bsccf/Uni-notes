@@ -31,7 +31,7 @@ p &= -\frac{dh}{dx_{B}} \frac{A_{A}}{A_{B}} \rho gh & dh &= - \frac{dV}{A_{A}} &
 &= \frac{ A_{B}dV}{A_{A}dV} \frac{A_{A}}{A_{B}} \rho g h\\
 &= \rho g h
 \end{align*}$$
-With a few modifications the proof would also work for compressible fluids.
+Since $\rho g h$ is just used to represent the weight of a 1d column, this proof also works for compressible fluids where $\rho g h$ is replaced with some functionally equivilent function.
 
 ### Equations
 The pressure due to the weight of the above an uncompressible fluid column can be determined using:
