@@ -16,7 +16,7 @@ Take this situation:
 We can use the [[pressure volume work]] equation and the [[pressure (hydrostatics)#^07ca11]] equations to proof that the pressure at the bottom is entirely dependent on h.
 We can use conservation of energy and the work done at B and at A to proof the relation:
 $$\begin{align*}
-pV &= E_{B} & -\frac{dh}{dt} A_{A} \rho g = P_{A}\\
+pV &= E_{B} & -\frac{dh}{dt}  A_{A} \rho g = P_{A}\\
 p A_{B} x_{B} &= W_{B}\\
 p A_{B} \frac{dx_{B}}{dt} &= P_{B}\\
 p A_{B} \frac{dx_{B}}{dt} &= -\frac{dh}{dt} A_{A} \rho g\\
@@ -27,8 +27,10 @@ p &= -\frac{dh}{dt} \frac{dt}{dx_{B}} \frac{A_{A}}{A_{B}} \rho g\\
 Now if we get a variable for the rate of movement of volume $dV$:
 
 $$\begin{align*}
-p &= -\frac{dh}{dx_{B}} \frac{A_{A}}{A_{B}} \rho g & -dh dA_{A} &=  dV & dx_{B} dA_{B}&= dV\\
-& & &=
+p &= -\frac{dh}{dx_{B}} \frac{A_{A}}{A_{B}} \rho g & dh &= - \frac{dV}{dA_{A}} & dx_{B} &= \frac{dV}{dA_{B}}\\
+&= -\frac{- \frac{dV}{dA_{A}}}{\frac{dV}{dA_{B}}} \frac{A_{A}}{A_{B}} \rho g \\
+&= \frac{ dA_{B}dV}{dA_{A}dV} \frac{A_{A}}{A_{B}} \rho g \\
+&= \frac{ dA_{B}}{A_{B}} \frac{A_{A}}{dA_{A}} \rho g 
 \end{align*}$$
 
 ### Equations
