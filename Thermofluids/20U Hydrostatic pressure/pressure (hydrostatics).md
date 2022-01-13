@@ -19,9 +19,8 @@ $$\begin{align*}
 pV &= E_{B} & E_{A}= \rho g h A_{A} dh\\
 p A_{B} x_{B} &= E_{B}& dE_{A}= \rho g h A_{A} dh\\
 p A_{B} dx_{B} &= dE_{B}\\
-p A_{B} \frac{dx_{B}}{dt} &= -\frac{dh}{dt} A_{A} \rho gh\\
-p &= -\frac{dh}{dt} \frac{dt}{dx_{B}} \frac{A_{A}}{A_{B}} \rho gh\\
-&= -\frac{dh}{dx_{B}} \frac{A_{A}}{A_{B}} \rho gh
+p A_{B} dx_{B} &= -dh A_{A} \rho gh\\
+p&= -\frac{dh}{dx_{B}} \frac{A_{A}}{A_{B}} \rho gh
 \end{align*}$$
 
 Now if we get a variable for the rate of movement of volume $dV$:
@@ -32,7 +31,7 @@ p &= -\frac{dh}{dx_{B}} \frac{A_{A}}{A_{B}} \rho gh & dh &= - \frac{dV}{A_{A}} &
 &= \frac{ A_{B}dV}{A_{A}dV} \frac{A_{A}}{A_{B}} \rho g h\\
 &= \rho g h
 \end{align*}$$
-This also proves it for compressible fluids and variable cross section tubes since the dE bit at the start can take all of those things as constants as
+This also proves it for compressible fluids and variable cross section tubes since the dE bit at the start can take all of those things as constants as they are applied over a tiny distance.
 
 ### Equations
 The pressure due to the weight of the above an uncompressible fluid column can be determined using:
