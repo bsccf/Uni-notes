@@ -4,12 +4,17 @@ tags: ["Question","QFormat3"]
 ---
 
 #### What is
-## Pressure (fluids)
+## Pressure (hydrostatics)
+### Intro
+Pressure within a fluid follows has the following properties:
+- Pressure only acts at the normal of the adjasent surfaces
+- 
+
 ### Equations
 The pressure due to the weight of the above an uncompressible fluid column can be determined using:
 > ### $$ p = h\rho g $$ 
 >> where:
->> $p=$ [[pressure (fluids)]]
+>> $p=$ [[pressure (hydrostatics)]]
 >> $h=$ hight of column
 >> $\rho=$ density of fluid
 >> $g=$ gravity
@@ -17,7 +22,7 @@ The pressure due to the weight of the above an uncompressible fluid column can b
 For uncompressible fluids you can take $\rho$ as constant, but for gases you might need to be more creative, this form should work:
 > ### $$ d p = \rho(h) \times  g(h) \times d h $$ 
 >> where:
->> $p=$ [[pressure (fluids)]]
+>> $p=$ [[pressure (hydrostatics)]]
 >> $h=$ hight of column
 >> $\rho(h)=$ density of fluid as a function of h
 >> $g(h)=$ gravity as a function of h

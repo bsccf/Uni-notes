@@ -12,7 +12,7 @@ tags: ["NotesPage"]
 ## Expanded articles
 ![[refrence pressure]]
 
-![[pressure (fluids)]]
+![[pressure (hydrostatics)]]
 
 # Honestly not sure if these are needed, they seem more for practice than anything?
 
