@@ -23,5 +23,7 @@ tags: ["NotesPage"]
 17) [[The diesel cycle and heat pumps notes]]
 18) [[The brayton cycle notes]]
 19) 
+
+### Hydrostatics
 20) [[Hydrostatic pressure notes]] 
 21) [[Hydrostatic force notes]]

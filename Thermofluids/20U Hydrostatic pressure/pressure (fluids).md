@@ -5,6 +5,7 @@ tags: ["Question","QFormat3"]
 
 #### What is
 ## Pressure (fluids)
+### Equations
 The pressure due to the weight of the above an uncompressible fluid column can be determined using:
 > ### $$ p = h\rho g $$ 
 >> where:
@@ -21,3 +22,11 @@ For uncompressible fluids you can take $\rho$ as constant, but for gases you mig
 >> $\rho(h)=$ density of fluid as a function of h
 >> $g(h)=$ gravity as a function of h
 
+### Example
+If we wanted to model the pressure in atmosphere at some hieght we could use the [[ideal gas law]] as well as the second version of this equation:
+
+To make things easy I'm going to assume:
+- Constant gravity
+- Constant temperature
+- Constant atmospheric composition
+- Ideal gas law is 
