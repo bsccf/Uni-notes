@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/20U Hydrostatic pressure/pressure (hydrostatics).md",
+            "file": "Electrical and electronic systems/1 Electric circuits/4a Capacitors/Capacitors.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/20U Hydrostatic pressure/pressure (hydrostatics).md",
+                "file": "Electrical and electronic systems/1 Electric circuits/4a Capacitors/Capacitors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,8 @@
   },
   "active": "ef7c4208b9e4729a",
   "lastOpenFiles": [
+    "Electrical and electronic systems/1 Electric circuits/4a Capacitors/Capacitors.md",
+    "Electrical and electronic systems/1 Electric circuits/4a Capacitors/capacitance.md",
     "Thermofluids/20U Hydrostatic pressure/pressure (hydrostatics).md",
     "Thermofluids/20U Hydrostatic pressure/Hydrostatic pressure notes.md",
     "Thermofluids/20U Hydrostatic pressure/barometer.md",
@@ -122,8 +124,6 @@
     "Thermofluids/20U Hydrostatic pressure/refrence pressure.md",
     "Electrical and electronic systems/Electrical read order.md",
     "Thermofluids/9 Kinetic theory of gas/ideal gas law.md",
-    "conflict-files-obsidian-git.md",
-    "Thermofluids/3 Assumptions, boundary conditions and problem solving/closed system.md",
-    "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/Particle Dynamics – Linear motion notes.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
