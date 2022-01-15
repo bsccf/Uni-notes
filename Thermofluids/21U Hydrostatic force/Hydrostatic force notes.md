@@ -11,3 +11,4 @@ tags: ["NotesPage"]
 
 ## Expanded articles
 
+![[centre of force on a flat wall]]
