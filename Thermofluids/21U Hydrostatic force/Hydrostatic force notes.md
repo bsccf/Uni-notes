@@ -13,4 +13,4 @@ tags: ["NotesPage"]
 
 ![[centre of force on a flat wall]]
 
-![[net moments the walls of a fluid container]]
+![[net moments the wall of a fluid container]]
