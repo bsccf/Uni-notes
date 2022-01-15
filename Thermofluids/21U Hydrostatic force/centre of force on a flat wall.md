@@ -26,4 +26,6 @@ Simplified form that takes in [[pressure (hydrostatics)#^07ca11]] as its functio
 >> $h_c=$ h position of centre of force
 
 ### Proof
-
+I don't have access to a proper diagram making program rn so cope with this:
+![[Pasted image 20220115100328.png]]
+It is important to note that for all this working I don't need to consider $\alpha$ because [[pressure (hydrostatics)|pressure]] acts at the normal of surfaces, and all my functions work with verticle height 
