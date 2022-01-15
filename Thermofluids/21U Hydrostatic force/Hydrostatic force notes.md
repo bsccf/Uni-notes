@@ -12,3 +12,5 @@ tags: ["NotesPage"]
 ## Expanded articles
 
 ![[centre of force on a flat wall]]
+
+![[net moments the walls of a fluid container]]
