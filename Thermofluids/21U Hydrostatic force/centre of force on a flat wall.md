@@ -31,7 +31,8 @@ I don't have access to a proper diagram making program rn so cope with this:
 It is important to note that for all this working I don't need to consider $\alpha$ because [[pressure (hydrostatics)|pressure]] acts at the normal of surfaces, and all my functions work with verticle height which basically means that I'm leaving all the annoying conversions to the pleb thats unfortionate enough to neet these equations:
 
 $$\begin{align*}
-&= &x &= h - h_{p} \\ 
-& &h &= x + h_{p}& \frac{dh}{dx} &= 1\\
-& &&& dh &= dx
+\int^{-h_{c}}_{0} xwp\cdot dx &= \int^{0}_{H} xwp\cdot dx &x &= h - h_{p} \\ 
+0&= \int^{-h_{c}}_{H} xwp\cdot dx &h &= x + h_{p}& \frac{dh}{dx} &= 1\\
+& &&& dh &= dx\\
+0&= \int^{0}_{H} ()wp\cdot dx
 \end{align*}$$
