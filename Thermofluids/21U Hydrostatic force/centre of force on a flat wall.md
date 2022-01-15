@@ -36,4 +36,10 @@ $$\begin{align*}
 & &&& dh &= dx\\
 0&= \int^{0}_{H} (h-h_{c})wp\cdot dh
 \end{align*}$$
-Then you can sub in $$
+Then if we sub in $p=h\rho g$ and $w=k$:
+$$\begin{align*}
+0&= \int^{0}_{H} (h-h_{c})kh\rho g\cdot dh\\
+0&= \int^{0}_{H} h^{2}k\rho g-h_{c}kh\rho g\cdot dh\\
+&= \rho gk \left[ \frac{h^{3}}{3} - \frac{h_{c}^{2}}{2} \right]^{0}_{H}\\
+&= \frac{H^{3}}{3}
+\end{align*}$$
