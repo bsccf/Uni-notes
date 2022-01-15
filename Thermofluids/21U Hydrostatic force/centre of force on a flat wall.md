@@ -28,4 +28,10 @@ Simplified form that takes in [[pressure (hydrostatics)#^07ca11]] as its functio
 ### Proof
 I don't have access to a proper diagram making program rn so cope with this:
 ![[Pasted image 20220115100328.png]]
-It is important to note that for all this working I don't need to consider $\alpha$ because [[pressure (hydrostatics)|pressure]] acts at the normal of surfaces, and all my functions work with verticle height 
+It is important to note that for all this working I don't need to consider $\alpha$ because [[pressure (hydrostatics)|pressure]] acts at the normal of surfaces, and all my functions work with verticle height which basically means that I'm leaving all the annoying conversions to the pleb thats unfortionate enough to neet these equations:
+
+$$\begin{align*}
+&= &x &= h - h_{p} \\ 
+& &h &= x + h_{p}& \frac{dh}{dx} &= 1\\
+& &&& dh &= dx
+\end{align*}$$
