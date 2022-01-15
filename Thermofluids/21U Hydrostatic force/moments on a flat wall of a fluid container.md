@@ -14,6 +14,8 @@ This is really simple, first you find the centre of force from the reaction of t
 >> $h_{r}=$ Vertical position of centre of pressure force
 >> $M=$ Moments acting on the wall
 
+Note that this equation works for angled walls, you just need to make sure to be working with verticle positions and horizontal pressures.
+
 It is common for $h_{r}$ to just be half way down the wall, but sometimes if the reaction force isn't constant you will have to calculate the centre through other means (probably simularly to how you find $h_p$).
 $h_p$ can probably be found using the equation [[centre of force on a flat wall]].
 
