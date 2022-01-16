@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/11 Processes, paths and reversibility/adiabetic expansion or compression.md",
+            "file": "Thermofluids/16 The Otto cycle/the Otto cycle.md",
             "mode": "preview",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/11 Processes, paths and reversibility/adiabetic expansion or compression.md",
+                "file": "Thermofluids/16 The Otto cycle/the Otto cycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "ef7c4208b9e4729a",
   "lastOpenFiles": [
+    "Thermofluids/16 The Otto cycle/the Otto cycle.md",
     "Thermofluids/11 Processes, paths and reversibility/adiabetic expansion or compression.md",
     "Thermofluids/13 Quantification of Entropy and T-S diagrams/isentropic process.md",
-    "Thermofluids/16 The Otto cycle/the Otto cycle.md",
+    "Thermofluids/13 Quantification of Entropy and T-S diagrams/TS diagrams for the different processes.md",
+    "Thermofluids/13 Quantification of Entropy and T-S diagrams/need for a TS diagram.md",
     "Thermofluids/11 Processes, paths and reversibility/types of process.md",
     "Thermofluids/11 Processes, paths and reversibility/isothermal expansion or compression.md",
     "Thermofluids/15 Carnot cycle and real engines/Carnot cycle and real engines notes.md",
     "Thermofluids/21U Hydrostatic force/Hydrostatic force notes.md",
-    "Thermofluids/21U Hydrostatic force/moments on a flat wall of a fluid container.md",
-    "Thermofluids/21U Hydrostatic force/centre of force on a flat wall.md",
-    "Thermofluids/20U Hydrostatic pressure/Hydrostatic pressure notes.md"
+    "Thermofluids/21U Hydrostatic force/moments on a flat wall of a fluid container.md"
   ]
 }
