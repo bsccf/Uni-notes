@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/20U Hydrostatic pressure/pressure (hydrostatics).md",
-            "mode": "source",
+            "file": "Thermofluids/11 Processes, paths and reversibility/types of process.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308
+    "width": 197
   },
   "right": {
     "id": "12c168c46d609ed6",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/20U Hydrostatic pressure/pressure (hydrostatics).md",
+                "file": "Thermofluids/11 Processes, paths and reversibility/types of process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,19 +111,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234
+    "width": 191
   },
   "active": "ef7c4208b9e4729a",
   "lastOpenFiles": [
-    "Thermofluids/20U Hydrostatic pressure/pressure (hydrostatics).md",
-    "Thermofluids/20U Hydrostatic pressure/Hydrostatic pressure notes.md",
-    "Thermofluids/20U Hydrostatic pressure/barometer.md",
-    "Thermofluids/Thermofluids read order.md",
-    "Thermofluids/20U Hydrostatic pressure/refrence pressure.md",
-    "Electrical and electronic systems/Electrical read order.md",
-    "Thermofluids/9 Kinetic theory of gas/ideal gas law.md",
-    "conflict-files-obsidian-git.md",
-    "Thermofluids/3 Assumptions, boundary conditions and problem solving/closed system.md",
-    "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/Particle Dynamics – Linear motion notes.md"
+    "Thermofluids/11 Processes, paths and reversibility/types of process.md",
+    "Thermofluids/11 Processes, paths and reversibility/adiabetic expansion or compression.md",
+    "Thermofluids/7 Properties of state/enthalpy.md",
+    "Thermofluids/13 Quantification of Entropy and T-S diagrams/isentropic process.md",
+    "Thermofluids/16 The Otto cycle/The Otto cycle notes.md",
+    "Thermofluids/16 The Otto cycle/the Otto cycle.md",
+    "Thermofluids/13 Quantification of Entropy and T-S diagrams/TS diagrams for the different processes.md",
+    "Thermofluids/13 Quantification of Entropy and T-S diagrams/need for a TS diagram.md",
+    "Thermofluids/11 Processes, paths and reversibility/isothermal expansion or compression.md",
+    "Thermofluids/15 Carnot cycle and real engines/Carnot cycle and real engines notes.md"
   ]
 }
