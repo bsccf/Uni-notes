@@ -21,6 +21,8 @@ Hence you need to be aware of the difference between $a$ and $\underline{a}$ (be
 
 > ### $$ a_{n} = \frac{v^{2}}{\rho} $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $a_{n}=$  acceleration in the n axis
+>> $\rho=$ [[radius of curvature]]
+>> $v=$ speed
+
+This is a basic circular motion equation, just with fucky variables instead of the easy $a=\frac{v^{2}}{r}$
