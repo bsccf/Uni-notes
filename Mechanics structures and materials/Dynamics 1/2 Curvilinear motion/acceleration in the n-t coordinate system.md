@@ -17,3 +17,10 @@ tags: ["Question","QFormat3"]
 
 The thing that makes all this a real pain in the ass, is the fact that acceleration can vary, then ontop of that you can get acceleration acting in both the n and t axis:
 ![[Pasted image 20220201180032.png]]
+Hence you need to be aware of the difference between $a$ and $\underline{a}$ (be careful with [[Scalars and vectors|vectors]] because I'm [[this will cause problems|lazy enough to forget to underline variables quite often, and lets be honest you are too]])
+
+> ### $$ a_{n} = \frac{v^{2}}{\rho} $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
