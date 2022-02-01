@@ -1,1 +1,1 @@
-![[YBNJPhEjSG0zTZQw.mp4#pla]]
+![[YBNJPhEjSG0zTZQw.mp4#play]]
