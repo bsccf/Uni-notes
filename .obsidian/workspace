@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Dynamics 1/2 Curvilinear motion/n-t diagram.md",
+            "file": "Mechanics structures and materials/Dynamics 1/2 Curvilinear motion/acceleration in the n-t coordinate system.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Dynamics 1/2 Curvilinear motion/n-t diagram.md",
+                "file": "Mechanics structures and materials/Dynamics 1/2 Curvilinear motion/acceleration in the n-t coordinate system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,7 @@
   },
   "active": "92d6cf3b386f8461",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Dynamics 1/2 Curvilinear motion/acceleration in the n-t coordinate system.md",
     "Mechanics structures and materials/Dynamics 1/2 Curvilinear motion/n-t diagram.md",
     "Mechanics structures and materials/Dynamics 1/2 Curvilinear motion/not likely m8.md",
     "Mechanics structures and materials/Dynamics 1/2 Curvilinear motion/centre of curvature.md",
@@ -123,7 +124,6 @@
     "Mathematics for Engineering and the Environment/1U Vectors 1/Cartesian coordinates.md",
     "Mechanics structures and materials/Dynamics 1/2 Curvilinear motion/Curvilinear motion notes.md",
     "Mechanics structures and materials/Dynamics 1/2 Curvilinear motion/n-t components on a n-t diagram.md",
-    "Mechanics structures and materials/Dynamics 1/2 Curvilinear motion/motion of projectile with drag.md",
-    "Mechanics structures and materials/Dynamics 1/2 Curvilinear motion/no drag basic projectile motion trajectory equations.md"
+    "Mechanics structures and materials/Dynamics 1/2 Curvilinear motion/motion of projectile with drag.md"
   ]
 }

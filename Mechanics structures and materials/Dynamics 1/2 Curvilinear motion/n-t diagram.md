@@ -30,3 +30,4 @@ Read ^
 Since the path is along a curve, the velocity will alwayse act along the tangent of the curve and hence $u_{t} = v = \dot{s}$
 
 #### Acceleration
+![[acceleration in the n-t coordinate system]]
