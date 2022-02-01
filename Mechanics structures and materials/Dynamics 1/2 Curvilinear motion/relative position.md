@@ -13,4 +13,4 @@ Take the situation above, you can find $r_{BA}$ using:
 >> $r_{BA}=$ vector A to B
 >> $r_{B},r_{A}=$ some vector
 
-And that's litterally it, no clue why there are so many slides on this... it also works for r
+And that's litterally it, no clue why there are so many slides on this... it also works for relative velocitys, acceleration ect... not really that [[look the page needed a meme|complex]].
