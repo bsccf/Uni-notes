@@ -38,4 +38,4 @@ Since the path is along a curve, the velocity will alwayse act along the tangent
 ### Three dimensional motion
 This is coceptually simpler than you would think, basically we label the third axis as $b$ or the binomial axis:
 ![[Pasted image 20220201181135.png]]
-It is the direction in which no motion occurs, remember all the axis change relative to the motion of the ball, so the $n,t$ axis are a
+It is the direction in which no motion occurs, remember all the axis change relative to the motion of the ball, so the $n,t$ axis are already enough to fully define the motion of a projectile in 3D space ([[yes|ezzz]]).
