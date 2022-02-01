@@ -18,13 +18,15 @@ This is an alternative way of represention motion to [[Cartesian coordinates|car
 
 ![[Pasted image 20220201172912.png]]
 
-### Variables
+### Variables and relationships
 
-#### Position (s)
+#### Position ($s$)
 Position along the curve is usually defined as s and given as a function of time.
 
 #### [[radius of curvature|Radius of curvature]] ($\rho$)
 Read ^ 
 
-#### Velocity ($u_{t},v$)
-Since
+#### Velocity ($u_{t},v,\dot{s}$)
+Since the path is along a curve, the velocity will alwayse act along the tangent of the curve and hence $u_{t} = v = \dot{s}$
+
+#### Acceleration
