@@ -26,8 +26,11 @@ Position along the curve is usually defined as s and given as a function of time
 #### [[radius of curvature|Radius of curvature]] ($\rho$)
 Read ^ 
 
-#### Velocity ($u_{t},v,\dot{s}$)
-Since the path is along a curve, the velocity will alwayse act along the tangent of the curve and hence $u_{t} = v = \dot{s}$
+#### Unit vectors ($u_{n},u_t$)
+These [[unit vector]]s define the direction 
+
+#### Velocity ($v,\dot{s}$)
+Since the path is along a curve, the velocity will alwayse act along the tangent of the curve and hence $u_{t} v = \dot{s}$
 
 #### Acceleration
 ![[acceleration in the n-t coordinate system]]
