@@ -33,4 +33,9 @@ These [[unit vector]]s define the direction of the tangent (t axis) and the norm
 Since the path is along a curve, the velocity will alwayse act along the tangent of the curve and hence $u_{t} v = \dot{s}$
 
 #### Acceleration
-![[acceleration in the n-t coordinate system]]
+![[acceleration in the n-t coordinate system#Acceleration in the n-t diagram n-t coordinate system]]
+
+### Three dimensional motion
+This is coceptually simpler than you would think, basically we label the third axis as $b$ or the binomial axis:
+![[Pasted image 20220201181135.png]]
+It is the direction in which no motion occurs, remember all the axis change relative to the motion of the ball, so the $n,t$ axis are a

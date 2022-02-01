@@ -18,6 +18,5 @@ Larger values mean it's closer to strait line, with an infinate radius of curvat
 This is a equation that can be used to find the [[radius of curvature]]:
 > ### $$ \rho = \frac{\left(1+\left(\frac{dy}{dx}\right)^{2}\right)^{\frac{3}{2}}}{\left|\frac{d^{2}y}{dx^{2}}\right|} $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $\rho=$ [[radius of curvature]] 
+>> $y,x=$ [[Cartesian coordinates|cartesian coordinates]]
