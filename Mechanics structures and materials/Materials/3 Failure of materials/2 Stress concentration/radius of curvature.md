@@ -4,9 +4,13 @@ tags: ["Question","QFormat3"]
 ---
 
 #### What is the
-## Radius of curvature ($R$)
+## Radius of curvature ($R,\rho$)
 This is the reciprocal of the curvature. For a curve, it equals the radius of the circular arc which best approximates the curve at that point.
 
 ![[Pasted image 20211125124649.png]]
 
 Larger values mean it's closer to strait line, with an infinate radius of curvature being equivilent to a strait line.
+
+![[Pasted image 20220201172325.png]]
+
+(cool this links between my dynamics and materials content, [[obsidian is quite cool tbh]])

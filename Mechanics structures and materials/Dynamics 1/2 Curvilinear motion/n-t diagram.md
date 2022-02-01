@@ -9,4 +9,5 @@ tags: ["Question","QFormat3"]
 This is an alternative way of represention motion to [[Cartesian coordinates|cartesian coordinates]], here's a description of it:
 - Instead of defining the origin/observer externally we use the particle as the origin and define a bunch of things around it. 
 - It requires the particles path to be curved and known
-- Instead of x,y,z it uses $\rho=n,$
+- Instead of x,y,z it uses $n,t$ where n is the normal to the curve and t is the tangent to the curve.
+- [[radius of curvature|Radius of curvature]] is defined a
