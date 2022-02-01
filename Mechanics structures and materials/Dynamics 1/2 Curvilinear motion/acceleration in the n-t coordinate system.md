@@ -14,3 +14,6 @@ tags: ["Question","QFormat3"]
 >> $\underline{v}=v \underline{u_{t}}=\dot{s}=$ velocity vector
 >> $v=$ magnitude of velocity ([[velocity and speed|speed]])
 >> $s=$ position along curve
+
+The thing that makes all this a real pain in the ass, is the fact that acceleration can vary, then ontop of that you can get acceleration acting in both the n and t axis:
+![[Pasted image 20220201180032.png]]
