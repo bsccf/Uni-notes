@@ -27,7 +27,7 @@ Position along the curve is usually defined as s and given as a function of time
 Read ^ 
 
 #### Unit vectors ($u_{n},u_t$)
-These [[unit vector]]s define the direction 
+These [[unit vector]]s define the direction of the tangent (t axis) and the normal (n axis).
 
 #### Velocity ($v,\dot{s}$)
 Since the path is along a curve, the velocity will alwayse act along the tangent of the curve and hence $u_{t} v = \dot{s}$
