@@ -7,6 +7,6 @@ tags: ["NotesPage"]
 
 #### Intro and contents
 - [[no drag basic projectile motion trajectory equations]]
-
+- [[motion of projectile with drag]]
 
 ## Expanded articles

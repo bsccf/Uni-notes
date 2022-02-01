@@ -16,5 +16,3 @@ If we take initial position as the origin (hence $x_{0},y_{0}=0$) then the equat
 
 > ### $$\begin{align*}x &=  t v_{0} \cos \theta_{0}\\ y &=  t v_{0} \sin \theta_{0} - \frac{1}{2}gt^{2}\end{align*}$$
 > ### $$ y =  \tan \theta_{0} x- \frac{g}{2 (v_{0})^{2} \cos^{2} \theta_{0}}x^{2} $$ 
-
-If we sub in 
