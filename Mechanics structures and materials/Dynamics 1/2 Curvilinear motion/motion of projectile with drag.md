@@ -11,4 +11,4 @@ Well unlike [[no drag basic projectile motion trajectory equations|projectile mo
 ### How it looks graphically
 ![[Pasted image 20220201171109.png]]
 ![[Pasted image 20220201171119.png]]
-For both of these the only things varied are drag coefficient and initial speed, as you can see drag only starts to have a noticeable effect for great distances. This is beca
+For both of these the only things varied are drag coefficient and initial speed, as you can see drag only starts to have a noticeable effect for great distances... which is that $v^{2}$ term in action as the greater distances are only achievable using a greater speed.

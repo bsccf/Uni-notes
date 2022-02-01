@@ -3,10 +3,12 @@ aliases: [""]
 tags: ["NotesPage"]
 ---
 
-# <% tp.file.title.charAt(0).toUpperCase() + tp.file.title.slice(1)%>
+# Curvilinear motion notes
 
 #### Intro and contents
 - [[no drag basic projectile motion trajectory equations]]
 - [[motion of projectile with drag]]
+- [[n-t diagram]]
+
 
 ## Expanded articles
