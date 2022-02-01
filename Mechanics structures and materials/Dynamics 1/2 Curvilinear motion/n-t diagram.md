@@ -1,5 +1,5 @@
 ---
-aliases: ["NT diagram","nt diagram","N-T diagram","n-t coordinate system","variable on n-t"]
+aliases: ["NT diagram","nt diagram","N-T diagram","n-t coordinate system","variable on n-t diagram"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -20,3 +20,11 @@ This is an alternative way of represention motion to [[Cartesian coordinates|car
 
 ### Variables
 
+#### Position (s)
+Position along the curve is usually defined as s and given as a function of time.
+
+#### [[radius of curvature|Radius of curvature]] ($\rho$)
+Read ^ 
+
+#### Velocity ($u_{t},v$)
+Since
