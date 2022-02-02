@@ -27,3 +27,4 @@ tags: ["NotesPage"]
 ### Hydrostatics
 20) [[Hydrostatic pressure notes]] 
 21) [[Hydrostatic force notes]]
+22) [[Buoyancy and stability notes]]
