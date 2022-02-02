@@ -8,7 +8,7 @@ tags: ["Question","QFormat3"]
 
 The position of the centre of boyancy relative to the centre of mass determins whether buoyancy causes an object to be more or less stable:
 
-![[Pasted image 20220202095125.png]]
+![[Pasted image 20220202111520.png]]
 
 If any of these are rotated the [[buoyancy force]]'s offset from the weight resaults in a rotating moment, in the stable case this resaults in the object returning to an upright position while an unstable state resaults in it flipping (unstable is litterally just stable but upside down).
 
