@@ -11,3 +11,4 @@ The main ones are:
 - [[pathlines]]
 - [[streaklines]]
 - [[streamlines]]
+- [[streamtubes]]
