@@ -10,3 +10,4 @@ The main ones are:
 - [[vector fields]]
 - [[pathlines]]
 - [[streaklines]]
+- [[streamlines]]
