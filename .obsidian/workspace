@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/1 Kinematics/Kinematics notes.md",
+            "file": "Mathematics for Engineering and the Environment/7 Differential Equations 3/Differential equations 3 overview.md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "friction",
+                "query": "homo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/1 Kinematics/Kinematics notes.md",
+                "file": "Mathematics for Engineering and the Environment/7 Differential Equations 3/Differential equations 3 overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,8 @@
   },
   "active": "92d6cf3b386f8461",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/7 Differential Equations 3/Differential equations 3 overview.md",
+    "Mathematics for Engineering and the Environment/7 Differential Equations 3/general solution of a linear nonhomogeneous equation.md",
     "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/1 Kinematics/Kinematics notes.md",
     "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/Particle Dynamics – Linear motion notes.md",
     "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/3 Typical forces in dynamics/Typical forces in dynamics notes.md",
@@ -123,8 +125,6 @@
     "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/3 Typical forces in dynamics/dynamic friction force.md",
     "Thermofluids/23 Flow characterisation and visualisation/Flow characterisation and visulisation notes.md",
     "Thermofluids/23 Flow characterisation and visualisation/diagrams and methods for displaying flow.md",
-    "Thermofluids/23 Flow characterisation and visualisation/streamtubes.md",
-    "Thermofluids/23 Flow characterisation and visualisation/streamlines.md",
-    "Thermofluids/23 Flow characterisation and visualisation/streaklines.md"
+    "Thermofluids/23 Flow characterisation and visualisation/streamtubes.md"
   ]
 }
