@@ -9,3 +9,4 @@ The main ones are:
 - [[scalar fields]]
 - [[vector fields]]
 - [[pathlines]]
+- [[streaklines]]
