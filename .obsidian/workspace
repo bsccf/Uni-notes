@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/3 Typical forces in dynamics/dynamic friction force.md",
+            "file": "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/1 Kinematics/Kinematics notes.md",
             "mode": "preview",
             "source": true
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/3 Typical forces in dynamics/dynamic friction force.md",
+                "file": "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/1 Kinematics/Kinematics notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,15 +116,15 @@
   },
   "active": "92d6cf3b386f8461",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/1 Kinematics/Kinematics notes.md",
+    "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/Particle Dynamics – Linear motion notes.md",
+    "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/3 Typical forces in dynamics/Typical forces in dynamics notes.md",
+    "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/3 Typical forces in dynamics/static friction force.md",
     "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/3 Typical forces in dynamics/dynamic friction force.md",
     "Thermofluids/23 Flow characterisation and visualisation/Flow characterisation and visulisation notes.md",
     "Thermofluids/23 Flow characterisation and visualisation/diagrams and methods for displaying flow.md",
     "Thermofluids/23 Flow characterisation and visualisation/streamtubes.md",
     "Thermofluids/23 Flow characterisation and visualisation/streamlines.md",
-    "Thermofluids/23 Flow characterisation and visualisation/streaklines.md",
-    "Thermofluids/23 Flow characterisation and visualisation/if not you are bad.md",
-    "Thermofluids/23 Flow characterisation and visualisation/pathlines.md",
-    "Thermofluids/23 Flow characterisation and visualisation/vector fields.md",
-    "Thermofluids/23 Flow characterisation and visualisation/very neat infact.md"
+    "Thermofluids/23 Flow characterisation and visualisation/streaklines.md"
   ]
 }
