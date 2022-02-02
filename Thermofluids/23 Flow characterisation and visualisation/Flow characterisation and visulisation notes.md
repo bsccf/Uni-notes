@@ -10,6 +10,7 @@ tags: ["NotesPage"]
 - [[effect of viscosity on flow over a cross section]]
 - [[Eulerian specification of the flow field]]
 - [[Lagrangian specification of the flow field]]
+- [[diagrams and methods for displaying flow]]
 
 ## Expanded articles
 ![[effect of viscosity on flow over a cross section]]

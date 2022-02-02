@@ -10,3 +10,4 @@ Basically just a collection of [[streamlines]] that create a continous surface a
 Hence a smooth pipe could be represented using one of these.
 
 If we have steady incompressible flow then the cross section of the [[streamtubes|streamtube]] can be used to describe pressure and velocity changes:
+![[Pasted image 20220202114709.png]]
