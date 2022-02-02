@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/23U Flow characterisation and visualisation/Flow characterisation and visulisation notes.md",
+            "file": "Thermofluids/23U Flow characterisation and visualisation/diagrams and methods for displaying flow.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/23U Flow characterisation and visualisation/Flow characterisation and visulisation notes.md",
+                "file": "Thermofluids/23U Flow characterisation and visualisation/diagrams and methods for displaying flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,7 @@
   },
   "active": "92d6cf3b386f8461",
   "lastOpenFiles": [
+    "Thermofluids/23U Flow characterisation and visualisation/diagrams and methods for displaying flow.md",
     "Thermofluids/23U Flow characterisation and visualisation/Flow characterisation and visulisation notes.md",
     "Thermofluids/Thermofluids read order.md",
     "Thermofluids/23U Flow characterisation and visualisation/causes of flows.md",
@@ -123,7 +124,6 @@
     "Thermofluids/22 Buoyancy and stability/Buoyancy and stability notes.md",
     "Thermofluids/22 Buoyancy and stability/stability due to buoyancy.md",
     "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/3 Typical forces in dynamics/buoyancy force.md",
-    "Thermofluids/21 Hydrostatic force/Hydrostatic force notes.md",
-    "Thermofluids/21 Hydrostatic force/centre of force on a flat wall.md"
+    "Thermofluids/21 Hydrostatic force/Hydrostatic force notes.md"
   ]
 }

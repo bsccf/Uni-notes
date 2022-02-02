@@ -13,4 +13,4 @@ tags: ["NotesPage"]
 
 ## Expanded articles
 ![[effect of viscosity on flow over a cross section]]
-![[]]
+![[diagrams and methods for displaying flow]]
