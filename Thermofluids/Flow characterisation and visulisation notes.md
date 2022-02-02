@@ -7,6 +7,6 @@ tags: ["NotesPage"]
 
 #### Intro and contents
 - [[types of flow (thermofluids)]]
-- 
+- [[effect of viscosity on flow over a cross section]]
 
 ## Expanded articles
