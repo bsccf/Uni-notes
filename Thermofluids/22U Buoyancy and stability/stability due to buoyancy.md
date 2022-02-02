@@ -10,4 +10,6 @@ The position of the centre of boyancy relative to the centre of mass determins w
 
 ![[Pasted image 20220202094638.png]]
 
-If any of these are rotated [[buoyancy force]]
+If any of these are rotated the [[buoyancy force]]'s offset from the weight resaults in a rotating moment, in the stable case this resaults in the object returning to an upright position while an unstable state resaults in it flipping (unstable is litterally just stable but upside down).
+
+To change stability due to buoyancy you need to change the centre of mass or the centre of 
