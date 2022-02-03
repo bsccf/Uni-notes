@@ -17,3 +17,5 @@ tags: ["NotesPage"]
 ![[tesla|magnetic flux density]]
 
 ![[magnetomotive force]]
+
+![[magnetic reluctance]]

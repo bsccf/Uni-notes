@@ -18,4 +18,6 @@ It can be defined mathamatically using the following equation:
 >> $R=$ [[magnetic reluctance]]
 >[[ohms law]]
 
+![[Pasted image 20220203170224.png]]
+
 Although it has force in the name, it is not measured in newtons, it is measured in amperes.
