@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/3 Electric machines/1U Intro to AC machines/kinda the backbone of modern human civilization no big deal.md",
+            "file": "Electrical and electronic systems/3 Electric machines/1U Intro to AC machines/faraday's law.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/3 Electric machines/1U Intro to AC machines/kinda the backbone of modern human civilization no big deal.md",
+                "file": "Electrical and electronic systems/3 Electric machines/1U Intro to AC machines/faraday's law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,8 +115,8 @@
   },
   "active": "92d6cf3b386f8461",
   "lastOpenFiles": [
-    "Electrical and electronic systems/3 Electric machines/1U Intro to AC machines/kinda the backbone of modern human civilization no big deal.md",
     "Electrical and electronic systems/3 Electric machines/1U Intro to AC machines/faraday's law.md",
+    "Electrical and electronic systems/3 Electric machines/1U Intro to AC machines/kinda the backbone of modern human civilization no big deal.md",
     "Electrical and electronic systems/3 Electric machines/1U Intro to AC machines/electromotive force.md",
     "Electrical and electronic systems/3 Electric machines/1U Intro to AC machines/Intro to AC machines notes.md",
     "Electrical and electronic systems/3 Electric machines/1U Intro to AC machines/magnetic field intensity.md",

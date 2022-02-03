@@ -24,6 +24,17 @@ Alternatively for a tightly wound coil of wire:
 >> $\mathcal {E}=$ [[electromotive force|EMF]]
 >> $\phi=$ [[magnetic flux]] through a single loop
 >> $t=$ time
->> $N$ = identical turns of the wire
+>> $N =$ identical turns of the wire
 > 
 > (I'm pretty sure that [[flux linkage]] can also be used, so $\mathcal {E} = - \frac{d\lambda}{dt}$ )
+
+Another form (more useable):
+
+![[Pasted image 20220203173926.png]]
+
+> ### $$ \mathcal {E} = NBLu $$ 
+>> where:
+>> $\mathcal {E}=$ 
+>> $N=$ identical turns of the wire
+>> $B=$
+>> $L=$
