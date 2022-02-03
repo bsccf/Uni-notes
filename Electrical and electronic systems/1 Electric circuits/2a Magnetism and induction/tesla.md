@@ -12,7 +12,7 @@ It can be expressed mathamaticly according to the force excerted on a charged pa
 > $$ T = \frac{\phi}{m^{2}} = \frac{N}{Am^{2}} $$ 
 >> where:
 >> $T=$ Tesla 
->> $\phi=$ [[magnetic flux]]
+>> $\phi=$ [[magnetic flux]] (weber)
 >> $m=$ meter
 >> $N=$ Newton
 >> $A=$ [[Electric current|amp]]

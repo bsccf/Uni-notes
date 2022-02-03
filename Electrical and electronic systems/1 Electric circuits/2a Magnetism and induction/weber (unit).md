@@ -7,10 +7,12 @@ tags: ["Question","QFormat3"]
 ## Weber (unit)
 Weber is a unit of [[magnetic flux]].
 
-> $$ Wb = Tm^{2} = \frac{Nm}{A} $$ 
+> $$ \phi = Tm^{2} = \frac{Nm}{A} $$ 
 >> where:
->> $Wb=$ weber 
+>> $\phi=$ [[magnetic flux]] (in weber (Wb)) 
 >> $T=$ [[tesla]]
 >> $m=$ meter
 >> $N=$ Newton
 >> $A=$ [[Electric current|ampere]]
+
+^d76857

@@ -18,3 +18,5 @@ If we are representing the flield direction on a surface we can do so in the fol
 ![[Pasted image 20211027101434.png]]
 
 This indicates the magnetic field direction is into the page, if we had circles instead then it would indicate the magnetic field dircetion is going outwards.
+
+![[weber (unit)#^d76857]]
