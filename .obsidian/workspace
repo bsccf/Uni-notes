@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "ef7c4208b9e4729a",
+        "id": "92d6cf3b386f8461",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/21 Hydrostatic force/Hydrostatic force notes.md",
+            "file": "Mathematics for Engineering and the Environment/7 Differential Equations 3/Differential equations 3 overview.md",
             "mode": "preview",
-            "source": false
+            "source": true
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "homo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -57,11 +57,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 197
+    "width": 308
   },
   "right": {
     "id": "12c168c46d609ed6",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/21 Hydrostatic force/Hydrostatic force notes.md",
+                "file": "Mathematics for Engineering and the Environment/7 Differential Equations 3/Differential equations 3 overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,19 +112,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 191
+    "width": 234
   },
-  "active": "ef7c4208b9e4729a",
+  "active": "92d6cf3b386f8461",
   "lastOpenFiles": [
-    "Thermofluids/21 Hydrostatic force/Hydrostatic force notes.md",
-    "Thermofluids/11 Processes, paths and reversibility/types of process.md",
+    "Mathematics for Engineering and the Environment/7 Differential Equations 3/Differential equations 3 overview.md",
     "conflict-files-obsidian-git.md",
-    "Thermofluids/11 Processes, paths and reversibility/adiabetic expansion or compression.md",
-    "Thermofluids/7 Properties of state/enthalpy.md",
-    "Thermofluids/13 Quantification of Entropy and T-S diagrams/isentropic process.md",
-    "Thermofluids/16 The Otto cycle/The Otto cycle notes.md",
-    "Thermofluids/16 The Otto cycle/the Otto cycle.md",
-    "Thermofluids/13 Quantification of Entropy and T-S diagrams/TS diagrams for the different processes.md",
-    "Thermofluids/13 Quantification of Entropy and T-S diagrams/need for a TS diagram.md"
+    "Mathematics for Engineering and the Environment/Overall Read order.md",
+    "Mathematics for Engineering and the Environment/General org/differentiation.md",
+    "Mathematics for Engineering and the Environment/7 Differential Equations 3/general solution of a linear nonhomogeneous equation.md",
+    "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/1 Kinematics/Kinematics notes.md",
+    "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/Particle Dynamics – Linear motion notes.md",
+    "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/3 Typical forces in dynamics/Typical forces in dynamics notes.md",
+    "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/3 Typical forces in dynamics/static friction force.md",
+    "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/3 Typical forces in dynamics/dynamic friction force.md"
   ]
 }
