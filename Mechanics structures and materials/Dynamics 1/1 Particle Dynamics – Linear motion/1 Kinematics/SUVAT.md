@@ -30,3 +30,4 @@ Get the stuff from [[using integration to relate velocity, acceleration and posi
 >> $v=$ final [[velocity and speed|velocity]]
 >> $v_{0}=$ initial [[velocity and speed|velocity]]
 >> $a_{c}=$ [[acceleration]]
+

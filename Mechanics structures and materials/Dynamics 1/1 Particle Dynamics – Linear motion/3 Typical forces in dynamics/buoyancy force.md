@@ -1,5 +1,5 @@
 ---
-aliases: ["upthrust"]
+aliases: ["upthrust","buoyancy"]
 tags: ["Question","QFormat3"]
 ---
 

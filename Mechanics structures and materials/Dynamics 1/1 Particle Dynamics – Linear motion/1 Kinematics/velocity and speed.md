@@ -5,15 +5,9 @@ tags: ["Question","QFormat3"]
 
 #### Define mathamatically
 ## Velocity and speed
-Sometimes people use velocity and speed interchangably, which is wrong. Speed is average velocity:
+Sometimes people use velocity and speed interchangably, which is wrong.
 
-> ### $$ v_{avg} = \frac{\Delta s}{\Delta t} $$ 
->> where:
->> $v_{avg}=$ average velocity 
->> $\Delta s=$ change in position
->> $\Delta t=$ change in time
-
-Actaul [[velocity and speed|velocity]] is the rate of change of your position [[Scalars and vectors|vector]]:
+Actual [[velocity and speed|velocity]] is the rate of change of your position [[Scalars and vectors|vector]]:
 
 > ### $$ \bar{v} = \frac{d\bar{s}}{dt} $$ 
 >> where:
@@ -23,7 +17,7 @@ Actaul [[velocity and speed|velocity]] is the rate of change of your position [[
 
 ^2bea63
 
-You can also get [[velocity and speed|speed]] by using the change in magnitude of your position vector over time:
+You can get [[velocity and speed|speed]] by using the change in magnitude of your position vector over time:
 
 > ### $$ v = \frac{ds}{dt} = \frac{d|\bar{s}|}{dt} $$ 
 >> where:
@@ -31,3 +25,11 @@ You can also get [[velocity and speed|speed]] by using the change in magnitude o
 >> $s=$ position as a [[Scalars and vectors|scalar]]
 >> $\bar{s}=$ position [[Scalars and vectors|vector]]
 >> $t=$ time
+
+Also this is average velocity:
+
+> ### $$ v_{avg} = \frac{\Delta s}{\Delta t} $$ 
+>> where:
+>> $v_{avg}=$ average velocity 
+>> $\Delta s=$ change in position
+>> $\Delta t=$ change in time
