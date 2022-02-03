@@ -32,9 +32,9 @@ Another form (more useable):
 
 ![[Pasted image 20220203173926.png]]
 
-> ### $$ \mathcal {E} = NBLu $$ 
+> ### $$ \mathcal {E} =- NBLu $$ 
 >> where:
->> $\mathcal {E}=$ 
+>> $\mathcal {E}=$ [[electromotive force|EMF]]
 >> $N=$ identical turns of the wire
 >> $B=$
 >> $L=$

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/3 Electric machines/1U Intro to AC machines/faraday's law.md",
-            "mode": "source",
+            "file": "Electrical and electronic systems/3 Electric machines/1U Intro to AC machines/Intro to AC machines notes.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/3 Electric machines/1U Intro to AC machines/faraday's law.md",
+                "file": "Electrical and electronic systems/3 Electric machines/1U Intro to AC machines/Intro to AC machines notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,10 +115,10 @@
   },
   "active": "92d6cf3b386f8461",
   "lastOpenFiles": [
+    "Electrical and electronic systems/3 Electric machines/1U Intro to AC machines/Intro to AC machines notes.md",
     "Electrical and electronic systems/3 Electric machines/1U Intro to AC machines/faraday's law.md",
     "Electrical and electronic systems/3 Electric machines/1U Intro to AC machines/kinda the backbone of modern human civilization no big deal.md",
     "Electrical and electronic systems/3 Electric machines/1U Intro to AC machines/electromotive force.md",
-    "Electrical and electronic systems/3 Electric machines/1U Intro to AC machines/Intro to AC machines notes.md",
     "Electrical and electronic systems/3 Electric machines/1U Intro to AC machines/magnetic field intensity.md",
     "Electrical and electronic systems/1 Electric circuits/2b Other Electromagnetic effects/permitivity of free space (magnetic).md",
     "Electrical and electronic systems/3 Electric machines/1U Intro to AC machines/relative magnetic permiability.md",
