@@ -21,3 +21,5 @@ tags: ["NotesPage"]
 ![[magnetic reluctance]]
 
 ![[magnetic field intensity]]
+
+![[law]]
