@@ -19,3 +19,5 @@ tags: ["NotesPage"]
 ![[magnetomotive force]]
 
 ![[magnetic reluctance]]
+
+![[magnetic field]]
