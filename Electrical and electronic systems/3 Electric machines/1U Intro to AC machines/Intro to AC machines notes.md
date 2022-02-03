@@ -14,3 +14,4 @@ tags: ["NotesPage"]
 
 ![[flux linkage]]
 
+![[tesla|magnetic flux density]]

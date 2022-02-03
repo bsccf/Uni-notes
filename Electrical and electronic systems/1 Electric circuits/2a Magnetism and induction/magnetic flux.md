@@ -5,7 +5,7 @@ tags: ["Question","QFormat3"]
 
 #### What is
 ## Magnetic flux ($\phi$)
-This is the normal component of the [[magnetic field]] passing through a surface, we generally measure it in [[tesla]].
+This is the normal component of the [[magnetic field]] passing through a surface, we generally measure it in [[weber (unit)|weber]].
 
 ![[Pasted image 20211027101018.png]]
 

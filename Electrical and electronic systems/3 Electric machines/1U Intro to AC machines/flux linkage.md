@@ -14,3 +14,5 @@ The general definition of flux linkage is the product of the number of turns in 
 >> $\phi=$ [[magnetic flux]]
 
 This is usful for coiled wires, since a single magnetic field line can pass through multiple coils and hence have a greater effect on the coil... so you can use flux linkage to measure the overall effect on the coiled wire by doing the multiplication above.
+
+![[Pasted image 20220203154048.png]]
