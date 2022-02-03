@@ -20,4 +20,4 @@ tags: ["NotesPage"]
 
 ![[magnetic reluctance]]
 
-![[magnetic field]]
+![[magnetic field intensity]]
