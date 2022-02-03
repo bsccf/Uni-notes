@@ -5,8 +5,7 @@ tags: ["Question","QFormat3"]
 
 #### What is
 ## Flux linkage ($\lambda$)
-The general definition of flux linkage is the product of the number of turns in the coil and [[tesla|magnetic flux density]].
-
+The general definition of flux linkage is the product of the number of turns in the coil and [[tesla|magnetic flux density]], or expressed mathamatically:
 
 > ### $$ \lambda = N \phi $$ 
 >> where:
@@ -14,3 +13,4 @@ The general definition of flux linkage is the product of the number of turns in 
 >> $N=$ Number of turns in the coil
 >> $\phi=$ [[magnetic flux]]
 
+Basically, you 
