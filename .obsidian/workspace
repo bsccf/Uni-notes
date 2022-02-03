@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/3 Electric machines/1U Intro to AC machines/electromotive force.md",
+            "file": "Electrical and electronic systems/3 Electric machines/1U Intro to AC machines/magnetomotive force.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/3 Electric machines/1U Intro to AC machines/electromotive force.md",
+                "file": "Electrical and electronic systems/3 Electric machines/1U Intro to AC machines/magnetomotive force.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,8 +115,8 @@
   },
   "active": "92d6cf3b386f8461",
   "lastOpenFiles": [
-    "Electrical and electronic systems/3 Electric machines/1U Intro to AC machines/electromotive force.md",
     "Electrical and electronic systems/3 Electric machines/1U Intro to AC machines/magnetomotive force.md",
+    "Electrical and electronic systems/3 Electric machines/1U Intro to AC machines/electromotive force.md",
     "Electrical and electronic systems/3 Electric machines/1U Intro to AC machines/magnetic reluctance.md",
     "Electrical and electronic systems/1 Electric circuits/1b Electric current/electric current.md",
     "Electrical and electronic systems/3 Electric machines/1U Intro to AC machines/Intro to AC machines notes.md",
