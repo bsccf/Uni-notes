@@ -16,4 +16,4 @@ tags: ["NotesPage"]
 
 ![[tesla|magnetic flux density]]
 
-![[Lorentz's force law|electromagnetic force]]
+![[magnetomotive force]]
