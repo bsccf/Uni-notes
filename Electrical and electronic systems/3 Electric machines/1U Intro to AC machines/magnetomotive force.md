@@ -17,4 +17,4 @@ It is the property of certain substances or phenomena that give rise to magnetic
 >> $R=$ [[magnetic reluctance]]
 >[[ohms law]]
 
-[[Lorentz's force law|electromagnetic force]]
+It is caused by [[Lorentz's force law]]
