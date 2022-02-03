@@ -1,12 +1,13 @@
 ---
-aliases: [""]
+aliases: ["MMF"]
 tags: ["Question","QFormat3"]
 ---
 
 #### What is
 ## Magnetomotive force
-The current flowing in an electric circuit is due to the existence of [[electromotive force]] similarly magnetomotive force (MMF) is required to drive the magnetic flux in the magnetic circuit.
-It is the property of certain substances or phenomena that give rise to magnetic fields and can be described by the equation:
+The current flowing in an electric circuit is due to the existence of [[electromotive force]]; similarly the Magnetomotive force (MMF) is defined as the work done in moving a unit magnetic pole once around the magnetic circuit. It is a magnetic pressure that tends to set up magnetic flux in a magnetic circuit.
+
+It can be defined mathamatically using the following equation:
 
 > ### $$ F = \phi R = NI $$ 
 >> where:
@@ -17,4 +18,4 @@ It is the property of certain substances or phenomena that give rise to magnetic
 >> $R=$ [[magnetic reluctance]]
 >[[ohms law]]
 
-It is related to [[Lorentz's force law]]
+Although it has force in the name, it is not measured in newtons, it is measured in amperes.
