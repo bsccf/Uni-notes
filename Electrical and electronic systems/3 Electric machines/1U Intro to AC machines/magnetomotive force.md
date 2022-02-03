@@ -16,3 +16,5 @@ It is the property of certain substances or phenomena that give rise to magnetic
 >> $I=$ [[electric current]]
 >> $R=$ [[magnetic reluctance]]
 >[[ohms law]]
+
+[[Lorentz's force law|electromagnetic force]]
