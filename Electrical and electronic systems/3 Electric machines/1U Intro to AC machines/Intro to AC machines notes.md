@@ -13,3 +13,4 @@ tags: ["NotesPage"]
 ![[magnetic flux]]
 
 ![[flux linkage]]
+
