@@ -22,4 +22,4 @@ tags: ["NotesPage"]
 
 ![[magnetic field intensity]]
 
-![[law]]
+![[faraday's law]]
