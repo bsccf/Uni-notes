@@ -8,7 +8,8 @@ tags: ["Question","QFormat3"]
 
 ### Introduction
 
-The sator is a stationary part that contains the armature winding. In an [[synchronous generators|AC generator]] the sator is where the [[electromotive force|EMF]] comes from
+The sator is a stationary part that contains the armature winding. In an [[synchronous generators|AC generator]] the sator is where the [[electromotive force|EMF]] comes from.
+
 ![[Pasted image 20220204131349.png]]
 
 ### Winding
@@ -26,5 +27,6 @@ The sator core has multiple functions:
 - It holds the wires in place
 - Conducts heat allowing for efficient cooling
 - Has a higher [[magnetic permiability]] than air creating less losses in [[tesla|magnetic flux density]]
+
 Hence why it is made of conductive metals as aposed to cheaper alternatives like plastic.
 
