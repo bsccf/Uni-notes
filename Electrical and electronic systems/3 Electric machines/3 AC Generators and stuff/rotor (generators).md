@@ -12,3 +12,9 @@ This is the part that rotates and produces the [[magnetic field]].
 There are 2 main types of rotor configuration:
 - [[salient pole rotors]]
 - [[cylindrical rotors]]
+
+![[salient pole rotors#Salient pole rotors]]
+
+![[cylindrical rotors#Cylindrical rotors]]
+
+###
