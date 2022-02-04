@@ -22,10 +22,13 @@ An [[synchronous generators|alternator]] consists of two parts:
 ![[rotor (generators)#Rotor generators]]
 
 ### Function
+Basically as the [[rotor (generators)|rotor]] rotates around, the [[tesla|magnetic flux density]] changes at different points in the [[stator (generators)|stator]], then due to [[faraday's law]] 
+
 
 The frequency of an [[synchronous generators|alternator]] can be found using:
-> ### $$ rpm = $$ 
+> ### $$ rpm = \frac{120f}{N_{p}} $$
+> ### $$ f = \frac{rpm\times N_{p}}{120}$$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $rpm=$ rotations per min 
+>> $f=$ frequency
+>> $N_{p}=$ Number of poles
