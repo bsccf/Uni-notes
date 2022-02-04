@@ -26,8 +26,11 @@ Basically as the [[rotor (generators)|rotor]] rotates around, the [[tesla|magnet
 
 ![[Pasted image 20220204170808.png]]
 
-This resaults in a [[alternating current|AC]] being produced, as stated previously the most common configuration is 3 phase where the coils are shifted by 120 degrees, in this configuration simply superimposing the waves ontop of eachother would r
+This resaults in a [[alternating current|AC]] being produced, as stated previously the most common configuration is 3 phase where the coils are shifted by 120 degrees, in this configuration simply superimposing the waves ontop of eachother would resault it a constant [[potential difference]] equal to zero:
 
+![[Pasted image 20220204171044.png]]
+
+There are multiple winding connections that can be used to combine the outputs from the coils: 
 
 The frequency of an [[synchronous generators|alternator]] can be found using:
 > ### $$ rpm = \frac{120f}{N_{p}} $$
@@ -36,3 +39,4 @@ The frequency of an [[synchronous generators|alternator]] can be found using:
 >> $rpm=$ rotations per min 
 >> $f=$ frequency
 >> $N_{p}=$ Number of poles
+
