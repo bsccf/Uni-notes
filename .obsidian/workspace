@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/3 Electric machines/3 AC Generators and stuff/stator (generators).md",
+            "file": "Electrical and electronic systems/3 Electric machines/3 AC Generators and stuff/armature and field winding.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/3 Electric machines/3 AC Generators and stuff/stator (generators).md",
+                "file": "Electrical and electronic systems/3 Electric machines/3 AC Generators and stuff/armature and field winding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,7 @@
   },
   "active": "92d6cf3b386f8461",
   "lastOpenFiles": [
+    "Electrical and electronic systems/3 Electric machines/3 AC Generators and stuff/armature and field winding.md",
     "Electrical and electronic systems/3 Electric machines/3 AC Generators and stuff/stator (generators).md",
     "Electrical and electronic systems/3 Electric machines/3 AC Generators and stuff/synchronous generators.md",
     "Electrical and electronic systems/3 Electric machines/3 AC Generators and stuff/AC generators and stuff notes.md",
@@ -123,7 +124,6 @@
     "Mechanics structures and materials/Dynamics 1/2 Curvilinear motion/relative position.md",
     "Mechanics structures and materials/Dynamics 1/Dynamics Overview.md",
     "Mechanics structures and materials/Dynamics 1/2 Curvilinear motion/Curvilinear motion notes.md",
-    "Mechanics structures and materials/Dynamics 1/2 Curvilinear motion/this will cause problems.md",
-    "Electrical and electronic systems/3 Electric machines/1 Intro to AC machines/Intro to AC machines notes.md"
+    "Mechanics structures and materials/Dynamics 1/2 Curvilinear motion/this will cause problems.md"
   ]
 }
