@@ -33,4 +33,6 @@ There is honestly too much to write and research rn, like wtf. I'll finish these
 4) [[Diodes in clamp circuits notes]]
 
 ### Electric machines
+provided notes [[Electric Machines - notes(1).pdf]]
+
 1) [[Intro to AC machines notes]]
