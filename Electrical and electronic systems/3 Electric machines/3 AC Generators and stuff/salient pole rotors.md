@@ -11,4 +11,6 @@ This is where you have windings on poles that stick out of the shaft:
 
 This configuration is relatively easy to manufacture, but it cannot be driven at high speeds because:
 - The construction has inherint weaknesses due to its layout
-- The non cir
+- The shape creates lots of drag when rotating at high speed
+
+Generally to counter it's weaknesses [[salient pole rotors]] have large diameters and short axial lengths.
