@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["flux"]
 tags: ["Question","QFormat3"]
 ---
 
