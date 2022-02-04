@@ -5,12 +5,12 @@ tags: ["Question","QFormat3"]
 
 #### What is a
 ## Stator (generators)
-*(in these notes we focus on AC generators where the magnetic field is rotating and the current is produced in the stationary compontnet)*
 
 ### Introduction
 
-The stator is the stationary part of the [[synchronous generators|alternator]]. It carries the armature winding in which the voltage is generated. The output of the alternator is taken form the stator.
+The sator is the part that contains the armature winding in which the voltage is generated. The output of the alternator is taken form the stator.
 ![[Pasted image 20220204131349.png]]
+Although here the sator is stationary, you can also have it where the sator is the part that rotates.
 
 ### Winding
 
@@ -27,4 +27,5 @@ The sator core has multiple functions:
 - It holds the wires in place
 - Conducts heat allowing for efficient cooling
 - Has a higher [[magnetic permiability]] than air creating less losses in [[tesla|magnetic flux density]]
-Hence why it is made of conductive metals as apos
+Hence why it is made of conductive metals as aposed to cheaper alternatives like plastic.
+
