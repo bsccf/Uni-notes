@@ -36,3 +36,4 @@ There is honestly too much to write and research rn, like wtf. I'll finish these
 provided notes [[Electric Machines - notes(1).pdf]]
 
 1) [[Intro to AC machines notes]]
+3) [[AC generators and stuff notes]]
