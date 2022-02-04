@@ -21,4 +21,4 @@ The power dissipation of eddy currents can be calculated using:
 >> $k=$ a constant (1 for thin sheet and 2 for thin wire)
 >> $D=$ the materials density
 
-(you don't need to know this equation) As you can see since 
+(you don't need to know this equation) As you can see since it is proportional to the thickness squared, having lots of very thin sheets instead of thick ones reduces the effect of eddy currents hence why we do it.
