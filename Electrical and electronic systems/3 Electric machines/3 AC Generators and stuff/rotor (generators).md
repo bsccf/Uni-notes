@@ -17,4 +17,6 @@ There are 2 main types of rotor configuration:
 
 ![[cylindrical rotors#Cylindrical rotors]]
 
-###
+### Structure
+#### Field windings
+The field windings are wrapped in the rotor to produce a [[magnetic field]], they require a DC source. You might be wondering why no use a perminant magnet?
