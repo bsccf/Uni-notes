@@ -22,7 +22,11 @@ An [[synchronous generators|alternator]] consists of two parts:
 ![[rotor (generators)#Rotor generators]]
 
 ### Function
-Basically as the [[rotor (generators)|rotor]] rotates around, the [[tesla|magnetic flux density]] changes at different points in the [[stator (generators)|stator]], then due to [[faraday's law]] 
+Basically as the [[rotor (generators)|rotor]] rotates around, the [[tesla|magnetic flux density]] changes at different points in the [[stator (generators)|stator]], then due to [[faraday's law]] an [[electromotive force|EMF]] is induced of varing intensity and magnitude in the sets of coils in the stator:
+
+![[Pasted image 20220204170808.png]]
+
+This resaults in a [[alternating current|AC]] being produced, as stated previously the most common configuration is 3 phase where the coils are shifted by 120 degrees, in this configuration simply superimposing the waves ontop of eachother would r
 
 
 The frequency of an [[synchronous generators|alternator]] can be found using:
