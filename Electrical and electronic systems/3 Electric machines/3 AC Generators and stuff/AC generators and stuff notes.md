@@ -3,10 +3,10 @@ aliases: [""]
 tags: ["NotesPage"]
 ---
 
-# <% tp.file.title.charAt(0).toUpperCase() + tp.file.title.slice(1)%>
+# AC generators and stuff notes
 
 #### Intro and contents
 - [[basics of energy generation]]
-
+- [[synchronous generators]]
 
 ## Expanded articles
