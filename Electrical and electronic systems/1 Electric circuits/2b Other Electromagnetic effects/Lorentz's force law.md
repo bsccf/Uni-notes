@@ -16,6 +16,13 @@ This is the combination of an [[electric field]] and [[magnetic field]] on a poi
 >> 
 >> It should be noted that $E$ is measured perpendicular to $B$ (or vice versa), so you would break one down into a perpendicular component of the other when substituting into the equation.
 
+The more useful form of the equation:
+> ### $$  = $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
+
 Here we use [[conventional current]] (please read [[reason for conventional current existing|why we use conventional current]] for critical information)
 ![[Pasted image 20211027104136.png]]
 
