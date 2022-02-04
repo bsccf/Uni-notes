@@ -1,5 +1,5 @@
 ---
-aliases: ["synchronous generator","alternators","AC generators"]
+aliases: ["synchronous generator","alternators","alternator","AC generators","AC generator"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -13,3 +13,6 @@ Synchronous generators are also referred to as alternators or AC generators. The
 A synchronous generator can be either single-phase or poly-phase (generally 3phase).
 
 ### Construction
+An [[synchronous generators|alternator]] consists of two parts:
+- [[stator (generators)|stator]]
+- [[rotor (generators)|rotor]]
