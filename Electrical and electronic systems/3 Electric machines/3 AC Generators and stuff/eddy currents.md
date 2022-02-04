@@ -11,4 +11,14 @@ Eddy currents (also called Foucault's currents) are loops of electrical current 
 
 The currents produce heat, so inside machineary they tend to just be an annoying source of inefficiency.
 
-The power dissipation of eddy currents can be calculated 
+The power dissipation of eddy currents can be calculated using:
+> ### $$ P = \frac{\pi^{2} B_{p}^{2}d^{2}f^{2} }{ 6k\rho D } $$ 
+>> where:
+>> $B_{p}=$ Peak [[magnetic field]] 
+>> $d=$ thickness of sheet/diameter of wire
+>> $f=$ frequency
+>> $P=$ Power lost per unit mass
+>> $k=$ a constant (1 for thin sheet and 2 for thin wire)
+>> $D=$ the materials density
+
+(you don't need to know this equation) As you can see since 
