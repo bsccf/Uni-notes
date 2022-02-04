@@ -1,5 +1,5 @@
 ---
-aliases: ["synchronous generator","alternators","alternator","AC generators","AC generator"]
+aliases: ["synchronous generator","alternators","alternator","AC generators","AC generator","frequency of AC generator"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -16,3 +16,16 @@ A synchronous generator can be either single-phase or poly-phase (generally 3pha
 An [[synchronous generators|alternator]] consists of two parts:
 - [[stator (generators)|stator]]
 - [[rotor (generators)|rotor]]
+
+![[stator (generators)#Stator generators]]
+
+![[rotor (generators)#Rotor generators]]
+
+### Function
+
+The frequency of an [[synchronous generators|alternator]] can be found using:
+> ### $$ rpm = $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
