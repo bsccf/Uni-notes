@@ -19,4 +19,7 @@ There are 2 main types of rotor configuration:
 
 ### Structure
 #### Field windings
-The field windings are wrapped in the rotor to produce a [[magnetic field]], they require a DC source. You might be wondering why no use a perminant magnet?
+The field windings are wrapped in the rotor to produce a [[magnetic field]], they require a DC source. You might be wondering why no use a perminant magnet; by using an electromagnet it becomes possible to throttle the magnets intensity allowing for control over the behaviour of the [[synchronous generators|alternator]].
+
+#### Solid structural bits
+Basically everything that applys to [[stator (generators)#Sator core]] applys to this, mainly
