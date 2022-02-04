@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/3 Electric machines/3 AC Generators and stuff/synchronous generators.md",
+            "file": "Electrical and electronic systems/3 Electric machines/3 AC Generators and stuff/generator armature winding connection types.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/3 Electric machines/3 AC Generators and stuff/synchronous generators.md",
+                "file": "Electrical and electronic systems/3 Electric machines/3 AC Generators and stuff/generator armature winding connection types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,7 @@
   },
   "active": "e6a6b74850add915",
   "lastOpenFiles": [
+    "Electrical and electronic systems/3 Electric machines/3 AC Generators and stuff/generator armature winding connection types.md",
     "Electrical and electronic systems/3 Electric machines/3 AC Generators and stuff/synchronous generators.md",
     "Electrical and electronic systems/3 Electric machines/3 AC Generators and stuff/rotor (generators).md",
     "Electrical and electronic systems/3 Electric machines/3 AC Generators and stuff/eddy currents.md",
@@ -123,7 +124,6 @@
     "Electrical and electronic systems/3 Electric machines/3 AC Generators and stuff/salient pole rotors.md",
     "Electrical and electronic systems/3 Electric machines/3 AC Generators and stuff/unthinkable.md",
     "Electrical and electronic systems/3 Electric machines/3 AC Generators and stuff/stator (generators).md",
-    "Electrical and electronic systems/3 Electric machines/3 AC Generators and stuff/basics of energy generation.md",
-    "Electrical and electronic systems/1 Electric circuits/5b Electrical Resonance/alternating current.md"
+    "Electrical and electronic systems/3 Electric machines/3 AC Generators and stuff/basics of energy generation.md"
   ]
 }

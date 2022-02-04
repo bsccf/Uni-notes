@@ -30,7 +30,7 @@ This resaults in a [[alternating current|AC]] being produced, as stated previous
 
 ![[Pasted image 20220204171044.png]]
 
-There are multiple winding connections that can be used to combine the outputs from the coils: 
+There are multiple winding connections that can be used to combine the outputs from the coils (see [[generator armature winding connection types]])
 
 The frequency of an [[synchronous generators|alternator]] can be found using:
 > ### $$ rpm = \frac{120f}{N_{p}} $$
