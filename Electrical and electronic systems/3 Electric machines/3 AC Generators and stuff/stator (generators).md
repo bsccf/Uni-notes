@@ -8,9 +8,8 @@ tags: ["Question","QFormat3"]
 
 ### Introduction
 
-The sator is the part that contains the armature winding in which the voltage is generated. The output of the alternator is taken form the stator.
+The sator is a stationary part that contains the armature winding. In an [[synchronous generators|AC generator]] the sator is where the [[electromotive force|EMF]] comes from
 ![[Pasted image 20220204131349.png]]
-Although here the sator is stationary, you can also have it where the sator is the part that rotates.
 
 ### Winding
 
