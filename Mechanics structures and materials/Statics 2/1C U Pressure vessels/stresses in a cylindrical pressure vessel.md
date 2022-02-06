@@ -15,6 +15,7 @@ tags: ["Question","QFormat3"]
 >> $p=$ pressure
 >> $R=$ Radius of vessel
 >> $t=$ vessel wall thickness
+>> $\frac{t}{R}\leq 0.1$
 
 #### $\sigma_{xx}$
 ![[Pasted image 20220206130831.png]]
@@ -25,6 +26,7 @@ tags: ["Question","QFormat3"]
 >> $p=$ pressure
 >> $R=$ Radius of vessel
 >> $t=$ vessel wall thickness
+>> $\frac{t}{R}\leq 0.1$
 
 ### Proof
 For these we will be using [[thin walled pressure vessel assumptions]].
