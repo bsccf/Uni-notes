@@ -16,11 +16,20 @@ tags: ["Question","QFormat3"]
 >> $R=$ Radius of vessel
 >> $t=$ vessel wall thickness
 
-#### $\sigma_{yy}$
+#### $\sigma_{xx}$
 ![[Pasted image 20220206130831.png]]
+
+> ### $$ \sigma_{xx} = \frac{p R}{2 t} $$ 
+>> where:
+>> $\sigma_{xx}=$ stress 
+>> $p=$ pressure
+>> $R=$ Radius of vessel
+>> $t=$ vessel wall thickness
 
 ### Proof
 For these we will be using [[thin walled pressure vessel assumptions]].
+
+#### $\sigma_{yy}$
 
 First we split the cylinder into two halfs:
 
@@ -35,3 +44,11 @@ p(2RL) &= \sigma_{yy} (2tL)\\
 \end{align*}$$
 
 
+#### $\sigma_{xx}$
+![[Pasted image 20220206130831.png]]
+
+$$\begin{align*}
+p(\pi R^{2}) &= \sigma_{xx}(2\pi Rt)\\
+\frac{p\pi R^{2}}{2 \pi Rt}&=\sigma_{xx}\\
+\sigma_{xx} &= \frac{p R}{2 t} 
+\end{align*}$$
