@@ -52,3 +52,5 @@ p(\pi R^{2}) &= \sigma_{xx}(2\pi Rt)\\
 \frac{p\pi R^{2}}{2 \pi Rt}&=\sigma_{xx}\\
 \sigma_{xx} &= \frac{p R}{2 t} 
 \end{align*}$$
+
+^b3611c
