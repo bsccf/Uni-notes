@@ -1,20 +1,20 @@
 ---
-aliases: [""]
+aliases: ["work done"]
 tags: ["Question","QFormat3"]
 ---
 
 #### How do you calculate
-## Work done in dynamics
+## Work done in dynamics ($U$)
 As described in [[Curvilinear motion notes|curvulinear motion]], particles often travel in non strait lines:
 
 ![[Pasted image 20220207121706.png]]
 
 In these cases we can find the work done by a force at a given instant by using the [[dot product]] of the force and its direction of travel:
 
-> ### $$ dE = dr \cdot F $$
-> ### $$ E_{s_1\to s_2} = \int^{s_2}_{s_1}  \underline{F} \cdot \underline{dr} = \int^{s_2}_{s_1}  F \cos(\theta) dr $$ 
+> ### $$ dU = dr \cdot F $$
+> ### $$ U_{s_1\to s_2} = \int^{s_2}_{s_1}  \underline{F} \cdot \underline{dr} = \int^{s_2}_{s_1}  F \cos(\theta) dr $$ 
 >> where:
->> $E=$ work done 
+>> $U=$ work done 
 >> $\underline{F}=$ force [[Scalars and vectors|vector]]
 >> $\underline{r}=$ displacement
 

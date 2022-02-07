@@ -12,4 +12,4 @@ tags: ["NotesPage"]
 ## Expanded articles
 ![[work done in dynamics]]
 
-![[]]
+![[conservative force]]
