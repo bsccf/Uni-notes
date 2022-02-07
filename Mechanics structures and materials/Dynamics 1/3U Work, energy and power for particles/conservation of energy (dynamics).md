@@ -16,4 +16,4 @@ The "energy can't be created or destroyed" thing, when you apply this to particl
 Basically the starting point equation you have already been using for ages, just written in a long way...
 Of course you can apply conservation of energy to systems of particles:
 ![[Pasted image 20220207125258.png]]
-Here the sum of energy before and after are equal... assuming it's a [[closed system]] with no energy transfers across the 
+Here the sum of energy before and after are equal... assuming it's a [[closed system]] with no energy transfers across the [[system boundary]]. (basically you can apply this equation to the thing as a whole and relate the energy states of multiple particles together)

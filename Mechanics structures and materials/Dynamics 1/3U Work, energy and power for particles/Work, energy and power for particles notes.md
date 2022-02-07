@@ -17,3 +17,5 @@ tags: ["NotesPage"]
 ![[work energy principle]]
 
 ![[conservation of energy (dynamics)]]
+
+![[power]]
