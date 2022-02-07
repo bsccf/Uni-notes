@@ -12,10 +12,10 @@ As described in [[Curvilinear motion notes|curvulinear motion]], particles often
 In these cases we can find the work done by a force at a given instant by using the [[dot product]] of the force and its direction of travel:
 
 > ### $$ dE = dr \cdot F $$
-> ### $$ E_{0\to x} = \int^{x}_{0}  F \cdot dr $$ 
+> ### $$ E_{s_1\to s_2} = \int^{s_2}_{s_1}  \underline{F} \cdot \underline{dr} = \int^{s_2}_{s_1}  F \cos(\theta) dr $$ 
 >> where:
 >> $E=$ work done 
->> $F=$ force [[Scalars and vectors|vector]]
->> $r=$ displacement
+>> $\underline{F}=$ force [[Scalars and vectors|vector]]
+>> $\underline{r}=$ displacement
 
-Of course for strait lines where force is constant you 
+Of course for strait lines where force is constant you can use the simpler $E=F(x_{2}-x_{1})$. 
