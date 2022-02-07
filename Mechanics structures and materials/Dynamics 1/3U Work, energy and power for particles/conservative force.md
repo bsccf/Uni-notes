@@ -16,4 +16,6 @@ A force is said to be conservative if the [[work done in dynamics|work done]] is
 >> $\underline{r}=$ displacement
 >> $A,B=$ points in space
 
-We describe the total work done by these forces using potential energy, meaning we can use conservation of energy to evaluate the 
+We describe the total work done by these forces using potential energy, meaning we can use conservation of energy to evaluate the energy state of the particle based on information about it's position.
+
+This also means that for a closed path (where starting point = end point) there will be no net work done by the force since there is no net change in potential energy due to the conservative force.

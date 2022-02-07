@@ -7,9 +7,10 @@ tags: ["NotesPage"]
 
 #### Intro and contents
 - [[work done in dynamics]]
-
+- [[conservative force]]
 
 ## Expanded articles
 ![[work done in dynamics]]
 
 ![[conservative force]]
+
