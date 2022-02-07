@@ -8,7 +8,7 @@ tags: ["Question","QFormat3"]
 Electron drift velocity is the average velocity of the electrons in a area.
 
 #### Calculating it
-We know from [[Electric current|current]] that $A=Q/t$, if we assume a wire has a radius of 0.1cm and it's made of copper (charge carrier density is $\rho_e=8.5*10^{22}cm^{-3}$), then we can calculate the electron's velocity:
+We know from [[electric current|current]] that $A=Q/t$, if we assume a wire has a radius of 0.1cm and it's made of copper (charge carrier density is $\rho_e=8.5*10^{22}cm^{-3}$), then we can calculate the electron's velocity:
 
 we know:
 $$ \frac{electrons}{second} = 1 A = \frac{Q}{t}=\frac{1}{e}$$

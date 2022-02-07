@@ -4,7 +4,7 @@ tags: ["Question","QFormat3"]
 ---
 
 #### What is
-## Conventional [[Electric current|current]]
+## Conventional [[electric current|current]]
 It is the opposite of the actual direction of electron flow, note: [[reason for conventional current existing]].
 
 Important notes:

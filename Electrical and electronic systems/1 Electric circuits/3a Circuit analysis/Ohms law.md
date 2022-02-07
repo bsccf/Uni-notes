@@ -8,7 +8,7 @@ tags: ["Question","QFormat3"]
 > $$ V = IR $$ 
 >> where:
 >> $V=$ [[potential difference|voltage]]
->> $I=$[[Electric current|current]]
+>> $I=$[[electric current|current]]
 >> $R=$[[resistance]]
 
 This is fundemental to well, everything to do with electrisity.
