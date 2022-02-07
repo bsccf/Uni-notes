@@ -19,3 +19,5 @@ tags: ["NotesPage"]
 ![[conservation of energy (dynamics)]]
 
 ![[power]]
+
+![[efficiency]]

@@ -4,7 +4,7 @@ tags: ["Question","QFormat3"]
 ---
 
 #### What is
-## Power
+## Power ($P$)
 
 > ### $$ P = \frac{dU}{dt} = \int \underline{F}\cdot\underline{dv} $$ 
 >> where:
