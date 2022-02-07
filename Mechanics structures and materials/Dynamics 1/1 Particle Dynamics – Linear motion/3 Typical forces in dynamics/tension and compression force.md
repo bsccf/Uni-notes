@@ -1,5 +1,5 @@
 ---
-aliases: ["tension force","compression force","elastice force"]
+aliases: ["tension force","compression force","elastic force"]
 tags: ["Question","QFormat3"]
 ---
 
