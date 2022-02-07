@@ -14,3 +14,4 @@ tags: ["NotesPage"]
 
 ![[conservative force]]
 
+![[work energy principle]]
