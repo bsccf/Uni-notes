@@ -8,6 +8,11 @@ tags: ["NotesPage"]
 #### Intro and contents
 - [[work done in dynamics]]
 - [[conservative force]]
+- [[conservative force]]
+- [[work energy principle]]
+- [[conservation of energy (dynamics)]]
+- [[power]]
+- [[efficiency]]
 
 ## Expanded articles
 ![[work done in dynamics]]

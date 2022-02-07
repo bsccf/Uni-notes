@@ -4,7 +4,7 @@ tags: ["Question","QFormat3"]
 ---
 
 #### What is
-## Efficiency
+## Efficiency ($\eta$)
 A measure of the ratio of useful work done to total work supplied:
 
 > ### $$ \eta = \frac{P_{out}}{P_{in}} $$ 
