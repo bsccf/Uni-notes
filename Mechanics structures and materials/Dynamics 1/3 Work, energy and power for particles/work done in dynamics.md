@@ -18,4 +18,4 @@ In these cases we can find the work done by a force at a given instant by using 
 >> $\underline{F}=$ force [[Scalars and vectors|vector]]
 >> $\underline{r}=$ displacement
 
-Of course for strait lines where force is constant you can use the simpler $E=F(x_{2}-x_{1})$. 
+Of course for strait lines where force is constant you can use the simpler $U=F(x_{2}-x_{1})$. 
