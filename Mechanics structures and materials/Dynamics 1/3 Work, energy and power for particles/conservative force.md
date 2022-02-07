@@ -1,5 +1,5 @@
 ---
-aliases: ["conservative forces"]
+aliases: ["conservative forces","potential energy"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -15,3 +15,5 @@ A force is said to be conservative if the [[work done in dynamics|work done]] is
 >> $\underline{F}=$ force
 >> $\underline{r}=$ displacement
 >> $A,B=$ points in space
+
+We describe the total work done by these forces using potential energy, meaning we can use conservation of energy to evaluate the 
