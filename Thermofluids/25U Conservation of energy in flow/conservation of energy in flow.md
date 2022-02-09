@@ -26,8 +26,9 @@ dE_{0} &= A_{0} dx_{0} \rho_{0}\left(\frac{U_{0}^{2}}{2}  + h_{0} g\right) + PA_
 & & dE &= A dx \rho\left(\frac{U^{2}}{2}  + h g\right) + PA dx
 \end{align*}$$
 
-We can use [[conservation of mass in flow|conservation of mass flow equation]]
+We can then apply conservation of energy between the two points (I'm using $dF$ for frictional losses)
 
 $$\begin{align*}
-U_{0} A_{0} = U A & D
+dE + dF &= dE_{0}\\
+A dx \rho\left(\frac{U^{2}}{2}  + h g\right) + PA dx + dF &= dE_{0} &= A_{0} dx_{0} \rho_{0}\left(\frac{U_{0}^{2}}{2}  + h_{0} g\right) + PA_{0} dx_{0}  &
 \end{align*}$$
