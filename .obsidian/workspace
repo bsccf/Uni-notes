@@ -7,12 +7,8 @@
         "id": "ef7c4208b9e4729a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Thermofluids/25 Conservation of energy in flow/conservation of energy in flow.md",
-            "mode": "source",
-            "source": true
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/25 Conservation of energy in flow/conservation of energy in flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
