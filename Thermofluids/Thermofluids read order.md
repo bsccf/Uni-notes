@@ -30,4 +30,4 @@ tags: ["NotesPage"]
 22) [[Buoyancy and stability notes]]
 23) [[Flow characterisation and visulisation notes]]
 24) [[conservation of mass in flow]]
-25) 
+25) [[conservation of energy in flow notes]]
