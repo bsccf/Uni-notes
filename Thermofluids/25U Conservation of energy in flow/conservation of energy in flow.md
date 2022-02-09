@@ -9,4 +9,4 @@ tags: ["Question","QFormat3"]
 
 Apply "energy can't be created or destroyed" to flow, there you go... you now know the theory!
 
-([[|yes that's it]])
+([[idk stuff|yes that's it]])
