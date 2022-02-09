@@ -23,12 +23,11 @@ Note when applying this equation it is applied to the cross sectional area of th
 >> - no change in total system mass
 >> - constant density fluid (not compressible)
 
-Alternative form for less simple situations:
+Alternative form which is alwayse valid (assuming no mass gets yeeted $E=mc^{2}$ style):
+
 > ### $$ \frac{dm_{system}}{dt} = A_{1} \left(\frac{dx}{dt}\right)_{1} \rho_{1} - A_{2} \left(\frac{dx}{dt}\right)_{2} \rho_{2} $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> (you can figure them out using the proof below, since this probably isn't needed I [[but you went through all the effort to add this message and meme|cba]] to label it properly)
 
 ### Proof
 Given some shape we can define a bunch of equations to describe mass flow:
