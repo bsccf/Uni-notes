@@ -13,13 +13,20 @@ Apply "energy can't be created or destroyed" to flow, there you go... you now kn
 
 ### Equation
 > ### $$ \frac{\rho U_{1}^{2}}{2}  + \rho h_{1} g + P_{1}  =  \frac{\rho U_{2}^{2}}{2}  + \rho h_{2} g+ P_{2} $$
+> ### $$ \frac{\rho U^{2}}{2}  + \rho h g + P  =  constant $$
 > ### $$\frac{\rho }{2}(U_{1}^{2} - U_{2}^{2})  + \rho g(h_{1} - h_{2})  + P_{1} - P_{2} =0 $$ 
 >> where:
 >> $U=$ Magnitude of velocity of fluid 
->> $h=$ height of centre 
->> $P=$
->> $\rho=$
->> $g=$
+>> $h=$ height of centre of area of cross section
+>> $P=$ Pressure
+>> $\rho=$ density
+>> $g=$ gravitational field strength
+>> 
+>> assuming:
+>> - The fluid is non compressible and uniform density
+>> - There are no frictional forces within the pipe
+>> - There is no change of mass within the pipe
+>> - Gravitational field strength is a constant
 
 ### Proof
 
