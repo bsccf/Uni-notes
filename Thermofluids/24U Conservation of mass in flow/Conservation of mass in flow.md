@@ -12,3 +12,10 @@ Basically for most cases (no fancy $E=mc^{2}$ or $\frac{dm}{dt}_{system}\neq 0$)
 
 
 ### Proof
+Given some shape we can define a bunch of equations to describe mass flow:
+![[Pasted image 20220209120434.png]]
+
+The volume in and volume out can be described using:
+$$\begin{align*}
+\frac{dV_{in}}{dt} &= Adx
+\end{align*}$$
