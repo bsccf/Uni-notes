@@ -16,7 +16,7 @@ Apply "energy can't be created or destroyed" to flow, there you go... you now kn
 > ### $$ \frac{\rho U^{2}}{2}  + \rho h g + P  =  constant $$
 > ### $$\frac{\rho }{2}(U_{1}^{2} - U_{2}^{2})  + \rho g(h_{1} - h_{2})  + P_{1} - P_{2} =0 $$ 
 >> where:
->> $U=$ Magnitude of velocity of fluid 
+>> $U=$ Velocity perpendicular to cross section
 >> $h=$ height of centre of area of cross section
 >> $P=$ Pressure
 >> $\rho=$ density
@@ -38,6 +38,8 @@ It's a really [[the flow bit of thermofluids is quite fun|based]] equation tbh.
 ![[Pasted image 20220209183106.png]]
 
 Here I'm using $A_{0}$ as the refrence point and $A$ to represent any cross sectional position, in reality $A_{0}$ is just as arbritry as $A$ and they both can be any cross section of the shape that has stuff flowing through it, I just like these variables [>\_<]. 
+
+(important note: I fucked)
 
 First we define the current potential energy of the fluid at the two points, this consists of it's pressure, gravitational and kinetic energy:
 
