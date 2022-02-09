@@ -17,5 +17,6 @@ Given some shape we can define a bunch of equations to describe mass flow:
 
 The volume in and volume out can be described using:
 $$\begin{align*}
-\frac{dV_{in}}{dt} &= Adx
+\frac{dV_{1}}{dt} &= A_{1} \left(\frac{dx}{dt}\right)_{1} \rho_{1} & \frac{dV_{1}}{dt} &= A_{1} \left(\frac{dx}{dt}\right)_{2} \rho_{1} \\
+\frac{dV_{1}}{dt} &= A_{1} U_{1} \rho_{1} & \frac{dV_{1}}{dt} &= A_{1} U_{2} \rho_{1} 
 \end{align*}$$
