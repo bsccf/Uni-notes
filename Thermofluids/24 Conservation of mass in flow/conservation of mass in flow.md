@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["conservation of mass flow equation"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -10,7 +10,7 @@ Basically for most cases (no fancy $E=mc^{2}$ or $\frac{dm}{dt}_{system}\neq 0$)
 
 ### Equation
 
-Note when applying this equation it is applied to the cross sectional area of the fluid not the pipe, because for a pipe that isn't full the
+Note when applying this equation it is applied to the cross sectional area of the fluid not the pipe, because for a pipe that isn't full these two things arn't the same!
 
 > ### $$ k = U_{1} A_{1} $$
 > ### $$ U_{1} A_{1} = U_{2} A_{2} $$ 
@@ -22,6 +22,13 @@ Note when applying this equation it is applied to the cross sectional area of th
 >> assuming:
 >> - no change in total system mass
 >> - constant density fluid (not compressible)
+
+Alternative form for less simple situations:
+> ### $$ \frac{dm_{system}}{dt} = A_{1} \left(\frac{dx}{dt}\right)_{1} \rho_{1} - A_{2} \left(\frac{dx}{dt}\right)_{2} \rho_{2} $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
 
 ### Proof
 Given some shape we can define a bunch of equations to describe mass flow:
