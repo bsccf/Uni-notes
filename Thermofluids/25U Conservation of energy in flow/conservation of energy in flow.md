@@ -11,6 +11,16 @@ Apply "energy can't be created or destroyed" to flow, there you go... you now kn
 
 ([[idk stuff|yes that's it]])
 
+### Equation
+> ### $$ \frac{\rho U_{1}^{2}}{2}  + \rho h_{1} g + P_{1}  =  \frac{\rho U_{2}^{2}}{2}  + \rho h_{2} g+ P_{2} $$
+> ### $$\frac{\rho }{2}(U_{1}^{2} - U_{2}^{2})  + \rho g(h_{1} - h_{2})  + P_{1} - P_{2} =0 $$ 
+>> where:
+>> $U=$ Magnitude of velocity of fluid 
+>> $h=$ height of centre 
+>> $P=$
+>> $\rho=$
+>> $g=$
+
 ### Proof
 
 ![[Pasted image 20220209183106.png]]
@@ -48,5 +58,5 @@ A \frac{dx}{dt} \rho\left(\frac{U^{2}}{2}  + h g\right) + PA \frac{dx}{dt}  &= A
 A_{0}U_0 \rho\left(\frac{U^{2}}{2}  + h g\right) + PA_{0}U_0  &= A_{0} U_0 \rho\left(\frac{U_{0}^{2}}{2}  + h_{0} g\right) + P_{0} A_{0} U_{0}\\
  \rho\left(\frac{U^{2}}{2}  + h g\right) + P  &=  \rho\left(\frac{U_{0}^{2}}{2}  + h_{0} g\right) + P_{0} \\
 \frac{\rho U^{2}}{2}  + \rho h g + P  &=  \frac{\rho U_{0}^{2}}{2}  + \rho h_{0} g+ P_{0} \\
-\frac{\rho }{2}(U^{2} - U_{0}^{2})  + \rho g(h - h_{0})  + P - P_{0} &=  \frac{\rho U_{0}^{2}}{2} 
+\frac{\rho }{2}(U^{2} - U_{0}^{2})  + \rho g(h - h_{0})  + P - P_{0} &=0
 \end{align*}$$

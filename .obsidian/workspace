@@ -11,7 +11,7 @@
           "state": {
             "file": "Thermofluids/25U Conservation of energy in flow/conservation of energy in flow.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       }
