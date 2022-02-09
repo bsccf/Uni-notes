@@ -33,4 +33,14 @@ dE + dF &= dE_{0}\\
 A dx \rho\left(\frac{U^{2}}{2}  + h g\right) + PA dx + dF &= A_{0} dx_{0} \rho_{0}\left(\frac{U_{0}^{2}}{2}  + h_{0} g\right) + PA_{0} dx_{0}\\
 \end{align*}$$
 
-This is becomeing nasty quickly and I haven't even subbed in [[conservation of mass in flow#^4e4ed8]], so instead of a version that's valid for variable density ect I am going to be using the 
+This is becomeing nasty quickly and I haven't even subbed in [[conservation of mass in flow#^4e4ed8]], so instead of a version that's valid for variable density ect I am going to be using the following assumptions from here on:
+- The fluid is non compressible and uniform density
+- There are no frictional forces within the pipe
+- There is no change of mass within the pipe
+
+Now lets use the [[conservation of mass in flow#^90d47a|non cancerous version of the conservation of mass formula thing]] and other stuff:
+
+$$\begin{align*}
+A dx \rho\left(\frac{U^{2}}{2}  + h g\right) + PA dx + dF &= A_{0} dx_{0} \rho_{0}\left(\frac{U_{0}^{2}}{2}  + h_{0} g\right) + PA_{0} dx_{0}\\
+A dx \rho\left(\frac{U^{2}}{2}  + h g\right) + PA dx &= A_{0} dx_{0} \rho_{0}\left(\frac{U_{0}^{2}}{2}  + h_{0} g\right) + PA_{0} dx_{0}
+\end{align*}$$

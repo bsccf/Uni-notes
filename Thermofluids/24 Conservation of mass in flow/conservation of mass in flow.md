@@ -23,6 +23,8 @@ Note when applying this equation it is applied to the cross sectional area of th
 >> - no change in total system mass
 >> - constant density fluid (not compressible)
 
+^90d47a
+
 Alternative form which is alwayse valid (assuming no mass gets yeeted $E=mc^{2}$ style):
 
 > ### $$ \frac{dm_{system}}{dt} = A_{1} \left(\frac{dx}{dt}\right)_{1} \rho_{1} - A_{2} \left(\frac{dx}{dt}\right)_{2} \rho_{2} $$ 
