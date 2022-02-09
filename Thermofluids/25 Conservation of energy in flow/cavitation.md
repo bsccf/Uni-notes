@@ -15,6 +15,7 @@ We know from [[conservation of energy in flow|conservation of energy in flow equ
 >> $P_{local}=$ pressure
 >> $P_{v}=$ [[vapor pressure]]
 >> $U=$ flow speed
+>> $Ca=$ something to do with cavitation likelyhood
 
 ### Description
 Simply put cavitation is: "Drop in pressure from flow narrowing causes liquid to vaporise exploding, then pressure increase causes implosion", now heres something that's really unituitive... a shit tone of micro explosions and implosions in rapid succession aint good for machines, so the vast majority of the time cavitation just acts as another way for the universe to destroy our hard work [[enjoy bitch|:D]] ! 
