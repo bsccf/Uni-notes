@@ -1,5 +1,5 @@
 ---
-aliases: ["conservation of mass flow equation"]
+aliases: ["conservation of mass flow equation","area flow rate equation"]
 tags: ["Question","QFormat3"]
 ---
 

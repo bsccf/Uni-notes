@@ -10,7 +10,7 @@ tags: ["NotesPage"]
 
 
 ## Expanded articles
-![[conservation of energy flow]]
+![[conservation of energy in flow]]
 
 ![[Bernouillis equation]]
 
