@@ -17,10 +17,11 @@ Apply "energy can't be created or destroyed" to flow, there you go... you now kn
 
 Here I'm using $A_{0}$ as the refrence point and $A$ to represent any cross sectional position, in reality $A_{0}$ is just as arbritry as $A$ and they both can be any cross section of the shape that has stuff flowing through it, I just like these letters [>\_<]. 
 
-[[pressure volume work]]
 
 $$\begin{align*}
-dW_{0} &= dV_{0} dP_{0}\\
-dW_{0} &= dx_{0} A_{0} dP_{0}
+
+dE_{0} = \frac{1}{2}dm_{0} U_{0}^{2}\\
+dE_{0} = \frac{1}{2} A_{0} dA_{0} U_{0}^{2} 
+
 \end{align*}$$
 
