@@ -28,6 +28,8 @@ Apply "energy can't be created or destroyed" to flow, there you go... you now kn
 >> - There is no change of mass within the pipe
 >> - Gravitational field strength is a constant
 
+This equation can be used to prove [[pressure (hydrostatics)]], all you do is let $U=0$
+
 ### Proof
 
 ![[Pasted image 20220209183106.png]]
