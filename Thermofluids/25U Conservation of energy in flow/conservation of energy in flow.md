@@ -30,5 +30,7 @@ We can then apply conservation of energy between the two points (I'm using $dF$ 
 
 $$\begin{align*}
 dE + dF &= dE_{0}\\
-A dx \rho\left(\frac{U^{2}}{2}  + h g\right) + PA dx + dF &= dE_{0} &= A_{0} dx_{0} \rho_{0}\left(\frac{U_{0}^{2}}{2}  + h_{0} g\right) + PA_{0} dx_{0}  &
+A dx \rho\left(\frac{U^{2}}{2}  + h g\right) + PA dx + dF &= A_{0} dx_{0} \rho_{0}\left(\frac{U_{0}^{2}}{2}  + h_{0} g\right) + PA_{0} dx_{0}\\
 \end{align*}$$
+
+This is becomeing nasty quickly and I haven't even subbed in [[conservation of mass in flow#^4e4ed8]], so instead of a version that's valid for variable density ect I am going to be using the 

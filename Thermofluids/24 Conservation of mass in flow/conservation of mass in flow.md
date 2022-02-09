@@ -29,6 +29,8 @@ Alternative form which is alwayse valid (assuming no mass gets yeeted $E=mc^{2}$
 >> where:
 >> (you can figure them out using the proof below, since this probably isn't needed I [[but you went through all the effort to add this message and meme|cba]] to label it properly)
 
+^4e4ed8
+
 ### Proof
 Given some shape we can define a bunch of equations to describe mass flow:
 ![[Pasted image 20220209120434.png]]
