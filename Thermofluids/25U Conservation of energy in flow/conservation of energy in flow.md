@@ -42,5 +42,7 @@ Now lets use the [[conservation of mass in flow#^90d47a|non cancerous version of
 
 $$\begin{align*}
 A dx \rho\left(\frac{U^{2}}{2}  + h g\right) + PA dx + dF &= A_{0} dx_{0} \rho_{0}\left(\frac{U_{0}^{2}}{2}  + h_{0} g\right) + PA_{0} dx_{0}\\
-A dx \rho\left(\frac{U^{2}}{2}  + h g\right) + PA dx &= A_{0} dx_{0} \rho_{0}\left(\frac{U_{0}^{2}}{2}  + h_{0} g\right) + PA_{0} dx_{0}
+A dx \rho\left(\frac{U^{2}}{2}  + h g\right) + PA dx  &= A_{0} dx_{0} \rho\left(\frac{U_{0}^{2}}{2}  + h_{0} g\right) + PA_{0} dx_{0}\\
+A \frac{dx}{dt} \rho\left(\frac{U^{2}}{2}  + h g\right) + PA \frac{dx}{dt}  &= A_{0} \frac{dx_{0}}{dt} \rho\left(\frac{U_{0}^{2}}{2}  + h_{0} g\right) + PA_{0} \frac{dx_{0}}{dt}\\
+A \frac{dx}{dt} \rho\left(\frac{U^{2}}{2}  + h g\right) + PA \frac{dx}{dt}  &= A_{0} \frac{dx_{0}}{dt} \rho\left(\frac{U_{0}^{2}}{2}  + h_{0} g\right) + PA_{0} U_0
 \end{align*}$$
