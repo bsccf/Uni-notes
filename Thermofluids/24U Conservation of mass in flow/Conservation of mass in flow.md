@@ -10,12 +10,18 @@ Basically for most cases (no fancy $E=mc^{2}$ or $\frac{dm}{dt}_{system}\neq 0$)
 
 ### Equation
 
+Note when applying this equation it is applied to the cross sectional area of the fluid not the pipe, because for a pipe that isn't full the
+
 > ### $$ k = U_{1} A_{1} $$
 > ### $$ U_{1} A_{1} = U_{2} A_{2} $$ 
 >> where:
 >> $k=$ a constant
->> $U_{x}=$ Velo 
->> $A_{x}=$
+>> $U_{x}=$ Flow velocity across a given cross section 
+>> $A_{x}=$ Cross sectional area of flowing fluid
+>> 
+>> assuming:
+>> - no change in total system mass
+>> - constant density fluid (not compressible)
 
 ### Proof
 Given some shape we can define a bunch of equations to describe mass flow:
