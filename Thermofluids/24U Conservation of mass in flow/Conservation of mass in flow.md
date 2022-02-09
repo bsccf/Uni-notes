@@ -35,5 +35,9 @@ Now if we assume that the fluids density is constant (it's not compressible) and
 
 $$\begin{align*}
 0 &= A_{1} U_{1} \rho + A_{2} U_{2} \rho \\
--A_{2} U_{2}  &= A_{1} U_{1} \\
+-A_{2} U_{2} &= A_{1} U_{1} \\
 \end{align*}$$
+
+Now since the $A_{1}$ and $U_{2}$ are constant we can also express this as:
+
+$$ k = AU $$
