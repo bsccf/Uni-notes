@@ -10,6 +10,11 @@ Basically for most cases (no fancy $E=mc^{2}$ or $\frac{dm}{dt}_{system}\neq 0$)
 
 ### Equation
 
+> ### $$ k = $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
 
 ### Proof
 Given some shape we can define a bunch of equations to describe mass flow:
@@ -38,6 +43,8 @@ $$\begin{align*}
 -A_{2} U_{2} &= A_{1} U_{1} \\
 \end{align*}$$
 
-Now since the $A_{1}$ and $U_{2}$ are constant we can also express this as:
+Now since the $A_{1}$ and $U_{1}$ are constant we can also express this as:
 
 $$ k = AU $$
+
+So if we can find the flow rate or cross section at any point in the pipe if we know it at one point.
