@@ -10,14 +10,16 @@ We know from [[conservation of energy in flow|conservation of energy in flow equ
 
 ### Equation
 
-> ### $$ Ca = P_local $$ 
+> ### $$ Ca = 2\frac{P_{local}-P_{v}}{\rho U^{2}} $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $P_{local}=$ pressure
+>> $P_{v}=$ [[vapor pressure]]
+>> $U=$ flow speed
 
 ### Description
 Simply put cavitation is: "Drop in pressure from flow narrowing causes liquid to vaporise exploding, then pressure increase causes implosion", now heres something that's really unituitive... a shit tone of micro explosions and implosions in rapid succession aint good for machines, so the vast majority of the time cavitation just acts as another way for the universe to destroy our hard work [[enjoy bitch|:D]] ! 
+
+![[Pasted image 20220209200737.png]]
 
 It is important to consider that although most of the time when working with these concepts and equations we picutre pipes, we are really describing the flow channel thing, so any narrowing caused by propeller/turbine blades or even surrounding fluid flow can cause cavitation:
 ![[Pasted image 20220209200046.png]]
