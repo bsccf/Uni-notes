@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["conservation of energy in flow equation"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -27,6 +27,8 @@ Apply "energy can't be created or destroyed" to flow, there you go... you now kn
 >> - There are no frictional forces within the pipe
 >> - There is no change of mass within the pipe
 >> - Gravitational field strength is a constant
+
+^4479a0
 
 This equation can be used to prove [[pressure (hydrostatics)]] quite easily.
 It's a really [[the flow bit of thermofluids is quite fun|based]] equation tbh.

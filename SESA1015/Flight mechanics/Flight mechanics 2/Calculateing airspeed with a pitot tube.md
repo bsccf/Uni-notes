@@ -9,7 +9,7 @@ tags: ["Question","QFormat3","SESA1015"]
 
 $\Delta h$ can be used to determin the pressure difference between $p$ and $p_0$.
 
-Using [[Bernouillis Equation]] we know the difference between the pitot pressure and the static pressure is:
+Using [[Bernouillis equation]] we know the difference between the pitot pressure and the static pressure is:
 
 $$ p_0 - p = \frac{1}{2} \rho V^2 $$
 

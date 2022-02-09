@@ -12,4 +12,4 @@ tags: ["NotesPage"]
 ## Expanded articles
 ![[conservation of energy in flow]]
 
-![[ben]]
+![[Bernouillis equation]]
