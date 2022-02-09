@@ -39,7 +39,7 @@ It's a really [[the flow bit of thermofluids is quite fun|based]] equation tbh.
 
 Here I'm using $A_{0}$ as the refrence point and $A$ to represent any cross sectional position, in reality $A_{0}$ is just as arbritry as $A$ and they both can be any cross section of the shape that has stuff flowing through it, I just like these variables [>\_<]. 
 
-(important note: I fucked)
+(important note: I fucked up the diagram, the axis shown is wrong $x$ and hence flow rate should be taken perpendicular to the cross section, hence for cross sections not at normal to the direction of flow you need to take the relevant component of the flow rate!)
 
 First we define the current potential energy of the fluid at the two points, this consists of it's pressure, gravitational and kinetic energy:
 
