@@ -35,7 +35,7 @@ It's a really [[the flow bit of thermofluids is quite fun|based]] equation tbh.
 
 ![[Pasted image 20220209183106.png]]
 
-Here I'm using $A_{0}$ as the refrence point and $A$ to represent any cross sectional position, in reality $A_{0}$ is just as arbritry as $A$ and they both can be any cross section of the shape that has stuff flowing through it, I just like these letters [>\_<]. 
+Here I'm using $A_{0}$ as the refrence point and $A$ to represent any cross sectional position, in reality $A_{0}$ is just as arbritry as $A$ and they both can be any cross section of the shape that has stuff flowing through it, I just like these variables [>\_<]. 
 
 First we define the current potential energy of the fluid at the two points, this consists of it's pressure, gravitational and kinetic energy:
 
