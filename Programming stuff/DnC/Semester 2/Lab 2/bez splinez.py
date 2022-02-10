@@ -124,7 +124,7 @@ class BezCurve:
 
         this.updateRange()
 
-        SAMPLES = 500
+        SAMPLES = 300
         increment = (this.maxX-this.minX)/SAMPLES
         
         t = 0
@@ -262,11 +262,12 @@ y = Shape()
 y.addPoint(1,1)
 y.addPoint(2.2,3)
 y.addPoint(3,1)
+y.addPoint(5,1)
 y.addPoint(2,0)
 
 y.render()
-
 """
+
 x = SplineGroup( 0, 0, 1, 1 )
 x.bezCurves[0].points[1] = [0.3, 0.8]
 
@@ -280,41 +281,18 @@ x.connectAllSplinesCont()
 
 x.render()
 
-tmp = BezCurve( 25 )
+tmp = BezCurve( 4 )
 
 
 tmp.setPoint( 0, 6, 4 )
 
-tmp.setWeight( 1, 2 )
-
 tmp.setPoint( 1, 6, 2 )
 tmp.setPoint( 2, 4, 2 )
-tmp.setPoint( 3, 2, 2 )
-tmp.setPoint( 4, 2, 4 )
-tmp.setPoint( 5, 2, 6)
-tmp.setPoint( 6, 4, 6)
-tmp.setPoint( 7, 6, 6)
-tmp.setPoint( 8, 6, 4)
-
-tmp.setPoint( 9, 7, 4)
-tmp.setPoint( 10, 8, 4)
-tmp.setPoint( 11, 9, 1)
-tmp.setPoint( 12, 10, 4)
-tmp.setPoint( 13, 11, 1)
-tmp.setPoint( 14, 12, 4)
-tmp.setPoint( 15, 13, 4)
-tmp.setPoint( 16, 14, 4)
-tmp.setPoint( 17, 14, 6)
-tmp.setPoint( 18, 16, 6)
-tmp.setPoint( 19, 18, 6)
-tmp.setPoint( 20, 18, 4)
-tmp.setPoint( 21, 18, 2)
-tmp.setPoint( 22, 16, 2)
-tmp.setPoint( 23, 14, 2)
-tmp.setPoint( 24, 14, 4)
+tmp.setPoint( 3, 3, 6 )
 
 
 
 tmp.render()
+"""
+print("")
 
-print("")"""
