@@ -11,3 +11,5 @@ tags: ["NotesPage"]
 
 ## Expanded articles
 ![[basic DC generator]]
+
+![[DC generator with many coils]]

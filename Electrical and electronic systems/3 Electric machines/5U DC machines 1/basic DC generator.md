@@ -14,4 +14,4 @@ A DC generator basically works the same way, except instead of 2 slip rings ther
 
 The cut is made in a way so that the contacts reverse at the instant the current changes directions, hence AC becomes DC. The ring cannot be called a [[slip ring]] anymore, it is a [[commutator]].
 
-Of course even with the currents direction corrected, the magnitude of [[electromotive force|EMF]] still follows a sin wave in the form $E=|\sin t|$
+Of course even with the currents direction corrected, the magnitude of [[electromotive force|EMF]] still follows a sin wave in the form $E=k|\sin t|$ which makes for a pretty shitty waveform for most applications, this is where a [[DC generator with many coils]] comes in.
