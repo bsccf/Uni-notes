@@ -39,4 +39,4 @@ provided notes [[Electric Machines - notes(1).pdf]]
 3) [[AC generators and stuff notes]]
 4) 
 5) [[DC machines 1 notes]]
-6) 
+6) [[DC machines 2 notes]]
