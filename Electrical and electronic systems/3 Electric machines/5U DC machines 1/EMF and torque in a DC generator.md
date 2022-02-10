@@ -10,4 +10,13 @@ Just like with [[synchronous generators|AC generators]] the current is produced 
 
 ![[Pasted image 20220210181948.png]]
 
-I'm not going to write out the maths but for a single coil of wire $EMF \propto sin\alpha$ 
+I'm not going to write out the maths, but for a single coil of wire $EMF \propto sin\alpha$ hence as it rotates the magnitude of the emf in the coil changes (this is where [[DC generator with many coils|DC generators with many coils]] come in).
+
+### The equation
+
+
+> ### $$ E = K_{E} \omega $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$ [[EMF constant (DC generator)]]
