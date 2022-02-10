@@ -9,8 +9,8 @@ Basically you know everything that was covered in [[DC machines 1 notes]], well 
 
 > ### $$ T = K_{E} $$ 
 >> where:
->> $=$ 
+>> $T=$ torq 
 >> $=$
 >> $K_{E}=$ [[EMF constant (DC generator)|EMF constant]]
 
-(The slides show another constant called the torque constant ($K_{T}$, but instantly prooves that $K_{T}=K_{E}$ so why the fuck does it even exist?!? Until it's exsistance gets justified I'ma pretend it doesn't exist)
+(The slides show another constant called the torque constant ($K_{T}$, but instantly prooves that $K_{T}=K_{E}$ so why the fuck does it even exist?!? Until it's exsistance gets justified I'ma pretend it doesn't exist [[UNFINISHED LIGHT (tm)|UNFINISHED (LIGHT)]])
