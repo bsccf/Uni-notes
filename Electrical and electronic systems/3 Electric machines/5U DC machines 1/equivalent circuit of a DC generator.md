@@ -6,6 +6,8 @@ tags: ["Question","QFormat3"]
 #### What is
 ## Equivalent circuit of a DC generator
 ### General equivalent circuit
+Here we place a resistor and [[inductor]] in series with 
+
 ![[Pasted image 20220210183324.png]]
 
 We can get the EMF from [[EMF and torque in a DC generator#^9a26aa]]
@@ -16,7 +18,10 @@ We can get the EMF from [[EMF and torque in a DC generator#^9a26aa]]
 >> $K_{E}=$ [[EMF constant (DC generator)|EMF constant]] 
 >> $\omega=$ angular velocity
 >> $i=$ current
->> $R_{a}=$ resist 
+>> $R_{a}=$ [[armature resistance]]  
+>> $L_{a}=$ [[armature inductance]]
+
+[[inductance]]
 
 ### Constant current eq circuit
 ![[Pasted image 20220210183351.png]]
