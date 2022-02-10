@@ -20,3 +20,5 @@ This equation gives you the emf production from a DC generator (note it does not
 >> $E=$ [[electromotive force|EMF]] from generator
 >> $\omega=$ angular velocity (rad/sec)
 >> $K_{E}=$ [[EMF constant (DC generator)]]
+
+^9a26aa
