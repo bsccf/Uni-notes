@@ -13,3 +13,5 @@ tags: ["NotesPage"]
 ![[basic DC generator]]
 
 ![[DC generator with many coils]]
+
+![[EMF and torque in a DC generator]]

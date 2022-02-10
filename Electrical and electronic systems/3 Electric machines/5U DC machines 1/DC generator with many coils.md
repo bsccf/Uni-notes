@@ -16,4 +16,6 @@ The brushes will alwayse be in contact with atleast one coil, ontop of that the 
 
 ![[Pasted image 20220210174216.png]]
 
-As you can see although it is still bumpy it is a lot more stable than a single coiled DC generator, as you increase the 
+As you can see although it is still bumpy it is a lot more stable than a single coiled DC generator, as you increase the coil count you get a increasingly stable waveform, hence it is common for DC generators to have way more than 3:
+![[Pasted image 20220210174417.png]]
+
