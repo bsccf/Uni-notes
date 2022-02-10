@@ -17,6 +17,6 @@ I'm not going to write out the maths, but for a single coil of wire $EMF \propto
 
 > ### $$ E = K_{E} \omega $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$ [[EMF constant (DC generator)]]
+>> $E=$ [[electromotive force|EMF]] from generator
+>> $\omega=$ angular velocity (rad/sec)
+>> $K_{E}=$ [[EMF constant (DC generator)]]
