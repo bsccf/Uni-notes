@@ -5,4 +5,4 @@ tags: ["Question","QFormat3"]
 
 #### Describe a
 ## DC generator with many coils
-Basically the same as a [[basic DC generator|DC generator with one coil]] except well... you have more than one coil... ([[insert |it's kinda in the name]])
+Basically the same as a [[basic DC generator|DC generator with one coil]] except well... you have more than one coil... ([[insert insulting comment about your intelligence and or something insulting your mother|it's kinda in the name]])
