@@ -7,3 +7,5 @@ tags: ["Question","QFormat3"]
 ## EMF and torque in a DC generator
 ### The physics
 Just like with [[synchronous generators|AC generators]] the current is produced due to the [[Lorentz's force law|lorentz force]]
+
+The verticle component of the force can be defined as $F_{V} = $
