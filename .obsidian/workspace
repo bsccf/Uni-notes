@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/3 Electric machines/5U DC machines 1/EMF and torque in a DC generator.md",
+            "file": "Electrical and electronic systems/3 Electric machines/1 Intro to AC machines/faraday's law.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/3 Electric machines/5U DC machines 1/EMF and torque in a DC generator.md",
+                "file": "Electrical and electronic systems/3 Electric machines/1 Intro to AC machines/faraday's law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,7 @@
   },
   "active": "ef7c4208b9e4729a",
   "lastOpenFiles": [
+    "Electrical and electronic systems/3 Electric machines/1 Intro to AC machines/faraday's law.md",
     "Electrical and electronic systems/3 Electric machines/5U DC machines 1/EMF and torque in a DC generator.md",
     "Electrical and electronic systems/3 Electric machines/5U DC machines 1/DC machines 1 notes.md",
     "Electrical and electronic systems/3 Electric machines/5U DC machines 1/DC generator with many coils.md",
@@ -123,7 +124,6 @@
     "Electrical and electronic systems/3 Electric machines/5U DC machines 1/slip ring.md",
     "Electrical and electronic systems/3 Electric machines/5U DC machines 1/commutator.md",
     "Electrical and electronic systems/Electrical read order.md",
-    "Electrical and electronic systems/3 Electric machines/3U AC Generators and stuff/AC generators and stuff notes.md",
-    "Thermofluids/25 Conservation of energy in flow/conservation of energy in flow.md"
+    "Electrical and electronic systems/3 Electric machines/3U AC Generators and stuff/AC generators and stuff notes.md"
   ]
 }

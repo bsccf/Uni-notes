@@ -8,4 +8,7 @@ tags: ["Question","QFormat3"]
 ### The physics
 Just like with [[synchronous generators|AC generators]] the current is produced due to [[faraday's law]]
 
-The verticle component of the force can be defined as $F_{V} = F\sin\alpha$ and we know that $\omega = $
+The verticle component of the force can be defined as $F_{V} = F\sin\alpha$ and :
+$$\begin{align*}
+F_{V} &= F\sin\alpha & \omega &= \frac{d\alpha}{dt}
+\end{align*}$$
