@@ -15,3 +15,5 @@ tags: ["NotesPage"]
 ![[DC generator with many coils]]
 
 ![[EMF and torque in a DC generator]]
+
+![[equivalent circuit of a DC generator]]
