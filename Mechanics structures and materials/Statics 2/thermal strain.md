@@ -17,14 +17,16 @@ It should be noted that since thermal strains are equal in all directions, if a 
 >> $L_{ref}=$ Original unstrained length
 >> $\alpha=$ [[coefficient of thermal expansion]]
 >> $T=$ Temp
->> $T_ref=$ $L_ref$'s temperature
+>> $T_{ref}=$ temperature $L_{ref}$ was taken at
 
 I prefer to write it this way:
 
 > ### $$ L_{0} = \alpha(T-T_{ref})L_{ref} $$ 
 >> where:
->> $L_{0}=$ unstrained length 
+>> $L_{0}=$ current unstrained length 
 >> $L_{ref}=$ Original unstrained length
 >> $\alpha=$ [[coefficient of thermal expansion]]
->> $T=$ Temp
->> $T_ref=$ $L_ref$'s temperature
+>> $T=$ current temp
+>> $T_{ref}=$ temperature $L_{ref}$ was taken at
+
+Since it's clearer.
