@@ -9,6 +9,6 @@ tags: ["Question","QFormat3"]
 
 > ### $$ \gamma = \frac{\Delta S}{H_{0}} $$ 
 >> where:
->> $=$ 
+>> $\gamma=$ [[shear strain]] 
 >> $=$
 >> $=$
