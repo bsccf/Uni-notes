@@ -10,9 +10,10 @@ tags: ["Question","QFormat3"]
 
 > ### $$ \gamma_{xy} = \alpha + \beta = \frac{du_{x}}{dy} + \frac{du_{y}}{dx} $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $\gamma_{xy}=$ [[shear strain]] 
+>> $\alpha,\beta$ are small
+
+Negative [[shear strain]] corresponds to an increase in the angle between x+ and y+ while a positive corresponds to a decrease.
 
 ### Explenation
 Basically the same as [[local strain]] but considering [[shear strain]] instead:

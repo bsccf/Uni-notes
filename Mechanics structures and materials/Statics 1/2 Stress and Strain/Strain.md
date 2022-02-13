@@ -5,6 +5,7 @@ tags: ["Question","QFormat3"]
 
 #### What's
 ## Strain
+Note that for non uniform strains
 
 This is the ratio of extention compared to origional length.
 

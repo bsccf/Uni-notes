@@ -5,6 +5,8 @@ tags: ["Question","QFormat3"]
 
 #### What is
 ## Shear strain ($\gamma$)
+Note that for non uniform shear strain [[local shear strain]] should be used.
+
 For a square element:
 
 ![[Pasted image 20220213103026.png]]
