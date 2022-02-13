@@ -19,6 +19,8 @@ $$\begin{align*}
 Now if we want some measure of volumetric strain, we can use these strains to calculate that:
 
 $$\begin{align*}
-\varepsilon_{V} &= \frac{\Delta V}{V_{0}} & V_{0} = L_{x0} L_{y0} L_{z0}\\
-& 
+\varepsilon_{V} &= \frac{\Delta V}{V_{0}} & V_{0} &= L_{x0} L_{y0} L_{z0}\\
+ &= \frac{ V - V_{0} }{L_{x0} L_{y0} L_{z0}}\\
+& = \frac{ V - L_{x0} L_{y0} L_{z0} }{L_{x0} L_{y0} L_{z0}} & V &= ( L_{x0} + \Delta L_{x})( L_{y0} + \Delta L_{y})( L_{z0} + \Delta L_{z})\\
+& & &= ( L_{x0} + \Delta L_{x})( L_{y0} + \Delta L_{y})( L_{z0} + \Delta L_{z})
 \end{align*}$$
