@@ -11,4 +11,6 @@ tags: ["NotesPage"]
 
 
 ## Expanded articles
+![[shear strain]]
 
+![[local shear strain]]

@@ -15,10 +15,14 @@ tags: ["Question","QFormat3"]
 
 Negative [[shear strain]] corresponds to an increase in the angle between x+ and y+ while a positive corresponds to a decrease.
 
+It is _important_ to note that $\varepsilon_{xy}\neq \gamma_{xy}$ and is instead defined in the following:
+
+![[Pasted image 20220213105822.png]]
+
 > ### $$ \varepsilon_{xy} = \frac{1}{2} \gamma{xy} = \frac{1}{2}\left(\frac{du_{x}}{dy} + \frac{du_{y}}{dx}\right) $$ 
 >> where:
 >> $\varepsilon_{xy}=$ angular deformation of each face symmetric with respect to the diagonal 
->> $=$
+>> $\gamma_{xy}=$ [[shear strain]] 
 
 ### Explenation
 Basically the same as [[local strain]] but considering [[shear strain]] instead:
