@@ -38,3 +38,5 @@ Another form (more useable):
 >> $N=$ identical turns of the wire
 >> $B=$
 >> $L=$
+
+[[UNFINISHED STUFF]]

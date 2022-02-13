@@ -133,7 +133,7 @@ def floatInp( message ):
 
 
 lt = "O"
-dt = "-"
+dt = " "
 
 tmp = CGL( 40, 80 )
 tmp.print(lt, dt);

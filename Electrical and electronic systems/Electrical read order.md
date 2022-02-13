@@ -36,7 +36,7 @@ There is honestly too much to write and research rn, like wtf. I'll finish these
 provided notes [[Electric Machines - notes(1).pdf]]
 
 1) [[Intro to AC machines notes]]
-3) [[AC generators and stuff notes]]
+3) [[AC generators and stuff notes]] [[UNFINISHED STUFF]] FILL IN GAPS BASED ON E NOTES
 4) 
-5) [[DC machines 1 notes]]
-6) [[DC machines 2 notes]]
+5) [[DC machines 1 notes]] FILL IN GAPS BASED ON E NOTES
+6) [[DC machines 2 notes]] FILL IN GAPS BASED ON E NOTES
