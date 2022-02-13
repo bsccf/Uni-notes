@@ -12,8 +12,13 @@ If we consider some material element, and define it's strain in 3D:
 
 We can get it's strain in the x,y,z directions:
 
-> ### $$ <% tp.file.cursor(1) %> = $$ 
->> where:
->> $=$ 
->> $=$
->> $=$
+$$\begin{align*}
+\varepsilon_{xx} &= \frac{\Delta L_{x}}{L_{x0}} & \varepsilon_{yy} &= \frac{\Delta L_{y}}{L_{y0}} & \varepsilon_{zz} &= \frac{\Delta L_{z}}{L_{z0}} 
+\end{align*}$$
+
+Now if we want some measure of volumetric strain, we can use these strains to calculate that:
+
+$$\begin{align*}
+\varepsilon_{V} &= \frac{\Delta V}{V_{0}} & V_{0} = L_{x0} L_{y0} L_{z0}\\
+& 
+\end{align*}$$
