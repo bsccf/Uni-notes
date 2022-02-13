@@ -21,7 +21,7 @@ It should be noted that since thermal strains are equal in all directions, if a 
 
 I prefer to write it this way:
 
-> ### $$ L_{0} = \alpha(T-T_{ref})L_{ref} $$ 
+> ### $$ L_{0} = L_{ref}(1+\alpha(T-T_{ref})) $$ 
 >> where:
 >> $L_{0}=$ current unstrained length 
 >> $L_{ref}=$ Original unstrained length
