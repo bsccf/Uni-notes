@@ -22,5 +22,7 @@ $$\begin{align*}
 \varepsilon_{V} &= \frac{\Delta V}{V_{0}} & V_{0} &= L_{x0} L_{y0} L_{z0}\\
  &= \frac{ V - V_{0} }{L_{x0} L_{y0} L_{z0}}\\
 & = \frac{ V - L_{x0} L_{y0} L_{z0} }{L_{x0} L_{y0} L_{z0}} & V &= ( L_{x0} + \Delta L_{x})( L_{y0} + \Delta L_{y})( L_{z0} + \Delta L_{z})\\
-& & &= ( L_{x0} + \Delta L_{x})( L_{y0} + \Delta L_{y})( L_{z0} + \Delta L_{z})
+& & &= L_{x0}L_{y0}L_{z0}( 1 + \varepsilon_{xx})( 1 + \varepsilon_{yy})( 1 + \varepsilon_{zz})\\
+& & &= L_{x0}L_{y0}L_{z0}( \varepsilon_{xx} + \varepsilon_{zz} + \varepsilon_{yy} \varepsilon_{xx}\varepsilon_{yy} + \varepsilon_{xx}\varepsilon_{zz} + \varepsilon_{yy}\varepsilon_{zz} + ... )\\
+&& & \varepsilon\:is\:small\:\therefore\varepsilon\varepsilon\
 \end{align*}$$
