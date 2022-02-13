@@ -3,10 +3,10 @@ aliases: [""]
 tags: ["NotesPage"]
 ---
 
-# <% tp.file.title.charAt(0).toUpperCase() + tp.file.title.slice(1)%>
+# Shear strain in multiple directions notes
 
 #### Intro and contents
-- [[shear strains effect on volume]]
+- [[shear strain]]
 
 
 ## Expanded articles

@@ -5,7 +5,7 @@ tags: ["Question","QFormat3"]
 
 #### What is the
 ## Shear modulus ($G$)
-This is basically the [[youngs modulus]] of a material for relating shear stress and shear strain. It can be found using [[poisson's ratio]]:
+This is basically the [[youngs modulus]] of a material for relating shear stress and [[shear strain]]. It can be found using [[poisson's ratio]]:
 
 > ### $$ G = \frac{E}{2(1+\nu)} $$ 
 >> where:

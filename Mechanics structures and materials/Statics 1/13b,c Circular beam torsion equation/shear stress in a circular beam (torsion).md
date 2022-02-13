@@ -38,7 +38,7 @@ But so far we have been focusing on the outermost surface of the cylinder, this 
 
 ![[Pasted image 20211207125733.png]]
 
-You can clearly see that shear strain will increase as r increases (left image), since stress and strain are proportional, strain will hence increase proportionally with r (right image).
+You can clearly see that [[shear strain]] will increase as r increases (left image), since stress and strain are proportional, strain will hence increase proportionally with r (right image).
 Hence we can simply replace $R$ (radius of cylinder) with $r$ (any position along the radius of the beam):
 
 $$\begin{align*}
