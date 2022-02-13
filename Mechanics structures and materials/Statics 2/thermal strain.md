@@ -15,5 +15,14 @@ It should be noted that since thermal strains are equal in all directions, if a 
 >> $\varepsilon_{T}=$ [[thermal strain]] 
 >> $\delta_{T}=$ change in length ($L_{0}$) due to [[thermal strain]]
 >> $L_{ref}=$ Origional unstrained length
->> $\alpha$
->> $$
+>> $\alpha=$ [[coefficient of thermal expansion]]
+>> $T=$ Temp
+>> $T_ref=$ $L_ref$'s temperature
+
+I prefer to write it this way:
+
+> ### $$ L_{0} = $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
