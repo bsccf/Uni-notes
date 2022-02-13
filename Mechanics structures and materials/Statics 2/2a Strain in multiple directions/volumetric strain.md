@@ -1,10 +1,10 @@
 ---
-aliases: ["volumetric strain"]
+aliases: ["strains in 3D"]
 tags: ["Question","QFormat3"]
 ---
 
-#### 
-## Strains in 3D
+#### How can we calculate
+## Volumetric strain
 ### Main bit
 If we consider some material element, and define it's strain in 3D:
 
@@ -14,7 +14,7 @@ We can then use this with the following equation to find volumetric strain, assu
 
 > ### $$\varepsilon_{V} =\varepsilon_{xx}+ \varepsilon_{yy} + \varepsilon_{zz} $$ 
 >> where:
->> $\varepsilon_{V}= \frac{\Delta V}{V_{0}} =$ [[strains in 3D|volumetric strain]]
+>> $\varepsilon_{V}= \frac{\Delta V}{V_{0}} =$ [[volumetric strain|volumetric strain]]
 >> $\varepsilon_{xx},\varepsilon_{yy},\varepsilon_{zz}=$ strain in each axis
 
 ### Proof

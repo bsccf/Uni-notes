@@ -10,6 +10,8 @@ tags: ["NotesPage"]
 
 
 ## Expanded articles
-![[strains in 3D]]
+![[volumetric strain]]
 
 ![[strain field]]
+
+![[local strain]]
