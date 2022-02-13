@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 2/2a Strain in multiple directions/volumetric strain.md",
+            "file": "Mechanics structures and materials/Statics 2/2a Strain in multiple directions/local strain.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 2/2a Strain in multiple directions/volumetric strain.md",
+                "file": "Mechanics structures and materials/Statics 2/2a Strain in multiple directions/local strain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,10 +115,10 @@
   },
   "active": "ef7c4208b9e4729a",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Statics 2/2a Strain in multiple directions/volumetric strain.md",
-    "Mechanics structures and materials/Statics 2/2a Strain in multiple directions/Strain in multiple directions notes.md",
-    "Mechanics structures and materials/Statics 2/2a Strain in multiple directions/strain field.md",
     "Mechanics structures and materials/Statics 2/2a Strain in multiple directions/local strain.md",
+    "Mechanics structures and materials/Statics 2/2a Strain in multiple directions/Strain in multiple directions notes.md",
+    "Mechanics structures and materials/Statics 2/2a Strain in multiple directions/volumetric strain.md",
+    "Mechanics structures and materials/Statics 2/2a Strain in multiple directions/strain field.md",
     "Mechanics structures and materials/Statics 2/Statics 2 overview.md",
     "Mathematics for Engineering and the Environment/9 Integration 2/single-page-integral-table.pdf",
     "conflict-files-obsidian-git.md",

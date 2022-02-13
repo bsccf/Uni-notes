@@ -3,7 +3,7 @@ aliases: ["strains in 3D"]
 tags: ["Question","QFormat3"]
 ---
 
-#### How can we calculate
+#### Whats the equation for
 ## Volumetric strain
 ### Main bit
 If we consider some material element, and define it's strain in 3D:
