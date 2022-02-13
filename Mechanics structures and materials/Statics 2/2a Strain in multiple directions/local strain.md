@@ -15,3 +15,4 @@ In real life strains are [[because reasons|never]] constant throughout a shape, 
 >> $du_{x}=$ change in dx
 >> $dx=$ small x distance
 
+This of couse also applies in x,y,z directions. If $du_{x}=0$ it can be that both sides have equal movement and the thing is moving, just something to keep in mind.
