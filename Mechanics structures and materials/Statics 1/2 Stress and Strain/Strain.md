@@ -5,7 +5,7 @@ tags: ["Question","QFormat3"]
 
 #### What's
 ## Strain
-Note that for non uniform strains
+Note that for non uniform strains [[local strain]] should be used.
 
 This is the ratio of extention compared to origional length.
 
