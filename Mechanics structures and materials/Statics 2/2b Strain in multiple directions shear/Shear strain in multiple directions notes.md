@@ -7,6 +7,7 @@ tags: ["NotesPage"]
 
 #### Intro and contents
 - [[shear strain]]
+- [[local shear strain]]
 
 
 ## Expanded articles
