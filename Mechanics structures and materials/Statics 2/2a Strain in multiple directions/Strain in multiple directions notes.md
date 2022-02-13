@@ -10,4 +10,6 @@ tags: ["NotesPage"]
 
 
 ## Expanded articles
-[[strains in 3D]]
+![[strains in 3D]]
+
+![[strain field]]

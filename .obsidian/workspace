@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 2/2a Strain in multiple directions/strains in 3D.md",
+            "file": "Mechanics structures and materials/Statics 2/2a Strain in multiple directions/Strain in multiple directions notes.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 2/2a Strain in multiple directions/strains in 3D.md",
+                "file": "Mechanics structures and materials/Statics 2/2a Strain in multiple directions/Strain in multiple directions notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,8 +115,8 @@
   },
   "active": "ef7c4208b9e4729a",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Statics 2/2a Strain in multiple directions/strains in 3D.md",
     "Mechanics structures and materials/Statics 2/2a Strain in multiple directions/Strain in multiple directions notes.md",
+    "Mechanics structures and materials/Statics 2/2a Strain in multiple directions/strains in 3D.md",
     "Mechanics structures and materials/Statics 2/Statics 2 overview.md",
     "Mathematics for Engineering and the Environment/9 Integration 2/single-page-integral-table.pdf",
     "conflict-files-obsidian-git.md",
