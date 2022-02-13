@@ -5,6 +5,16 @@ tags: ["Question","QFormat3"]
 
 #### What is
 ## Local shear strain
+### Useful bit
+![[Pasted image 20220213104635.png]]
+
+> ### $$ \gamma_{xy} = \alpha + \beta = \frac{du_{x}}{dy} + \frac{du_{y}}{dx} $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
+
+### Explenation
 Basically the same as [[local strain]] but considering [[shear strain]] instead:
 ![[Pasted image 20220213104133.png]]
 
@@ -19,3 +29,9 @@ Which if we take small angle approximations becomes:
 
 $$ \gamma_{xy} = \alpha + \beta = \frac{du_{x}}{dy} + \frac{du_{y}}{dx} $$
 
+It should be noted that shear strain is essentially a measure of the change in angle between the x and y sides from 90 degrees, so sign matters:
+
+![[Pasted image 20220213105020.png]]
+
+While:
+![[Pasted image 20220213105130.png]]
