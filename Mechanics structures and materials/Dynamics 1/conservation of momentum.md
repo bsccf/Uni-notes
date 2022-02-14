@@ -15,5 +15,8 @@ In a [[closed system]] the total momentum remains constant. This applies to all 
 
 When dealing with particles this is easy to apply, but with real world applications momentum can seemingly not be conserved, but in reality it may be lost as heat which is just particle motion on an atomic scale and other simular effects. 
 
-(The lecturer said it doesn't hold for collisions with the ground, which is wrong the ground does accelerate, it's just negligible and is canceled out by your initial acceleration (usually gravity). I know he knows that statement was wrong, but it [[reeeeeeeeeeeeeeeeeeeeee|irritates me anyway]]...)
+(The lecturer said it doesn't hold for collisions with the ground, which is wrong the ground does accelerate, it's just negligible and is canceled out by the forces needed for your origional acceleration (usually gravity). I know he knows that statement was wrong, but it [[reeeeeeeeeeeeeeeeeeeeee|irritates me anyway]]...)
 
+![[video0-7-2.mp4]]
+
+![[video01(1).mp4]]
