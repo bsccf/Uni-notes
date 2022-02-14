@@ -32,5 +32,8 @@ ev_{0}&= v_{B1}
 Now we can find the momentum of A from it's collision with B, I should draw a sketch but I'm assuming that A and B both move upwards after the collision (taking up as positive vel):
 $$\begin{align*}
 e(v_{B1} + v_{0}) &= v_{B2} - v_{A2}  & m_{B}v_{B1} + m_{A}v_{0} &= m_{B}v_{B2} - m_{A} v_{A2}\\
-e(ev_{0} + v_{0}) &= v_{B2} - v_{A2}  & m_{B}v_{B1} + m_{A}ev_{0} &= m_{B}v_{B2} - m_{A} v_{A2}
+e(ev_{0} + v_{0}) &= v_{B2} - v_{A2}  & m_{B}ev_{0} + m_{A}v_{0} &= m_{B}v_{B2} - m_{A} v_{A2}\\
+e v_{0}(e + 1) &= v_{B2} - v_{A2}  &  \frac{m_{B}ev_{0} + m_{A}v_{0} +  m_{A} v_{A2}}{m_{B}}&=v_{B2}\\
+& & ev_{0}+\frac{ m_{A}(v_{0} + v_{A2})}{m_{B}}&=v_{B2}\\
+e v_{0}(e + 1) &= v_{B2} - v_{A2}
 \end{align*}$$
