@@ -11,7 +11,8 @@ tags: ["Question","QFormat3"]
 Basically slap a bit of [[Bernouillis equation]], some [[conservation of mass in flow]] and a bit of [[pressure (hydrostatics)]] and...
 
 $$\begin{align*}
-P_{Atm} &= \rho g h_{1} & P_{Atm} &= \rho g h_{2} 
+P_{Atm} &= P_{1} - \rho g h_{1} & P_{Atm} &= P_{2} - \rho g h_{2} & A_{1} v_{1} &= A_{2} v_{2} & \frac{1}{2} \rho v_{1}^{2} + P_{1} &= \frac{1}{2} \rho v_{2}^{2} + P_{2}\\
+P_{2} - \rho g h_{2} &= P_{1} - \rho g h_{1} & & & \frac{A_{1}}{v_{2}} v_{1}^{2} &= A_{2}^{2} & \frac{1}{2} \rho v_{1}^{2} + P_{1} &= \frac{1}{2} \rho v_{2}^{2} + P_{2}\\
 \end{align*}$$
 
 This thing is based, because if you know the cross sectional area of the pipe it allows you to find the speed of the fluid without anything complex... simplicity is very useful!
