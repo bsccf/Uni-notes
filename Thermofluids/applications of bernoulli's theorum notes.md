@@ -12,3 +12,5 @@ tags: ["NotesPage"]
 ## Expanded articles
 
 ![[venturi meter equation]]
+
+![[orifice plate]]
