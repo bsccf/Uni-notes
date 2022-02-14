@@ -9,10 +9,10 @@ tags: ["Question","QFormat3"]
 We need:
 - [[conservation of momentum]]
 - [[impulse]]
-- This thing: $\underline{v}_{a1} + \underline{v}_{b1} = e(\underline{v}_{a2} + \underline{v}_{b2})$
+- This thing: $(\underline{v}_{a1} + \underline{v}_{b1})e = \underline{v}_{a2} + \underline{v}_{b2}$
 
 Or put more nicely:
-> ### $$ \underline{v}_{a1} + \underline{v}_{b1} = e(\underline{v}_{a2} + \underline{v}_{b2}) $$ 
+> ### $$ (\underline{v}_{a1} + \underline{v}_{b1})e = \underline{v}_{a2} + \underline{v}_{b2} $$ 
 >> where:
 >> $e=$ [[coefficient of restitution]]
 >> $\underline{v}_{a1} + \underline{v}_{b1}=$ velocity component parrallel to [[line of impact]] of particles a and b before collision 
@@ -21,3 +21,4 @@ Or put more nicely:
 ^7e60a8
 
 Although there is a difference between [[modeling particle impacts|oblique impacts]] and [[modeling particle impacts|central impacts]], the equation above works for both... (oblique is just when the [[line of impact]] $\neq$ line of particle motion)
+
