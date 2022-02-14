@@ -47,6 +47,6 @@ gH \frac{ek^{3} (e+2 ) + 1}{ k^{3}-1 }  &= v_{A2}
 Now finally we can use the equation $h = \frac{v^{2}}{2g}$:
 $$\begin{align*}
 h_{max} &= \frac{\left(gH \frac{ek^{3} (e+2 ) + 1}{ k^{3}-1 }\right)^{2}}{2g} \\
-&= \frac{H e^{2} k^{3}  - 1 }{2(1-k^{3})}
+h_{max} &=   \frac{g}{2} \left(H \frac{ek^{3} (e+2 ) + 1}{ k^{3}-1 }\right)^{2} \\
 \end{align*}$$
 Not 100% sure if that's right but, you get the point... the maths is doable using the methods layed out. In reality these equations work for plastic and elastic collisions, you only really need to care about that if you want to simplify your equations.
