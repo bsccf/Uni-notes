@@ -41,11 +41,12 @@ e v_{0}(e + 1) + \frac{ m_{A}v_{0} }{m_{B}} + ev_{0} &= v_{A2}-\frac{ m_{A} v_{A
 e v_{0}(e+2 ) + \frac{ m_{A}v_{0} }{m_{B}}  &= v_{A2}-\frac{ m_{A} v_{A2}}{m_{B}} & \frac{m_{A}}{m_{B}}&=\frac{4\rho \pi r^{3}}{3}/\frac{4\rho \pi (kr)^{3}}{3}\\
 & & &=\frac{1}{k^{3}}\\
 e v_{0}(e+2 ) + \frac{ v_{0} }{k^{3}}  &= v_{A2}-\frac{  v_{A2}}{k^{3}}\\
-e v_{0}(e+2 ) + \frac{ v_{0} }{k^{3}}  &= v_{A2}-\frac{  v_{A2}}{k^{3}}
+v_{0} \frac{e (e+2 ) + \frac{ 1 }{k^{3}}}{ 1-1/k^{3} }  &= v_{A2} \\
+gH \frac{ek^{3} (e+2 ) + 1}{ k^{3}-1 }  &= v_{A2} 
 \end{align*}$$
 Now finally we can use the equation $h = \frac{v^{2}}{2g}$:
 $$\begin{align*}
-h_{max} &= \frac{Hg\frac{e^{2} k^{3}  - 1 }{1-k^{3}}}{2g} \\
+h_{max} &= \frac{\left(gH \frac{ek^{3} (e+2 ) + 1}{ k^{3}-1 }\right)^{2}}{2g} \\
 &= \frac{H e^{2} k^{3}  - 1 }{2(1-k^{3})}
 \end{align*}$$
 Not 100% sure if that's right but, you get the point... the maths is doable using the methods layed out. In reality these equations work for plastic and elastic collisions, you only really need to care about that if you want to simplify your equations.
