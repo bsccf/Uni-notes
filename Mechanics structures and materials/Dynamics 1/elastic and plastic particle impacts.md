@@ -35,5 +35,9 @@ e(v_{B1} + v_{0}) &= v_{B2} - v_{A2}  & m_{B}v_{B1} + m_{A}v_{0} &= m_{B}v_{B2} 
 e(ev_{0} + v_{0}) &= v_{B2} - v_{A2}  & m_{B}ev_{0} + m_{A}v_{0} &= m_{B}v_{B2} - m_{A} v_{A2}\\
 e v_{0}(e + 1) &= v_{B2} - v_{A2}  &  \frac{m_{B}ev_{0} + m_{A}v_{0} +  m_{A} v_{A2}}{m_{B}}&=v_{B2}\\
 & & ev_{0}+\frac{ m_{A}(v_{0} + v_{A2})}{m_{B}}&=v_{B2}\\
-e v_{0}(e + 1) &= v_{B2} - v_{A2}
+e v_{0}(e + 1) &= ev_{0}+\frac{ m_{A}(v_{0} + v_{A2})}{m_{B}}  - v_{A2}\\
+e v_{0}(e + 1) &= ev_{0}+\frac{ m_{A}v_{0} }{m_{B}} +\frac{ m_{A} v_{A2}}{m_{B}} - v_{A2}\\
+e v_{0}(e + 1) - \frac{ m_{A}v_{0} }{m_{B}} - ev_{0} &= \frac{ m_{A} v_{A2}}{m_{B}} - v_{A2}\\
+e v_{0}(e + 1- v_{0}) - \frac{ m_{A}v_{0} }{m_{B}} &= \frac{ m_{A} v_{A2}}{m_{B}} - v_{A2}\\
+&
 \end{align*}$$
