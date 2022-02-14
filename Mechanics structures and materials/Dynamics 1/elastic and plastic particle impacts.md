@@ -37,12 +37,11 @@ e v_{0}(e + 1) &=   &  \frac{m_{B}ev_{0} + m_{A}v_{0} +  m_{A} v_{A2}}{m_{B}}&=v
 & & ev_{0}+\frac{ m_{A}(v_{0} + v_{A2})}{m_{B}}&=v_{B2}\\
 e v_{0}(e + 1) &=v_{A2} -ev_{0}-\frac{ m_{A}(v_{0} + v_{A2})}{m_{B}}  \\
 e v_{0}(e + 1) &=v_{A2}- ev_{0}-\frac{ m_{A}v_{0} }{m_{B}} -\frac{ m_{A} v_{A2}}{m_{B}} \\
-e v_{0}(e + 1) - \frac{ m_{A}v_{0} }{m_{B}} - ev_{0} &= \frac{ m_{A} v_{A2}}{m_{B}} - v_{A2}\\
-e v_{0}(e + 1- 1) - \frac{ m_{A}v_{0} }{m_{B}} &= \frac{ m_{A} v_{A2}}{m_{B}} - v_{A2} & \frac{m_{A}}{m_{B}}&=\frac{4\rho \pi r^{3}}{3}/\frac{4\rho \pi (kr)^{3}}{3}\\
+e v_{0}(e + 1) + \frac{ m_{A}v_{0} }{m_{B}} + ev_{0} &= v_{A2}-\frac{ m_{A} v_{A2}}{m_{B}}  \\
+e v_{0}(e+2 ) + \frac{ m_{A}v_{0} }{m_{B}}  &= v_{A2}-\frac{ m_{A} v_{A2}}{m_{B}} & \frac{m_{A}}{m_{B}}&=\frac{4\rho \pi r^{3}}{3}/\frac{4\rho \pi (kr)^{3}}{3}\\
 & & &=\frac{1}{k^{3}}\\
- \frac{e v_{0}(e ) - \frac{ v_{0} }{k^{3}}}{\frac{1}{k^{3}}-1} &= v_{A2}\\
- v_{0}\frac{e^{2} k^{3}  - 1 }{1-k^{3}} &= v_{A2}\\
-Hg\frac{e^{2} k^{3}  - 1 }{1-k^{3}} &= v_{A2}
+e v_{0}(e+2 ) + \frac{ v_{0} }{k^{3}}  &= v_{A2}-\frac{  v_{A2}}{k^{3}}\\
+e v_{0}(e+2 ) + \frac{ v_{0} }{k^{3}}  &= v_{A2}-\frac{  v_{A2}}{k^{3}}
 \end{align*}$$
 Now finally we can use the equation $h = \frac{v^{2}}{2g}$:
 $$\begin{align*}
