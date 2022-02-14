@@ -14,6 +14,9 @@ We need:
 Or put more nicely:
 > ### $$ \underline{v}_{a1} + \underline{v}_{b1} = e(\underline{v}_{a2} + \underline{v}_{b2}) $$ 
 >> where:
->> $e=$
->> $\underline{v}_{a1} + \underline{v}_{b1}=$ initial momentum of particles a and b 
->> $\underline{v}_{a2} + \underline{v}_{b2}=$
+>> $e=$ [[coefficient of restitution]]
+>> $\underline{v}_{a1} + \underline{v}_{b1}=$ velocity component parrallel to [[line of impact]] of particles a and b before collision 
+>> $\underline{v}_{a2} + \underline{v}_{b2}=$ velocity component parrallel to [[line of impact]] of particles a and b after collision
+
+^7e60a8
+
