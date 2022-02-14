@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["oblique impact","central impact"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -20,3 +20,4 @@ Or put more nicely:
 
 ^7e60a8
 
+Although there is a difference between [[modeling particle impacts|oblique impacts]] and [[modeling particle impacts|central impacts]], the equation above works for both... 
