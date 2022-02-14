@@ -49,4 +49,4 @@ $$\begin{align*}
 h_{max} &= \frac{Hg\frac{e^{2} k^{3}  - 1 }{1-k^{3}}}{2g} \\
 &= \frac{H e^{2} k^{3}  - 1 }{2(1-k^{3})}
 \end{align*}$$
-Not 100% sure if that's right but, you get the point... the maths is doable using the methods layed out. In reality these equations work for plastic and elastic collisions, 
+Not 100% sure if that's right but, you get the point... the maths is doable using the methods layed out. In reality these equations work for plastic and elastic collisions, you only really need to care about that if you want to simplify your equations.
