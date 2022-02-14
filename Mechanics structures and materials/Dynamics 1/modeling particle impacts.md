@@ -20,4 +20,4 @@ Or put more nicely:
 
 ^7e60a8
 
-Although there is a difference between [[modeling particle impacts|oblique impacts]] and [[modeling particle impacts|central impacts]], the equation above works for both... 
+Although there is a difference between [[modeling particle impacts|oblique impacts]] and [[modeling particle impacts|central impacts]], the equation above works for both... (oblique is just when the [[line of impact]] $\neq$ line of particle motion)

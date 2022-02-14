@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Dynamics 1/modeling particle impacts.md",
+            "file": "Mechanics structures and materials/Dynamics 1/plane of contact.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Dynamics 1/modeling particle impacts.md",
+                "file": "Mechanics structures and materials/Dynamics 1/plane of contact.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "ef7c4208b9e4729a",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Dynamics 1/modeling particle impacts.md",
+    "Mechanics structures and materials/Dynamics 1/plane of contact.md",
     "Mechanics structures and materials/Dynamics 1/line of impact.md",
+    "Mechanics structures and materials/Dynamics 1/modeling particle impacts.md",
     "Mechanics structures and materials/Dynamics 1/coefficient of restitution.md",
     "Mechanics structures and materials/Dynamics 1/Impulse and collisions notes.md",
     "Mechanics structures and materials/Dynamics 1/conservation of momentum.md",
     "Mechanics structures and materials/Dynamics 1/reeeeeeeeeeeeeeeeeeeeee.md",
     "Mechanics structures and materials/Dynamics 1/impulse.md",
     "Mechanics structures and materials/Dynamics 1/trol.md",
-    "Mechanics structures and materials/Dynamics 1/Dynamics Overview.md",
-    "Electrical and electronic systems/3 Electric machines/3U AC Generators and stuff/synchronous generators.md"
+    "Mechanics structures and materials/Dynamics 1/Dynamics Overview.md"
   ]
 }
