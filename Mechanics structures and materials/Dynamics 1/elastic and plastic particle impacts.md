@@ -44,4 +44,9 @@ e v_{0}(e + 1- 1) - \frac{ m_{A}v_{0} }{m_{B}} &= \frac{ m_{A} v_{A2}}{m_{B}} - 
  v_{0}\frac{e^{2} k^{3}  - 1 }{1-k^{3}} &= v_{A2}\\
 Hg\frac{e^{2} k^{3}  - 1 }{1-k^{3}} &= v_{A2}
 \end{align*}$$
-Now finally we can use the equation $gh = \frac{1}{2}v^{2}$
+Now finally we can use the equation $h = \frac{v^{2}}{2g}$:
+$$\begin{align*}
+h_{max} &= \frac{Hg\frac{e^{2} k^{3}  - 1 }{1-k^{3}}}{2g} \\
+&= \frac{H e^{2} k^{3}  - 1 }{2(1-k^{3})}
+\end{align*}$$
+Not 100% sure if that's right but, you get the point... the maths is doable using the methods layed out. In reality these equations work for plastic and elastic collisions, 
