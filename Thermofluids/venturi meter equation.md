@@ -18,7 +18,9 @@ P_{2} - \rho g h_{2} &= P_{1} - \rho g h_{1} & & & \frac{A_{1}}{A_{2}} v_{1} &= 
 2 g \Delta h &= \frac{A_{1}^{2}}{A_{2}^{2}} v_{1}^{2} - v_{1}^{2}\\
 2 g \Delta h &= \left(\frac{A_{1}^{2}}{A_{2}^{2}} - 1\right)v_{1}^{2}\\
  \frac{2 g \Delta h A_{2}^{2}}{A_{1}^{2} - A_{2}^{2}}&=v_{1}^{2}\\
- \sqrt \frac{2 g \Delta h A_{2}^{2} }{A_{1}^{2} - A_{2}^{2}}&=v_{1}\\
+A_{2} \sqrt \frac{2 g \Delta h  }{A_{1}^{2} - A_{2}^{2}}&=v_{1}\\
 \end{align*}$$
 
 This thing is based, because if you know the cross sectional area of the pipe it allows you to find the speed of the fluid without anything complex... simplicity is very useful!
+
+As you can see, creative application of the stuff covered so far leads to neat shit... which is the goal of an engineer to make "neat shit" (which is the [[of course I would put some shit meme here|technical term]] of course).
