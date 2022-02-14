@@ -15,6 +15,11 @@ Heres the slide on how to solve these if you haven't figured it out already:
 ![[Pasted image 20220214120757.png]]
 
 ### Example
-Given the following situation:
-![[Pasted image 20220214121345.png]]
-If balls a and b are 
+> Given the following situation:
+> ![[Pasted image 20220214121525.png]]
+> If balls a and b are the same density and $e$ is known write an expression for the max height A reaches, modelling both as particles.
+
+First we need an expression for velocity at the instant of impact with the ground:
+$$\begin{align*}
+v_{0} &= m_{A} + m+
+\end{align*}$$
