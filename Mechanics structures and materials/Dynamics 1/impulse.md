@@ -15,10 +15,11 @@ F &= ma\\
 &= Impulse
 \end{align*}$$
 
-> ### $$ m\underline{v_{2}} - m\underline{v_{1}} = \int^{t_{2}}_{t_{1}} \underline{F} dt $$ 
+> ### $$ m_{2}\underline{v_{2}} - m_{1}\underline{v_{1}} = \int^{t_{2}}_{t_{1}} \underline{F} dt $$ 
 >> where:
 >> $\underline{v_{1}}=$ initital velocity 
 >> $\underline{v_{2}}=$ final velocity
 >> $\underline{F}=$ Force [[Scalars and vectors|vector]] as a function of time
+>> The stuff going on with $m$ is to show that if for some reason $m$ changes it needs to be accounted for (doubt you ever will need to but [[trol|idk]])
 
-It should be noted that if force is a constant then $m\underline{v_{2}} - m\underline{v_{1}} = \underline{F}(t_{2}-t_{1})$
+It should be noted that if force is a constant then $m\underline{v_{2}} - m\underline{v_{1}} = \underline{F}(t_{2}-t_{1})$ because well, use ya brain. Also note that
