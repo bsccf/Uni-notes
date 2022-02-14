@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Dynamics 1/impulse.md",
-            "mode": "preview",
+            "file": "Mechanics structures and materials/Dynamics 1/conservation of momentum.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Dynamics 1/impulse.md",
+                "file": "Mechanics structures and materials/Dynamics 1/conservation of momentum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "ef7c4208b9e4729a",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Dynamics 1/conservation of momentum.md",
+    "Mechanics structures and materials/Dynamics 1/Impulse and collisions notes.md",
     "Mechanics structures and materials/Dynamics 1/impulse.md",
     "Mechanics structures and materials/Dynamics 1/trol.md",
-    "Mechanics structures and materials/Dynamics 1/Impulse and collisions notes.md",
     "Mechanics structures and materials/Dynamics 1/Dynamics Overview.md",
     "Electrical and electronic systems/3 Electric machines/3U AC Generators and stuff/synchronous generators.md",
     "Electrical and electronic systems/3 Electric machines/3U AC Generators and stuff/AC generators and stuff notes.md",
     "Electrical and electronic systems/Electrical read order.md",
     "Electrical and electronic systems/3 Electric machines/6U DC machines 2/DC machines 2 notes.md",
-    "Electrical and electronic systems/3 Electric machines/6U DC machines 2/DC motor.md",
-    "Mechanics structures and materials/Statics 2/2b Strain in multiple directions shear/Shear strain in multiple directions notes.md"
+    "Electrical and electronic systems/3 Electric machines/6U DC machines 2/DC motor.md"
   ]
 }

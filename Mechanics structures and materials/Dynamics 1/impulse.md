@@ -22,4 +22,6 @@ F &= ma\\
 >> $\underline{F}=$ Force [[Scalars and vectors|vector]] as a function of time
 >> The stuff going on with $m$ is to show that if for some reason $m$ changes it needs to be accounted for (doubt you ever will need to but [[trol|idk]])
 
-It should be noted that if force is a constant then $m\underline{v_{2}} - m\underline{v_{1}} = \underline{F}(t_{2}-t_{1})$ because well, use ya brain. Also note that
+It should be noted that if force is a constant then $m\underline{v_{2}} - m\underline{v_{1}} = \underline{F}(t_{2}-t_{1})$ because well, use ya brain.
+
+Its also equal to the area under a force time graph because well... use ya brain.
