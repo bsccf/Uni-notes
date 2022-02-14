@@ -9,7 +9,7 @@ tags: ["Question","QFormat3"]
 We need:
 - [[conservation of momentum]]
 - [[impulse]]
-- This thing: $e(velocity component of particles moving towords eachother)=velocity component of particle$
+- This thing: $e\times(velocity\:component \:of\: particles\: moving\: towords \:eachother)=velocity\: component \:of\: particles\: moving \:away\: from\:eachother$
 
 Or put more nicely:
 > ### $$ ( \underline{v}_{b1} - \underline{v}_{a1})e = \underline{v}_{a2} - \underline{v}_{b2} $$ 

@@ -24,6 +24,8 @@ $$\begin{align*}
 v_{0} &= Hg & m_{A} &=  \frac{4\rho \pi r^{3}}{3} & m_{B} &=  \frac{4\rho \pi (kr)^{3}}{3}\\
 \end{align*}$$
 
+[[UNFINISHED LIGHT (tm)|UNFINISHED (LIGHT)]]:$v_{0} &= Hg$ is wrong, also recheck working
+
 Now we find the momentum of B after it's impact with the ground, I'm taking $v_{0}$ as down and $v_{B1}$ as upward:
 $$\begin{align*}
 ev_{0}&= v_{B1}
