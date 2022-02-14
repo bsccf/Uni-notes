@@ -24,4 +24,5 @@ Or put more nicely:
 Although there is a difference between [[modeling particle impacts|oblique impacts]] and [[modeling particle impacts|central impacts]], the equation above works for both... (oblique is just when the [[line of impact]] $\neq$ line of particle motion)
 
 Some important further considerations when modelling particle collisions:
-- Most constant/
+- Most constant/unidirectional forces can be ignored during collisions because the collisions occur over such a short time period
+- Friction can still occur! Since the bounce is caused by a normal reaction, a proportional [[dynamic friction force|friction]] [[impulse]] can occur, for [[modeling particle impacts|oblique impacts]] you need to make sure the spheres are smooth!!!
