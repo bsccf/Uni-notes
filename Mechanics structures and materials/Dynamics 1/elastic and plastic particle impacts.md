@@ -26,5 +26,11 @@ v_{0} &= Hg & m_{A} &=  \frac{4\rho \pi r^{3}}{3} & m_{B} &=  \frac{4\rho \pi (k
 
 Now we find the momentum of B after it's impact with the ground:
 $$\begin{align*}
-e(m_{B}v_{0}) &= -m_{B}v_{0}
+e(m_{B}v_{0}) &= -m_{B}v_{B1}\\
+-ev_{0}&= v_{B1}
+\end{align*}$$
+
+Now we can find the momentum of A from it's collision with B, I should draw a sketch but I'm assuming that A and B both move upwards after the collision (taking up as positive vel):
+$$\begin{align*}
+e(m_{B}v_{B1} + m_{A}v_{0}) &= 
 \end{align*}$$
