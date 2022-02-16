@@ -13,9 +13,9 @@ In a [[closed system]] the total momentum remains constant. This applies to all 
 >> $\underline{I_{2}}=$ the momentum of a particle in a [[closed system]] at some time
 >> Note that these are vectors, that is important!
 
-When dealing with particles this is easy to apply, but with real world applications momentum can seemingly not be conserved, but in reality it may be lost as heat which is just particle motion on an atomic scale and other simular effects. 
-
 (The lecturer said it doesn't hold for collisions with the ground, which is wrong the ground does accelerate, it's just negligible and is canceled out by the forces needed for your origional acceleration (usually gravity). I know he knows that statement was wrong, but it [[reeeeeeeeeeeeeeeeeeeeee|irritates me anyway]]...)
+
+#### Examples
 
 ![[video0-7-2.mp4]]
 
