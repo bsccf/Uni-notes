@@ -15,16 +15,8 @@ $$\begin{align*}
 P &= IV
 \end{align*}$$
 
-For AC it's not as simple, if we use the equation $P=\frac{V^{2}}{R}$ to find instantanious power then integrate to find average power that will work. So we will also need [[alternating current#^d2c8ea|this equation]], we can let $\phi=0$ in this case.
+For AC it's not as simple since the current and voltage constantly change, but if we have a sinasoidal AC wave then we can find the average magnitude of the height of the graph:
 
 $$\begin{align*}
-P_{Av} &= \frac{1}{T} \int^{T}_{0} P dt & P &= \frac{v^{2}}{R} & v = V_{p} \cos(\omega t)\\
-&= \frac{1}{T} \int^{T}_{0} \frac{v^{2}}{R} dt\\
-&= \frac{1}{T} \int^{T}_{0} \frac{(V_{p} \cos(\omega t))^{2}}{R} dt\\
-&= \frac{1}{T} \frac{ V_{p}^{2} }{R} \int^{T}_{0} (\cos(\omega t))^{2} dt
-&= \frac{1}{T} \frac{ V_{p}^{2} }{R} \left[ \frac{t}{2} + \frac{\sin \omega t}{4\omega} \right]^{T}_{0}\\
-&= \frac{1}{T} \frac{ V_{p}^{2} }{R} \left( \frac{T}{2} + \frac{\sin \omega T}{4\omega} \right)\\
-&= \frac{ V_{p}^{2} }{R} \left( \frac{1}{2} + \frac{\sin \omega T}{4T\omega} \right)
+ &= 
 \end{align*}$$
-
-Given that $T=k \frac{1}{\omega}$ where $k$ is a very large integer.
