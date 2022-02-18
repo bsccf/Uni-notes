@@ -9,3 +9,4 @@ A transformer comprises of two coils or windings wound around a laminated steel 
 
 ![[Pasted image 20220218182412.png]]
 
+When the primary winding is connected to the source, magnetic flux will be generated. The flux will mostly flow through the steel core, which is an easier path to travel through compared to air, and will link with the secondary winding. If the source was AC, the flux will also be alternating and an emf will be generated in the secondary winding ([[faraday's law]]). Electric power will therefore be transmitted from the primary to the secondary via the magnetic field.
