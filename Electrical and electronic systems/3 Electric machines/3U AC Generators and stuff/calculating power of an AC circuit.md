@@ -12,7 +12,10 @@ Given these two circuits:
 
 The DC power is easy enough:
 $$\begin{align*}
-P &= I^{2} R
+P &= IV
 \end{align*}$$
 
-
+For AC it's not as simple, if we use the equation $P=\frac{V^{2}}{R}$ to find instantanious power then integrate to find average power that will work: 
+$$\begin{align*}
+P_{Av} &= \frac{1}{T} \int^{T}_{0} 
+\end{align*}$$
