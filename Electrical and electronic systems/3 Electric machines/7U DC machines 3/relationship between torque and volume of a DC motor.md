@@ -12,5 +12,7 @@ We also know from [[EMF constant (DC generator)|EMF constant]]:
 ![[EMF constant (DC generator)#^81dae1]]
 
 $$\begin{align*}
-T &= K_{E} i & K_{E} &= \frac{zDBL}{2a} 
+T &= K_{E} i & K_{E} &= \frac{zDBL}{2a}\\
+ &= \frac{zDBL}{2a} i\\
+&= z/a
 \end{align*}$$
