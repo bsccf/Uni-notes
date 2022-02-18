@@ -27,8 +27,4 @@ P_{Av} &= \frac{1}{T} \int^{T}_{0} P dt & P &= \frac{v^{2}}{R} & v = V_{p} \cos(
 &= \frac{ V_{p}^{2} }{R} \left( \frac{1}{2} + \frac{\sin \omega T}{4T\omega} \right)
 \end{align*}$$
 
-Given that $T=k2\pi$ where $k$ is a very large integer.
-
-$$\begin{align*}
-&= \frac{ V_{p}^{2} }{R} \left( \frac{1}{2} + \frac{\sin \omega T}{4T\omega} \right)
-\end{align*}$$
+Given that $T=k \frac{1}{\omega}$ where $k$ is a very large integer.
