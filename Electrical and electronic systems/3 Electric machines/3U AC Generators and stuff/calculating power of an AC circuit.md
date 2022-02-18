@@ -20,5 +20,7 @@ For AC it's not as simple, if we use the equation $P=\frac{V^{2}}{R}$ to find in
 $$\begin{align*}
 P_{Av} &= \frac{1}{T} \int^{T}_{0} P dt & P &= \frac{v^{2}}{R} & v = V_{p} \cos(\omega t)\\
 &= \frac{1}{T} \int^{T}_{0} \frac{v^{2}}{R} dt\\
-&= \frac{1}{T} \int^{T}_{0} \frac{(V_{p} \cos(\omega t))^{2}}{R} dt
+&= \frac{1}{T} \int^{T}_{0} \frac{(V_{p} \cos(\omega t))^{2}}{R} dt\\
+&= \frac{1}{T} \frac{ V_{p}^{2} }{R} \int^{T}_{0} (\cos(\omega t))^{2} dt
+&= \frac{1}{T} \frac{ V_{p}^{2} }{R} [  ]^{T}_{0}
 \end{align*}$$
