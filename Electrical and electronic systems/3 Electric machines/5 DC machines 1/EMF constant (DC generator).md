@@ -9,13 +9,20 @@ A constant assosiated with the emf output of a given DC generator.
 
 ![[Pasted image 20220210182814.png]]
 
+
+
 > ### $$ K_{E} = \frac{zDBL}{2a} $$ 
 >> where:
 >> $K_{E}=$ [[EMF constant (DC generator)|EMF constant]]
 >> $z=$ number of conductors
->> $D=$ gap between coils and magnets?!??!?!? (I hate unlabelled equations in slides reeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) [[UNFINISHED STUFF]]
->> $B=$ [[tesla|magnetic flux density]]????
+>> $D=$ gap between coils and magnets [[UNFINISHED STUFF]]
+>> $B=$ [[tesla|magnetic flux density]]
 >> $L=$ length of conductor
 >> $a=$ number of parallel paths
 
 ^81dae1
+> ### $$ K_{E} = \frac{zN_{p}}{2a\pi}\phi $$ 
+>> where:
+>> $z=$ number of conductors 
+>> $\phi=$ [[magnetic flux]]
+>> $N_{p}=$ number of 
