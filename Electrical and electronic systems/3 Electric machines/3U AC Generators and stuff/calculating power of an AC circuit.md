@@ -25,11 +25,13 @@ Then mean power will be:
 >> $T=$ some arbitrary large time value
 
 If we take a sin AC wave then we can use rms:
-> ### $$ P_{mean} = \frac{V_{p}^{2}}{2R} = \frac{V_{rms}}{R} = I_{rms} V_{rms} $$ 
+> ### $$ P_{mean} = \frac{V_{p}^{2}}{2R} = \frac{V_{rms}^{2}}{R} = I_{rms} V_{rms} $$ 
 >> where:
->> $P_{mean}=$ 
->> $V_{rms}=$ [[voltag]]
->> $I_{rms}=$
+>> $P_{mean}=$ mean power
+>> $V_{rms}=$ [[calculating power of an AC circuit|root mean squared voltage]]
+>> $I_{rms}=$ [[calculating power of an AC circuit|root mean squared current]]
+>> $R=$ resistance
+>> $V_{p}=$ peak AC voltage 
 
 ### Heres the theory
 ![[Pasted image 20220218170016.png]]
