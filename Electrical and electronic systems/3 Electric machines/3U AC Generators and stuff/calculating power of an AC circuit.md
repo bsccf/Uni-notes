@@ -24,5 +24,12 @@ Then mean power will be:
 >> $P=$ instantanious power
 >> $T=$ some arbitrary large time value
 
+If we take a sin AC wave then we can use rms:
+> ### $$ P_{mean} = \frac{V_{p}^{2}}{2R} = \frac{V_{rms}}{R} = I_{rms} V_{rms} $$ 
+>> where:
+>> $P_{mean}=$ 
+>> $V_{rms}=$ [[voltag]]
+>> $I_{rms}=$
+
 ### Heres the theory
 ![[Pasted image 20220218170016.png]]
