@@ -3,11 +3,11 @@ aliases: [""]
 tags: ["NotesPage"]
 ---
 
-# DC machines 2 notes
+# <% tp.file.title.charAt(0).toUpperCase() + tp.file.title.slice(1)%>
 
 #### Intro and contents
-- [[DC motor]]
+- 
 
 
 ## Expanded articles
-![[DC motor]]
+![[relating]]

@@ -40,3 +40,4 @@ provided notes [[Electric Machines - notes(1).pdf]]
 4) 
 5) [[DC machines 1 notes]] FILL IN GAPS BASED ON E NOTES
 6) [[DC machines 2 notes]] FILL IN GAPS BASED ON E NOTES
+7) [[DC machines 3 notes]]
