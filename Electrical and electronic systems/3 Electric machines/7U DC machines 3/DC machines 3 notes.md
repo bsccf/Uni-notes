@@ -10,4 +10,4 @@ tags: ["NotesPage"]
 
 
 ## Expanded articles
-![[relating]]
+![[relationship between torque and volume of a DC motor]]

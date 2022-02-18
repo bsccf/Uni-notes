@@ -17,3 +17,5 @@ A constant assosiated with the emf output of a given DC generator.
 >> $B=$ [[tesla|magnetic flux density]]????
 >> $L=$ length of conductor
 >> $a=$ number of parallel paths
+
+^81dae1
