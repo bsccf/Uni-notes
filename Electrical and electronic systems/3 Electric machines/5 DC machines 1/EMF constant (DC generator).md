@@ -28,3 +28,6 @@ A constant assosiated with the emf output of a given DC generator.
 >> $\phi=$ [[magnetic flux]]
 >> $N_{p}=$ number of number of poles
 >> $a=$ number of parallel conductor paths
+
+^ec7b18
+
