@@ -21,3 +21,6 @@ tags: ["Question","QFormat3"]
 >> $f=$ frequency of wave
 >> $t=$ time
 >> $\phi=$ offset (would need a refrence value to calculate)
+
+^d2c8ea
+
