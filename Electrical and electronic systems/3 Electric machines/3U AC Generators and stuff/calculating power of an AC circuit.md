@@ -17,5 +17,12 @@ tags: ["Question","QFormat3"]
 >> $I_{rms}=$ root mean squared current 
 >> $I_{P}=$ peak current
 
-### Heres the proof
+Then mean power will be:
+> ### $$ P_{mean} = \frac{1}{T} \int^{T}_{0} P dt $$ 
+>> where:
+>> $P_{mean}=$ mean power 
+>> $P=$ instantanious power
+>> $T=$ some arbitrary large time value
+
+### Heres the theory
 ![[Pasted image 20220218170016.png]]
