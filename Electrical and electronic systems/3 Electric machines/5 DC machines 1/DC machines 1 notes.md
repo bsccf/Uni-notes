@@ -9,6 +9,7 @@ tags: ["NotesPage"]
 - [[basic DC generator]]
 - [[DC generator with many coils]]
 - [[EMF and torque in a DC generator]]
+- [[EMF constant (DC generator)|EMF constant]]
 - [[equivalent circuit of a DC generator]]
 
 
@@ -16,6 +17,8 @@ tags: ["NotesPage"]
 ![[basic DC generator]]
 
 ![[DC generator with many coils]]
+
+![[EMF constant (DC generator)|EMF constant]]
 
 ![[EMF and torque in a DC generator]]
 
