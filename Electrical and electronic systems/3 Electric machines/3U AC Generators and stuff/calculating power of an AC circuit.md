@@ -1,25 +1,16 @@
 ---
-aliases: [""]
+aliases: ["RMS for AC power"]
 tags: ["Question","QFormat3"]
 ---
 
 #### Whats the method for
 ## Calculating power of an AC circuit
-Calculating power is easy for [[direct current|DC]] but the same method won't work for an [[alternating current|AC]] since the current is changing... so lets look at an example:
+### RMS
+> ### $$  = $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
 
-Given these two circuits:
-![[Pasted image 20220218163147.png]]
-
-The DC power is easy enough:
-$$\begin{align*}
-P &= IV
-\end{align*}$$
-
-For AC it's not as simple since the current and voltage constantly change, but if we have a sinasoidal AC wave then we can find the average magnitude of the height of the graph, which will be the equivilent of:
-
-$$\begin{align*}
-M &= \int^{\pi}_{0} A \sin(\theta) d\theta\\
-&= A [ \cos(\theta) ] ^{\pi}_{0}\\
-&= A ( \cos(\pi) -  \cos(0) )\\
-&= A
-\end{align*}$$
+### Heres the proof
+![[Pasted image 20220218170016.png]]
