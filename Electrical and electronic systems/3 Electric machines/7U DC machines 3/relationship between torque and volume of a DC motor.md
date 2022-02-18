@@ -9,7 +9,7 @@ We know from [[DC motor]]:
 ![[DC motor#^be3198]]
 
 We also know from [[EMF constant (DC generator)|EMF constant]]:
-![[EMF constant (DC generator)#^81dae1]]
+![[EMF constant (DC generator)#^aee8cb]]
 
 $$\begin{align*}
 T &= K_{E} i & K_{E} &= \frac{zDBL}{2a}\\
