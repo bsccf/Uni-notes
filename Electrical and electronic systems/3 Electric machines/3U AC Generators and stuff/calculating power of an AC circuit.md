@@ -22,5 +22,8 @@ P_{Av} &= \frac{1}{T} \int^{T}_{0} P dt & P &= \frac{v^{2}}{R} & v = V_{p} \cos(
 &= \frac{1}{T} \int^{T}_{0} \frac{v^{2}}{R} dt\\
 &= \frac{1}{T} \int^{T}_{0} \frac{(V_{p} \cos(\omega t))^{2}}{R} dt\\
 &= \frac{1}{T} \frac{ V_{p}^{2} }{R} \int^{T}_{0} (\cos(\omega t))^{2} dt
-&= \frac{1}{T} \frac{ V_{p}^{2} }{R} [  ]^{T}_{0}
+&= \frac{1}{T} \frac{ V_{p}^{2} }{R} \left[ \frac{t}{2} + \frac{\sin \omega t}{4\omega} \right]^{T}_{0}\\
+&= \frac{1}{T} \frac{ V_{p}^{2} }{R} ( \frac{T}{2} + \frac{\sin \omega T}{4\omega} )
 \end{align*}$$
+
+Given that 
