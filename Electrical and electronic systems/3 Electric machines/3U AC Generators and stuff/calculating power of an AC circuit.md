@@ -15,8 +15,11 @@ $$\begin{align*}
 P &= IV
 \end{align*}$$
 
-For AC it's not as simple since the current and voltage constantly change, but if we have a sinasoidal AC wave then we can find the average magnitude of the height of the graph:
+For AC it's not as simple since the current and voltage constantly change, but if we have a sinasoidal AC wave then we can find the average magnitude of the height of the graph, which will be the equivilent of:
 
 $$\begin{align*}
- &= 
+M &= \int^{\pi}_{0} A \sin(\theta) d\theta\\
+&= A [ \cos(\theta) ] ^{\pi}_{0}\\
+&= A ( \cos(\pi) -  \cos(0) )\\
+&= A
 \end{align*}$$
