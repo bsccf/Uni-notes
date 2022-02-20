@@ -11,6 +11,8 @@ So in the past we discussed [[poisson's ratio]] and we have been mostly solving 
 
 In a situation of plane stress we assume $\sigma_{zz}=0$ but that does not mean that $\varepsilon_{zz}=0$, using this we can derive the following formula for strains:
 
+#### X Strain
+
 > ### $$ \varepsilon_{xx} = \frac{1}{E} (\sigma_{xx} - \nu \sigma_{yy} ) $$ 
 >> where:
 >> $E=$ [[youngs modulus]]
@@ -18,6 +20,8 @@ In a situation of plane stress we assume $\sigma_{zz}=0$ but that does not mean 
 >> $\sigma_{xx}=$ stress in xx
 >> $\sigma_{yy}=$ stress in yy
 >> $\nu=$ [[poisson's ratio]]
+
+#### Y Strain
 
 > ### $$ \varepsilon_{yy} = \frac{1}{E} (\sigma_{yy} - \nu \sigma_{xx} ) $$ 
 >> where:
@@ -27,11 +31,23 @@ In a situation of plane stress we assume $\sigma_{zz}=0$ but that does not mean 
 >> $\sigma_{yy}=$ stress in yy
 >> $\nu=$ [[poisson's ratio]]
 
+#### Z Strain
+
 > ### $$ \varepsilon_{zz} = -\frac{\nu}{E} (\sigma_{xx} + \sigma_{yy} ) $$ 
 >> where:
 >> $E=$ [[youngs modulus]]
 >> $\varepsilon_{zz}=$ strain in zz
 >> $\sigma_{xx}=$ stress in xx
+>> $\sigma_{yy}=$ stress in yy
+>> $\nu=$ [[poisson's ratio]]
+
+#### [[local shear strain|shear strain]]
+
+> ### $$ \varepsilon_{xy} = \frac{1+\nu}{E} (\sigma_{xy}) $$ 
+>> where:
+>> $E=$ [[youngs modulus]]
+>> $\varepsilon_{xy}=$ shear strain in xy
+>> $\sigma_{xx}=$ s stress in xy
 >> $\sigma_{yy}=$ stress in yy
 >> $\nu=$ [[poisson's ratio]]
 
