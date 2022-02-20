@@ -10,7 +10,8 @@ This can apply in a situation like having a dam, since it cannot expand into the
 ![[Pasted image 20220220120944.png]]
 Of course z isn't nessisarilly horizontal, you can align the axis however you want since it's just a matter of perspective. Hence it is possible to apply the derived equations in a wide range of situations. They are just forms of [[generalised hookes law]] equations with more constraints:
 
+![[Pasted image 20220220121254.png]]
 
 >> $\varepsilon_{zz}=0$
->> $\varepsilon_{zz}=0$
->> $\varepsilon_{zz}=0$
+>> $\varepsilon_{xz}=0$
+>> $\varepsilon_{yz}=0$
