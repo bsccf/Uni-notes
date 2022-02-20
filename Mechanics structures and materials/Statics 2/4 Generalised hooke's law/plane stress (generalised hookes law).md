@@ -21,6 +21,7 @@ In a situation of plane stress we assume $\sigma_{zz}=0$ but that does not mean 
 >> $\varepsilon_{xx}=$ strain in xx
 >> $\sigma_{xx}=$ stress in xx
 >> $\sigma_{yy}=$ stress in yy
+>> $\sigma_{zz}=0=$ stress in zz
 >> $\nu=$ [[poisson's ratio]]
 
 #### Y Strain
@@ -31,6 +32,7 @@ In a situation of plane stress we assume $\sigma_{zz}=0$ but that does not mean 
 >> $\varepsilon_{yy}=$ strain in yy
 >> $\sigma_{xx}=$ stress in xx
 >> $\sigma_{yy}=$ stress in yy
+>> $\sigma_{zz}=0=$ stress in zz
 >> $\nu=$ [[poisson's ratio]]
 
 #### Z Strain
@@ -45,14 +47,14 @@ In a situation of plane stress we assume $\sigma_{zz}=0$ but that does not mean 
 
 #### [[local shear strain|shear strain]]
 
+![[Pasted image 20220220112430.png]]
+
 > ### $$ \varepsilon_{xy} = \frac{1+\nu}{E} (\sigma_{xy}) $$ 
 >> where:
 >> $E=$ [[youngs modulus]]
 >> $\varepsilon_{xy}=$ shear strain in xy
 >> $\sigma_{xx}=$ shear stress in xy
 >> $\nu=$ [[poisson's ratio]]
-
-![[Pasted image 20220220112430.png]]
 
 ### Stress equations
 With lots of subbing in and rearranging you can get the following stress equations from the strain ones:
@@ -83,3 +85,11 @@ With lots of subbing in and rearranging you can get the following stress equatio
 >> Because:
 >> That is [[I am concerned if you didn't realise that|literally the point]] of this page, have you not been paying attention?
 
+#### Shear stress
+
+> ### $$ \sigma_{xy} = \frac{E}{1+\nu} \varepsilon_{xy} $$ 
+>> where:
+>> $\sigma_{xy}=$ shear stress in xy
+>> $E=$ [[youngs modulus]]
+>> $\nu=$ [[poisson's ratio]]
+>> $\varepsilon_{xy}=$ shear strain in xy
