@@ -9,7 +9,7 @@ So in the past we discussed [[poisson's ratio]] and we have been mostly solving 
 
 ![[Pasted image 20220220111356.png]]
 
-In a situation of plane stress we assume $\sigma_{zz}=0$ but that does not mean that $\varepsilon_{zz}=0$, using this we can derive the following formula for strains:
+In a situation of plane stress we assume $\sigma_{zz}=0$ but that does not mean that $\varepsilon_{zz}=0$, such a state is known as [[plane stress (generalised hookes law)|plane stress]] using this we can derive the following formula for strains:
 
 ### Strain equations
 
