@@ -16,33 +16,14 @@ In a situation of plane stress we assume $\sigma_{zz}=0$ but that does not mean 
 #### X Strain
 
 > ### $$ \varepsilon_{xx} = \frac{1}{E} (\sigma_{xx} - \nu \sigma_{yy} ) $$ 
->> where:
->> $E=$ [[youngs modulus]]
->> $\varepsilon_{xx}=$ strain in xx
->> $\sigma_{xx}=$ stress in xx
->> $\sigma_{yy}=$ stress in yy
->> $\sigma_{zz}=0=$ stress in zz
->> $\nu=$ [[poisson's ratio]]
-
-#### Y Strain
-
 > ### $$ \varepsilon_{yy} = \frac{1}{E} (\sigma_{yy} - \nu \sigma_{xx} ) $$ 
->> where:
->> $E=$ [[youngs modulus]]
->> $\varepsilon_{yy}=$ strain in yy
->> $\sigma_{xx}=$ stress in xx
->> $\sigma_{yy}=$ stress in yy
->> $\sigma_{zz}=0=$ stress in zz
->> $\nu=$ [[poisson's ratio]]
-
-#### Z Strain
-
 > ### $$ \varepsilon_{zz} = -\frac{\nu}{E} (\sigma_{xx} + \sigma_{yy} ) $$ 
 >> where:
 >> $E=$ [[youngs modulus]]
->> $\varepsilon_{zz}=$ strain in zz
+>> $\varepsilon_{xx}=$ strain in some axis
 >> $\sigma_{xx}=$ stress in xx
 >> $\sigma_{yy}=$ stress in yy
+>> $\sigma_{zz}=0=$ stress in zz
 >> $\nu=$ [[poisson's ratio]]
 
 #### [[local shear strain|shear strain]]
@@ -62,12 +43,15 @@ With lots of subbing in and rearranging you can get the following stress equatio
 #### X stress
 
 > ### $$ \sigma_{xx} = \frac{E}{1-\nu^{2}} ( \varepsilon_{xx} + \nu \varepsilon_{yy} ) $$ 
+> ### $$ \sigma_{yy} = \frac{E}{1-\nu^{2}} ( \varepsilon_{yy} + \nu \varepsilon_{xx} ) $$ 
+> ### $$ \sigma_{zz} = 0 $$
 >> where:
->> $\sigma_{xx}=$ stress in x
+>> $\sigma_{xx}=$ stress in some axis
 >> $E=$ [[youngs modulus]]
 >> $\nu=$ [[poisson's ratio]]
 >> $\varepsilon_{xx}=$ strain in x
 >> $\varepsilon_{yy}=$ strain in y
+>> $\sigma_{zz}=$ 0 (because that is [[I am concerned if you didn't realise that|literally the point]] of this page, have you not been paying attention?)
 
 #### Y stress
 

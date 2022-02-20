@@ -48,7 +48,7 @@ Same as for [[plane stress (generalised hookes law)|plane stress]], we can use t
 >> $\nu=$ [[poisson's ratio]]
 
 #### Shear
-> ### $$ \si = $$ 
+> ### $$ \begin{align*} \varepsilon_{xy} &= \frac{E}{1+\nu} \sigma_{xy} &\varepsilon_{xz} &= \frac{E}{1+\nu} \sigma_{xz} &\varepsilon_{yz} &= \frac{E}{1+\nu} \sigma_{yz}\end{align*} $$ 
 >> where:
 >> $\varepsilon_{xy}=$ shear strain in xy
 >> $\sigma_{xy}=$ shear stress in xy
