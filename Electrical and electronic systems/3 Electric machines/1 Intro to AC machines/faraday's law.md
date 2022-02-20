@@ -47,15 +47,18 @@ Another form (more useable):
 
 Take a look at the following diagram, you don't need to care about the [[Lorentz's force law|lorentz force]] or current right now all that's important is $\alpha, D, L$. If we assume the [[tesla|magnetic flux density]] to be constant between the magnets which is generally a resonable approximation inside many electronic machines then:
 - We know the area inside the loop is: $A=LD$.
-- We know that [[magnetic flux]] is measured using the normal component to the surface, so at $\alpha=0$ flux is at a maximum and at $\alpha=\frac{\pi}{2}$ flux is zero. So the perpendicular component of flux can be defined as: $\phi=A\cos\alpha$
+- We know that [[magnetic flux]] is measured using the normal component to the surface, so at $\alpha=0$ flux is at a maximum and at $\alpha=\frac{\pi}{2}$ flux is zero. So the perpendicular component of flux can be defined as: $\phi=AB\cos\alpha$ where $B$ is [[tesla|magnetic flux density]]
 - We can also define $\alpha$ interms of angular velocity as $\alpha=t\omega$
 - Finally from [[faraday's law]]: $\mathcal {E} = - \frac{d\phi}{dt}$
 Now we can sub all this together:
 $$\begin{align*}
-\mathcal {E}& = - \frac{d\phi}{dt} & \phi&=A\cos\alpha & \alpha&=t\omega & A&=LD\\
+\mathcal {E}& = - \frac{d\phi}{dt} & \phi&=AB\cos\alpha & \alpha&=t\omega & A&=LD\\
 & & &=LD\cos(t\omega)\\
-& & \frac{d\phi}{dt} &=-LD \omega \sin(t\omega)\\
-\mathcal {E}& = LD \omega \sin(t\omega)
+& & \frac{d\phi}{dt} &=-LDB \omega \sin(t\omega)\\
+\mathcal {E}& = LDB \omega \sin(t\omega)
 \end{align*}$$
 
-Now if we imagine lots of these loops tightly wound ontop of eachother, call the number of loops $N$, the total area 
+Now if we imagine lots of these loops tightly wound ontop of eachother, call the number of loops $N$, the total area becomes $A=NLD$ so our final equation would then become:
+$$\begin{align*}
+\mathcal {E}& = NLDB \omega \sin(t\omega)
+\end{align*}$$
