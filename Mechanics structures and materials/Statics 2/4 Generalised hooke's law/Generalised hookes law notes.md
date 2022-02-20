@@ -10,4 +10,4 @@ tags: ["NotesPage"]
 
 
 ## Expanded articles
-![[plane stress]]
+![[plane stress (generalised hookes law)]]
