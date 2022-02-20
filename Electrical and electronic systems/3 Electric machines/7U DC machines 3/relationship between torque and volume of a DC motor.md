@@ -15,5 +15,5 @@ tags: ["Question","QFormat3"]
 > ### $$ T = 2BA V_{R} $$ 
 >> where:
 >> $T=$ torque
->> $B=$ [[tesla|magnetic flux density]]
+>> $B=$ [[magnetic loading]]
 >> $A=\frac{zi_{c}}{\pi D}=$ [[electric loading]]
