@@ -9,6 +9,7 @@ This is a measure of the [[poisson effect]], it is the ratio of the lateral and 
 
 > $$ \nu = -\frac{\epsilon_x}{\epsilon_z} = -\frac{\epsilon_y}{\epsilon_z} $$ 
 >> where:
+>> $nu=$ [[poisson's ratio]]
 >> $\epsilon_x=$ axial strain
 >> $\epsilon_z=$ lateral strain
 >> $\epsilon_y=$ axial strain
