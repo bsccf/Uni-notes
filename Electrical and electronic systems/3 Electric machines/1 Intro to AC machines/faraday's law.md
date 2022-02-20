@@ -28,6 +28,8 @@ Alternatively for a tightly wound coil of wire:
 > 
 > (I'm pretty sure that [[flux linkage]] can also be used, so $\mathcal {E} = - \frac{d\lambda}{dt}$ )
 
+What's important to understand is that it is the flux enclosed by the loop, so it is the area of the 
+
 Another form (more useable):
 
 ![[Pasted image 20220203173926.png]]
