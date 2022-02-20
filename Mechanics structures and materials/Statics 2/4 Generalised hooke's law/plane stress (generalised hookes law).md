@@ -5,11 +5,13 @@ tags: ["Question","QFormat3"]
 
 #### Describe
 ## Plane stress (generalised hookes law)
-So in the past we discussed [[poisson's ratio]] and we have been mostly solving problems with loads in one diection, but when working in 3D or even 2D there are often stresses and strains being externally applied in multiple directions, so the [[poisson's ratio]] needs to be used to calculate how all these different stresses interact and overlap.
+So in the past we discussed [[poisson's ratio]] and we have been mostly solving problems with loads in one diection, but when working in 3D or even 2D there are often stresses and strains being externally applied in multiple directions, so the [[poisson's ratio]] needs to be used to calculate how all these different stresses interact and overlap. So it is important to keep in mind that these equations need to be used instead of there simpler older counterparts when considering multi directional strain situations!
 
 ![[Pasted image 20220220111356.png]]
 
 In a situation of plane stress we assume $\sigma_{zz}=0$ but that does not mean that $\varepsilon_{zz}=0$, using this we can derive the following formula for strains:
+
+### Strain equations
 
 #### X Strain
 
@@ -47,7 +49,18 @@ In a situation of plane stress we assume $\sigma_{zz}=0$ but that does not mean 
 >> where:
 >> $E=$ [[youngs modulus]]
 >> $\varepsilon_{xy}=$ shear strain in xy
->> $\sigma_{xx}=$ s stress in xy
->> $\sigma_{yy}=$ stress in yy
+>> $\sigma_{xx}=$ shear stress in xy
 >> $\nu=$ [[poisson's ratio]]
 
+![[Pasted image 20220220112430.png]]
+
+### Stress equations
+With lots of subbing in and rearranging you can get the following stress equations from the strain ones:
+
+#### X stress
+
+> ### $$ \sigma_{xx} = \frac{E}{1-\nu^{2}} ( \varepsilon_{xx} + \nu \varepsilon_{yy} ) $$ 
+>> where:
+>> $\sigma_{xx}=$ 
+>> $E=$
+>> $\=$
