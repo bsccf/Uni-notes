@@ -53,4 +53,12 @@ $$\begin{align*}
 \mathcal {E}& = NLDB \omega \sin(t\omega)
 \end{align*}$$
 
-In reality $\omega\sin(t\omega)$ is just a function defining the perpendicular component of the magnetic field with respect to time
+In reality $\omega\sin(t\omega)$ is just a function defining the perpendicular component of the magnetic field with respect to time, so we can write this as out final equation:
+
+> ### $$ \mathcal {E}& = NLDB u(t) $$ 
+>> where:
+>> $u(t)=$ some function describing the perpendicular component of the magnetic field acting on the area at a given time
+>> $N=$ number of loops of coil
+>> $L=$ Length of wire loop
+>> $D=$ Width of wire loop
+>> $B=$ [[magnetic field d]]
