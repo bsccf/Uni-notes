@@ -21,3 +21,5 @@ Note that sometimes the [[bulk modulus]] is used:
 >> $\sigma_{xx}=\sigma_{yy}=\sigma_{zz}=\sigma_{H}$ 
 >> $\sigma_{H}=$ [[hydorstatic stress]]
 >> $K=$ [[bulk modulus]]
+
+As you can probably guess by the name "hydrostatic" this is and how this is applied to situations of uniform stress, we often use it in conjunction with [[Hydrostatic force notes|hydrostatic stuff]], like submeged t
