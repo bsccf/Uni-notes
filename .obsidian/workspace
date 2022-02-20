@@ -7,8 +7,12 @@
         "id": "ef7c4208b9e4729a",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Mechanics structures and materials/Statics 2/4 Generalised hooke's law/Generalised hookes law notes.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mechanics structures and materials/Statics 2/4 Generalised hooke's law/Generalised hookes law notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,10 +116,10 @@
   "active": "ef7c4208b9e4729a",
   "lastOpenFiles": [
     "Mechanics structures and materials/Statics 2/4 Generalised hooke's law/Generalised hookes law notes.md",
+    "Mechanics structures and materials/Statics 2/4 Generalised hooke's law/bulk modulus.md",
     "Mechanics structures and materials/Statics 2/4 Generalised hooke's law/plane strain (generalised hookes law).md",
     "Mechanics structures and materials/Statics 2/4 Generalised hooke's law/plane stress (generalised hookes law).md",
     "Mechanics structures and materials/Statics 2/4 Generalised hooke's law/hydrostatic stress.md",
-    "Mechanics structures and materials/Statics 2/4 Generalised hooke's law/bulk modulus.md",
     "Mechanics structures and materials/Statics 2/4 Generalised hooke's law/generalised hookes law.md",
     "Mechanics structures and materials/Materials/1 Atomic composition/6 Defects, dislocations and plastic deformation/poisson's ratio.md",
     "Mechanics structures and materials/Statics 2/4 Generalised hooke's law/I am concerned if you didn't realise that.md",
