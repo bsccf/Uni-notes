@@ -9,6 +9,8 @@ A constant assosiated with the emf output of a given DC generator.
 
 ![[Pasted image 20220210182814.png]]
 
+[[Lorentz's force law|lorentz force]]
+
 > ### $$ K_{E} = \frac{zDBL}{2a} $$ 
 >> where:
 >> $K_{E}=$ [[EMF constant (DC generator)|EMF constant]]
