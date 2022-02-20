@@ -55,10 +55,13 @@ $$\begin{align*}
 
 In reality $\omega\sin(t\omega)$ is just a function defining the perpendicular component of the magnetic field with respect to time, so we can write this as out final equation:
 
-> ### $$ \mathcal {E}& = NLDB u(t) $$ 
+> ### $$ \mathcal {E} = NLDB u(t) $$ 
 >> where:
 >> $u(t)=$ some function describing the perpendicular component of the magnetic field acting on the area at a given time
 >> $N=$ number of loops of coil
->> $L=$ Length of wire loop
->> $D=$ Width of wire loop
->> $B=$ [[magnetic field d]]
+>> $L=$ length of wire loop
+>> $D=$ width of wire loop
+>> $B=$ [[tesla|magnetic flux density]]
+
+There is also this, which is what is given as an example. I don't like it because it's more confusing but its in the notes... Here it is assumed the magnetic field is acting out of the page and is uniform while being entirely constrained to the area directly under the ma:
+![[Pasted image 20220220150211.png]]
