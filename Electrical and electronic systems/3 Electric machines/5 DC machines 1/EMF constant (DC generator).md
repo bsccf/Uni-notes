@@ -25,7 +25,7 @@ A constant assosiated with the emf output of a given DC generator.
 >> where:
 >> $K_{E}=$ [[EMF constant (DC generator)|EMF constant]]
 >> $z=$ number of conductors 
->> $\phi=\pi/=$ [[magnetic flux]]
+>> $\phi=\frac{\pi BLD}{N_{p} }=$ [[magnetic flux]]
 >> $N_{p}=$ number of number of poles
 >> $a=$ number of parallel conductor paths
 
