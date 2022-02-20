@@ -7,7 +7,9 @@ tags: ["NotesPage"]
 
 #### Intro and contents
 - [[poisson's ratio]]
+- [[plane stress (generalised hookes law)|plane stress]]
 - [[generalised hookes law]]
+- [[hydrostatic stress]]
 
 
 ## Expanded articles
@@ -16,3 +18,5 @@ tags: ["NotesPage"]
 ![[generalised hookes law]]
 
 ![[hydrostatic stress]]
+
+![[plane strain (generalised hookes law)]]
