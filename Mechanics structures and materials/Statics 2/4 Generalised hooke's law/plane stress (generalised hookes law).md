@@ -61,6 +61,25 @@ With lots of subbing in and rearranging you can get the following stress equatio
 
 > ### $$ \sigma_{xx} = \frac{E}{1-\nu^{2}} ( \varepsilon_{xx} + \nu \varepsilon_{yy} ) $$ 
 >> where:
->> $\sigma_{xx}=$ 
->> $E=$
->> $\=$
+>> $\sigma_{xx}=$ stress in x
+>> $E=$ [[youngs modulus]]
+>> $\nu=$ [[poisson's ratio]]
+>> $\varepsilon_{xx}=$ strain in x
+>> $\varepsilon_{yy}=$ strain in y
+
+#### Y stress
+
+> ### $$ \sigma_{yy} = \frac{E}{1-\nu^{2}} ( \varepsilon_{yy} + \nu \varepsilon_{xx} ) $$ 
+>> where:
+>> $\sigma_{yy}=$ stress in y
+>> $E=$ [[youngs modulus]]
+>> $\nu=$ [[poisson's ratio]]
+>> $\varepsilon_{xx}=$ strain in x
+>> $\varepsilon_{yy}=$ strain in y
+
+#### Z Stress
+
+> ### $$ \sigma_{zz} = 0 $$
+>> Because:
+>> That is [[I am concerned if you didn't realise that|literally the point]] of this page, have you not been paying attention?
+
