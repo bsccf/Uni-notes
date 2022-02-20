@@ -52,5 +52,10 @@ Take a look at the following diagram, you don't need to care about the [[Lorentz
 - Finally from [[faraday's law]]: $\mathcal {E} = - \frac{d\phi}{dt}$
 Now we can sub all this together:
 $$\begin{align*}
-\mathcal {E}& = - \frac{d\phi}{dt} & A&=LD & \phi=A\cos\alpha & \alpha=t\omega
+\mathcal {E}& = - \frac{d\phi}{dt} & \phi&=A\cos\alpha & \alpha&=t\omega & A&=LD\\
+& & &=LD\cos(t\omega)\\
+& & \frac{d\phi}{dt} &=-LD \omega \sin(t\omega)\\
+\mathcal {E}& = LD \omega \sin(t\omega)
 \end{align*}$$
+
+Now if we imagine lots of these loops tightly wound ontop of eachother, call the number of loops $N$, the total area 
