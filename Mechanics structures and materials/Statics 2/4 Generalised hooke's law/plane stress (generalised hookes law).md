@@ -13,14 +13,14 @@ In a situation of plane stress we assume $\sigma_{zz}=0$ but that does not mean 
 
 ### Strain equations
 
-#### X Strain
+#### Axial Strain
 
 > ### $$ \varepsilon_{xx} = \frac{1}{E} (\sigma_{xx} - \nu \sigma_{yy} ) $$ 
 > ### $$ \varepsilon_{yy} = \frac{1}{E} (\sigma_{yy} - \nu \sigma_{xx} ) $$ 
 > ### $$ \varepsilon_{zz} = -\frac{\nu}{E} (\sigma_{xx} + \sigma_{yy} ) $$ 
 >> where:
 >> $E=$ [[youngs modulus]]
->> $\varepsilon_{xx}=$ strain in some axis
+>> $\varepsilon=$ strain in some axis
 >> $\sigma_{xx}=$ stress in xx
 >> $\sigma_{yy}=$ stress in yy
 >> $\sigma_{zz}=0=$ stress in zz
@@ -40,34 +40,18 @@ In a situation of plane stress we assume $\sigma_{zz}=0$ but that does not mean 
 ### Stress equations
 With lots of subbing in and rearranging you can get the following stress equations from the strain ones:
 
-#### X stress
+#### Axial Stress
 
 > ### $$ \sigma_{xx} = \frac{E}{1-\nu^{2}} ( \varepsilon_{xx} + \nu \varepsilon_{yy} ) $$ 
 > ### $$ \sigma_{yy} = \frac{E}{1-\nu^{2}} ( \varepsilon_{yy} + \nu \varepsilon_{xx} ) $$ 
 > ### $$ \sigma_{zz} = 0 $$
 >> where:
->> $\sigma_{xx}=$ stress in some axis
+>> $\sigma=$ stress in some axis
 >> $E=$ [[youngs modulus]]
 >> $\nu=$ [[poisson's ratio]]
 >> $\varepsilon_{xx}=$ strain in x
 >> $\varepsilon_{yy}=$ strain in y
->> $\sigma_{zz}=$ 0 (because that is [[I am concerned if you didn't realise that|literally the point]] of this page, have you not been paying attention?)
-
-#### Y stress
-
-> ### $$ \sigma_{yy} = \frac{E}{1-\nu^{2}} ( \varepsilon_{yy} + \nu \varepsilon_{xx} ) $$ 
->> where:
->> $\sigma_{yy}=$ stress in y
->> $E=$ [[youngs modulus]]
->> $\nu=$ [[poisson's ratio]]
->> $\varepsilon_{xx}=$ strain in x
->> $\varepsilon_{yy}=$ strain in y
-
-#### Z Stress
-
-> ### $$ \sigma_{zz} = 0 $$
->> Because:
->> That is [[I am concerned if you didn't realise that|literally the point]] of this page, have you not been paying attention?
+>> $\sigma_{zz}=0$  (because that is [[I am concerned if you didn't realise that|literally the point]] of this page, have you not been paying attention?)
 
 #### Shear stress
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 2/4 Generalised hooke's law/plane stress (generalised hookes law).md",
+            "file": "Mechanics structures and materials/Statics 2/4 Generalised hooke's law/hydrostatic stress.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 2/4 Generalised hooke's law/plane stress (generalised hookes law).md",
+                "file": "Mechanics structures and materials/Statics 2/4 Generalised hooke's law/hydrostatic stress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "ef7c4208b9e4729a",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Statics 2/4 Generalised hooke's law/plane stress (generalised hookes law).md",
+    "Mechanics structures and materials/Statics 2/4 Generalised hooke's law/hydrostatic stress.md",
     "Mechanics structures and materials/Statics 2/4 Generalised hooke's law/Generalised hookes law notes.md",
+    "Mechanics structures and materials/Statics 2/4 Generalised hooke's law/plane stress (generalised hookes law).md",
     "Mechanics structures and materials/Statics 2/4 Generalised hooke's law/generalised hookes law.md",
     "Mechanics structures and materials/Materials/1 Atomic composition/6 Defects, dislocations and plastic deformation/poisson's ratio.md",
     "Mechanics structures and materials/Statics 2/4 Generalised hooke's law/I am concerned if you didn't realise that.md",
     "Mechanics structures and materials/Statics 2/2b Strain in multiple directions shear/local shear strain.md",
     "Mechanics structures and materials/Statics 2/Statics 2 overview.md",
     "Electrical and electronic systems/3 Electric machines/1 Intro to AC machines/faraday's law.md",
-    "Electrical and electronic systems/3 Electric machines/7U DC machines 3/relationship between torque and volume of a DC motor.md",
-    "Electrical and electronic systems/3 Electric machines/7U DC machines 3/DC machines 3 notes.md"
+    "Electrical and electronic systems/3 Electric machines/7U DC machines 3/relationship between torque and volume of a DC motor.md"
   ]
 }
