@@ -63,5 +63,5 @@ In reality $\omega\sin(t\omega)$ is just a function defining the perpendicular c
 >> $D=$ width of wire loop
 >> $B=$ [[tesla|magnetic flux density]]
 
-There is also this, which is what is given as an example. I don't like it because it's more confusing but its in the notes... Here it is assumed the magnetic field is acting out of the page and is uniform while being entirely constrained to the area directly under the ma:
+There is also this, which is what is given as an example. I don't like it because it's more confusing but its in the notes... Here it is assumed the magnetic field is acting out of the page and is uniform while being entirely constrained to the area directly under the magnet:
 ![[Pasted image 20220220150211.png]]
