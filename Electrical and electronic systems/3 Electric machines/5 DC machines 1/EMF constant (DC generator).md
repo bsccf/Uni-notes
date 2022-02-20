@@ -13,7 +13,7 @@ A constant assosiated with the emf output of a given DC generator.
 >> where:
 >> $K_{E}=$ [[EMF constant (DC generator)|EMF constant]]
 >> $z=$ number of conductors
->> $D=$ gap between coils and magnets ([[UNFINISHED STUFF]])
+>> $D=$ Average seperation of axialy oriented sections of coil (usuall)
 >> $B=$ [[tesla|magnetic flux density]]
 >> $L=$ length of conductor
 >> $a=$ number of parallel paths

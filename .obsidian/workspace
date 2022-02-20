@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Electrical and electronic systems/3 Electric machines/5 DC machines 1/EMF constant (DC generator).md",
-            "mode": "preview",
+            "mode": "source",
             "source": true
           }
         }
@@ -116,14 +116,14 @@
   "active": "ef7c4208b9e4729a",
   "lastOpenFiles": [
     "Electrical and electronic systems/3 Electric machines/5 DC machines 1/EMF constant (DC generator).md",
+    "Electrical and electronic systems/3 Electric machines/5 DC machines 1/EMF and torque in a DC generator.md",
+    "Electrical and electronic systems/3 Electric machines/5 DC machines 1/DC machines 1 notes.md",
     "misc/UNFINISHED STUFF.md",
     "misc/UNFINISHED LIGHT (tm).md",
     "Electrical and electronic systems/Electrical read order.md",
-    "Electrical and electronic systems/3 Electric machines/5 DC machines 1/EMF and torque in a DC generator.md",
     "Electrical and electronic systems/3 Electric machines/6U DC machines 2/DC motor.md",
     "Electrical and electronic systems/3 Electric machines/1 Intro to AC machines/faraday's law.md",
     "Thermofluids/Thermofluids read order.md",
-    "Mechanics structures and materials/Dynamics 1/4 Impulse and collisions/modeling particle impacts.md",
-    "Mechanics structures and materials/Dynamics 1/4 Impulse and collisions/plane of contact.md"
+    "Mechanics structures and materials/Dynamics 1/4 Impulse and collisions/modeling particle impacts.md"
   ]
 }
