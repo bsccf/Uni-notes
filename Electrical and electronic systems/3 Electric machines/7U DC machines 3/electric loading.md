@@ -8,7 +8,7 @@ tags: ["Question","QFormat3"]
 
 It is basically the rated current per unit length of the perimeter of the machine, which is found to be similar for machines of similar cooling regardless of their size. 
 
-> ### $$  = $$ 
+> ### $$ A = z  $$ 
 >> where:
 >> $=$ 
 >> $=$
