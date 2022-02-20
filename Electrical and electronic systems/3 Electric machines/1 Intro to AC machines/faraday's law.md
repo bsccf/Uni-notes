@@ -28,6 +28,8 @@ Alternatively for a tightly wound coil of wire:
 > 
 > (I'm pretty sure that [[flux linkage]] can also be used, so $\mathcal {E} = - \frac{d\lambda}{dt}$ )
 
+### Useful form
+
 What's important to understand is that it is the flux enclosed by the loop, so in a uniform magnetic field it is proportional to AREA in the loop!
 
 Another form (more useable):
@@ -42,3 +44,5 @@ Another form (more useable):
 >> $L=$
 
 [[UNFINISHED STUFF]]
+
+N
