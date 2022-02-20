@@ -19,8 +19,8 @@ Now for the cube you can use the following equations for things and stuff:
 > ### $$ \varepsilon_{yy} = \frac{\sigma_{yy} - \nu(\sigma_{xx} + \sigma_{zz})}{E} $$ 
 > ### $$ \varepsilon_{zz} = \frac{\sigma_{zz} - \nu(\sigma_{yy} + \sigma_{xx})}{E} $$ 
 >> where:
->> $\varepsilon=$ strain in some ax
->> $\sigma=$ stress
+>> $\varepsilon=$ strain in some axis
+>> $\sigma=$ stress in some axis
 >> $E=$ [[youngs modulus]]
 >> $\nu=$ [[poisson's ratio]]
 
@@ -33,3 +33,24 @@ The equations for $\varepsilon_{xy},\varepsilon_{xz},\varepsilon_{yz}$ are all t
 >> $E=$ [[youngs modulus]]
 >> $\nu=$ [[poisson's ratio]]
 
+### Stress
+Same as for [[plane stress (generalised hookes law)|plane stress]], we can use the equations above to derive the stress equations:
+
+#### Axial
+
+> ### $$ \sigma_{xx} = E \frac{(1-\nu)\varepsilon_{xx} + \nu(\varepsilon_{yy} + \varepsilon_{zz})}{(1+\nu)(1-2\nu)} $$ 
+> ### $$ \sigma_{yy} = E \frac{(1-\nu)\varepsilon_{yy} + \nu(\varepsilon_{xx} + \varepsilon_{zz})}{(1+\nu)(1-2\nu)} $$ 
+> ### $$ \sigma_{zz} = E \frac{(1-\nu)\varepsilon_{zz} + \nu(\varepsilon_{yy} + \varepsilon_{xx})}{(1+\nu)(1-2\nu)} $$ 
+>> where:
+>> $\varepsilon=$ strain in some axis
+>> $\sigma=$ stress in some axis
+>> $E=$ [[youngs modulus]]
+>> $\nu=$ [[poisson's ratio]]
+
+#### Shear
+> ### $$ \si = $$ 
+>> where:
+>> $\varepsilon_{xy}=$ shear strain in xy
+>> $\sigma_{xy}=$ shear stress in xy
+>> $E=$ [[youngs modulus]]
+>> $\nu=$ [[poisson's ratio]]
