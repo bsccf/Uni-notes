@@ -45,4 +45,5 @@ Another form (more useable):
 
 [[UNFINISHED STUFF]]
 
-N
+Take a look at the following diagram, you don't need to care about the [[Lorentz's force law|lorentz force]] or current right now all that's important is $\alpha, D, L$. If we assume the [[tesla|magnetic flux density]] to be constant between the magnets which is generally a resonable approximation inside many electronic machines then:
+- We know the area inside the loop is equal t
