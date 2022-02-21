@@ -25,7 +25,13 @@ $$\begin{align*}
 \sigma_{x'x'} A_{H} &= A_{y}( \sigma_{xx} \cos\theta + \sigma_{xy}\sin\theta ) + A_{x}( \sigma_{yy} \sin\theta + \sigma_{xy} \cos\theta ) &
 \sigma_{x'y'} A_{H} &= A_{y}( \sigma_{xx} \sin\theta + \sigma_{xy}\cos\theta ) + A_{x}( \sigma_{yy} \cos\theta + \sigma_{xy} \sin\theta ) \\
 
-\sigma_{x'x'} A &= A_{y}( \sigma_{xx} \cos\theta + \sigma_{xy}\sin\theta ) + A_{x}( \sigma_{yy} \sin\theta + \sigma_{xy} \cos\theta ) &
-\sigma_{x'y'} A &= A_{y}( \sigma_{xx} \sin\theta + \sigma_{xy}\cos\theta ) + A_{x}( \sigma_{yy} \cos\theta + \sigma_{xy} \sin\theta ) \\
+\sigma_{x'x'} \frac{A}{\cos\theta} &= A( \sigma_{xx} \cos\theta + \sigma_{xy}\sin\theta ) + A\tan\theta( \sigma_{yy} \sin\theta + \sigma_{xy} \cos\theta ) &
+\sigma_{x'y'} \frac{A}{\cos\theta} &= A( \sigma_{xx} \sin\theta + \sigma_{xy}\cos\theta ) + A\tan\theta( \sigma_{yy} \cos\theta + \sigma_{xy} \sin\theta ) \\
+
+\sigma_{x'x'} \frac{1}{\cos\theta} &=  \sigma_{xx} \cos\theta + \sigma_{xy}\sin\theta  + \tan\theta( \sigma_{yy} \sin\theta + \sigma_{xy} \cos\theta ) &
+\sigma_{x'y'} \frac{1}{\cos\theta} &= \sigma_{xx} \sin\theta + \sigma_{xy}\cos\theta  + \tan\theta( \sigma_{yy} \cos\theta + \sigma_{xy} \sin\theta ) \\
+
+\sigma_{x'x'} &=  \sigma_{xx} \cos^{2}\theta + \sigma_{xy}\sin\theta \cos\theta  + \sin\theta ( \sigma_{yy} \sin\theta + \sigma_{xy} \cos\theta ) &
+\sigma_{x'y'} &= \sigma_{xx} \cos\theta \sin\theta + \sigma_{xy}\cos^{2}\theta  + \sigma_{yy} \sin\theta \cos\theta + \sigma_{xy} \sin^{2}\theta  \\
 
 \end{align*}$$
