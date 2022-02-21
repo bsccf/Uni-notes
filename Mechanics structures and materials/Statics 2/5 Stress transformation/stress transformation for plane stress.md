@@ -5,7 +5,20 @@ tags: ["Question","QFormat3"]
 
 #### Describe
 ## Stress transformation for plane stress
+### Equation
+![[Pasted image 20220221135947.png]]
 
+> ### $$  = \sigma_{yy} \sin^{2}\theta + \sigma_{xx} \cos^{2}\theta + 2\sigma_{xy}\sin\theta \cos\theta $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
+
+> ### $$  = (\sigma_{yy} -\sigma_{xx})\cos\theta \sin\theta  + \sigma_{xy}(\cos^{2}\theta- \sin^{2}\theta ) $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
 
 ### Proof
 Basically the same as [[stress transformation for uniaxle loading#Proof]] but now in 2D. (so [[something something skill issue|harder]])
@@ -34,7 +47,7 @@ $$\begin{align*}
 \sigma_{x'x'} &=  \sigma_{xx} \cos^{2}\theta + \sigma_{xy}\sin\theta \cos\theta  + \sigma_{yy} \sin^{2}\theta + \sigma_{xy} \cos\theta \sin\theta &
 \sigma_{x'y'} &= -\sigma_{xx} \cos\theta \sin\theta + \sigma_{xy}\cos^{2}\theta  + \sigma_{yy} \sin\theta \cos\theta - \sigma_{xy} \sin^{2}\theta  \\
 
-\sigma_{x'x'} &=  \sigma_{xx} \cos^{2}\theta + \sigma_{xy}\sin\theta \cos\theta  + \sigma_{yy} \sin^{2}\theta + \sigma_{xy} \cos\theta \sin\theta &
-\sigma_{x'y'} &= -\sigma_{xx} \cos\theta \sin\theta + \sigma_{xy}\cos^{2}\theta  + \sigma_{yy} \sin\theta \cos\theta - \sigma_{xy} \sin^{2}\theta  \\
+ &=  \sigma_{yy} \sin^{2}\theta + \sigma_{xx} \cos^{2}\theta + 2\sigma_{xy}\sin\theta \cos\theta  &
+ &= (\sigma_{yy} -\sigma_{xx})\cos\theta \sin\theta  + \sigma_{xy}(\cos^{2}\theta- \sin^{2}\theta )    \\
 
 \end{align*}$$
