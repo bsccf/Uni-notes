@@ -5,7 +5,22 @@ tags: ["Question","QFormat3"]
 
 #### Describe
 ## Stress transformation for uniaxle loading
+### Equations
+![[Pasted image 20220221125353.png]]
 
+> ### $$ \sigma_{x'x'} =\sigma_{xx} \cos^{2}\theta $$ 
+>> where:
+>> $\sigma_{x'x'}=$ 
+>> $\sigma_{xx}=$ stress in xx
+>> $=$
+
+> ### $$ \sigma_{x'y'} = \sigma_{xx}\sin\theta \cos\theta $$ 
+>> where:
+>> $\sigma_{x'y'}=$ stress in 
+>> $\sigma_{xx}=$ stress in xx
+>> $=$
+
+### Proof
 The important thing to understand about stresses is their values depend on the direction used as axis, for uniaxle loading we only have external forces acting in one direction but we can find the stress at different inclined slices through the object which are also valid interpretations of stress just relative to a different axis.
 
 Heres a diagram represening uniaxial loading and a slice at angle theta through it:
@@ -32,5 +47,6 @@ So finally it becomes possible to define shear and normal stresses by dividing f
 
 $$\begin{align*}
 \sigma_{x'x'} &= \frac{F \cos\theta}{\frac{A}{\cos\theta}} & \sigma_{x'y'} &= \frac{F\sin\theta }{\frac{A}{\cos\theta}}\\
-&= F\frac{ \cos^{2}\theta}{A} & &= \frac{F\sin\theta }{\frac{A}{\cos\theta}}
+&=\frac{ F}{A} \cos^{2}\theta & &=\frac{F}{A} \sin\theta \cos\theta\\
+&=\sigma_{xx} \cos^{2}\theta  & &= \sigma_{xx}\sin\theta \cos\theta 
 \end{align*}$$
