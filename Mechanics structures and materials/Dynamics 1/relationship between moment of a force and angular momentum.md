@@ -11,3 +11,10 @@ tags: ["Question","QFormat3"]
 >> $\underline{M_{O}}=$ Moments acting on object
 >> $\underline{H_{O}}=$ [[moment of linear momentum]]
 
+This form kinda sucks so we can rearrange it into:
+
+> ### $$ (\underline{H_{O}})_{1} + \sum\limits \int^{t_{2}}_{t_{1}} \underline{M_{O}}\:\: dt = (\underline{H_{O}})_{2} $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
