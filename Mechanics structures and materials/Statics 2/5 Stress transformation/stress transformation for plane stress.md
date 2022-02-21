@@ -8,4 +8,5 @@ tags: ["Question","QFormat3"]
 
 
 ### Proof
-Basically the same as [[stress transformation for uniaxle loading#Proof]] but now 
+Basically the same as [[stress transformation for uniaxle loading#Proof]] but now in 2D. (so [[something something skill issue|harder]])
+
