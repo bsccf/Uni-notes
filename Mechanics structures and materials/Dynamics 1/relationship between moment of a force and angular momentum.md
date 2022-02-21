@@ -19,6 +19,8 @@ This form kinda sucks so we can rearrange it into:
 >> $\underline{H_{O}}=$ [[moment of linear momentum]]
 >> $t=$ time
 
+^567385
+
 Although this looks confusing it basically says initial [[moment of linear momentum|moment of momentum]] plus sum of moment impulses equals final [[moment of linear momentum|moment of momentum]].
 
-Also
+Also the reason this page has the alias [[relationship between moment of a force and angular momentum|conservation of angular momentum]] is because of [[relationship between moment of a force and angular momentum#^567385|this equation]], this is basically saying that and then some. Of couse 
