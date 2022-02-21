@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["conservation of angular momentum"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -20,3 +20,5 @@ This form kinda sucks so we can rearrange it into:
 >> $t=$ time
 
 Although this looks confusing it basically says initial [[moment of linear momentum|moment of momentum]] plus sum of moment impulses equals final [[moment of linear momentum|moment of momentum]].
+
+Also

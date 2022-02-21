@@ -5,7 +5,7 @@ tags: ["Question","QFormat3"]
 
 #### What is a
 ## Moment of linear momentum ($H_{O}, \underline{H_{O}}$)
-Also known as [[moment of linear momentum|angular momentum]].
+Moment of linear momentum is basically the general case of [[moment of linear momentum|angular momentum]].
 
 Moment of momentum measures an objects tendency to continue to spin, it describes the rotary inertia of a system in motion about an axis. It can be applied to situations involving [[Curvilinear motion notes|curvilinear motion]], the equation defining this for a point mass is:
 
