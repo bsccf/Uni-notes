@@ -14,7 +14,7 @@ tags: ["Question","QFormat3"]
 >> $\sigma_{xx}=$ stress parrallel to external uniaxle loading
 >> $\theta=$ angle of slice
 
-> ### $$ \sigma_{x'y'} = \sigma_{xx}\sin\theta \cos\theta $$ 
+> ### $$ \sigma_{x'y'} = \sigma_{xx}\sin\theta \cos\theta = \sigma_{xx} \frac{\sin2\theta}{2} $$ 
 >> where:
 >> $\sigma_{x'y'}=$ shear stress along slice
 >> $\sigma_{xx}=$ stress parrallel to external uniaxle loading
