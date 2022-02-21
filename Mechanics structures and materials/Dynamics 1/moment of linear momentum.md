@@ -16,8 +16,10 @@ Moment of momentum measures an objects tendency to continue to spin, it describe
 
 The equation above works for 3D and 2D, but for 2D problems it is often easyer to use:
 
-> ### $$ \underline{H_{O}} = \underline{r} \times m \underline{v} $$ 
+> ### $$ H_{O} = mvr \sin \theta $$ 
 >> where:
 >> $=$ 
+>> $=$[[UNFINISHED STUFF]]
 >> $=$
->> $=$
+
+![[Pasted image 20220221183830.png]]
