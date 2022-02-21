@@ -22,6 +22,10 @@ tags: ["Question","QFormat3"]
 >> $\theta=$ angle of slice
 >> $\sigma=$ stresses
 
+#### Implications
+
+Note much of [[stress transformation for uniaxle loading#Implications]] applies here, basically this is that but worse since it's likely one of the orienta
+
 ### Proof
 Basically the same as [[stress transformation for uniaxle loading#Proof]] but now in 2D. (so [[something something skill issue|harder]])
 
