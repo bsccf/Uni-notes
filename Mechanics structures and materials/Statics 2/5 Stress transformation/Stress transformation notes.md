@@ -12,3 +12,4 @@ tags: ["NotesPage"]
 ## Expanded articles
 ![[stress transformation for uniaxle loading]]
 
+![[stress transformation for plane stress]]

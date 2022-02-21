@@ -28,7 +28,10 @@ It should be noted that from looking at the graph, even a material in uniaxle lo
 So clearly when applying stresses on materials their strength in all the different directions needs to be taken into account even if the force is only applied in one axis. If you think this is getting difficult to consider now, just wait till we get to 3D [[enjoy your slow descent into madness|lmao]].
 
 ### Proof
-The important thing to understand about stresses is their values depend on the direction used as axis, for uniaxle loading we only have external forces acting in one direction but we can find the stress at different inclined slices through the object which are also valid interpretations of stress just relative to a different axis.
+
+^1a0dc8
+
+The important thing to understand about stresses is for the same stress state, normal and shear stresses depend on the orientation of the surface we are interested in. 
 
 Heres a diagram represening uniaxial loading and a slice at angle theta through it:
 
