@@ -23,5 +23,14 @@ F_{N} &= F \cos\theta & F_{S}&= F\sin\theta
 
 Now we can also define the area of this slice as:
 $$\begin{align*}
-A_{\theta} &= A/
+A_{\theta} &= \frac{A}{\cos\theta}
+\end{align*}$$
+
+So finally it becomes possible to define shear and normal stresses by dividing force by area:
+
+![[Pasted image 20220221125036.png]]
+
+$$\begin{align*}
+\sigma_{x'x'} &= \frac{F \cos\theta}{\frac{A}{\cos\theta}} & \sigma_{x'y'} &= \frac{F\sin\theta }{\frac{A}{\cos\theta}}\\
+&= F\frac{ \cos^{2}\theta}{A} & &= \frac{F\sin\theta }{\frac{A}{\cos\theta}}
 \end{align*}$$
