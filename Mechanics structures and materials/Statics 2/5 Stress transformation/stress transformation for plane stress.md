@@ -16,4 +16,8 @@ Since we have multiple forces acting in each axis we need to account for all the
 But we can change our diagram to represent an equivilent pressure in a way that's less overwhelming:
 ![[Pasted image 20220221134202.png]]
 
-As before we can use pressure times area to get force and then equilibrium conditions to get equation
+As before we can use pressure times area to get force and then equilibrium conditions to get equations defining the stress on/along the plane we are intrested in:
+$$\begin{align*}
+A_{y} &= A & A_{x} &= A\tan\theta & A_{H} &= \frac{A}{\cos\theta} 
+\end{align*}$$
+For cancelling terms later it will be convinient to define the area of the faces interms of a single area $A$, now to get our g
