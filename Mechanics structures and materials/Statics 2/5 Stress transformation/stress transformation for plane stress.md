@@ -22,5 +22,10 @@ A_{y} &= A & A_{x} &= A\tan\theta & A_{H} &= \frac{A}{\cos\theta}
 \end{align*}$$
 For cancelling terms later it will be convenient to define the area of the faces interms of a single area $A$, now to get our force equilibrium equations along the normal/tangent of the cut face and solve:
 $$\begin{align*}
-\sigma_{x'x'} A_{H} &=  
+\sigma_{x'x'} A_{H} &= A_{y}( \sigma_{xx} \cos\theta + \sigma_{xy}\sin\theta ) + A_{x}( \sigma_{yy} \sin\theta + \sigma_{xy} \cos\theta ) &
+\sigma_{x'y'} A_{H} &= A_{y}( \sigma_{xx} \sin\theta + \sigma_{xy}\cos\theta ) + A_{x}( \sigma_{yy} \cos\theta + \sigma_{xy} \sin\theta ) \\
+
+\sigma_{x'x'} A &= A_{y}( \sigma_{xx} \cos\theta + \sigma_{xy}\sin\theta ) + A_{x}( \sigma_{yy} \sin\theta + \sigma_{xy} \cos\theta ) &
+\sigma_{x'y'} A &= A_{y}( \sigma_{xx} \sin\theta + \sigma_{xy}\cos\theta ) + A_{x}( \sigma_{yy} \cos\theta + \sigma_{xy} \sin\theta ) \\
+
 \end{align*}$$
