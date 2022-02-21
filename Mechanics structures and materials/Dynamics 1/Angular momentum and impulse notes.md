@@ -10,3 +10,4 @@ tags: ["NotesPage"]
 
 
 ## Expanded articles
+![[moment of linear momentum]]
