@@ -13,3 +13,11 @@ Moment of momentum measures an objects tendency to continue to spin, it describe
 >> $\underline{r}=$ the position expressed as a displacement vector from the origin 
 >> $m=$ mass
 >> $\underline{v}=$ [[velocity and speed|velocity]]
+
+The equation above works for 3D and 2D, but for 2D problems it is often easyer to use:
+
+> ### $$ \underline{H_{O}} = \underline{r} \times m \underline{v} $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
