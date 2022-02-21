@@ -20,6 +20,11 @@ tags: ["Question","QFormat3"]
 >> $\sigma_{xx}=$ stress parrallel to external uniaxle loading
 >> $\theta=$ angle of slice
 
+#### Implications
+![[Pasted image 20220221125825.png]]
+
+It should be noted that from looking at the graph, even a material in uniaxle loading expereinces a shear stress at 45 degrees equal to half the applied stress. Meaning that if a material has a shear strength less than half of it's 
+
 ### Proof
 The important thing to understand about stresses is their values depend on the direction used as axis, for uniaxle loading we only have external forces acting in one direction but we can find the stress at different inclined slices through the object which are also valid interpretations of stress just relative to a different axis.
 
