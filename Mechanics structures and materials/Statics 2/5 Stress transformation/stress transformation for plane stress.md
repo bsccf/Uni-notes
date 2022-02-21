@@ -9,14 +9,14 @@ tags: ["Question","QFormat3"]
 ![[Pasted image 20220221135947.png]]
 
 > ### $$ \sigma_{x'x'} = \sigma_{yy} \sin^{2}\theta + \sigma_{xx} \cos^{2}\theta + 2\sigma_{xy}\sin\theta \cos\theta $$ 
-> ### $$ \sigma_{x'x'} = \sigma_{yy} \sin^{2}\theta + \sigma_{xx} \cos^{2}\theta + 2\sigma_{xy}\sin2\theta $$ 
+> ### $$ \sigma_{x'x'} = \sigma_{yy} \sin^{2}\theta + \sigma_{xx} \cos^{2}\theta + \sigma_{xy} \sin2\theta $$ 
 >> where:
 >> $\sigma_{x'x'}=$ normal stress on slice 
 >> $\theta=$ angle of slice
 >> $\sigma=$ stresses
 
 > ### $$ \sigma_{x'y'} = (\sigma_{yy} -\sigma_{xx})\cos\theta \sin\theta  + \sigma_{xy}(\cos^{2}\theta- \sin^{2}\theta ) $$ 
-> ### $$ \sigma_{x'y'} = (\sigma_{yy} -\sigma_{xx}) \sin2\theta  + \sigma_{xy}(\cos^{2}\theta- \sin^{2}\theta ) $$ 
+> ### $$ \sigma_{x'y'} = (\sigma_{yy} -\sigma_{xx}) \frac{\sin2\theta}{2}  + \sigma_{xy}(\cos^{2}\theta- \sin^{2}\theta ) $$ 
 >> where:
 >> $\sigma_{x'y'}=$ shear stress along slice 
 >> $\theta=$ angle of slice
@@ -24,7 +24,7 @@ tags: ["Question","QFormat3"]
 
 #### Implications
 
-Note much of [[stress transformation for uniaxle loading#Implications]] applies here, basically this is that but worse since it's likely one of the orienta
+Note much of [[stress transformation for uniaxle loading#Implications]] applies here, basically this is that but worse since it's likely some of the orientations will actually have higher normal stress values than any of the input values... so fun.
 
 ### Proof
 Basically the same as [[stress transformation for uniaxle loading#Proof]] but now in 2D. (so [[something something skill issue|harder]])
