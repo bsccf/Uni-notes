@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 2/5 Stress transformation/stress transformation for plane stress.md",
+            "file": "Mechanics structures and materials/Statics 2/5 Stress transformation/Stress transformation notes.md",
             "mode": "preview",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 2/5 Stress transformation/stress transformation for plane stress.md",
+                "file": "Mechanics structures and materials/Statics 2/5 Stress transformation/Stress transformation notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "ef7c4208b9e4729a",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Statics 2/5 Stress transformation/Stress transformation notes.md",
+    "Mechanics structures and materials/Statics 2/1C  Pressure vessels/Pressure vessels notes.md",
+    "Mechanics structures and materials/Statics 2/1C  Pressure vessels/stresses in a cylindrical pressure vessel.md",
+    "Mechanics structures and materials/Statics 2/1C  Pressure vessels/stresses in a spherical pressure vessel.md",
+    "Mechanics structures and materials/Statics 2/1C  Pressure vessels/thin walled pressure vessel assumptions.md",
     "Mechanics structures and materials/Statics 2/5 Stress transformation/stress transformation for plane stress.md",
     "Mechanics structures and materials/Statics 2/5 Stress transformation/something something skill issue.md",
-    "Mechanics structures and materials/Statics 2/5 Stress transformation/Stress transformation notes.md",
     "Mechanics structures and materials/Statics 2/5 Stress transformation/stress transformation for uniaxle loading.md",
     "Mechanics structures and materials/Statics 2/5 Stress transformation/enjoy your slow descent into madness.md",
-    "Mechanics structures and materials/Statics 2/Statics 2 overview.md",
-    "Electrical and electronic systems/3 Electric machines/5 DC machines 1/EMF constant (DC generator).md",
-    "Electrical and electronic systems/3 Electric machines/7U DC machines 3/relationship between torque and volume of a DC motor.md",
-    "Electrical and electronic systems/3 Electric machines/7U DC machines 3/electric loading.md",
-    "Electrical and electronic systems/3 Electric machines/7U DC machines 3/magnetic loading.md"
+    "Mechanics structures and materials/Statics 2/Statics 2 overview.md"
   ]
 }
