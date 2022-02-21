@@ -8,17 +8,17 @@ tags: ["Question","QFormat3"]
 ### Equation
 ![[Pasted image 20220221135947.png]]
 
-> ### $$  = \sigma_{yy} \sin^{2}\theta + \sigma_{xx} \cos^{2}\theta + 2\sigma_{xy}\sin\theta \cos\theta $$ 
+> ### $$ \sigma_{x'x'} = \sigma_{yy} \sin^{2}\theta + \sigma_{xx} \cos^{2}\theta + 2\sigma_{xy}\sin\theta \cos\theta $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $\sigma_{x'x'}=$ normal stress on slice 
+>> $\theta=$ angle of slice
+>> $\sigma=$ stresses
 
-> ### $$  = (\sigma_{yy} -\sigma_{xx})\cos\theta \sin\theta  + \sigma_{xy}(\cos^{2}\theta- \sin^{2}\theta ) $$ 
+> ### $$ \sigma_{x'y'} = (\sigma_{yy} -\sigma_{xx})\cos\theta \sin\theta  + \sigma_{xy}(\cos^{2}\theta- \sin^{2}\theta ) $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $\sigma_{x'y'}=$ shear stress along slice 
+>> $\theta=$ angle of slice
+>> $\sigma=$ stresses
 
 ### Proof
 Basically the same as [[stress transformation for uniaxle loading#Proof]] but now in 2D. (so [[something something skill issue|harder]])
