@@ -10,7 +10,7 @@ tags: ["Question","QFormat3"]
 >> where:
 >> $T=$ torque 
 >> $B=$ [[magnetic loading]]
->> $A=\frac{zi_{c}}{\pi D}=$ [[electric loading]]
+>> 
 
 > ### $$ T = 2BA V_{R} $$ 
 >> where:
