@@ -7,7 +7,7 @@ tags: ["NotesPage"]
 
 #### Intro and contents
 - [[DC motor]]
-
+- [[DC motor power]]
 
 ## Expanded articles
 ![[DC motor]]
