@@ -9,12 +9,20 @@ tags: ["Question","QFormat3"]
 $$\begin{align*}
 T &= 2BA V_{R} & P &= T \omega \\
 & & P &= 2BA V_{R} \omega\\
-& & P \frac{1}{2BA} &= V_{R} \omega
+& & \frac{P}{\omega} \frac{1}{2BA} &= V_{R} 
 \end{align*}$$
-Both [[magnetic loading]] and [[electric loading]] are generally simular for DC machines regardless of size the above expression can be
+Both [[magnetic loading]] and [[electric loading]] are generally simular for DC machines regardless of size the above expression can be written as:
+$$\begin{align*}
+V_{R} &\propto \frac{P}{\omega}
+\end{align*}$$
 
-> ### $$ V_{R} \propto \frac{p}{\omega} $$ 
+> ### $$ V_{R} \propto \frac{P}{\omega} $$ 
+> ### $$ V_{R} = \frac{1}{2BA} \frac{P}{\omega} $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $V_{R}=$ Volume of rotor
+>> $P=$ mechanical power output
+>> $\omega=$ angular velocity
+>> $B=$ [[magnetic loading]]
+>> $A=$ [[electric loading]]
+
+This b
