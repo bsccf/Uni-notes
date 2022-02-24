@@ -25,6 +25,8 @@ Also in an ideal gas temperature is a function of internal energy of the gas, so
 >> $R=$ [[individual gas constant|specific gas constant]]
 >> $T=$ Temperature
 
+^e2b3c4
+
 > ### $$ pV =  mRT $$ 
 >> where:
 >> $p=$ Pressure of gas

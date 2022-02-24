@@ -13,6 +13,16 @@ Enthalpy is a property of a thermodynamic [[system (thermodynamics)|system]], is
 >> $W=$ [[pressure volume work]]
 >> $E_u=$ [[internal energy]]
 
+For an ideal gas the following can be used:
+
+> ### $$ d E_{h} = C_{p} dT $$ 
+>> where:
+>> $E_{h}=$ [[enthalpy]]
+>> $T=$ Temperature
+>> $C_{p}=$ [[constant pressure specific heat]]
+
+^a0bd5b
+
 Something else that is important is that change in enthalpy equals the change in heat:
 > ### $$ \Delta E_h = \Delta Q $$ 
 >> where:
