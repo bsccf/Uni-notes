@@ -13,3 +13,4 @@ tags: ["NotesPage"]
 ![[relationship between torque and volume of a DC motor]]
 
 ![[relationship between power and volume of a DC motor]]
+

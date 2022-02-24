@@ -25,4 +25,4 @@ V_{R} &\propto \frac{P}{\omega}
 >> $B=$ [[magnetic loading]]
 >> $A=$ [[electric loading]]
 
-This b
+This translates to "big motor hav big powa", that's a direct quote from Einstien btw. 
