@@ -15,3 +15,5 @@ tags: ["NotesPage"]
 ![[relationship between power and volume of a DC motor]]
 
 ![[DC machines wound fields]]
+
+![[DC motor speed control]]
