@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/3 Electric machines/7U DC machines 3/relationship between torque and volume of a DC motor.md",
+            "file": "Electrical and electronic systems/3 Electric machines/7U DC machines 3/relationship between power and volume of a DC motor.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/3 Electric machines/7U DC machines 3/relationship between torque and volume of a DC motor.md",
+                "file": "Electrical and electronic systems/3 Electric machines/7U DC machines 3/relationship between power and volume of a DC motor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,15 +116,15 @@
   },
   "active": "ef7c4208b9e4729a",
   "lastOpenFiles": [
+    "Electrical and electronic systems/3 Electric machines/7U DC machines 3/relationship between power and volume of a DC motor.md",
+    "Electrical and electronic systems/3 Electric machines/7U DC machines 3/DC machines 3 notes.md",
     "Electrical and electronic systems/3 Electric machines/7U DC machines 3/relationship between torque and volume of a DC motor.md",
-    "Electrical and electronic systems/3 Electric machines/7U DC machines 3/magnetic loading.md",
     "Thermofluids/20 Hydrostatic pressure/guage pressure.md",
+    "Electrical and electronic systems/3 Electric machines/7U DC machines 3/magnetic loading.md",
     "Thermofluids/20 Hydrostatic pressure/Hydrostatic pressure notes.md",
     "Thermofluids/25 Conservation of energy in flow/stagnation pressure.md",
     "Thermofluids/25 Conservation of energy in flow/conservation of energy in flow notes.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/Bernouillis Equation.md",
-    "Thermofluids/26 Applications of this stuff/venturi meter equation.md",
-    "Thermofluids/28 Steady flow energy equation/steady flow energy equation.md",
-    "Thermofluids/9 Kinetic theory of gas/individual gas constant.md"
+    "Thermofluids/26 Applications of this stuff/venturi meter equation.md"
   ]
 }
