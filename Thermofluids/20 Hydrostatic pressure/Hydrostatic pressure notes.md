@@ -6,7 +6,8 @@ tags: ["NotesPage"]
 # Hydrostatic pressure notes
 
 #### Intro and contents
-- 
+- [[refrence pressure]]
+- [[pressure (hydrostatics)]]
 
 
 ## Expanded articles
