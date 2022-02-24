@@ -12,8 +12,12 @@ Now the galaxy brain approach (which I 100% didn't just learn about, and knew al
 By also slapping an [[inductor]] in series with the motor you can ensure a more stable current, and given a really high frequency the current will basically approximate as constant.
 
 The mean current can be found using:
-> ### $$ I_{mean} = \frac{t_{on}}{t_{on}+} $$ 
+> ### $$ I_{mean} = \frac{P_{on}}{P_{on}+P_{off}} I_{amp}= \frac{P_{on}}{P} I_{amp} $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $I_{mean}=$ the mean current reaching the motor
+>> $I_{amp}=$ the amplitude of the AC wave 
+>> $P_{on}=$ The period where the wave current is at $I_{amp}$
+>> $P_{off}=$ The period where the wave current is zero
+>> $P=$ The period of the AC wave
+
+Of course
