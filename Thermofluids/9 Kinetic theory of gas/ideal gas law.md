@@ -18,7 +18,7 @@ Also in an ideal gas temperature is a function of internal energy of the gas, so
 
 ### Useful (Based) forms of the equation
 
-> ### $$ p\rho =  RT $$ 
+> ### $$ \frac{p}{\rho} =  RT $$ 
 >> where:
 >> $p=$ Pressure of gas
 >> $\rho=$ density
