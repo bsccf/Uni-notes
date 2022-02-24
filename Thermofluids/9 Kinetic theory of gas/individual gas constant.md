@@ -12,3 +12,5 @@ This is a constant that is specific to a gas relating its molecular weight to th
 >> $R=$ Individual gas constant
 >> $R_u=$ [[universal gas constant]]
 >> $m_u=$ specific molecular weight
+
+Note for air it is 287
