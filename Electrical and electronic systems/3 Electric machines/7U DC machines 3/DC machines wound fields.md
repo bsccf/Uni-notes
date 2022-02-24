@@ -12,3 +12,7 @@ Previously we discussed using a [[prime mover (DC machine field connection)|PM]]
 - [[series excitation (DC machine field connection)]]
 - [[shunt (DC machine field connection)]]
 - [[compound (DC machine field connection)]]
+
+Here you can see the relationship between speed and torque for some of the configurations:
+![[Pasted image 20220224141054.png]]
+As you can see depending on the 
