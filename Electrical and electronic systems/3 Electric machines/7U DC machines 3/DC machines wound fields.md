@@ -15,4 +15,4 @@ Previously we discussed using a [[prime mover (DC machine field connection)|PM]]
 
 Here you can see the relationship between speed and torque for some of the configurations:
 ![[Pasted image 20220224141054.png]]
-As you can see depending on the 
+As you can imagine depending on the use case of the machine you may choose a different configuration.
