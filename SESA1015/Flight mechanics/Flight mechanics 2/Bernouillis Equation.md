@@ -19,3 +19,4 @@ It assumes that:
 * No heat transfer into the fluid
 
 Basically it is the [[cope seeth mald no bitches ratio L ect|shit]] form of [[conservation of energy in flow#^4479a0|conservation of energy in flow equation]] where you have [[skill issue]] because there is no change in GPE.
+
