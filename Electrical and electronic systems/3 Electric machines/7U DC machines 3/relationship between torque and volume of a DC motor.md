@@ -10,10 +10,14 @@ tags: ["Question","QFormat3"]
 >> where:
 >> $T=$ torque 
 >> $B=$ [[magnetic loading]]
->> 
+>> $D=$ rotor diameter
+>> $i_{c}=$ current per conductor [[UNFINISHED STUFF]]
+>> $z=$ number of conductors
+>> $L-$ length of rotor
 
 > ### $$ T = 2BA V_{R} $$ 
 >> where:
 >> $T=$ torque
 >> $B=$ [[magnetic loading]]
 >> $A=\frac{zi_{c}}{\pi D}=$ [[electric loading]]
+>> $V_{R}=$ Volume 
