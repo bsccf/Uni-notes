@@ -11,3 +11,5 @@ tags: ["NotesPage"]
 
 ## Expanded articles
 ![[DC motor]]
+
+![[DC motor power]]
