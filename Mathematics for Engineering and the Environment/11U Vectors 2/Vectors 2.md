@@ -18,3 +18,5 @@ tags: ["NotesPage"]
 ![[tiple vector product]]
 
 ![[calculus with vectors]]
+
+![[vector equation of a line]]
