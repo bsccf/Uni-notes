@@ -8,6 +8,8 @@ tags: ["Question","QFormat3"]
 Basically so far you have been dealing with single integrals, things that are integrated with respect to one variable, but of course many things have their values depend on multiple input variables so this is where things get difficult... is what I would say if it was, it's actually not that bad, litterally just integrating the normal way twice for 2 speretate variables for example:
 
 $$\begin{align*}
-& & f(t,r,o,l) &= trol^{2} \\
-D_{nuts} &= f(t,r,o,l) dt dr do dl
+D_{nuts} &= \int \int \int \int f(t,r,o,l)\cdot dt \cdot dr \cdot do \cdot dl & f(t,r,o,l) &= trol^{2} \\
+ &= \int \int \int \int trol^{2}\cdot dt \cdot dr \cdot do \cdot dl\\
+&= \int \left(\int \left(\int \left(\int t\cdot dt\right)rol^{2} \cdot dr\right) \cdot do\right) \cdot dl\\
+&= \int \left(\int \left(\int \left( \frac{t^{2}}{2}+k_{1}\right)rol^{2} \cdot dr\right) \cdot do\right) \cdot dl\\
 \end{align*}$$
