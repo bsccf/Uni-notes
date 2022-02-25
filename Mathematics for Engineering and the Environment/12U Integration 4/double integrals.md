@@ -24,6 +24,8 @@ My examples kinda cursed but I hope you get the idea, it's just single integrati
 
 This important notation that needs to be learned is that now when defining limits on integrals you need to also note the variable it is assosiated with, as seen in the example below.
 
+It should also be noted that the order that you integrate doesn't matter, the final resault will be equivilent though the ste
+
 ### Example
 > Given that $y=zB\sin( x  )+x\sin(z)$ find an expression for the volume enclosed within $x=0\to X$ and $z=0\to Z$:
 > ![[Pasted image 20220225212649.png]]
