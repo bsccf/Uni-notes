@@ -5,6 +5,13 @@ tags: ["Question","QFormat3"]
 
 #### What is
 ## Cross product (vectors)
-![[Pasted image 20220225110335.png]]
 
-The cross product is the vector perpendicular to two 
+The cross product is the vector perpendicular to two given vectors times some other stuff:
+
+![[Pasted image 20220225110553.png]]
+
+> ### $$ \underline{a} \times \underline{b} =  $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
