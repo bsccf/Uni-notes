@@ -25,7 +25,7 @@ My examples kinda cursed but I hope you get the idea, it's just single integrati
 This important notation that needs to be learned is that now when defining limits on integrals you need to also note the variable it is assosiated with, as seen in the example below.
 
 ### Example
-> Given that $y=zB\sin( zx  )$ find an expression for the volume enclosed within $x=0\to1$ and $z=0\to1$:
+> Given that $y=zB\sin( zx  )$ find an expression for the volume enclosed within $x=0\to X$ and $z=0\to Z$:
 > ![[Pasted image 20220225212649.png]]
 > (the image isn't accurate but I hope you get the idea)
 
@@ -33,9 +33,10 @@ We know that the area of a 3D cube is $V=xyz$, and that over small differences i
 
 $$\begin{align*}
 dV &= y \cdot dz \cdot dx \\
-\int^{V}_{0} 1\cdot dV &= \int^{x=1}_{x=0} \int^{z=0}_{z=1} y \cdot dz \cdot dx \\
-V &= \int^{x=1}_{x=0} \left(\int^{z=0}_{z=1} zB\sin( zx  ) \cdot dz\right) \cdot dx \\
-&= B\int^{x=1}_{x=0} \left[ -\frac{z\cos(xz)}{x} + \sin\frac{xz}{}  \right]^{z=0}_{z=1} \cdot dx \\
+\int^{V}_{0} 1\cdot dV &= \int^{x=X}_{x=0} \int^{z=0}_{z=Z} y \cdot dz \cdot dx \\
+V &= \int^{x=X}_{x=0} \left(\int^{z=0}_{z=Z} zB\sin( zx  ) \cdot dz\right) \cdot dx \\
+&= B\int^{x=X}_{x=0} \left[ -\frac{z\cos(xz)}{x} + \frac{\sin(xz)}{x^{2}}  \right]^{z=0}_{z=Z} \cdot dx \\
+&= B\int^{x=X}_{x=0} \left( -\frac{Z\cos(xZ)}{x} + \frac{\sin(xZ)}{x^{2}} +\frac{0\cos(x0)}{x} - \frac{\sin(xz)}{x^{2}} \right) \cdot dx \\
 \end{align*}$$
 
 [[integration]]
