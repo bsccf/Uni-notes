@@ -14,8 +14,8 @@ Basically this is defining a vector that goes from a origin point to any point o
 
 This uses basic [[Addition of vectors|vector addition]], since $\underline{a}$ and $\underline{b}$ originate from the same point:
 $$\begin{align*}
-\vec{BA} &= \underline{a} - \underline{b} & \vec{OB} &= \underline{b} & \vec{OP} &= \vec{OB} + \vec{BP} \\
+\vec{BA} &= \underline{a} - \underline{b} & \vec{OB} &= \underline{b} & \vec{OP} = \underline{r} &= \vec{OB} + \vec{BP} \\
 \vec{BP} &= t(\underline{a} - \underline{b})\\
-& & & &= \underline{b} + t(\underline{a} - \underline{b})\\
-& & & &= t\underline{a} + (\underline{b} - \underline{b}) \\
+& & & & &= \underline{b} + t(\underline{a} - \underline{b})\\
+& & & & &=\underline{a} t + \underline{b}(1 - t) \\
 \end{align*}$$
