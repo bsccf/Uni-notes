@@ -38,7 +38,9 @@ V &= \int^{x=X}_{x=0} \int^{z=0}_{z=Z} \left( zB\sin( x  )+x\sin(z) \right) \cdo
 V &= \int^{x=X}_{x=0}  \left[ \frac{z^{2}}{2} B\sin(x) - x\cos(z) \right]^{z=0}_{z=Z} \cdot dx \\
 V &= \int^{x=X}_{x=0}  \left( \frac{Z^{2}}{2} B\sin(x) - x\cos(Z) - \frac{0^{2}}{2} B\sin(x) + x\cos(0) \right) \cdot dx \\
 V &= \int^{x=X}_{x=0}  \left( \frac{Z^{2}}{2} B\sin(x) - x\cos(Z) + x \right) \cdot dx \\
-V &=  \left[ \frac{Z^{2}}{2} B\sin(x) - x\cos(Z) + x \right]^{x=X}_{x=0} \\
+V &= \int^{x=X}_{x=0}  \left( \frac{Z^{2}}{2} B\sin(x) + x(1 - \cos(Z)) \right) \cdot dx \\
+V &=  \left[ -\frac{Z^{2}}{2} B\cos(x) + \frac{x^{2}}{2} (1 - \cos(Z)) \right]^{x=X}_{x=0} \\
+V &=  \left( -\frac{Z^{2}}{2} B\cos(X) + \frac{X^{2}}{2} (1 - \cos(Z)) + \frac{Z^{2}}{2} B\cos(0) - \frac{0^{2}}{2} (1 - \cos(Z)) \right) \\
 \end{align*}$$
 
 [[integration]]
