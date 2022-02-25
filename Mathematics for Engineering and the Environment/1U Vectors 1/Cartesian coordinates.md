@@ -1,5 +1,5 @@
 ---
-aliases: ["MEE 4.2.1","cartesian coordinates"]
+aliases: ["MEE 4.2.1","cartesian coordinates","cartesian"]
 tags: ["NotesPage"]
 ---
 
