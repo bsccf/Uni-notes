@@ -35,5 +35,7 @@ $$\begin{align*}
 dV &= y \cdot dz \cdot dx \\
 \int^{V}_{0} 1\cdot dV &= \int^{x=1}_{x=0} \int^{z=0}_{z=1} y \cdot dz \cdot dx \\
 V &= \int^{x=1}_{x=0} \left(\int^{z=0}_{z=1} zB\sin( zx  ) \cdot dz\right) \cdot dx \\
-&= \int^{x=1}_{x=0} \left(\int^{z=0}_{z=1} zB\sin( zx  ) \cdot dz\right) \cdot dx \\
+&= B\int^{x=1}_{x=0} \left[ -\frac{z\cos(xz)}{x} + \sin\frac{xz}{}  \right]^{z=0}_{z=1} \cdot dx \\
 \end{align*}$$
+
+[[integration]]
