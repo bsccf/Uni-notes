@@ -7,8 +7,12 @@
         "id": "ef7c4208b9e4729a",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Mathematics for Engineering and the Environment/Vectors 2.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mathematics for Engineering and the Environment/Vectors 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +116,8 @@
   },
   "active": "ef7c4208b9e4729a",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/Vectors 2.md",
+    "Mathematics for Engineering and the Environment/Overall Read order.md",
     "images/Pasted image 20211126141300.png",
     "Electrical and electronic systems/3 Electric machines/7 DC machines 3/DC motor speed control.md",
     "Electrical and electronic systems/3 Electric machines/7 DC machines 3/rheostat.md",
@@ -118,8 +125,6 @@
     "Electrical and electronic systems/3 Electric machines/7 DC machines 3/DC machines wound fields.md",
     "Electrical and electronic systems/3 Electric machines/7 DC machines 3/compound (DC machine field connection).md",
     "Electrical and electronic systems/3 Electric machines/7 DC machines 3/shunt (DC machine field connection).md",
-    "Electrical and electronic systems/3 Electric machines/7 DC machines 3/field rheostat.md",
-    "Electrical and electronic systems/3 Electric machines/7 DC machines 3/series excitation (DC machine field connection).md",
-    "Electrical and electronic systems/3 Electric machines/7 DC machines 3/prime mover (DC machine field connection).md"
+    "Electrical and electronic systems/3 Electric machines/7 DC machines 3/field rheostat.md"
   ]
 }
