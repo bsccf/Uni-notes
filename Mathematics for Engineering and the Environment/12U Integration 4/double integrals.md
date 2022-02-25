@@ -36,7 +36,8 @@ dV &= y \cdot dz \cdot dx \\
 \int^{V}_{0} 1\cdot dV &= \int^{x=X}_{x=0} \int^{z=0}_{z=Z} y \cdot dz \cdot dx \\
 V &= \int^{x=X}_{x=0} \left(\int^{z=0}_{z=Z} zB\sin( zx  ) \cdot dz\right) \cdot dx \\
 &= B\int^{x=X}_{x=0} \left[ -\frac{z\cos(xz)}{x} + \frac{\sin(xz)}{x^{2}}  \right]^{z=0}_{z=Z} \cdot dx \\
-&= B\int^{x=X}_{x=0} \left( -\frac{Z\cos(xZ)}{x} + \frac{\sin(xZ)}{x^{2}} +\frac{0\cos(x0)}{x} - \frac{\sin(xz)}{x^{2}} \right) \cdot dx \\
+&= B\int^{x=X}_{x=0} \left( -\frac{Z\cos(xZ)}{x} + \frac{\sin(xZ)}{x^{2}} +\frac{0\cos(x0)}{x} - \frac{\sin(x0)}{x^{2}} \right) \cdot dx \\
+&= B\int^{x=X}_{x=0} \left( -\frac{Z\cos(xZ)}{x} + \frac{\sin(xZ)}{x^{2}} \right) \cdot dx \\
 \end{align*}$$
 
 [[integration]]
