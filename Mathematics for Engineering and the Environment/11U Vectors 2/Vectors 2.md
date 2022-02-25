@@ -15,3 +15,4 @@ tags: ["NotesPage"]
 
 ![[alternative uses of the triple scalar product]]
 
+![[ve]]
