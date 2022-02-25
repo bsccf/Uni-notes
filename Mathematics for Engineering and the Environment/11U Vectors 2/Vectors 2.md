@@ -12,3 +12,5 @@ tags: ["NotesPage"]
 
 ## Expanded articles
 ![[volume of parallelepiped]]
+
+![[alternative uses of the triple scalar product]]
