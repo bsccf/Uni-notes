@@ -17,4 +17,4 @@ tags: ["NotesPage"]
 
 ![[tiple vector product]]
 
-![[calcul]]
+![[calculus of vectors]]
