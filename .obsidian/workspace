@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/12U Integration 4/Integration 4 overview.md",
-            "mode": "preview",
+            "file": "Mathematics for Engineering and the Environment/12U Integration 4/double integrals.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/12U Integration 4/Integration 4 overview.md",
+                "file": "Mathematics for Engineering and the Environment/12U Integration 4/double integrals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,7 @@
   },
   "active": "cc07ffda42f89909",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/12U Integration 4/double integrals.md",
     "Mathematics for Engineering and the Environment/12U Integration 4/Integration 4 overview.md",
     "Mathematics for Engineering and the Environment/12U Integration 4/its called we do a lil trolling on myself self trolling insanity.md",
     "Mathematics for Engineering and the Environment/Overall Read order.md",
@@ -123,7 +124,6 @@
     "Mathematics for Engineering and the Environment/1U Vectors 1/Cartesian coordinates.md",
     "Mathematics for Engineering and the Environment/1U Vectors 1/Addition of vectors.md",
     "Mathematics for Engineering and the Environment/11US Vectors 2/calculus with vectors.md",
-    "Mathematics for Engineering and the Environment/11US Vectors 2/tiple vector product.md",
-    "Mathematics for Engineering and the Environment/11US Vectors 2/volume of parallelepiped.md"
+    "Mathematics for Engineering and the Environment/11US Vectors 2/tiple vector product.md"
   ]
 }

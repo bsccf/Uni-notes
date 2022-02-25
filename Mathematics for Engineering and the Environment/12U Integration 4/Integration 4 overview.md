@@ -11,3 +11,4 @@ Oof this looks like it's going to be a fun one, would suck to have to do that lo
 
 
 ## Expanded articles
+![[double integrals]]
