@@ -10,6 +10,18 @@
           "type": "markdown",
           "state": {
             "file": "Mathematics for Engineering and the Environment/11U Vectors 2/alternative uses of the triple scalar product.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "e87559eb84374a59",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mathematics for Engineering and the Environment/11U Vectors 2/look I wrote it for consistancy.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/11U Vectors 2/alternative uses of the triple scalar product.md",
+                "file": "Mathematics for Engineering and the Environment/11U Vectors 2/look I wrote it for consistancy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,8 +125,9 @@
     "direction": "horizontal",
     "width": 191
   },
-  "active": "ef7c4208b9e4729a",
+  "active": "e87559eb84374a59",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/11U Vectors 2/look I wrote it for consistancy.md",
     "Mathematics for Engineering and the Environment/11U Vectors 2/alternative uses of the triple scalar product.md",
     "Mathematics for Engineering and the Environment/11U Vectors 2/volume of parallelepiped.md",
     "Mathematics for Engineering and the Environment/11U Vectors 2/Vectors 2.md",
@@ -123,7 +136,6 @@
     "Mathematics for Engineering and the Environment/1U Vectors 1/MEE Vectors 1.md",
     "Mathematics for Engineering and the Environment/1U Vectors 1/Cartesian coordinates.md",
     "Mathematics for Engineering and the Environment/1U Vectors 1/unit vector.md",
-    "Mathematics for Engineering and the Environment/1U Vectors 1/I dont know why I find this funny but I do.md",
-    "Mathematics for Engineering and the Environment/1U Vectors 1/dot product (vectors).md"
+    "Mathematics for Engineering and the Environment/1U Vectors 1/I dont know why I find this funny but I do.md"
   ]
 }
