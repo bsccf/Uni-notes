@@ -14,5 +14,6 @@ Chapter: 4
 1) [[Cartesian coordinates]]
 2) [[Scalars and vectors]]
 3) [[Addition of vectors]]
-4) [[dot product (vectors)]]
-5) [[cross product (vectors)]]
+4) [[unit vector]]
+5) [[dot product (vectors)]]
+6) [[cross product (vectors)]]
