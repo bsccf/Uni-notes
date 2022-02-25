@@ -35,7 +35,10 @@ $$\begin{align*}
 dV &= y \cdot dz \cdot dx \\
 \int^{V}_{0} 1\cdot dV &= \int^{x=X}_{x=0} \int^{z=0}_{z=Z} y \cdot dz \cdot dx \\
 V &= \int^{x=X}_{x=0} \int^{z=0}_{z=Z} \left( zB\sin( x  )+x\sin(z) \right) \cdot dz \cdot dx \\
-V &= \int^{x=X}_{x=0}  \left[ \frac{z^{2}}{2} B\sin(x) + x\sin(z) \right]^{z=0}_{z=Z} \cdot dz \cdot dx \\
+V &= \int^{x=X}_{x=0}  \left[ \frac{z^{2}}{2} B\sin(x) - x\cos(z) \right]^{z=0}_{z=Z} \cdot dx \\
+V &= \int^{x=X}_{x=0}  \left( \frac{Z^{2}}{2} B\sin(x) - x\cos(Z) - \frac{0^{2}}{2} B\sin(x) + x\cos(0) \right) \cdot dx \\
+V &= \int^{x=X}_{x=0}  \left( \frac{Z^{2}}{2} B\sin(x) - x\cos(Z) + x \right) \cdot dx \\
+V &=  \left[ \frac{Z^{2}}{2} B\sin(x) - x\cos(Z) + x \right]^{x=X}_{x=0} \\
 \end{align*}$$
 
 [[integration]]
