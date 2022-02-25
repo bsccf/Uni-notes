@@ -22,9 +22,11 @@ D_{nuts} &= \int \int \int \int f(t,r,o,l)\cdot dt \cdot dr \cdot do \cdot dl & 
 
 My examples kinda cursed but I hope you get the idea, it's just single integration over and over again. The hard part's really just getting the limits right, so yeah, I want to say skill issue but I've overused that now, uuuuh [[git guuuuudd aoifijuwlaoihjflkjawfdlk|get good?]].
 
-This important notation that needs to be learned is that now when defining limits on integrals you need to also note the variable it is assosiated with, as seen in the example below.
-
-It should also be noted that the order that you integrate doesn't matter, the final resault will be equivilent though the ste
+Some notes:
+- The important notation that needs to be learned is that now when defining limits on integrals you need to also note the variable it is assosiated with, as seen in the example below.
+- The order that you integrate doesn't matter, the final resault will be equivilent though the steps to get that resault may be more difficult depending on integration order.
+- When integrating you must fully expand all functions that use the variable you are currently integrating for as an input
+- The most obvious thing when working with multidimentional integration is volume but
 
 ### Example
 > Given that $y=zB\sin( x  )+x\sin(z)$ find an expression for the volume enclosed within $x=0\to X$ and $z=0\to Z$:
