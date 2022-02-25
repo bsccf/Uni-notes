@@ -35,12 +35,15 @@ $$\begin{align*}
 dV &= y \cdot dz \cdot dx \\
 \int^{V}_{0} 1\cdot dV &= \int^{x=X}_{x=0} \int^{z=0}_{z=Z} y \cdot dz \cdot dx \\
 V &= \int^{x=X}_{x=0} \int^{z=0}_{z=Z} \left( zB\sin( x  )+x\sin(z) \right) \cdot dz \cdot dx \\
-V &= \int^{x=X}_{x=0}  \left[ \frac{z^{2}}{2} B\sin(x) - x\cos(z) \right]^{z=0}_{z=Z} \cdot dx \\
-V &= \int^{x=X}_{x=0}  \left( \frac{Z^{2}}{2} B\sin(x) - x\cos(Z) - \frac{0^{2}}{2} B\sin(x) + x\cos(0) \right) \cdot dx \\
-V &= \int^{x=X}_{x=0}  \left( \frac{Z^{2}}{2} B\sin(x) - x\cos(Z) + x \right) \cdot dx \\
-V &= \int^{x=X}_{x=0}  \left( \frac{Z^{2}}{2} B\sin(x) + x(1 - \cos(Z)) \right) \cdot dx \\
-V &=  \left[ -\frac{Z^{2}}{2} B\cos(x) + \frac{x^{2}}{2} (1 - \cos(Z)) \right]^{x=X}_{x=0} \\
-V &=  \left( -\frac{Z^{2}}{2} B\cos(X) + \frac{X^{2}}{2} (1 - \cos(Z)) + \frac{Z^{2}}{2} B\cos(0) - \frac{0^{2}}{2} (1 - \cos(Z)) \right) \\
+ &= \int^{x=X}_{x=0}  \left[ \frac{z^{2}}{2} B\sin(x) - x\cos(z) \right]^{z=0}_{z=Z} \cdot dx \\
+ &= \int^{x=X}_{x=0}  \left( \frac{Z^{2}}{2} B\sin(x) - x\cos(Z) - \frac{0^{2}}{2} B\sin(x) + x\cos(0) \right) \cdot dx \\
+ &= \int^{x=X}_{x=0}  \left( \frac{Z^{2}}{2} B\sin(x) - x\cos(Z) + x \right) \cdot dx \\
+ &= \int^{x=X}_{x=0}  \left( \frac{Z^{2}}{2} B\sin(x) + x(1 - \cos(Z)) \right) \cdot dx \\
+ &=  \left[ -\frac{Z^{2}}{2} B\cos(x) + \frac{x^{2}}{2} (1 - \cos(Z)) \right]^{x=X}_{x=0} \\
+ &=  -\frac{Z^{2}}{2} B\cos(X) + \frac{X^{2}}{2} (1 - \cos(Z)) + \frac{Z^{2}}{2} B\cos(0) - \frac{0^{2}}{2} (1 - \cos(Z))  \\
+ &=   \frac{X^{2}}{2} (1 - \cos(Z)) -\frac{BZ^{2}}{2} \cos(X) + \frac{BZ^{2}}{2} \\
+ &=   \frac{X^{2}}{2} (1 - \cos(Z)) + \frac{BZ^{2}}{2}(1 - \cos(X)) \\
 \end{align*}$$
 
-[[integration]]
+Final expression is:
+$$ V = \frac{X^{2}}{2} (1 - \cos Z) + \frac{BZ^{2}}{2}(1 - \cos X) $$
