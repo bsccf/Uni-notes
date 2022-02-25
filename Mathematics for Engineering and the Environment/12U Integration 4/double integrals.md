@@ -26,7 +26,7 @@ Some notes:
 - The important notation that needs to be learned is that now when defining limits on integrals you need to also note the variable it is assosiated with, as seen in the example below.
 - The order that you integrate doesn't matter, the final resault will be equivilent though the steps to get that resault may be more difficult depending on integration order.
 - When integrating you must fully expand all functions that use the variable you are currently integrating for as an input
-- The most obvious thing when working with multidimentional integration is volume but
+- The most obvious thing when working with multidimentional integration is volume but any situation with multiple independent variables can use this type of integration
 
 ### Example
 > Given that $y=zB\sin( x  )+x\sin(z)$ find an expression for the volume enclosed within $x=0\to X$ and $z=0\to Z$:
