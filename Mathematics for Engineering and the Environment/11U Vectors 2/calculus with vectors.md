@@ -14,7 +14,7 @@ Ok looks like it's basically the same as normal but you do the thing to each par
 >> where:
 >> $\underline{v},\underline{u}=$ are vector funtions
 
-This ^ one is basically what I said above, you can integrate/differentiate each part independently then add it back together... like in the example at the bottom.
+This ^ one is basically what I said above, you can integrate/differentiate each part independently then add it back together... like in the example at the bottom. This one also works for [[integration]] with vectors.
 
 > ### $$ \frac{d}{dt} [ f(t) \underline{v}(t) ] = \frac{df}{dt} \underline{v} + f \frac{d\underline{v}}{dt}  $$ 
 >> where:
@@ -39,5 +39,7 @@ This ^ one is basically what I said above, you can integrate/differentiate each 
 $$\begin{align*}
 \underline{r} &= \underline{i} \sin t + \underline{j} \cos t \\
 \frac{d\underline{r}}{dt} &= (\frac{d}{dt} \underline{i} \sin t) + \frac{d}{dt} (\underline{j} \cos t) \\
-\frac{d\underline{r}}{dt} &= (\frac{d}{dt} \underline{i} \sin t) + \frac{d}{dt} (\underline{j} \cos t) \\
+\frac{d\underline{r}}{dt} &= \underline{i} \cos t -\underline{j} \sin t \\
 \end{align*}$$
+
+Basically what I said, just differentiate them independently and add em back together.
