@@ -11,3 +11,4 @@ tags: ["NotesPage"]
 
 
 ## Expanded articles
+![[volume of parallelepiped]]
