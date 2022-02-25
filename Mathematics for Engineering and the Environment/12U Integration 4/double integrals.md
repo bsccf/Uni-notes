@@ -27,9 +27,10 @@ My examples kinda cursed but I hope you get the idea, it's just single integrati
 > ![[Pasted image 20220225212649.png]]
 > (the image isn't accurate but I hope you get the idea)
 
-We know that the area of a 3D cube is $V=xyz$ so for a slic
+We know that the area of a 3D cube is $V=xyz$, and that over small differences in x and z you can take y as constant so: $dV = y\cdot dx \cdot dy$, and that will be our starting point. (Approximating something as constant over a small )
 
 $$\begin{align*}
-V &= \int^{x=1}_{x=0} \int^{z=0}_{z=1} y \cdot dx \cdot dz \\
+dV &= y \cdot dx \cdot dz \\
+\int^{V}_{0} 1\cdot dV &= \int^{x=1}_{x=0} \int^{z=0}_{z=1} y \cdot dx \cdot dz \\
 V &= \int^{x=1}_{x=0} \int^{z=0}_{z=1} y \cdot dx \cdot dz 
 \end{align*}$$
