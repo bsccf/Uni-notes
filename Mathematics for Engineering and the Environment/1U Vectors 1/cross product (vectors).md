@@ -10,6 +10,8 @@ The cross product is the vector perpendicular to two given vectors times some ot
 
 ![[Pasted image 20220225110553.png]]
 
+Note that the order matters $\underline{a} \times \underline{b} \neq \underline{b} \times \underline{a}$
+
 > ### $$ \underline{a} \times \underline{b} = (\sin(\theta) \times |\underline{a}| \times |\underline{b}|) \hat{\underline{n}} $$ 
 >> where:
 >> $\underline{a}, \underline{b}=$ some [[Scalars and vectors|vectors]]
