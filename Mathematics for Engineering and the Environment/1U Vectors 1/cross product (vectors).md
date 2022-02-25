@@ -18,10 +18,11 @@ Note that the order matters $\underline{a} \times \underline{b} \neq \underline{
 >> $\hat{\underline{n}}=$ the [[unit vector]] perpendicular to $\underline{a}, \underline{b}$
 >> $\theta=$ the angle between $\underline{a}, \underline{b}$
 
-Now getting the vector for $\underline{n}$ is a pain in the ass, you can do so using [[determinant]]s 
+Now getting the vector for $\underline{n}$ is a pain in the ass, you can do so using the [[determinant]]s in a simular way to how it's done in [[finding the determinant of a 3x3 matrix]]:
+![[Pasted image 20220225112254.png]]
 
-So here is the version for a 2D vector:
-> ### $$ \underline{a} \times \underline{b} =  = $$ 
+So here is the version for a 3D vector:
+> ### $$ \underline{a} \times \underline{b} = \begin{pmatrix} a_{i} \\ a_{j} \\ a_{k} \end{pmatrix} \times \begin{pmatrix} b_{i} \\ b_{j} \\ b_{k} \end{pmatrix} = \begin{pmatrix} a_{j} b_{k} - a_{k} b_{j} \\ a_{i} b_{k} - a_{k} b_{j} \\ a_{k} \end{pmatrix} $$ 
 >> where:
 >> $=$ 
 >> $=$
