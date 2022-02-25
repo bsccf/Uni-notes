@@ -16,3 +16,5 @@ tags: ["NotesPage"]
 ![[alternative uses of the triple scalar product]]
 
 ![[tiple vector product]]
+
+![[calcul]]
