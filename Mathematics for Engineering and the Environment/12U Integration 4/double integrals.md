@@ -23,4 +23,13 @@ D_{nuts} &= \int \int \int \int f(t,r,o,l)\cdot dt \cdot dr \cdot do \cdot dl & 
 My examples kinda cursed but I hope you get the idea, it's just single integration over and over again. The hard part's really just getting the limits right, so yeah, I want to say skill issue but I've overused that now, uuuuh [[git guuuuudd aoifijuwlaoihjflkjawfdlk|get good?]].
 
 ### Example
-> Given that $y=A\sin (z+B)$ and $y=A\sin( zx + D )$ find an expression for the volume enclosed between $(x_{0},)$
+> Given that $y=zB\sin( zx  )$ find an expression for the volume enclosed within $x=0\to1$ and $z=0\to1$:
+> ![[Pasted image 20220225212649.png]]
+> (the image isn't accurate but I hope you get the idea)
+
+We know that the area of a 3D cube is $V=xyz$ so for a slic
+
+$$\begin{align*}
+V &= \int^{x=1}_{x=0} \int^{z=0}_{z=1} y \cdot dx \cdot dz \\
+V &= \int^{x=1}_{x=0} \int^{z=0}_{z=1} y \cdot dx \cdot dz 
+\end{align*}$$
