@@ -24,7 +24,7 @@ My examples kinda cursed but I hope you get the idea, it's just single integrati
 
 Some notes:
 - The important notation that needs to be learned is that now when defining limits on integrals you need to also note the variable it is assosiated with, as seen in the example below.
-- The order that you integrate doesn't matter, the final resault will be equivilent though the steps to get that resault may be more difficult depending on integration order.
+- The order you integrate in can be changed (but remember to adjust limits if you change it!!!), the final resault will be equivilent though the steps to get that resault may be more difficult depending on integration order.
 - When integrating you must fully expand all functions that use the variable you are currently integrating for as an input
 - The most obvious thing when working with multidimentional integration is volume but any situation with multiple independent variables can use this type of integration
 
