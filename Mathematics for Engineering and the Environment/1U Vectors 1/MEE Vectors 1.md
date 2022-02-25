@@ -15,3 +15,4 @@ Chapter: 4
 2) [[Scalars and vectors]]
 3) [[Addition of vectors]]
 4) [[dot product (vectors)]]
+5) [[cross product (vectors)]]

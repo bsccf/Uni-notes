@@ -1,10 +1,12 @@
 ---
-aliases: ["dot product"]
+aliases: ["dot product","scalar product"]
 tags: ["Question","QFormat3"]
 ---
 
 #### What is
 ## Dot product (vectors)
+
+This is a function that when applied to two vectors of equal dimentions produces a [[Scalars and vectors|scalar]] product. 
 
 ![[Pasted image 20220225105955.png]]
 
