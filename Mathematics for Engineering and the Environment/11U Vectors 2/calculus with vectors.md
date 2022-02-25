@@ -34,4 +34,10 @@ This ^ one is basically what I said above, you can integrate/differentiate each 
 
 ### Example (hopefully also usefull stuff)
 > Differentiate:
-> $$ \underline{r} = \underline{i} \sin t $$
+> $$ \underline{r} = \underline{i} \sin t + \underline{j} \cos t $$
+
+$$\begin{align*}
+\underline{r} &= \underline{i} \sin t + \underline{j} \cos t \\
+\frac{d\underline{r}}{dt} &= (\frac{d}{dt} \underline{i} \sin t) + \frac{d}{dt} (\underline{j} \cos t) \\
+\frac{d\underline{r}}{dt} &= (\frac{d}{dt} \underline{i} \sin t) + \frac{d}{dt} (\underline{j} \cos t) \\
+\end{align*}$$
