@@ -23,7 +23,7 @@ $$\begin{align*}
 We can further define the vector parrallel to the line as $\underline{c}$ to get $\underline{r} = \underline{a} + t\underline{c}$ then if we get this into [[Cartesian coordinates|cartesian]] form:
 
 > ### $$ \frac{x-a_{1}}{c_{1}} = \frac{y-a_{2}}{c_{2}} = \frac{z-a_{3}}{c_{3}} $$ 
+> ### $$\underline{r}=\underline{a}+t\underline{c} 
 >> where:
 >> $=$ 
->> $=$
 >> $=$
