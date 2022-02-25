@@ -18,4 +18,11 @@ Note that the order matters $\underline{a} \times \underline{b} \neq \underline{
 >> $\hat{\underline{n}}=$ the [[unit vector]] perpendicular to $\underline{a}, \underline{b}$
 >> $\theta=$ the angle between $\underline{a}, \underline{b}$
 
-Now getting the vector for $\underline{n}$ is a pain in the ass
+Now getting the vector for $\underline{n}$ is a pain in the ass, you can do so using [[determinant]]s 
+
+So here is the version for a 2D vector:
+> ### $$ \underline{a} \times \underline{b} =  = $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
