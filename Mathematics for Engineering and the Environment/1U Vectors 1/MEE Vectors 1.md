@@ -1,5 +1,5 @@
 ---
-aliases: ["MEE 4","Vectors basic"]
+aliases: ["MEE 4","Vectors basic","Vectors 1"]
 tags: []
 ---
 
