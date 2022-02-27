@@ -48,4 +48,8 @@ Then [[double integrals with dependent limits#^dce0e0|the equation described abo
 
 ### Example
 > Let $I$ denote the intagral:
-> $$ T = \int\int $$
+> $$ T = \int\int_{A} \frac{x}{y} \cdot dx \cdot dy $$
+> Where $A$ is the inside of the triangle bound by lines $x=1,y=2,y=x$
+> Expand and simplify $I$
+
+As described previously, limits are just the lines defining some shape
