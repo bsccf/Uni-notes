@@ -32,10 +32,12 @@ where: $f(x) = \int^{g}_{0} yx+1 \cdot dy= \int^{x^{2}}_{0} yx+1 \cdot dy$ so by
 
 ### Implications of dependent limits
 Imagine the following graph as a top down view of a 3D graph, hence it is not currently possible to see the 3rd axis hieght due to the perspective:
-![[Pasted image 20220227121450.png]]
+![[Pasted image 20220227122916.png]]
 If we take the 3rd axis as hieght ($H(x,y) = x^{2} + 2xy$) then this shape is confusing, since with [[double integrals with independent limits]] we only dealt with rectangular shapes (limits such as $\int^{x=1}_{x+0}\int^{y=3}_{y=1}dy\cdot dx$, for this a top down view would be rectangular bound by those lines), the thing is limits on an integration function are actually just lines that define an area inside to integrate for, so it stands to reason that if these lines can be defined as constants then they can also be defined as functions, this is what is done in the diagram above, further as discussed in [[double integrals with dependent limits#Why limits matter|in the previous section]] if you define your limits in this mannor the integration order starts to matter.
 
 Now going back to the graph being used as an example, it's integral would be written as:
 $$\begin{align*}
 V &= \int^{x=x_{2}}_{x=x_{1}} \int^{y=g_{2}(x)}_{y=g_{1}(x)} x^{2} + 2xy \cdot dy\cdot dx
 \end{align*}$$
+
+Something important to note is if the line $x=x_{2}$ was before the interception point of $g_{2}(x)$ and $g_{1}(x)$:
