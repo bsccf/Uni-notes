@@ -41,3 +41,5 @@ V &= \int^{x=x_{2}}_{x=x_{1}} \int^{y=g_{2}(x)}_{y=g_{1}(x)} x^{2} + 2xy \cdot d
 \end{align*}$$
 
 Something important to note is if the line $x=x_{2}$ was before the interception point of $g_{2}(x)$ and $g_{1}(x)$:
+![[Pasted image 20220227123318.png]]
+Then the equation 
