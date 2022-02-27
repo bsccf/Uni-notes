@@ -73,5 +73,5 @@ I &= \int^{x=2}_{x=1} \int^{y=2}_{y=x} \frac{x}{y} \cdot dy\cdot dx\\
 &= \frac{3}{4} - \frac{1}{2}\ln2 \\
 \end{align*}$$
 If you want to know how I integrated $x\ln x$ I used [[single-page-integral-table.pdf]], I could marry this pdf [[its so fucking useful|ngl]]. Note that it would have been much simpler to instead use the limits:
-$$ I &= \int^{y=2}_{y=1} \int^{x=y}_{x=1} \frac{x}{y} \cdot dx\cdot dy $$
+$$ I = \int^{y=2}_{y=1} \int^{x=y}_{x=1} \frac{x}{y} \cdot dx\cdot dy $$
 Which would have also worked, but I wanted to show the hard way.
