@@ -48,8 +48,15 @@ Then [[double integrals with dependent limits#^dce0e0|the equation described abo
 
 ### Example
 > Let $I$ denote the intagral:
-> $$ T = \int\int_{A} \frac{x}{y} \cdot dx \cdot dy $$
+> $$ I = \int\int_{A} \frac{x}{y} \cdot dx \cdot dy $$
 > Where $A$ is the inside of the triangle bound by lines $x=1,y=2,y=x$
 > Expand and simplify $I$
 
-As described previously, limits are just the lines defining some shape
+As described previously, limits are just the lines defining some shape in this case:
+![[Pasted image 20220227124245.png]]
+
+So we can then write the integral as:
+$$\begin{align*}
+I &= \int^{x=1}_{x=?} \int^{y=2}_{y=x} \frac{x}{y} \cdot dy\cdot dx
+\end{align*}$$
+But what do we put as the second limit on $x$ to ensure it's defining the area inside the triangle? Here we would use $y=x$ 
