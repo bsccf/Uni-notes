@@ -65,4 +65,7 @@ Now we can solve the equation, noting that since the limits on y are defined int
 $$\begin{align*}
 I &= \int^{x=1}_{x=2} \int^{y=2}_{y=x} \frac{x}{y} \cdot dy\cdot dx\\
 &= \int^{x=1}_{x=2} \left(\int^{y=2}_{y=x} \frac{x}{y} \cdot dy\right)\cdot dx\\
+&= \int^{x=1}_{x=2} \left[ x ln(y) \right]^{y=2}_{y=x}\cdot dx\\
+&= \int^{x=1}_{x=2} xln(2) - xln(x) \cdot dx\\
+&= \int^{x=1}_{x=2} xln(2) - xln(x) \cdot dx\\
 \end{align*}$$
