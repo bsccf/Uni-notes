@@ -31,3 +31,6 @@ $$ \int^{X}_{0} f(x) \cdot dx $$
 where: $f(x) = \int^{g}_{0} yx+1 \cdot dy= \int^{x^{2}}_{0} yx+1 \cdot dy$ so by thinking about it that way you can clearly see that integration order matters in these situations. Now if for some reason you wanted to integrate for x first you would need to change the limits so that your dy integral is no longer a function of x. Which isn't possible for this particular example but if there was a way to relate $y$ and $x$ directly then it would be possible.
 
 ### Implications of dependent limits
+Imagine the following graph as a top down view of a 3D graph, hence it is not currently possible to see the 3rd axis hieght due to the perspective:
+![[Pasted image 20220227121450.png]]
+If we take the 3rd axis as [[doube integrals with dependent limits]] 
