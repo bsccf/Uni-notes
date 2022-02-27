@@ -67,7 +67,7 @@ I &= \int^{x=2}_{x=1} \int^{y=2}_{y=x} \frac{x}{y} \cdot dy\cdot dx\\
 &= \int^{x=2}_{x=1} \left(\int^{y=2}_{y=x} \frac{x}{y} \cdot dy\right)\cdot dx\\
 &= \int^{x=2}_{x=1} \left[ x \ln(y) \right]^{y=2}_{y=x}\cdot dx\\
 &= \int^{x=2}_{x=1} x\ln(2) - x\ln(x) \cdot dx\\
-&= \left[ \frac{x^{2}}{2} \ln\left(2\right) + \frac{x^{2}}{4} \right]^{x=2}_{x=1}\\
+&= \left[ \frac{x^{2}}{2} \ln\left(2\right) + x^{2} \right]^{x=2}_{x=1}\\
 &= \frac{2^{2}}{2} \ln(2) + \frac{2^{2}}{4} - \frac{1^{2}}{2} \ln(2) - \frac{1^{2}}{4} \\
 &= \frac{4}{2} \ln(2) + \frac{4}{4} - \frac{1}{2} \ln(2) - \frac{1}{4} \\
 &= \frac{3}{2} \ln(2)  - \frac{1}{2} \ln(2)\\
