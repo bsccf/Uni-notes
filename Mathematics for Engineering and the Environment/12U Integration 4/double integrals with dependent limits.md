@@ -59,4 +59,4 @@ So we can then write the integral as:
 $$\begin{align*}
 I &= \int^{x=1}_{x=?} \int^{y=2}_{y=x} \frac{x}{y} \cdot dy\cdot dx
 \end{align*}$$
-But what do we put as the second limit on $x$ to ensure it's defining the area inside the triangle? Here we would use $y=x$ 
+But what do we put as the second limit on $x$ to ensure it's defining the area inside the triangle? What we need is a line that doesn't change the area enclosed, such a line  
