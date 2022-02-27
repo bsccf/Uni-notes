@@ -20,4 +20,11 @@ y \frac{x^{2}}{2} &\\
 \end{align*}$$
 This is what I mean by fully expanding all variables that can be defined interms of what's being integrated for, since y can be defined interms of x it must be accounted for. So in this exact same way given the following example:
 > Solve:
-> $$  $$
+> $$ V = \int^{0}_{X} \int^{0}_{g} yx+1 \cdot dy \cdot dx $$
+> where: $g = x^{2}$
+
+Here although y is an independent variable from x you can rewrite the integral as:
+
+$$ \int^{0}_{X} f(x) \cdot dx $$
+
+where: $$ f $$
