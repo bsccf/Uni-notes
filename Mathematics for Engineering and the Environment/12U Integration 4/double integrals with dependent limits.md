@@ -57,17 +57,18 @@ As described previously, limits are just the lines defining some shape in this c
 
 So we can then write the integral as:
 $$\begin{align*}
-I &= \int^{x=1}_{x=?} \int^{y=2}_{y=x} \frac{x}{y} \cdot dy\cdot dx
+I &= \int^{x=?}_{x=1} \int^{y=2}_{y=x} \frac{x}{y} \cdot dy\cdot dx
 \end{align*}$$
 But what do we put as the second limit on $x$ to ensure it's defining the area inside the triangle? What we need is a line that doesn't change the area enclosed, such a line can be found by finding where $y=2$ and $y=x$ intecept and then define a limit that passes through that point. In this case that's quite easy, it's just $x=2$:
 ![[Pasted image 20220227124959.png]]
 Now we can solve the equation, noting that since the limits on y are defined interms of x the dy intagral needs to be solved first:
 $$\begin{align*}
-I &= \int^{x=1}_{x=2} \int^{y=2}_{y=x} \frac{x}{y} \cdot dy\cdot dx\\
-&= \int^{x=1}_{x=2} \left(\int^{y=2}_{y=x} \frac{x}{y} \cdot dy\right)\cdot dx\\
-&= \int^{x=1}_{x=2} \left[ x \ln(y) \right]^{y=2}_{y=x}\cdot dx\\
-&= \int^{x=1}_{x=2} x\ln(2) - x\ln(x) \cdot dx\\
-&= \left[ \frac{x^{2}}{2} \ln\left(2\right) + \frac{x^{2}}{4} \right]^{x=1}_{x=2}\\
-&= \frac{1^{2}}{2} \ln(2) + \frac{1^{2}}{4} - \frac{2^{2}}{2} \ln(2) - \frac{2^{2}}{4} \\
-&= \frac{1^{2}}{2} \ln(2) + \frac{1^{2}}{4} - \frac{2^{2}}{2} \ln(2) - \frac{2^{2}}{4} \\
+I &= \int^{x=2}_{x=1} \int^{y=2}_{y=x} \frac{x}{y} \cdot dy\cdot dx\\
+&= \int^{x=2}_{x=1} \left(\int^{y=2}_{y=x} \frac{x}{y} \cdot dy\right)\cdot dx\\
+&= \int^{x=2}_{x=1} \left[ x \ln(y) \right]^{y=2}_{y=x}\cdot dx\\
+&= \int^{x=2}_{x=1} x\ln(2) - x\ln(x) \cdot dx\\
+&= \left[ \frac{x^{2}}{2} \ln\left(2\right) + \frac{x^{2}}{4} \right]^{x=2}_{x=1}\\
+&= \frac{2^{2}}{2} \ln(2) + \frac{2^{2}}{4} - \frac{1^{2}}{2} \ln(2) - \frac{1^{2}}{4} \\
+&= \frac{4}{2} \ln(2) + \frac{4}{4} - \frac{1}{2} \ln(2) - \frac{1}{4} \\
+&= \frac{3}{2} \ln(2)  - \frac{1}{2} \ln(2)\\
 \end{align*}$$
