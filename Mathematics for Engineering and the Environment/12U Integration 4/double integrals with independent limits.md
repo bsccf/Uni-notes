@@ -23,7 +23,7 @@ D_{nuts} &= \int \int \int \int f(t,r,o,l)\cdot dt \cdot dr \cdot do \cdot dl & 
 Something else that's noteworthy is that since all the variables are independent we can actually write the integration like this:
 $$\begin{align*}
 D_{nuts} &= \int \int \int \int trol^{2}\cdot dt \cdot dr \cdot do \cdot dl\\
-D_{nuts} &= \int t\cdot dt\int r \cdot dr\int o \cdot do \int l^{2} \cdot dl
+D_{nuts} &= \left(\int t\cdot dt\right)\left(\int r \cdot dr\right)\left(\int o \cdot do\right) \left(\int l^{2} \cdot dl\right)
 \end{align*}$$
 
 My examples kinda cursed but I hope you get the idea, it's just single integration over and over again. The hard part's really just getting the limits right, so yeah, I want to say skill issue but I've overused that now, uuuuh [[git guuuuudd aoifijuwlaoihjflkjawfdlk|get good?]].
