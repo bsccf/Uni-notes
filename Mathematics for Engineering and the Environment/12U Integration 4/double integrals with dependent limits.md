@@ -45,3 +45,7 @@ V &= \int^{x=x_{2}}_{x=x_{1}} \int^{y=g_{2}(x)}_{y=g_{1}(x)} x^{2} + 2xy \cdot d
 Something important to note is if the line $x=x_{2}$ was before the interception point of $g_{2}(x)$ and $g_{1}(x)$:
 ![[Pasted image 20220227123318.png]]
 Then [[double integrals with dependent limits#^dce0e0|the equation described above]] would still work, of course it is also possible to move $x_{1}$ inwards in the same fashion and it would still be valid, this means you can define quite complex geometrys using integral limits.
+
+### Example
+> Let $I$ denote the intagral:
+> $$ T = \int\int $$
