@@ -68,6 +68,8 @@ I &= \int^{x=2}_{x=1} \int^{y=2}_{y=x} \frac{x}{y} \cdot dy\cdot dx\\
 &= \int^{x=2}_{x=1} \left[ x \ln(y) \right]^{y=2}_{y=x}\cdot dx\\
 &= \int^{x=2}_{x=1} x\ln(2) - x\ln(x) \cdot dx\\
 &= \left[ \frac{x^{2}}{2} \ln\left(2\right) - \frac{x^{2} \ln(x)}{2} + \frac{x^{2}}{4} \right]^{x=2}_{x=1}\\
-&= \frac{2^{2}}{2} \ln\left(2\right) - \frac{2^{2} \ln(2)}{2} + \frac{2^{2}}{4} - \frac{1^{2}}{2} \ln\left(2\right) - \frac{1^{2} \ln(1)}{2} + \frac{1^{2}}{4} \\
-&= 2 \ln(2) - 2 \ln(2) + 1 - \frac{1}{2} \ln(2) + \frac{1}{4} \\
+&= \frac{2^{2}}{2} \ln\left(2\right) - \frac{2^{2} \ln(2)}{2} + \frac{2^{2}}{4} - \frac{1^{2}}{2} \ln\left(2\right) + \frac{1^{2} \ln(1)}{2} - \frac{1^{2}}{4} \\
+&= 2 \ln(2) - 2 \ln(2) + 1 - \frac{1}{2} \ln(2) - \frac{1}{4} \\
+&= \frac{3}{4} - \frac{1}{2}\ln2 \\
 \end{align*}$$
+If you want to know how I integrated $x\ln x$ I used [[single-page-integral-table.pdf]], I could marry this pdf [[its so fucking useful|ngl]]
