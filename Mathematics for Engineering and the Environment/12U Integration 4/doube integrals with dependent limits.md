@@ -20,11 +20,11 @@ y \frac{x^{2}}{2} &\\
 \end{align*}$$
 This is what I mean by fully expanding all variables that can be defined interms of what's being integrated for, since y can be defined interms of x it must be accounted for. So in this exact same way given the following example:
 > Solve:
-> $$ V = \int^{0}_{X} \int^{0}_{g} yx+1 \cdot dy \cdot dx $$
+> $$ V = \int^{X}_{0} \int^{g}_{0} yx+1 \cdot dy \cdot dx $$
 > where: $g = x^{2}$
 
 Here although y is an independent variable from x you can rewrite the integral as:
 
-$$ \int^{0}_{X} f(x) \cdot dx $$
+$$ \int^{X}_{0} f(x) \cdot dx $$
 
-where: $$ f $$
+where: $f(x) = \int^{g}_{0} yx+1 \cdot dy$, so by thinking about it that way you can clearly see that integration order matters in these situations. Now if for some reason you wanted to integrate for x first you would need to change the limits so that your dy integral is no longer a function of x.
