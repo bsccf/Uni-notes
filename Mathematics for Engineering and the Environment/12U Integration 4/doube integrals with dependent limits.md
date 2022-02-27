@@ -5,6 +5,7 @@ tags: ["Question","QFormat3"]
 
 #### Describe how you solve
 ## Doube integrals with dependent limits
+### Why limits matter
 So you know how I said that [[double integrals with independent limits|double integrals]] are easy, they only become difficult when limits get fucky well that's what this is about. What it essentially comes down to is the fact that to integrate something you have to fully expand all variables that can be defined interms of the variable your integrating for. For example if you have a function $y(x)$ where $y = x+2$ if you have to integrate $\int xy dx$ then:
 $$\begin{align*}
 \int xy \cdot dx &\\
@@ -27,4 +28,6 @@ Here although y is an independent variable from x you can rewrite the integral a
 
 $$ \int^{X}_{0} f(x) \cdot dx $$
 
-where: $f(x) = \int^{g}_{0} yx+1 \cdot dy$, so by thinking about it that way you can clearly see that integration order matters in these situations. Now if for some reason you wanted to integrate for x first you would need to change the limits so that your dy integral is no longer a function of x. Which isn't possible for this particular example but if instead of definin
+where: $f(x) = \int^{g}_{0} yx+1 \cdot dy= \int^{x^{2}}_{0} yx+1 \cdot dy$ so by thinking about it that way you can clearly see that integration order matters in these situations. Now if for some reason you wanted to integrate for x first you would need to change the limits so that your dy integral is no longer a function of x. Which isn't possible for this particular example but if there was a way to relate $y$ and $x$ directly then it would be possible.
+
+### Implications of dependent limits
