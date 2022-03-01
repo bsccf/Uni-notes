@@ -13,8 +13,17 @@ It's quite intuitive to see where the maximums occur on [[mohrs circle]], but so
 The points where the circle intercept the stress axis are known as the [[points of intrest on mohrs circle|principal stresses]] where $\sigma_{I}$ is the max normal stress and $\sigma_{II}$ is the min normal stress. It should be noted that depending on the position of average stress (centre of circle) that the min normal stress and max stress can be negative or positive indicating compression and tension.
 
 These stresses can be expressed mathamatically using:
-> ### $$ \sigma_{I} = \sigma_{average} + R $$ 
+> ### $$ \sigma_{I} = \sigma_{average} + R $$
+> ### $$ \sigma_{II} = \sigma_{average} - R $$ 
 >> where:
->> $=$ 
->> $=$
+>> $R=\sqrt{\left(\frac{\sigma_{xx}-\sigma_{yy}}{2}\right)^{2} + \sigma_{xy}^{2}}$ 
+>> $\sigma_{average}= \frac{\sigma_{xx} + \sigma_{yy}}{2}$
+>> $\sigma_{I}=$  max normal stress
+>> $\sigma_{II}=$  min normal stress
+
+You can also see that the max shear stress occurs at:
+> ### $$ \sigma_{x`y`\:max} = \pm \frac{\sigma_{I}-\sigma_{II}}{2} = \pm \frac{\sigma_{average} + R-\sigma_{average} - R }{2}  $$ 
+>> where:
+>> $\sigma_{x`y`\:max}=$ max shear stresses ($\pm$)
+>> $\sigma_{I},\sigma_{II}=$ [[points of intrest on mohrs circle|principal stresses]]
 >> $=$
