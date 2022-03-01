@@ -6,7 +6,10 @@ tags: ["Question","QFormat3"]
 #### What is
 ## Mohrs circle
 ### Useful stuff
+#### Intro
 This is a useful techinque for presenting all the possible shear and normal stresses acting on some [[stress transformation for plane stress|trasformed stress]]. Basically this is the way to comprehend the stresses acting in all directions in a intuitive way. (not using that as a buzzword, I mean it, [[step 1|you'll see]]. This is [[based redpilled ect|acc quite neat]] tbh. ([[next part lol]]) )
+
+#### Equation
 
 The following is an equation defining the relationship between the normal and shear stress for any stress transformation:
 
@@ -21,8 +24,15 @@ The following is an equation defining the relationship between the normal and sh
 >> $\sigma_{yy}=$ Refrence normal stress (yy)
 >> $\sigma_{xy}=$ Refrence shear stress
 
+^1da227
+
+#### Graph
+
 Which when plotted resaults in the following:
 ![[Pasted image 20220301222636.png]]
+
+Remember that when navigating the circle rotations on your slice relate to $2\theta$ on [[mohrs circle]]
+![[Pasted image 20220301231800.png]]
 
 ### Proof and theory
 Basically to get the equation above what you need to do is use:
