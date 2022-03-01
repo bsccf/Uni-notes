@@ -30,5 +30,8 @@ Basically to get the equation above what you need to do is use:
 ![[stress transformation for plane stress#^b65568]]
 By equating these two using $\theta$ we can use math wizardry to get it into the form above:
 $$\begin{align*}
-\sigma_{x'x'} &= \sigma_{yy} \sin^{2}\theta + \sigma_{xx} \cos^{2}\theta + \sigma_{xy} \sin2\theta & \sigma_{x'y'} &= (\sigma_{yy} -\sigma_{xx}) \frac{\sin2\theta}{2}  + \sigma_{xy}(\cos^{2}\theta- \sin^{2}\theta )
+\sigma_{x'x'} &= \sigma_{yy} \sin^{2}\theta + \sigma_{xx} \cos^{2}\theta + \sigma_{xy} \sin2\theta & \sigma_{x'y'} &= (\sigma_{yy} -\sigma_{xx}) \frac{\sin2\theta}{2}  + \sigma_{xy}(\cos^{2}\theta- \sin^{2}\theta )\\
+\sigma_{x'x'} &= \sigma_{yy} \frac{1-\cos 2\theta}{2} + \sigma_{xx} \frac{1+\cos 2\theta}{2} + \sigma_{xy} \sin2\theta & \sigma_{x'y'} &= (\sigma_{yy} -\sigma_{xx}) \frac{\sin2\theta}{2}  + \sigma_{xy}(\frac{1+\cos 2\theta}{2}- \frac{1-\cos 2\theta}{2} )\\
+\sigma_{x'x'} &= \sigma_{yy} \frac{1-\cos 2\theta}{2} + \sigma_{xx} \frac{1+\cos 2\theta}{2} + \sigma_{xy} \sin2\theta & 
+\sigma_{x'y'} &= (\sigma_{yy} -\sigma_{xx}) \frac{\sin2\theta}{2}  + \sigma_{xy}(\frac{\cos 2\theta}{2}+ \frac{\cos 2\theta}{2} )\\
 \end{align*}$$
