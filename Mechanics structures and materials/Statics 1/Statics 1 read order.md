@@ -9,8 +9,6 @@ Ngl 99% of my favorate bits of music I origionally found in a meme and thought "
 
 ![[Touhou Cirno theme OST remix - YouTube.mp3#play]]
 
-This is the most recent one, at some point in my notes there will be the meme I got this from (if you find it you get +1 \[\[KROMER\]\]).
-
 Very pog, if you don't believe this to be based... then, uhhh [[you are retard|this]].
 
 
