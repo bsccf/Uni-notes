@@ -31,8 +31,16 @@ The following is an equation defining the relationship between the normal and sh
 Which when plotted resaults in the following:
 ![[Pasted image 20220301222636.png]]
 
-Remember that when navigating the circle rotations on your slice relate to $2\theta$ on [[mohrs circle]]
+Remember that when navigating the circle rotations on your slice relate to $2\theta$ on [[mohrs circle]] and that the position of $\theta=0$ on mohrs circle varys depending on the stresses being applied to the material ($\theta=0$ will not alwayse be at this 45 degree angle is what I'm saying).
 ![[Pasted image 20220301231800.png]]
+
+##### Further equation
+From the diagram it becomes clear that:
+> ### $$ \sig = $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
 
 ### Proof and theory
 Basically to get the equation above what you need to do is use:
