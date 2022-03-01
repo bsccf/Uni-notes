@@ -11,3 +11,5 @@ tags: ["NotesPage"]
 
 ## Expanded articles
 ![[mohrs circle]]
+
+![[points of intrest on mohrs circle]]
