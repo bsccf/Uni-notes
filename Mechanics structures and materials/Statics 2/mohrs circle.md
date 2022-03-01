@@ -36,6 +36,7 @@ $$\begin{align*}
 \sigma_{x'y'} &= (\sigma_{yy} -\sigma_{xx}) \frac{\sin2\theta}{2}  + \sigma_{xy}(\frac{\cos 2\theta}{2}+ \frac{\cos 2\theta}{2} )\\
 \sigma_{x'x'} &=  \frac{\sigma_{xx}+\sigma_{yy}}{2} + \frac{\sigma_{xx} - \sigma_{yy}}{2}\cos 2\theta + \sigma_{xy} \sin2\theta & 
 \sigma_{x'y'} &= (\sigma_{yy} -\sigma_{xx}) \frac{\sin2\theta}{2}  + \sigma_{xy}\cos 2\theta \\
+\sigma_{x'x'} - \frac{\sigma_{xx}+\sigma_{yy}}{2} &=   + \frac{\sigma_{xx} - \sigma_{yy}}{2}\cos 2\theta + \sigma_{xy} \sin2\theta 
 \end{align*}$$
 
 Then we just add them together:
