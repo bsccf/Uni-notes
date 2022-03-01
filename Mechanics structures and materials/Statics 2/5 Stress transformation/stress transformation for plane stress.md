@@ -15,12 +15,16 @@ tags: ["Question","QFormat3"]
 >> $\theta=$ angle of slice
 >> $\sigma=$ stresses
 
+^52d731
+
 > ### $$ \sigma_{x'y'} = (\sigma_{yy} -\sigma_{xx})\cos\theta \sin\theta  + \sigma_{xy}(\cos^{2}\theta- \sin^{2}\theta ) $$ 
 > ### $$ \sigma_{x'y'} = (\sigma_{yy} -\sigma_{xx}) \frac{\sin2\theta}{2}  + \sigma_{xy}(\cos^{2}\theta- \sin^{2}\theta ) $$ 
 >> where:
 >> $\sigma_{x'y'}=$ shear stress along slice 
 >> $\theta=$ angle of slice
 >> $\sigma=$ stresses
+
+^b65568
 
 #### Implications
 

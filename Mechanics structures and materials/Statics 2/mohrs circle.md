@@ -16,9 +16,19 @@ The following is an equation defining the relationship between the normal and sh
 >> $R=\sqrt{\left(\frac{\sigma_{xx}-\sigma_{yy}}{2}\right)^{2} + \sigma_{xy}^{2}}$ 
 >> $\sigma_{average}= \frac{\sigma_{xx} + \sigma_{yy}}{2}$
 >> $\sigma_{x`x`}=$ Normal stress at some transformed state
->> $\sigma_{x`y`}=$ Shear stress a
+>> $\sigma_{x`y`}=$ Shear stress at some transformed state
+>> $\sigma_{xx}=$ Refrence normal stress (xx)
+>> $\sigma_{yy}=$ Refrence normal stress (yy)
+>> $\sigma_{xy}=$ Refrence shear stress
 
 Which when plotted resaults in the following:
 ![[Pasted image 20220301222636.png]]
 
 ### Proof and theory
+Basically to get the equation above what you need to do is use:
+![[stress transformation for plane stress#^52d731]]
+![[stress transformation for plane stress#^b65568]]
+By equating these two using $\theta$ we can use math wizardry to get it into the form above:
+$$\begin{align*}
+\sigma_{x'x'} &= \sigma_{yy} \sin^{2}\theta + \sigma_{xx} \cos^{2}\theta + \sigma_{xy} \sin2\theta & \sigma_{x'y'} &= (\sigma_{yy} -\sigma_{xx}) \frac{\sin2\theta}{2}  + \sigma_{xy}(\cos^{2}\theta- \sin^{2}\theta )
+\end{align*}$$
