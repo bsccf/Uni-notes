@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 2/mohrs circle.md",
+            "file": "Mechanics structures and materials/Statics 2/based redpilled ect.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 2/mohrs circle.md",
+                "file": "Mechanics structures and materials/Statics 2/based redpilled ect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,7 @@
   },
   "active": "cc07ffda42f89909",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Statics 2/based redpilled ect.md",
     "Mechanics structures and materials/Statics 2/mohrs circle.md",
     "Mechanics structures and materials/Statics 2/Mohrs circle notes.md",
     "Mechanics structures and materials/Statics 2/Statics 2 overview.md",
@@ -123,7 +124,6 @@
     "Mechanics structures and materials/Statics 1/10 a,b,c Macaulays method/Macaulay method notes.md",
     "Mechanics structures and materials/Statics 1/10 a,b,c Macaulays method/Ok so this is based.md",
     "Mechanics structures and materials/Dynamics 1/5 angular impulse and momentum/Angular momentum and impulse notes.md",
-    "Mechanics structures and materials/Dynamics 1/Dynamics Overview.md",
-    "Mathematics for Engineering and the Environment/12US Integration 4/double integrals with dependent limits.md"
+    "Mechanics structures and materials/Dynamics 1/Dynamics Overview.md"
   ]
 }
