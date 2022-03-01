@@ -36,12 +36,9 @@ $$\begin{align*}
 \sigma_{x'y'} &= (\sigma_{yy} -\sigma_{xx}) \frac{\sin2\theta}{2}  + \sigma_{xy}(\frac{\cos 2\theta}{2}+ \frac{\cos 2\theta}{2} )\\
 \sigma_{x'x'} &=  \frac{\sigma_{xx}+\sigma_{yy}}{2} + \frac{\sigma_{xx} - \sigma_{yy}}{2}\cos 2\theta + \sigma_{xy} \sin2\theta & 
 \sigma_{x'y'} &= (\sigma_{yy} -\sigma_{xx}) \frac{\sin2\theta}{2}  + \sigma_{xy}\cos 2\theta \\
-\sigma_{x'x'} - \frac{\sigma_{xx}+\sigma_{yy}}{2} &=   + \frac{\sigma_{xx} - \sigma_{yy}}{2}\cos 2\theta + \sigma_{xy} \sin2\theta 
+\sigma_{x'x'} - \frac{\sigma_{xx}+\sigma_{yy}}{2} &=  \frac{\sigma_{xx} - \sigma_{yy}}{2}\cos 2\theta + \sigma_{xy} \sin2\theta \\
+\left(\sigma_{x'x'} - \frac{\sigma_{xx}+\sigma_{yy}}{2} \right)^{2}&=  \left(\frac{\sigma_{xx} - \sigma_{yy}}{2}\cos 2\theta + \sigma_{xy} \sin2\theta\right)^{2} & 
+\sigma_{x'y'}^{2} &= \left((\sigma_{yy} -\sigma_{xx}) \frac{\sin2\theta}{2}  + \sigma_{xy}\cos 2\theta\right)^{2} \\
 \end{align*}$$
 
 Then we just add them together:
-
-$$\begin{align*}
-\sigma_{x'x'} + \sigma_{x'y'} &=  \frac{\sigma_{xx}+\sigma_{yy}}{2} + \frac{\sigma_{xx} - \sigma_{yy}}{2}\cos 2\theta + \sigma_{xy} \sin2\theta + (\sigma_{yy} -\sigma_{xx}) \frac{\sin2\theta}{2}  + \sigma_{xy}\cos 2\theta\\
-\sigma_{x'x'} + \sigma_{x'y'} &=  \frac{\sigma_{xx}+\sigma_{yy}}{2} + \frac{\sigma_{xx} - \sigma_{yy}}{2}(\cos 2\theta - \sin2\theta) + \sigma_{xy} (\sin2\theta   + \cos 2\theta)\\
-\end{align*}$$
