@@ -49,7 +49,9 @@ $$\begin{align*}
 \sigma_{x'y'}^{2} &= \left(\frac{\sigma_{yy} -\sigma_{xx}}{2}\right)^{2} \sin^{2}2\theta + \sigma_{xy}^{2}\cos^{2} 2\theta + 2 \frac{\sigma_{yy} -\sigma_{xx}}{2} \sin2\theta \cos 2\theta
 \end{align*}$$
 
-Then we just add them together:
+Then we just add them together and do some more maeth:
 $$\begin{align*}
 \sigma_{x'y'}^{2} + \left(\sigma_{x'x'} - \frac{\sigma_{xx}+\sigma_{yy}}{2} \right)^{2} &= \left(\frac{\sigma_{xx} - \sigma_{yy}}{2}\right)^{2}\cos^{2} 2\theta + \sigma_{xy}^{2} \sin^{2} 2\theta + 2\frac{\sigma_{xx} - \sigma_{yy}}{2}\sigma_{xy} \sin2\theta\cos 2\theta + \left(\frac{\sigma_{yy} -\sigma_{xx}}{2}\right)^{2} \sin^{2}2\theta + \sigma_{xy}^{2}\cos^{2} 2\theta + 2 \frac{\sigma_{yy} -\sigma_{xx}}{2} \sin2\theta \cos 2\theta \\
+\sigma_{x'y'}^{2} + \left(\sigma_{x'x'} - \frac{\sigma_{xx}+\sigma_{yy}}{2} \right)^{2} &= \left(\frac{\sigma_{xx} - \sigma_{yy}}{2}\right)^{2}(\cos^{2} 2\theta + \sin^{2} 2\theta) + \sigma_{xy}^{2}(\cos^{2} 2\theta+ \sin^{2} 2\theta) \\
+\sigma_{x'y'}^{2} + \left(\sigma_{x'x'} - \frac{\sigma_{xx}+\sigma_{yy}}{2} \right)^{2} &= \left(\frac{\sigma_{xx} - \sigma_{yy}}{2}\right)^{2} + \sigma_{xy}^{2} \\
 \end{align*}$$
