@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Dynamics 1/6 Vibration introduction/equivalent springs.md",
+            "file": "Mechanics structures and materials/Dynamics 1/6 Vibration introduction/equivilant spring for a rod under axial load.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Dynamics 1/6 Vibration introduction/equivalent springs.md",
+                "file": "Mechanics structures and materials/Dynamics 1/6 Vibration introduction/equivilant spring for a rod under axial load.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,7 @@
   },
   "active": "cc07ffda42f89909",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Dynamics 1/6 Vibration introduction/equivilant spring for a rod under axial load.md",
     "Mechanics structures and materials/Dynamics 1/6 Vibration introduction/equivalent springs.md",
     "Mechanics structures and materials/Dynamics 1/6 Vibration introduction/Vibration introduction notes.md",
     "Mechanics structures and materials/Dynamics 1/Dynamics Overview.md",
@@ -123,7 +124,6 @@
     "Mechanics structures and materials/Statics 2/6 Mohr's circle/mohrs circle.md",
     "Mechanics structures and materials/Statics 2/6 Mohr's circle/points of intrest on mohrs circle.md",
     "Mechanics structures and materials/Statics 2/5 Stress transformation/stress transformation for plane stress.md",
-    "Mechanics structures and materials/Statics 2/6 Mohr's circle/next part lol.md",
-    "Mechanics structures and materials/Statics 2/6 Mohr's circle/step 1.md"
+    "Mechanics structures and materials/Statics 2/6 Mohr's circle/next part lol.md"
   ]
 }
