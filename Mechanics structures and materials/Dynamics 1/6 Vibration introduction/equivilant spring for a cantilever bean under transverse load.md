@@ -4,13 +4,13 @@ tags: ["Question","QFormat3"]
 ---
 
 #### What is the equation for a
-## Equivilant spring for a rod under axial load
+## Equivilant spring for a cantilever bean under transverse load
 
-![[Pasted image 20220302101136.png]]
+![[Pasted image 20220302101436.png]]
 
-> ### $$ k = \frac{EA}{L} $$ 
+> ### $$ k = \frac{3EI}{L^{3}} $$ 
 >> where:
 >> $k=$ [[spring constant]]
 >> $E=$ [[youngs modulus]]
->> $A=$ cross sectional area
->> $L=$ length of rod
+>> $I=$ [[second moment of area]]
+>> $L=$ unloaded length of beam

@@ -13,4 +13,4 @@ tags: ["Question","QFormat3"]
 >> $k=$ [[spring constant]]
 >> $E=$ [[youngs modulus]]
 >> $A=$ cross sectional area
->> $L=$ length of rod
+>> $L=$ unloaded length of rod

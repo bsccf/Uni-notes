@@ -4,11 +4,11 @@ tags: ["Question","QFormat3"]
 ---
 
 #### What is the equation for a
-## Equivilant spring for a rod under axial load
+## Equivilant spring for a solid in shear
 
-![[Pasted image 20220302101136.png]]
+![[Pasted image 20220302101627.png]]
 
-> ### $$ k = \frac{EA}{L} $$ 
+> ### $$ k = \frac{GA}{L} $$ 
 >> where:
 >> $k=$ [[spring constant]]
 >> $E=$ [[youngs modulus]]
