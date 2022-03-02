@@ -6,7 +6,7 @@ tags: ["Question","QFormat3"]
 #### What is the method for
 ## Solving linear homogeneous constant-coefficient equations
 ### Method
-![[linear homogeneous constant-coefficient equation#^9a6d21]]
+![[linear homogeneous constant-coefficient equation#^9a6d21]] ^7adaea
 
 1) 
 > Treat it like a quadratic and find it's roots:

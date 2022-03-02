@@ -12,5 +12,8 @@ Then set $c=0$ we get $0=m \frac{d^{2}x}{dt^{2}}+ kx$, then if we apply [[solvin
 
 $$\begin{align*}
 s^{2}m + k &= 0\\
-s &= \sqrt\frac{-k}{m} 
+s &= \sqrt\frac{-k}{m} \\
+&= i\sqrt{\frac{k}{m}}
 \end{align*}$$
+
+Since we got a complex number we use the form $x=e^{at} A\cos at$
