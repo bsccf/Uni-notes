@@ -4,13 +4,11 @@ tags: ["Question","QFormat3"]
 ---
 
 #### What is the equation for a
-## Equivilant spring for a rod under axial load
+## Equivilant spring for a air spring
 
-![[Pasted image 20220302101136.png]]
+![[Pasted image 20220302102532.png]]
 
 > ### $$ k = \frac{EA}{L} $$ 
 >> where:
->> $k=$ [[spring constant]]
->> $E=$ [[youngs modulus]]
->> $A=$ cross sectional area
->> $L=$ length of rod
+>> $B_{0}=$ bulk modulus
+>> $S=$

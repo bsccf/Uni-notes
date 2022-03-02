@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["equivilant spring for a coil spring under axial load"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -12,5 +12,6 @@ tags: ["Question","QFormat3"]
 >> where:
 >> $k=$ [[spring constant]]
 >> $G=$ [[shear modulus]]
->> $D=$ Outer unloaded spring coil diameter
->> $d=$ diameter of 
+>> $D=$ unloaded spring coil diameter
+>> $d=$ unloaded diameter of spring wire
+>> $n=$ number of spring coils
