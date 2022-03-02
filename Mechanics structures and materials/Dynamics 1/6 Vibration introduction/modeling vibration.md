@@ -7,7 +7,13 @@ tags: ["Question","QFormat3"]
 ## Modeling vibration
 In the tutorial they start with free oscillation then move onto damped oscillation, that's [[it really is though|kinda cringe]] so I'm going to do it in the opposite order and then describing free oscillation as a special case so I don't have to prove it twice ([[I prefer to say efficient lol|I'm lazy]]).
 
-
+> ### $$ 0=m \frac{d^{2}x}{dt^{2}} - c \frac{dx}{dt} - kx $$ 
+>> where:
+>> $m=$ 
+>> $x=$
+>> $t=$
+>> $c=$ a constant re
+>> $k=$ [[spring constant]]
 
 
 
