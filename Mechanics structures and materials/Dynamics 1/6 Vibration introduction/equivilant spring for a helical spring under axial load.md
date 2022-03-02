@@ -4,13 +4,13 @@ tags: ["Question","QFormat3"]
 ---
 
 #### What is the equation for a
-## Equivilant spring for a rod under axial load
+## Equivilant spring for a helical spring under axial load
 
-![[Pasted image 20220302101136.png]]
+![[Pasted image 20220302102202.png]]
 
-> ### $$ k = \frac{EA}{L} $$ 
+> ### $$ k = \frac{Gd^{4}}{8D^{3}n} $$ 
 >> where:
 >> $k=$ [[spring constant]]
->> $E=$ [[youngs modulus]]
->> $A=$ cross sectional area
->> $L=$ length of rod
+>> $G=$ [[shear modulus]]
+>> $D=$ Outer unloaded spring coil diameter
+>> $d=$ diameter of 

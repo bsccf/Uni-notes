@@ -4,7 +4,7 @@ tags: ["Question","QFormat3"]
 ---
 
 #### What is the equation for a
-## Equivilant spring for a rod under axial load
+## Equivilant spring for a shaft in torsion
 
 ![[Pasted image 20220302101905.png]]
 
@@ -12,5 +12,5 @@ tags: ["Question","QFormat3"]
 >> where:
 >> $k=$ [[spring constant]]
 >> $E=$ [[shear modulus]]
->> $A=$ [[pol]]
->> $L=$ length of rod
+>> $G=$ [[polar second moment of area standard resualts|polar second moment of area]]
+>> $L=$ unloaded length of shaft
