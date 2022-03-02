@@ -3,11 +3,12 @@ aliases: [""]
 tags: ["Question","QFormat4"]
 ---
 ### Spring constant
-Used to define [[tension and compression force|elastice force]].
-> ### $$ k =  $$ 
->> where:
->> $=$ 
->> $=$
->> $=$
+Used to define [[tension and compression force|elastice force]] for a given displacement where it is assumed that force is proportional to extention/compression:
 
-There is some formula that further describes it, I'll put that here if it pops up on the course.
+> ### $$ F = kx $$ 
+>> where:
+>> $F=$ Force
+>> $k=$ [[spring constant]]
+>> $x=$ displacement
+
+There are a bunch of equations defining the [[spring constant]] for lots of different situations: [[equivalent springs]]
