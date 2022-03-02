@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Dynamics 1/6 Vibration introduction/springs in parallel and series.md",
-            "mode": "source",
+            "file": "Mechanics structures and materials/Dynamics 1/6 Vibration introduction/Vibration introduction notes.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Dynamics 1/6 Vibration introduction/springs in parallel and series.md",
+                "file": "Mechanics structures and materials/Dynamics 1/6 Vibration introduction/Vibration introduction notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,8 +115,8 @@
   },
   "active": "cc07ffda42f89909",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Dynamics 1/6 Vibration introduction/springs in parallel and series.md",
     "Mechanics structures and materials/Dynamics 1/6 Vibration introduction/Vibration introduction notes.md",
+    "Mechanics structures and materials/Dynamics 1/6 Vibration introduction/springs in parallel and series.md",
     "Mechanics structures and materials/Dynamics 1/6 Vibration introduction/equivalent springs.md",
     "Mechanics structures and materials/Dynamics 1/6 Vibration introduction/equivilant spring for a rod under axial load.md",
     "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/3 Typical forces in dynamics/spring constant.md",
