@@ -36,4 +36,9 @@ k(Q) &= mg\\
 Q &= \frac{mg}{k}
 \end{align*}$$
 
-
+Now lets get an equation defining net acceleration of the mass interms of everything acting on it:
+$$\begin{align*}
+m\ddot{x} &= T + D - mg & D &= c\dot{x} & T &= k(x+Q) & Q&= \frac{mg}{k}\\
+&=  k(x+\frac{mg}{k}) + c\dot{x} - mg\\
+&=  k(x) + mg + c\dot{x} - mg
+\end{align*}$$
