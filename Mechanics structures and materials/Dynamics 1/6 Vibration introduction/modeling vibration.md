@@ -16,6 +16,8 @@ In the tutorial they start with free oscillation then move onto damped oscillati
 >> $c=$ a constant relating speed and drag
 >> $k=$ [[spring constant]]
 
+^9328aa
+
 Then use [[solving linear homogeneous constant-coefficient equations]].
 
 ### Proof

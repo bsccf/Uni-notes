@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Dynamics 1/6 Vibration introduction/types of dampening (dynamics).md",
+            "file": "Mechanics structures and materials/Dynamics 1/6 Vibration introduction/free vibration (dynamics).md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Dynamics 1/6 Vibration introduction/types of dampening (dynamics).md",
+                "file": "Mechanics structures and materials/Dynamics 1/6 Vibration introduction/free vibration (dynamics).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "cc07ffda42f89909",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Dynamics 1/6 Vibration introduction/free vibration (dynamics).md",
+    "Mechanics structures and materials/Dynamics 1/6 Vibration introduction/Vibration introduction notes.md",
     "Mechanics structures and materials/Dynamics 1/6 Vibration introduction/types of dampening (dynamics).md",
     "Mathematics for Engineering and the Environment/7 Differential Equations 3/types of dampening (differentuially modeeled oscillator).md",
-    "Mechanics structures and materials/Dynamics 1/6 Vibration introduction/Vibration introduction notes.md",
     "Mechanics structures and materials/Dynamics 1/6 Vibration introduction/modeling vibration.md",
     "Mechanics structures and materials/Dynamics 1/6 Vibration introduction/I prefer to say efficient lol.md",
     "Mechanics structures and materials/Dynamics 1/6 Vibration introduction/it really is though.md",
     "Mechanics structures and materials/Dynamics 1/6 Vibration introduction/springs in parallel and series.md",
     "Mechanics structures and materials/Dynamics 1/6 Vibration introduction/equivalent springs.md",
-    "Mechanics structures and materials/Dynamics 1/6 Vibration introduction/equivilant spring for a rod under axial load.md",
-    "Mechanics structures and materials/Dynamics 1/1 Particle Dynamics – Linear motion/3 Typical forces in dynamics/spring constant.md"
+    "Mechanics structures and materials/Dynamics 1/6 Vibration introduction/equivilant spring for a rod under axial load.md"
   ]
 }

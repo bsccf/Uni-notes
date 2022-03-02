@@ -19,3 +19,5 @@ This is essentially the dynamics version of [[modelling oscillations of damped e
 ![[modeling vibration]]
 
 ![[types of dampening (dynamics)]]
+
+![[free vibration (dynamics)]]

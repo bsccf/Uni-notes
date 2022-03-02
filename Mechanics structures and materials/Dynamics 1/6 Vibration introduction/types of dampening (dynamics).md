@@ -10,5 +10,7 @@ This is the same as [[types of dampening (differentuially modeeled oscillator)]]
 > ### $$ \zeta = \frac{c}{c_{crit}} $$ 
 >> where:
 >> $\zeta=$  [[damping parameter (differentially modelled oscillator)|damping parameter]] for dynamics
->> $c=$ damping coeff
->> $=$
+>> $c=$ damping coefficient
+>> $c_{crit}= 2\sqrt{km} =$ critical damping coefficient (variables from [[modeling vibration#^9328aa]])
+
+![[Pasted image 20220302115737.png]]
