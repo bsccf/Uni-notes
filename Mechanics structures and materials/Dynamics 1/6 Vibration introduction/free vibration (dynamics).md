@@ -10,11 +10,13 @@ Also defined [[free vibrations|here]]. This is a special case of oscillation in 
 
 > ### $$ x=A\cos \left(t\sqrt{\frac{k}{m}}\right) + B\sin \left(t\sqrt{\frac{k}{m}}\right) $$ 
 >> where:
->> $x=$ 
+>> $x=$ displacement
+>> $t=$ time
 >> $A,B=$ constants that need to be found
->> $=$
+>> $k=$ [[spring constant]] 
+>> $m=$ mass of particle
 
-To find the values of A and B you need to be given some combination of initial
+To find the values of A and B you need to be given some combination of initial conditions like time, velocity, displacement ect.
 
 ### Maths
 So basically if we take this eqaution:

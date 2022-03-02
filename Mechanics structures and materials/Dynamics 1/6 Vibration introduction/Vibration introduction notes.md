@@ -9,7 +9,9 @@ tags: ["NotesPage"]
 This is essentially the dynamics version of [[modelling oscillations of damped elastic systems using constant-coefficient differential equations]]:
 - [[equivalent springs]]
 - [[springs in parallel and series]]
-
+- [[modeling vibration]]
+- [[types of dampening (dynamics)]]
+- [[free vibration (dynamics)]]
 
 ## Expanded articles
 ![[equivalent springs]]
@@ -21,3 +23,4 @@ This is essentially the dynamics version of [[modelling oscillations of damped e
 ![[types of dampening (dynamics)]]
 
 ![[free vibration (dynamics)]]
+
