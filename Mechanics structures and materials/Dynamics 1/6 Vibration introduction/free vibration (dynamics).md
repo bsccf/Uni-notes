@@ -20,7 +20,7 @@ To find the values of A and B you need to be given some combination of initial c
 
 ### Maths
 So basically if we take this eqaution:
-![[modeling vibration#^9328aa]]
+![[modeling vibration (not driven)#^9328aa]]
 
 Then set $c=0$ we get $0=m \frac{d^{2}x}{dt^{2}}+ kx$, then if we apply [[solving linear homogeneous constant-coefficient equations]]:
 
