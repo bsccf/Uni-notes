@@ -15,3 +15,4 @@ tags: ["NotesPage"]
 
 ![[springs in parallel and series]]
 
+![[modeling vibration]]
