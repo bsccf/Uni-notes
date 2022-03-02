@@ -23,3 +23,12 @@ Each of the forces are:
 - $T(x,\dot{x},\ddot{x}, ...)=$ Some tension force function
 - $D(x,\dot{x},\ddot{x}, ...)=$ Some drag force function
 - $mg=$ Weight
+
+Now this isn't very helpfull, so we can use simple models for drag and tension:
+- $T=k(x+S)$
+- $D=c\dot{x}$ where $c$ is some constant
+
+The displacement $Q$ is the value needed for tension and weight to be equal when $\dot{x}=0,x=0$:
+$$\begin{align*}
+ &= 
+\end{align*}$$
