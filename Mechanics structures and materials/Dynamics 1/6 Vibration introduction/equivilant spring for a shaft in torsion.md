@@ -6,11 +6,11 @@ tags: ["Question","QFormat3"]
 #### What is the equation for a
 ## Equivilant spring for a rod under axial load
 
-![[Pasted image 20220302101136.png]]
+![[Pasted image 20220302101905.png]]
 
-> ### $$ k = \frac{EA}{L} $$ 
+> ### $$ k = \frac{GJ}{L} $$ 
 >> where:
 >> $k=$ [[spring constant]]
->> $E=$ [[youngs modulus]]
->> $A=$ cross sectional area
+>> $E=$ [[shear modulus]]
+>> $A=$ [[pol]]
 >> $L=$ length of rod

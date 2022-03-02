@@ -11,6 +11,6 @@ tags: ["Question","QFormat3"]
 > ### $$ k = \frac{GA}{L} $$ 
 >> where:
 >> $k=$ [[spring constant]]
->> $E=$ [[youngs modulus]]
->> $A=$ cross sectional area
->> $L=$ length of rod
+>> $G=$ [[shear modulus]]
+>> $A=$ unloaded cross sectional area
+>> $L=$ unloaded length of solid (shear face to shear face)
