@@ -40,5 +40,12 @@ Now lets get an equation defining net acceleration of the mass interms of everyt
 $$\begin{align*}
 m\ddot{x} &= T + D - mg & D &= c\dot{x} & T &= k(x+Q) & Q&= \frac{mg}{k}\\
 &=  k(x+\frac{mg}{k}) + c\dot{x} - mg\\
-&=  k(x) + mg + c\dot{x} - mg
+&=  k(x) + mg + c\dot{x} - mg\\
+0 &= -m\ddot{x} + k(x) + c\dot{x}\\
+0 &= m \frac{d^{2}x}{dt^{2}} - c \frac{dx}{dt} - kx
 \end{align*}$$
+
+We can see that by measuring x from the equilibrium point ($Q+l_{0}$) we get a situation where g cancels out:
+
+![[Pasted image 20220302113825.png]]
+
