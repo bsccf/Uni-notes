@@ -25,3 +25,4 @@ This is essentially the dynamics version of [[modelling oscillations of damped e
 ![[free vibration (dynamics)]]
 
 ![[under damped free response]]
+

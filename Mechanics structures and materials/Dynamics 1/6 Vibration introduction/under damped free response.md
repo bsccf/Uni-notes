@@ -7,3 +7,4 @@ tags: ["Question","QFormat3"]
 ## Under damped free response
 Simular to [[free vibration (dynamics)]] but multiplied by some decay function:
 ![[Pasted image 20220302123350.png]]
+![[Pasted image 20220302123614.png]]
