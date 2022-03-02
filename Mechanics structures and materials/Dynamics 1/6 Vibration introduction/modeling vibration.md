@@ -49,3 +49,4 @@ We can see that by measuring x from the equilibrium point ($Q+l_{0}$) we get a s
 
 ![[Pasted image 20220302113825.png]]
 
+Also you have probably noticed that the equation $0=m \frac{d^{2}x}{dt^{2}} - c \frac{dx}{dt} - kx$ seems like a [[linear homogeneous constant-coefficient equation]], and that's because it is! So the next step would be to solve it according to the method from [[solving linear homogeneous constant-coefficient equations]].
