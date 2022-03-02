@@ -25,10 +25,15 @@ Each of the forces are:
 - $mg=$ Weight
 
 Now this isn't very helpfull, so we can use simple models for drag and tension:
-- $T=k(x+S)$
+- $T=k(x+Q)$
 - $D=c\dot{x}$ where $c$ is some constant
 
 The displacement $Q$ is the value needed for tension and weight to be equal when $\dot{x}=0,x=0$:
 $$\begin{align*}
- &= 
+T + D &= mg\\
+k(x+Q) + c\dot{x} &= mg & let:&\:x=0,\:\dot{x}=0\\
+k(Q) &= mg\\
+Q &= \frac{mg}{k}
 \end{align*}$$
+
+
