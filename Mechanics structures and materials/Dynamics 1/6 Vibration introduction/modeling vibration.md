@@ -16,7 +16,10 @@ In the tutorial they start with free oscillation then move onto damped oscillati
 
 
 ### Proof
-First lets get a diagram representing
+First lets get a diagram representing some mass on a spring of negligible mass:
 ![[Pasted image 20220302112318.png]]
 
-
+Each of the forces are:
+- $T(x,\dot{x},\ddot{x}, ...)=$ Some tension force function
+- $D(x,\dot{x},\ddot{x}, ...)=$ Some drag force function
+- $mg=$ Weight
