@@ -10,5 +10,6 @@ tags: ["Question","QFormat3"]
 
 > ### $$ k = \frac{EA}{L} $$ 
 >> where:
->> $B_{0}=$ bulk modulus
->> $S=$
+>> $B_{0}=$ [[bulk modulus]] (for air 142kPa for [[isentropic process|isentropic]] and 101kPa for [[isothermal expansion or compression|isothermal]])
+>> $S=$ area of piston
+>> $V=$ compressable volume

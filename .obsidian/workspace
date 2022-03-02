@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Dynamics 1/6 Vibration introduction/equivilant spring for a air spring.md",
+            "file": "Mechanics structures and materials/Dynamics 1/6 Vibration introduction/equivalent springs.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Dynamics 1/6 Vibration introduction/equivilant spring for a air spring.md",
+                "file": "Mechanics structures and materials/Dynamics 1/6 Vibration introduction/equivalent springs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,8 +115,8 @@
   },
   "active": "cc07ffda42f89909",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Dynamics 1/6 Vibration introduction/equivilant spring for a air spring.md",
     "Mechanics structures and materials/Dynamics 1/6 Vibration introduction/equivalent springs.md",
+    "Mechanics structures and materials/Dynamics 1/6 Vibration introduction/equivilant spring for a air spring.md",
     "Mechanics structures and materials/Dynamics 1/6 Vibration introduction/equivilant spring for a helical spring under axial load.md",
     "Mechanics structures and materials/Dynamics 1/6 Vibration introduction/equivilant spring for a solid in shear.md",
     "Mechanics structures and materials/Dynamics 1/6 Vibration introduction/equivilant spring for a shaft in torsion.md",
