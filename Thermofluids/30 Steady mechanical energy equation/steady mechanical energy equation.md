@@ -43,4 +43,9 @@ This represents all the losses due to the fluid moving around bends through valv
 
 #### Net work out
 $$ - \frac{\dot{W}}{m} $$
-Here positive values of $W$
+Here positive values of $W$ represent work being extracted from the system while negative values indicate work being put into the system hence:
+> ### $$ \dot{W} = \dot{W}_{turbine} - \dot{W}_{pump} $$ 
+>> where:
+>> $\dot{W}=$ 
+>> $\dot{W}_{turbine}=$ Work done by the water on the turbine
+>> $\dot{W}_{pump}=$ Work done by the pump on the water
