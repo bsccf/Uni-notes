@@ -22,6 +22,14 @@ Basically this is the same as the [[steady flow energy equation]] but it has som
 >>  $k_{n}=$ the coefficient relating to that specific energy loss
 >>  $\bar{U}=$ velocity ([[UNFINISHED STUFF|not 100% sure if it dosn't have extra special meaning]])
 
+^50e06c
+
+A more simple form of the equation can be written as the following:
+> ### $$ \dot{m}( ( \frac{p_{2}}{\rho} + \alpha_{2} \frac{V_{2}^{2}}{2} + gz_{out} ) ) $$
+>> where:
+>> 
+
+
 This equation only assumes [[steady flow]] and there are 2 ports, so it is widely applicable.
 
 ### Equation parts
@@ -46,6 +54,6 @@ $$ - \frac{\dot{W}}{m} $$
 Here positive values of $W$ represent work being extracted from the system while negative values indicate work being put into the system hence:
 > ### $$ \dot{W} = \dot{W}_{turbine} - \dot{W}_{pump} $$ 
 >> where:
->> $\dot{W}=$ 
+>> $\dot{W}=$ The variable used in [[steady mechanical energy equation#^50e06c|the steady mechanical energy equation]]
 >> $\dot{W}_{turbine}=$ Work done by the water on the turbine
 >> $\dot{W}_{pump}=$ Work done by the pump on the water
