@@ -7,9 +7,7 @@ tags: ["Question","QFormat3"]
 ## Steady mechanical energy equation
 Basically this is the same as the [[steady flow energy equation]] but it has some extra terms slapped on to account for mechanical losses.
 
-> ### $$ \dot{Q} - \dot{W} = \int_{out}\left(C_{V} T + \frac{U^{2}}{2} + \frac{p}{\rho} + gz\right)\rho U\cdot dA - \int_{in}\left(C_{V} T + \frac{U^{2}}{2} + \frac{p}{\rho} + gz\right)\rho U\cdot dA$$ 
-> ### $$ \dot{Q} - \dot{W} = \dot{m}\left( C_{V}T + \frac{p}{\rho} + gz \right)_{out} + \frac{1}{2} \int_{A_{in}} U^{2} \rho U \cdot dA - \dot{m}\left( C_{V}T + \frac{p}{\rho} + gz \right)_{out} - \frac{1}{2} \int_{A_{in}} U^{2} \rho U \cdot dA $$
-> ### $$ - \frac{\dot{W}}{m} = (\frac{p}{\rho} + gz + \frac{1}{2}\alpha \bar{U}^{2}) $$
+> ### $$ - \frac{\dot{W}}{m} = \left(\frac{p}{\rho} + gz + \frac{1}{2}\alpha \bar{U}^{2} \right)_{out} - \left(\frac{p}{\rho} + gz + \frac{1}{2}\alpha \bar{U}^{2} \right)_{in} + f \frac{L}{2d} \bar{U}^{2} + \sum\limits_{n} k_{n} \left(\frac{1}{2} \bar{U}^{2}\right) $$
 >> where:
 >> $C_{v}=$ [[constant volume specific heat]]
 >> $Q=$ [[heat]] transfer into system across the [[system boundary]] (positive is heat in)
