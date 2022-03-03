@@ -28,5 +28,8 @@ R(1-\sqrt{f}) &= r
 \end{align*}$$
 
 $$\begin{align*}
-T \bar{U} R^{2} &= k T \pi \int^{1}_{0} (f(r))^{2} \cdot dr\\
+T \bar{U} R^{2} &= k T \pi \int^{1}_{0} (r)^{2} \cdot dr\\
+T \bar{U} R^{2} &= k T \pi \int^{1}_{0} (R(1-\sqrt{f}))^{2} \cdot dr\\
+T \bar{U} R^{2} &= k T \pi R^{2} \int^{1}_{0} r+1-2\sqrt{f} \cdot dr\\
+T \bar{U} R^{2} &= k T \pi R^{2} \int^{1}_{0} r+1-2\sqrt{f} \cdot dr\\
 \end{align*}$$
