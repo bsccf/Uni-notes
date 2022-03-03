@@ -18,5 +18,8 @@ On the left is an ideal situation while the right is more realistic, so we don't
 
 ### Example
 Find the [[kinetic energy correction factor]] for a pipe where the velocity of the fluid can be described using the function $f(r)=(\frac{R-r}{R})^{2}$:
-![[Pasted image 20220303170342.png]]
+![[Pasted image 20220303170443.png]]
 
+$$\begin{align*}
+T \bar{U} R^{2} &= T \int^{R}_{0}
+\end{align*}$$
