@@ -11,7 +11,7 @@
           "state": {
             "file": "Thermofluids/30 Steady mechanical energy equation/kinetic energy correction factor.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         }
       }

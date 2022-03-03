@@ -30,5 +30,7 @@ $$\begin{align*}
 T \bar{U} R^{2} &= k T \pi \int^{1}_{0} (f(r))^{2} \cdot dr\\
 &= k T \pi \int^{1}_{0} \left(\left(\frac{R-r}{R}\right)^{2}\right)^{2} \cdot dr\\
 &= k T \pi \frac{1}{R^{4}} \int^{1}_{0} \left( R - r \right)^{4} \cdot dr\\
-&= k T \pi \frac{1}{R^{4}} [ -\frac{1}{5} (R-r)^{5} ] \cdot dr\\
+&= k T \pi \frac{1}{R^{4}} \left[ -\frac{1}{5} (R-r)^{5} \right]^{1}_{0} \\
+&= - \frac{\pi k T}{5R^{4}} \left[ (R-r)^{5} \right]^{1}_{0} \\
+&= - \frac{\pi k T}{5R^{4}} \left[ (R-r)^{5} - [ (R-r)^{5} \right] \\
 \end{align*}$$
