@@ -17,15 +17,18 @@ On the left is an ideal situation while the right is more realistic, so we don't
 >> $=$
 
 ### Example
-Find the [[kinetic energy correction factor]] for a pipe where the velocity of the fluid can be described using the function $f(r)=\left(\frac{R-r}{R}\right)^{2}$:
+Find the [[kinetic energy correction factor]] for a pipe where the velocity of the fluid can be described using the function $b=\left(\frac{R-r}{R}\right)^{2}$:
 ![[Pasted image 20220303170443.png]]
 [[volume of a solid of revolution|volume of revolution]]
 
 $$\begin{align*}
-f(r)_{max} &= (\frac{R-0}{R})^{2}\\
-&= 1
+b &=\left(\frac{R-r}{R}\right)^{2} & b_{max} &= (\frac{R-0}{R})^{2}\\
+R-R\sqrt{b} &= r & &= 1\\
+R(1-\sqrt{b})&= r
 \end{align*}$$
 
 $$\begin{align*}
-T \bar{U} R^{2} &= k T \pi \int^{1}_{0} (f(r))^{2} \cdot dr\\
+T \bar{U} R^{2} &= k T \pi \int^{1}_{0} r^{2} \cdot db\\
+\bar{U} R^{2} &= k \pi \int^{1}_{0} (R(1-\sqrt{b}))^{2} \cdot db\\
+\bar{U} R^{2} &= k \pi R \int^{1}_{0} 1+b-2\sqrt{b} \cdot db\\
 \end{align*}$$
