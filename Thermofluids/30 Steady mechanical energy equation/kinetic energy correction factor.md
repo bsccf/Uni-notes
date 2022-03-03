@@ -12,26 +12,8 @@ On the left is an ideal situation while the right is more realistic, so we don't
 > ### $$ \alpha =  \frac{ KE_{actual\:velocity}}{KE_{average\:velocity}} = \frac{\frac{1}{2} dm U^{2} }{\frac{1}{2} dm \bar{U}^{2} }= \frac{ U^{2} }{ \bar{U}^{2} } $$ 
 > ### $$ \alpha \times KE_{average\:velocity} =  KE_{actual\:velocity}  $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $\alpha=$ [[kinetic energy correction factor]]
+>> $KE_{average\:velocity}=$ the kinetic energy using the average velocity of a cross section
+>> $KE_{actual\:velocity}=$ the actual kinetic energy through the cross section
 
-### Example
-Find the [[kinetic energy correction factor]] for a pipe where the velocity of the fluid can be described using the function $b=\left(\frac{R-r}{R}\right)^{2}$:
-![[Pasted image 20220303170443.png]]
-[[volume of a solid of revolution|volume of revolution]]
-
-$$\begin{align*}
-b &=\left(\frac{R-r}{R}\right)^{2} & b_{max} &= (\frac{R-0}{R})^{2}\\
-R-R\sqrt{b} &= r & &= 1\\
-R(1-\sqrt{b})&= r
-\end{align*}$$
-
-$$\begin{align*}
-T \bar{U} \pi R^{2} &= k T \pi \int^{1}_{0} r^{2} \cdot db\\
-\bar{U}  R^{2} &= k  \int^{1}_{0} (R(1-\sqrt{b}))^{2} \cdot db\\
-\bar{U}  R^{2} &= k  R^{2}\int^{1}_{0} 1+b-2\sqrt{b} \cdot db\\
-\bar{U}  &= k   \left[ b + \frac{b^{2}}{2} - \frac{4b^{\frac{3}{2}}}{3} \right]^{1}_{0} \\
-\bar{U}  &= k   \left( 1 + \frac{1}{2} - \frac{4}{3} \right) \\
-\bar{U}  &=  \frac{ k }{6} \\
-\end{align*}$$
+So you know how in [[energy]]
