@@ -22,8 +22,9 @@ Find the [[kinetic energy correction factor]] for a pipe where the velocity of t
 [[volume of a solid of revolution|volume of revolution]]
 
 $$\begin{align*}
-& &f(r)_{max} &= \left(\frac{R-0}{R}\right)^{2}\\
-& &&= 1
+f &= \left(\frac{R-r}{R}\right)^{2} &f(r)_{max} &= \left(\frac{R-0}{R}\right)^{2}\\
+R-R\sqrt{f} &= r &&= 1\\
+R(1-\sqrt{f}) &= r
 \end{align*}$$
 
 $$\begin{align*}
