@@ -9,6 +9,7 @@ Basically this is the same as the [[steady flow energy equation]] but it has som
 
 > ### $$ \dot{Q} - \dot{W} = \int_{out}\left(C_{V} T + \frac{U^{2}}{2} + \frac{p}{\rho} + gz\right)\rho U\cdot dA - \int_{in}\left(C_{V} T + \frac{U^{2}}{2} + \frac{p}{\rho} + gz\right)\rho U\cdot dA$$ 
 > ### $$ \dot{Q} - \dot{W} = \dot{m}\left( C_{V}T + \frac{p}{\rho} + gz \right)_{out} + \frac{1}{2} \int_{A_{in}} U^{2} \rho U \cdot dA - \dot{m}\left( C_{V}T + \frac{p}{\rho} + gz \right)_{out} - \frac{1}{2} \int_{A_{in}} U^{2} \rho U \cdot dA $$
+> ### $$ - \frac{\dot{W}}{m} = (\frac{p}{\rho} + gz + \frac{1}{2}\alpha \bar{U}^{2}) $$
 >> where:
 >> $C_{v}=$ [[constant volume specific heat]]
 >> $Q=$ [[heat]] transfer into system across the [[system boundary]] (positive is heat in)
@@ -21,3 +22,4 @@ Basically this is the same as the [[steady flow energy equation]] but it has som
 >> $z=$ average height of cross section
 >> $A=$ cross sectional area
 
+This equation only assumes [[steady flow]] and there are 2 ports, so it is widely applicable.
