@@ -25,7 +25,7 @@ Basically this is the same as the [[steady flow energy equation]] but it has som
 ^50e06c
 
 A more simple form of the equation can be written as the following:
-> ### $$ \dot{m}( ( \frac{p_{2}}{\rho} + \alpha_{2} \frac{V_{2}^{2}}{2} + gz_{out} ) ) $$
+> ### $$ \dot{W}_{pump} - \dot{W}_{turbine} = \dot{m}\left( \left( \frac{p_{out}}{\rho} + \alpha_{out} \frac{V_{out}^{2}}{2} + gz_{out} \right) - \left( \frac{p_{in}}{\rho} + \alpha_{in} \frac{V_{in}^{2}}{2} + gz_{in} \right) \right) + \dot{E}_{mech\:loss} $$
 >> where:
 >> 
 
@@ -48,6 +48,8 @@ This uses a coefficient that is specific to the pipe $f$ to adjust for losses du
 #### Fitting/joint losses
 $$ \sum\limits_{n} k_{n} \left(\frac{1}{2} \bar{U}^{2}\right) $$
 This represents all the losses due to the fluid moving around bends through valves ect, the coefficient $k_{n}$ is specific to the component that's being adjusted for, and since it's a sum function it can account for as many joints as need to be considered.
+
+#### [[steady mechanical energy equation#Frictional losses|Fitting]] [[steady mechanical energy equation#Frictional losses|Fitting]]
 
 #### Net work out
 $$ - \frac{\dot{W}}{m} $$
