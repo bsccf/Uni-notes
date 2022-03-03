@@ -18,4 +18,4 @@ On the left is an ideal situation while the right is more realistic, so we don't
 
 So you know how with the [[conservation of energy in flow|conservation of energy in flow equation]] if you narrow a pipe the KE increases, well the same thing happens with pipes that have differential flow:
 ![[Pasted image 20220303225927.png]]
-The total throughput needs to be the same but the velocity difference in the centre relative to the sides acts just like a pipe narrowing,
+The total throughput needs to be the same but the velocity difference in the centre relative to the sides acts just like a pipe narrowing, which as we know increases the KE of the water, this difference can be expressed as a ratio which is where $\alpha$ comes in.
