@@ -116,6 +116,7 @@
   "active": "cc07ffda42f89909",
   "lastOpenFiles": [
     "Thermofluids/30 Steady mechanical energy equation/steady mechanical energy equation.md",
+    "Thermofluids/30 Steady mechanical energy equation/kinetic energy correction factor.md",
     "Thermofluids/30 Steady mechanical energy equation/Steady mechanical energy equation notes.md",
     "Thermofluids/Thermofluids read order.md",
     "Thermofluids/28 Steady flow energy equation/steady flow energy equation.md",
@@ -123,7 +124,6 @@
     "Thermofluids/28 Steady flow energy equation/Steady flow energy equation notes.md",
     "Mechanics structures and materials/Dynamics 1/6U Vibration introduction/Vibration introduction notes.md",
     "Mechanics structures and materials/Dynamics 1/6U Vibration introduction/under damped free response.md",
-    "Mechanics structures and materials/Dynamics 1/6U Vibration introduction/modeling vibration (not driven).md",
-    "Mechanics structures and materials/Dynamics 1/6U Vibration introduction/free vibration (dynamics).md"
+    "Mechanics structures and materials/Dynamics 1/6U Vibration introduction/modeling vibration (not driven).md"
   ]
 }
