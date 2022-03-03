@@ -41,7 +41,7 @@ A more simple form of the equation can be written as the following:
 This equation only assumes [[steady flow]] and there are 2 ports, so it is widely applicable.
 
 ### Equation parts
-The equation has lots of bits each with it's own meaning, so I'll break it down to be more understandable.
+The equation has lots of bits each with it's own meaning, so I'll break it down to be more understandable. Also note that all of these are per unit mass (divided by $\dot{m}$)
 
 #### Energy stored in the fluid
 
@@ -67,7 +67,7 @@ Basically what this is saying is that the fitting and pipe friction is directly 
 >>  $f=$ emperical coefficient relating to friction
 >>  $k_{n}=$ the coefficient relating to that specific energy loss
 >>  $\bar{U}=$ velocity ([[UNFINISHED STUFF|not 100% sure if it dosn't have extra special meaning]])
->>  $\cdot{Q}=$ heat into the sytem
+>>  ${Q}=$ heat into the sytem
 >>  $T=$ temp of fluid
 >>  $C_V=$ [[constant volume specific heat]]
 >>  $m=$ mass
