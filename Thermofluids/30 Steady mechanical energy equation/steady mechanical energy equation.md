@@ -20,3 +20,4 @@ Basically this is the same as the [[steady flow energy equation]] but it has som
 >> $g=$ gravitational acceleration
 >> $z=$ average height of cross section
 >> $A=$ cross sectional area
+
