@@ -51,7 +51,17 @@ This represents all the losses due to the fluid moving around bends through valv
 
 #### [[steady mechanical energy equation#Frictional losses|Pipe friction]] and [[steady mechanical energy equation#Fitting joint losses|fitting losses]]
 $$ f \frac{L}{2d} \bar{U}^{2} + \sum\limits_{n} k_{n} \left(\frac{1}{2} \bar{U}^{2}\right) = C_{V}(T_{out} - T_{in} ) - \frac{\dot{Q}}{m} $$
-Basically what this is saying is that the fitting and pipe friction is directly linked to heat change equations ([[define friction retard|I wonder why]])
+Basically what this is saying is that the fitting and pipe friction is directly linked to heat change equations ([[define friction retard|I wonder why]]), I should probably write this as a proper equation definition... eh effort...
+> ### $$ f \frac{L}{2d} \bar{U}^{2} + \sum\limits_{n} k_{n} \left(\frac{1}{2} \bar{U}^{2}\right) = C_{V}(T_{out} - T_{in} ) - \frac{\dot{Q}}{m} $$ 
+>> where:
+>>  $d=$ pipe diameter
+>>  $L=$ pipe length
+>>  $f=$ emperical coefficient relating to friction
+>>  $k_{n}=$ the coefficient relating to that specific energy loss
+>>  $\bar{U}=$ velocity ([[UNFINISHED STUFF|not 100% sure if it dosn't have extra special meaning]])
+>>  $\cdot{Q}=$ heat into the sytem
+>>  $T=$ temp of fluid
+>>  $C_V=$ [[constant volume specific heat]]
 
 #### Net work out
 $$ - \frac{\dot{W}}{m} $$
