@@ -28,5 +28,11 @@ This equation only assumes [[steady flow]] and there are 2 ports, so it is widel
 The equation has lots of bits each with it's own meaning, so I'll break it down to be more understandable.
 
 #### Energy stored in the fluid
-The bit:
+
 $$ \left(\frac{p}{\rho} + gz + \frac{1}{2}\alpha \bar{U}^{2} \right)_{out} - \left(\frac{p}{\rho} + gz + \frac{1}{2}\alpha \bar{U}^{2} \right)_{in} $$
+Represents the change in energy stored in the fluid (excluding heat), so pressure, kinetic and gpe are represented here.
+
+#### Frictional losses
+$$ f \frac{L}{2d} \bar{U}^{2} $$
+
+This uses a coefficient that is specific to the pipe $f$ to adjust for losses due to friction in the strait sections of pipe
