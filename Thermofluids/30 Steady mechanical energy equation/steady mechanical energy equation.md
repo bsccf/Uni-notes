@@ -15,6 +15,9 @@ Basically this is the same as the [[steady flow energy equation]] but it has som
 >>  $g=$ acceleration due to gravity
 >>  $z=$ height of centre of cross sectional area
 >>  $\alpha=$ [[kinetic energy correction factor]]
->>  
+>>  $d=$ pipe diameter
+>>  $L=$ pipe length
+>>  $f=$ emperical coefficient relating to friction
+>>  $k_{n}=$ the coefficient 
 
 This equation only assumes [[steady flow]] and there are 2 ports, so it is widely applicable.
