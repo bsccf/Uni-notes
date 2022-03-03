@@ -40,7 +40,7 @@ The equation has lots of bits each with it's own meaning, so I'll break it down 
 $$ \left(\frac{p}{\rho} + gz + \frac{1}{2}\alpha \bar{U}^{2} \right)_{out} - \left(\frac{p}{\rho} + gz + \frac{1}{2}\alpha \bar{U}^{2} \right)_{in} $$
 Represents the change in energy stored in the fluid (excluding heat), so pressure, kinetic and gpe are represented here.
 
-#### Frictional losses
+#### Pipe frictional losses
 $$ f \frac{L}{2d} \bar{U}^{2} $$
 
 This uses a coefficient that is specific to the pipe $f$ to adjust for losses due to friction in the strait sections of pipe.
@@ -49,7 +49,9 @@ This uses a coefficient that is specific to the pipe $f$ to adjust for losses du
 $$ \sum\limits_{n} k_{n} \left(\frac{1}{2} \bar{U}^{2}\right) $$
 This represents all the losses due to the fluid moving around bends through valves ect, the coefficient $k_{n}$ is specific to the component that's being adjusted for, and since it's a sum function it can account for as many joints as need to be considered.
 
-#### [[steady mechanical energy equation#Frictional losses|Fitting]] [[steady mechanical energy equation#Frictional losses|Fitting]]
+#### [[steady mechanical energy equation#Frictional losses|Pipe friction]] and [[steady mechanical energy equation#Fitting joint losses|fitting losses]]
+$$ f \frac{L}{2d} \bar{U}^{2} + \sum\limits_{n} k_{n} \left(\frac{1}{2} \bar{U}^{2}\right) = C_{V}(T_{out} - T_{in} ) - \frac{\dot{Q}}{m} $$
+Basically what this is saying is that the fitting and pipe friction is directly linked to heat change equations ([[define friction retard|I wonder why]])
 
 #### Net work out
 $$ - \frac{\dot{W}}{m} $$
