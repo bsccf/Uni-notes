@@ -9,8 +9,11 @@ Basically this thing is used to account for the uneven distrobution of mass flow
 ![[Pasted image 20220303164904.png]]
 On the left is an ideal situation while the right is more realistic, so we don't have to deal with the headache of calculating it ourselves you usually get given it but heres the formula:
 
-> ### $$ \alpha =  \frac{ KE_{actual\:velocity}}{KE_{average\:velocity}} = \frac{\frac{1}{2} dm U^{2} }{\frac{1}{2} dm \bar{U}^{2} } $$ 
+> ### $$ \alpha =  \frac{ KE_{actual\:velocity}}{KE_{average\:velocity}} = \frac{\frac{1}{2} dm U^{2} }{\frac{1}{2} dm \bar{U}^{2} }= \frac{ U^{2} }{ \bar{U}^{2} } $$ 
+> ### $$ \alpha \times KE_{average\:velocity} =  KE_{actual\:velocity}  $$ 
 >> where:
 >> $=$ 
 >> $=$
 >> $=$
+
+If you had some function describing the velocity at different points on the cross section then it would be possible to integrate to get the KE over the area:
