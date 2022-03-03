@@ -14,7 +14,7 @@ The equation below ([[steady flow energy equation]]) is really just an expressio
 >> where:
 >> $e_{h}=$ [[specific enthalpy]]
 >> $C_{v}=$ [[constant volume specific heat]]
->> $Q=$ [[heat]]
+>> $Q=$ [[heat]] transfer into system across the [[system boundary]]
 >> $W=$ work done, ’non-fluid’ energy transfer. For example electrical work increasing the fluid pressure in a pump.
 >> $m=$ mass
 >> $U=$ speed
