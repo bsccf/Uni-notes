@@ -34,3 +34,5 @@ tags: ["NotesPage"]
 26) [[applications of bernoulli's theorum notes]]
 27) [[UNFINISHED STUFF]]
 28) [[Steady flow energy equation notes]]
+29) 
+30) [[steady mechanical energy equati]]
