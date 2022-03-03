@@ -16,4 +16,6 @@ On the left is an ideal situation while the right is more realistic, so we don't
 >> $=$
 >> $=$
 
-If you had some function describing the velocity at different points on the cross section then it would be possible to integrate to get the KE over the area:
+### Example
+Find the [[kinetic energy correction factor]] for a 
+
