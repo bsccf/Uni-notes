@@ -35,4 +35,12 @@ Represents the change in energy stored in the fluid (excluding heat), so pressur
 #### Frictional losses
 $$ f \frac{L}{2d} \bar{U}^{2} $$
 
-This uses a coefficient that is specific to the pipe $f$ to adjust for losses due to friction in the strait sections of pipe
+This uses a coefficient that is specific to the pipe $f$ to adjust for losses due to friction in the strait sections of pipe.
+
+#### Fitting/joint losses
+$$ \sum\limits_{n} k_{n} \left(\frac{1}{2} \bar{U}^{2}\right) $$
+This represents all the losses due to the fluid moving around bends through valves ect, the coefficient $k_{n}$ is specific to the component that's being adjusted for, and since it's a sum function it can account for as many joints as need to be considered.
+
+#### Net work out
+$$ - \frac{\dot{W}}{m} $$
+Here positive values of $W$
