@@ -8,7 +8,7 @@ tags: ["Question","QFormat3"]
 ### The equation
 Basically this is the same as the [[steady flow energy equation]] but it has some extra terms slapped on to account for mechanical losses.
 
-> ### $$ - \frac{\dot{W}}{m} = \left(\frac{p}{\rho} + gz + \frac{1}{2}\alpha \bar{U}^{2} \right)_{out} - \left(\frac{p}{\rho} + gz + \frac{1}{2}\alpha \bar{U}^{2} \right)_{in} + f \frac{L}{2d} \bar{U}^{2} + \sum\limits_{n} k_{n} \left(\frac{1}{2} \bar{U}^{2}\right) $$
+> ### $$ - \frac{\dot{W}}{\dot{m}}= \left(\frac{p}{\rho} + gz + \frac{1}{2}\alpha \bar{U}^{2} \right)_{out} - \left(\frac{p}{\rho} + gz + \frac{1}{2}\alpha \bar{U}^{2} \right)_{in} + f \frac{L}{2d} \bar{U}^{2} + \sum\limits_{n} k_{n} \left(\frac{1}{2} \bar{U}^{2}\right) $$
 >> where:
 >> $W=$ work done, ’non-fluid’ energy transfer. For example electrical work increasing the fluid pressure in a pump. (positive is work out, negative is work in)
 >>  $p=$ pressure
@@ -27,7 +27,15 @@ Basically this is the same as the [[steady flow energy equation]] but it has som
 A more simple form of the equation can be written as the following:
 > ### $$ \dot{W}_{pump} - \dot{W}_{turbine} = \dot{m}\left( \left( \frac{p_{out}}{\rho} + \alpha_{out} \frac{V_{out}^{2}}{2} + gz_{out} \right) - \left( \frac{p_{in}}{\rho} + \alpha_{in} \frac{V_{in}^{2}}{2} + gz_{in} \right) \right) + \dot{E}_{mech\:loss} $$
 >> where:
->> 
+>> ${W}_{turbine}=$ Work done by the water on the turbine
+>> ${W}_{pump}=$ Work done by the pump on the water
+>>  $p=$ pressure
+>>  $\rho=$ fluid density
+>>  $g=$ acceleration due to gravity
+>>  $z=$ height of centre of cross sectional area
+>>  $\alpha=$ [[kinetic energy correction factor]]
+>>  $E_{mech\:loss}=$ Energy loss as heat due to mechanical friction
+>>  $V=$ velocity 
 
 
 This equation only assumes [[steady flow]] and there are 2 ports, so it is widely applicable.
@@ -62,9 +70,10 @@ Basically what this is saying is that the fitting and pipe friction is directly 
 >>  $\cdot{Q}=$ heat into the sytem
 >>  $T=$ temp of fluid
 >>  $C_V=$ [[constant volume specific heat]]
+>>  $m=$ mass
 
 #### Net work out
-$$ - \frac{\dot{W}}{m} $$
+$$ - \frac{\dot{W}}{\dot{m}} $$
 Here positive values of $W$ represent work being extracted from the system while negative values indicate work being put into the system hence:
 > ### $$ \dot{W} = \dot{W}_{turbine} - \dot{W}_{pump} $$ 
 >> where:
