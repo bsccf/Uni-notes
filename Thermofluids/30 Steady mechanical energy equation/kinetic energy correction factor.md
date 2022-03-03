@@ -22,15 +22,10 @@ Find the [[kinetic energy correction factor]] for a pipe where the velocity of t
 [[volume of a solid of revolution|volume of revolution]]
 
 $$\begin{align*}
-f(r)_{max} &= (\frac{R-0}{R})^{2}\\
-&= 1
+& &f(r)_{max} &= \left(\frac{R-0}{R}\right)^{2}\\
+& &&= 1
 \end{align*}$$
 
 $$\begin{align*}
 T \bar{U} R^{2} &= k T \pi \int^{1}_{0} (f(r))^{2} \cdot dr\\
-&= k T \pi \int^{1}_{0} \left(\left(\frac{R-r}{R}\right)^{2}\right)^{2} \cdot dr\\
-&= k T \pi \frac{1}{R^{4}} \int^{1}_{0} \left( R - r \right)^{4} \cdot dr\\
-&= k T \pi \frac{1}{R^{4}} \left[ -\frac{1}{5} (R-r)^{5} \right]^{1}_{0} \\
-&= - \frac{\pi k T}{5R^{4}} \left[ (R-r)^{5} \right]^{1}_{0} \\
-&= - \frac{\pi k T}{5R^{4}} \left[ (R-0)^{5} - [ (R-r)^{5} \right] \\
 \end{align*}$$
