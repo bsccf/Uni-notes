@@ -28,10 +28,10 @@ R(1-\sqrt{b})&= r
 \end{align*}$$
 
 $$\begin{align*}
-T \bar{U} R^{2} &= k T \pi \int^{1}_{0} r^{2} \cdot db\\
-\bar{U} R^{2} &= k \pi \int^{1}_{0} (R(1-\sqrt{b}))^{2} \cdot db\\
-\bar{U} R^{2} &= k \pi R^{2}\int^{1}_{0} 1+b-2\sqrt{b} \cdot db\\
-\bar{U} R^{2} &= k \pi R^{2} \left[ b + \frac{b^{2}}{2} - \frac{4b^{\frac{3}{2}}}{3} \right]^{1}_{0} \\
-\bar{U}  &= k \pi  \left( 1 + \frac{1}{2} - \frac{4}{3} \right) \\
-\bar{U}  &=  \frac{ k \pi }{6} \\
+T \bar{U} \pi R^{2} &= k T \pi \int^{1}_{0} r^{2} \cdot db\\
+\bar{U}  R^{2} &= k  \int^{1}_{0} (R(1-\sqrt{b}))^{2} \cdot db\\
+\bar{U}  R^{2} &= k  R^{2}\int^{1}_{0} 1+b-2\sqrt{b} \cdot db\\
+\bar{U}  &= k   \left[ b + \frac{b^{2}}{2} - \frac{4b^{\frac{3}{2}}}{3} \right]^{1}_{0} \\
+\bar{U}  &= k   \left( 1 + \frac{1}{2} - \frac{4}{3} \right) \\
+\bar{U}  &=  \frac{ k }{6} \\
 \end{align*}$$
