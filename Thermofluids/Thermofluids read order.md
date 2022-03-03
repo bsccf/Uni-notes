@@ -35,4 +35,4 @@ tags: ["NotesPage"]
 27) [[UNFINISHED STUFF]]
 28) [[Steady flow energy equation notes]]
 29) 
-30) [[steady mechanical energy equati]]
+30) [[steady mechanical energy equation]]

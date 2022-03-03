@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/Thermofluids read order.md",
+            "file": "Thermofluids/steady mechanical energy equation.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/Thermofluids read order.md",
+                "file": "Thermofluids/steady mechanical energy equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,7 @@
   },
   "active": "cc07ffda42f89909",
   "lastOpenFiles": [
+    "Thermofluids/steady mechanical energy equation.md",
     "Thermofluids/Thermofluids read order.md",
     "Thermofluids/28 Steady flow energy equation/steady flow energy equation.md",
     "Thermofluids/28 Steady flow energy equation/Steady flow energy equation notes.md",
@@ -123,7 +124,6 @@
     "Mechanics structures and materials/Dynamics 1/6U Vibration introduction/modeling vibration (not driven).md",
     "Mechanics structures and materials/Dynamics 1/6U Vibration introduction/free vibration (dynamics).md",
     "Mechanics structures and materials/Dynamics 1/Dynamics Overview.md",
-    "Mechanics structures and materials/Dynamics 1/6U Vibration introduction/types of dampening (dynamics).md",
-    "Mathematics for Engineering and the Environment/7 Differential Equations 3/types of dampening (differentuially modeeled oscillator).md"
+    "Mechanics structures and materials/Dynamics 1/6U Vibration introduction/types of dampening (dynamics).md"
   ]
 }
