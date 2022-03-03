@@ -459,7 +459,11 @@ class Optimiser:
         if ( cL < 0 ):
             eM = -1
 
-        return (cL)/(cD**2)#((cL-(cD*3))**2)/(cD+0.001)
+        cLSc = (abs(cL-0.5)**-2)
+        if ( cLSc >2000 ):
+            cLSc = 2000
+
+        return (1/(cD)) + cLSc  #((cL-(cD*3))**2)/(cD+0.001)
 
 #(AirFoil()).render()
 
@@ -467,9 +471,11 @@ opt = Optimiser( [ 0.05, 0.05, 0.2, 0.1, 0.2, 0.05, 0.66, 0.04, 0.66, 0.04 ] );
 
 print( "score:", opt.bScore )
 
-opt.renderBest()
+for i in range(0, 8):
+    opt.renderBest()
 
-opt.iterate( 50 )
+    opt.iterate( 15 )
+
 
 opt.renderBest()
 
