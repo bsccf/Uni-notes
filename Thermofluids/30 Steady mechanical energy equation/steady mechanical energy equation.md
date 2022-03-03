@@ -7,7 +7,7 @@ tags: ["Question","QFormat3"]
 ## Steady mechanical energy equation
 Basically this is the same as the [[steady flow energy equation]] but it has some extra terms slapped on to account for mechanical losses.
 
-> ### $$  = $$ 
+> ### $$ \dot{Q} - \dot{W} = \dot{m}(C_{V} T + \frac{p}{}\rho ) $$ 
 >> where:
 >> $=$ 
 >> $=$
