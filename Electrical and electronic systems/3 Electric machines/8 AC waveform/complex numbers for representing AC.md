@@ -14,5 +14,8 @@ So a equation that represents the current voltage of some sinasodal AC source ca
 > ### $$ V = V_{p}\cos(\omega t + \phi ) = Re: V_{p} e^{i(\omega t + \phi )}  $$
 >> where:
 >> $V=$ current voltage 
->> $x=$ basically [[insert funny|junk]]
->> $=$
+>> $x=$ basically [[insert funny|junk]] (not used or loved, cyber bully this variable)
+>> $V_{p}=$ peak voltage
+>> $\omega=$ angular frequency
+>> $\phi=$ offset
+>> $t=$ time
