@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SESA1015/Flight mechanics/Flight mechanics 2/Bernouillis Equation.md",
+            "file": "Thermofluids/26 Applications of this stuff/venturi meter equation.md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stagnat",
+                "query": "ventur",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESA1015/Flight mechanics/Flight mechanics 2/Bernouillis Equation.md",
+                "file": "Thermofluids/26 Applications of this stuff/venturi meter equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,7 @@
   },
   "active": "8f00a401da46ff23",
   "lastOpenFiles": [
+    "Thermofluids/26 Applications of this stuff/venturi meter equation.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/Bernouillis Equation.md",
     "Thermofluids/25 Conservation of energy in flow/stagnation pressure.md",
     "Thermofluids/25 Conservation of energy in flow/pressure coefficient.md",
@@ -124,7 +125,6 @@
     "Thermofluids/25 Conservation of energy in flow/freestream.md",
     "Thermofluids/25 Conservation of energy in flow/conservation of energy in flow notes.md",
     "Thermofluids/30 Steady mechanical energy equation/Steady mechanical energy equation notes.md",
-    "Mechanics structures and materials/Dynamics 1/6U Vibration introduction/Vibration introduction notes.md",
-    "Mechanics structures and materials/Dynamics 1/6U Vibration introduction/free vibration (dynamics).md"
+    "Mechanics structures and materials/Dynamics 1/6U Vibration introduction/Vibration introduction notes.md"
   ]
 }
