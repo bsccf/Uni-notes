@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/3 Electric machines/8 AC waveform/phasor representation.md",
+            "file": "Electrical and electronic systems/3 Electric machines/8 AC waveform/AC waveform.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/3 Electric machines/8 AC waveform/phasor representation.md",
+                "file": "Electrical and electronic systems/3 Electric machines/8 AC waveform/AC waveform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,8 +115,8 @@
   },
   "active": "8f00a401da46ff23",
   "lastOpenFiles": [
-    "Electrical and electronic systems/3 Electric machines/8 AC waveform/phasor representation.md",
     "Electrical and electronic systems/3 Electric machines/8 AC waveform/AC waveform.md",
+    "Electrical and electronic systems/3 Electric machines/8 AC waveform/phasor representation.md",
     "Electrical and electronic systems/3 Electric machines/8 AC waveform/complex numbers for representing AC.md",
     "Electrical and electronic systems/3 Electric machines/8 AC waveform/insert funny v2.md",
     "Electrical and electronic systems/3 Electric machines/8 AC waveform/the j.md",
