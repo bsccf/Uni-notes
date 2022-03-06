@@ -10,7 +10,7 @@ tags: ["NotesPage"]
 - [[Bernouillis equation]]
 - [[cavitation]]
 - [[stagnation pressure]]
-
+- [[pressure coefficient]]
 
 ## Expanded articles
 ![[conservation of energy in flow]]
@@ -20,3 +20,5 @@ tags: ["NotesPage"]
 ![[cavitation]]
 
 ![[stagnation pressure]]
+
+![[pressure coefficient]]
