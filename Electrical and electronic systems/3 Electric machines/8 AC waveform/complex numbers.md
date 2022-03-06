@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["complex number"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -25,7 +25,7 @@ And:
 
 I'm not going to go into detail but adding and multiplying works basically the same as with most [[Scalars and vectors|vectors]] except with the added benefit that $i^{2}=-1$ so simplification becomes more convenient.
 
-It should also be kept in mind that complex numbers are often represented using angle and magnitude if only there wa
+It should also be kept in mind that complex numbers are often represented using angle and magnitude if only there was [[representing complex numbers using angle and magnitude|some page discussing this]]....
 
 ### Examples
 
