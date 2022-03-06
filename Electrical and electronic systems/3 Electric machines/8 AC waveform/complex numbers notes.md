@@ -3,10 +3,11 @@ aliases: [""]
 tags: ["NotesPage"]
 ---
 
-# AC waveform
+# Complex numbers notes
 
 #### Intro and contents
-- [[complex numbers notes]]
+
 
 
 ## Expanded articles
+![[complex numbers]]
