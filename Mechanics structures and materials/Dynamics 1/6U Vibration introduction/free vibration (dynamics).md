@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["natural frequency"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -17,6 +17,15 @@ Also defined [[free vibrations|here]]. This is a special case of oscillation in 
 >> $m=$ mass of particle
 
 To find the values of A and B you need to be given some combination of initial conditions like time, velocity, displacement ect.
+
+#### Natural frequency
+
+The natural frequency is equivilent to:
+> ### $$ \ = \sqrt{\frac{k}{m}} $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
 
 ### Maths
 So basically if we take this eqaution:
