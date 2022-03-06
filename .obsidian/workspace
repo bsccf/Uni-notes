@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thermofluids/25 Conservation of energy in flow/static pressure.md",
+            "file": "Thermofluids/25 Conservation of energy in flow/stagnation pressure.md",
             "mode": "source",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "coefficient pressure",
+                "query": "stagnat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermofluids/25 Conservation of energy in flow/static pressure.md",
+                "file": "Thermofluids/25 Conservation of energy in flow/stagnation pressure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,12 +116,12 @@
   },
   "active": "8f00a401da46ff23",
   "lastOpenFiles": [
-    "Thermofluids/25 Conservation of energy in flow/static pressure.md",
+    "Thermofluids/25 Conservation of energy in flow/stagnation pressure.md",
     "Thermofluids/25 Conservation of energy in flow/pressure coefficient.md",
+    "Thermofluids/25 Conservation of energy in flow/static pressure.md",
     "Thermofluids/25 Conservation of energy in flow/freestream pressure.md",
     "Thermofluids/25 Conservation of energy in flow/freestream.md",
     "Thermofluids/25 Conservation of energy in flow/conservation of energy in flow notes.md",
-    "Thermofluids/25 Conservation of energy in flow/stagnation pressure.md",
     "Thermofluids/30 Steady mechanical energy equation/Steady mechanical energy equation notes.md",
     "Mechanics structures and materials/Dynamics 1/6U Vibration introduction/Vibration introduction notes.md",
     "Mechanics structures and materials/Dynamics 1/6U Vibration introduction/free vibration (dynamics).md",
