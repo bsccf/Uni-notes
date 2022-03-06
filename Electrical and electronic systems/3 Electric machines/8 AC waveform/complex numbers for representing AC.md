@@ -10,6 +10,7 @@ So [[complex numbers]] are actually ideal for this, especially when dealing with
 Then by focusing on the real component we get a convenient way to represent the current voltage of some AC source:
 ![[Pasted image 20220306132906.png]]
 So a equation that represents the current voltage of some sinasodal AC source can be written as:
+
 > ### $$ V + xj = V_{p}(\cos(\omega t + \phi ) + j\sin(\omega t + \phi )) = V_{p} e^{j(\omega t + \phi )} $$ 
 > ### $$ V = V_{p}\cos(\omega t + \phi ) = Re: V_{p} e^{j(\omega t + \phi )}  $$
 >> where:
@@ -20,3 +21,5 @@ So a equation that represents the current voltage of some sinasodal AC source ca
 >> $\phi=$ offset
 >> $t=$ time
 >> $j=\sqrt{-1}=$ [[complex numbers#^60fc2b|a cringy alternative to using i]] also [[the j|this]]
+
+Of course the same thi
