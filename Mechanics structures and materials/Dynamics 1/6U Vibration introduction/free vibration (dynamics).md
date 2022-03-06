@@ -39,7 +39,7 @@ s &= \sqrt\frac{-k}{m} \\
 &= i\sqrt{\frac{k}{m}}
 \end{align*}$$
 
-Since we got a complex number we use the form $x=e^{at} (A\cos bt + B\sin bt)$ where $a=0$ and $b=\sqrt{\frac{k}{m}}$ getting:
+Since we got a [[complex numbers|complex number]] we use the form $x=e^{at} (A\cos bt + B\sin bt)$ where $a=0$ and $b=\sqrt{\frac{k}{m}}$ getting:
 $$\begin{align*}
 x=A\cos \left(t\sqrt{\frac{k}{m}}\right) + B\sin \left(t\sqrt{\frac{k}{m}}\right)
 \end{align*}$$

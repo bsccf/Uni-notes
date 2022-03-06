@@ -1,5 +1,5 @@
 ---
-aliases: [""]
+aliases: ["euler's formula"]
 tags: ["Question","QFormat3"]
 ---
 

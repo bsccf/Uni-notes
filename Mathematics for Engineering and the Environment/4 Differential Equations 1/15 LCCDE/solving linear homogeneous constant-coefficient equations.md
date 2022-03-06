@@ -34,7 +34,7 @@ a \frac{d^{2}x}{dt^{2}}+ b \frac{dx}{dt} + cx &= 0 &\to&& am^{2}+bm+c&=0\\
 >
 >> ### $$ x(t) = e^{at} ( A\cos(bt) + B\sin(bt) ) $$ 
 >>> when:
->>> $m_1,m_2=$ complex numbers
+>>> $m_1,m_2=$ [[complex numbers]]
 >>
 >>> where:
 >>> $A,B$ = constants
