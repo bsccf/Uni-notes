@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 2/6 Mohr's circle/mohrs circle.md",
+            "file": "Mathematics for Engineering and the Environment/4 Differential Equations 1/1 - 7 Defs/standard Maclaurin series expansions.md",
             "mode": "preview",
             "source": true
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 2/6 Mohr's circle/mohrs circle.md",
+                "file": "Mathematics for Engineering and the Environment/4 Differential Equations 1/1 - 7 Defs/standard Maclaurin series expansions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,8 @@
   },
   "active": "8f00a401da46ff23",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/4 Differential Equations 1/1 - 7 Defs/standard Maclaurin series expansions.md",
+    "Mathematics for Engineering and the Environment/4 Differential Equations 1/1 - 7 Defs/Maclaurin series.md",
     "Mechanics structures and materials/Statics 2/6 Mohr's circle/mohrs circle.md",
     "Electrical and electronic systems/3 Electric machines/8 AC waveform/AC waveform.md",
     "Electrical and electronic systems/3 Electric machines/8 AC waveform/phasor representation.md",
@@ -123,8 +125,6 @@
     "Electrical and electronic systems/3 Electric machines/8 AC waveform/insert funny v2.md",
     "Electrical and electronic systems/3 Electric machines/8 AC waveform/the j.md",
     "Electrical and electronic systems/3 Electric machines/8 AC waveform/insert funny.md",
-    "Electrical and electronic systems/3 Electric machines/8 AC waveform/complex numbers.md",
-    "Electrical and electronic systems/3 Electric machines/8 AC waveform/complex numbers notes.md",
-    "Electrical and electronic systems/3 Electric machines/8 AC waveform/representing complex numbers using angle and magnitude.md"
+    "Electrical and electronic systems/3 Electric machines/8 AC waveform/complex numbers.md"
   ]
 }
