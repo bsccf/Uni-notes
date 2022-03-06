@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Dynamics 1/6U Vibration introduction/free vibration (dynamics).md",
-            "mode": "source",
+            "file": "Mechanics structures and materials/Dynamics 1/6U Vibration introduction/Vibration introduction notes.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Dynamics 1/6U Vibration introduction/free vibration (dynamics).md",
+                "file": "Mechanics structures and materials/Dynamics 1/6U Vibration introduction/Vibration introduction notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,8 +115,8 @@
   },
   "active": "cc07ffda42f89909",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Dynamics 1/6U Vibration introduction/free vibration (dynamics).md",
     "Mechanics structures and materials/Dynamics 1/6U Vibration introduction/Vibration introduction notes.md",
+    "Mechanics structures and materials/Dynamics 1/6U Vibration introduction/free vibration (dynamics).md",
     "Mechanics structures and materials/Statics 2/6 Mohr's circle/Mohrs circle notes.md",
     "Mechanics structures and materials/Statics 2/6 Mohr's circle/next part lol.md",
     "Mechanics structures and materials/Statics 2/6 Mohr's circle/step 1.md",

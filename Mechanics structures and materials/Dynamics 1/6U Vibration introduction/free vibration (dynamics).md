@@ -21,11 +21,11 @@ To find the values of A and B you need to be given some combination of initial c
 #### Natural frequency
 
 The natural frequency is equivilent to:
-> ### $$ \ = \sqrt{\frac{k}{m}} $$ 
+> ### $$ \omega = \sqrt{\frac{k}{m}} $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $\omega=$ natural frequency 
+>> $k=$ [[spring constant]]
+>> $m=$ mass of thing
 
 ### Maths
 So basically if we take this eqaution:
