@@ -116,6 +116,7 @@
   "active": "8f00a401da46ff23",
   "lastOpenFiles": [
     "Electrical and electronic systems/3 Electric machines/8 AC waveform/complex numbers.md",
+    "Electrical and electronic systems/3 Electric machines/8 AC waveform/absolute guarbage.md",
     "Electrical and electronic systems/3 Electric machines/8 AC waveform/complex numbers notes.md",
     "Electrical and electronic systems/3 Electric machines/8 AC waveform/AC waveform.md",
     "Electrical and electronic systems/Electrical read order.md",
@@ -123,7 +124,6 @@
     "SESA1015/Flight mechanics/Flight mechanics 2/Bernouillis Equation.md",
     "Thermofluids/25 Conservation of energy in flow/stagnation pressure.md",
     "Thermofluids/25 Conservation of energy in flow/pressure coefficient.md",
-    "Thermofluids/25 Conservation of energy in flow/static pressure.md",
-    "Thermofluids/25 Conservation of energy in flow/freestream pressure.md"
+    "Thermofluids/25 Conservation of energy in flow/static pressure.md"
   ]
 }

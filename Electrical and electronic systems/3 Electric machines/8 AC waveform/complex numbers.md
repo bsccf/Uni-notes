@@ -8,4 +8,15 @@ tags: ["Question","QFormat3"]
 These are numbers with a real and imaginary component, basically the number line we usually use is one dimentional complex numbers are adding another dimention simular to [[Scalars and vectors|vectors]].
 ![[Pasted image 20220306124642.png]]
 
-If your not [[absolute guarbage|cringe]] then you use $i$ 
+If your not [[absolute guarbage|cringe]] then you use $i$ when working with complex numbers but sometimes we use $j$ (usually in electronics probably because $i$ is already used for [[electric current|current]]).
+
+Basically:
+> ### $$ i = \sqrt{-1} $$
+
+Then to express a number like $-69$ we would:
+$$\begin{align*}
+\sqrt{-69} &= \sqrt{-1}\sqrt{69}\\
+&= i \sqrt{69}
+\end{align*}$$
+
+It should be noted that 
