@@ -5,7 +5,7 @@ tags: ["NotesPage"]
 # Stuff
 ### The based thing I am adding here is
 
-![[BIG SHOT but it sounds like a chance to be a BIG SHOT!!.mp3#play]]
+![[BIG SHOT but it sounds like a chance to be a BIG SHOT!!.mp3]]
 
 ![[dig.mp4]]
 
@@ -25,7 +25,7 @@ tags: ["NotesPage"]
 
 ### Electronics
 1 to 2 = [[(p3-38) Diodes and Transistors.pdf]]
-There is honestly too much to write and research rn, like wtf. I'll finish these notes over christmass... probably. 
+There is honestly too much to write and research rn, like wtf. I'll finish these notes over christmass [[UNFINISHED STUFF]]... probably (I'll finish these notes over easter.... (probably)). 
 
 1) [[Semiconductor theory notes]]
 2) [[Diodes as rectifiers notes]]
@@ -41,3 +41,4 @@ provided notes [[Electric Machines - notes(1).pdf]]
 5) [[DC machines 1 notes]] FILL IN GAPS BASED ON E NOTES [[UNFINISHED STUFF]]
 6) [[DC machines 2 notes]] FILL IN GAPS BASED ON E NOTES
 7) [[DC machines 3 notes]]
+8) [[AC waveform]]
