@@ -12,8 +12,10 @@ The anticlockwise angle between the real axis and the complex number is $\theta$
 ![[Pasted image 20220306131241.png]]
 
 Ok so a bit more development, just like [[Scalars and vectors|vectors]] magnitude is represented using $|N|$ around the variable representing the vector, with complex numbers you can represent them using the following equations (a bit more than usual because of the equations derived from $i^{2}=-1$):
-> ### $$ N = a+ib = M(\cos\theta+i\sin\theta) = Me^{\frac{i\theta}{2\pi}} $$ 
+> ### $$ N = a+ib = M(\cos\theta+i\sin\theta) = Me^{i\theta} $$ 
+> ### $$ \cos\theta+i\sin\theta = e^{i\theta} $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $\theta=$ anticlockwise angle between number and positive real axis (must be in radians when working with $e^{i\theta}$) 
+>> $N=$ some [[complex numbers|complex number]]
+>> $a,b=$ real and imaginary components of $N$
+>> $M=|N|=\sqrt{a^{2}+b^{2}}=$ magnitude of $N$
