@@ -19,3 +19,5 @@ Ok so a bit more development, just like [[Scalars and vectors|vectors]] magnitud
 >> $N=$ some [[complex numbers|complex number]]
 >> $a,b=$ real and imaginary components of $N$
 >> $M=|N|=\sqrt{a^{2}+b^{2}}=$ magnitude of $N$
+
+^c3da45

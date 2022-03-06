@@ -7,8 +7,12 @@
         "id": "8f00a401da46ff23",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Electrical and electronic systems/3 Electric machines/8 AC waveform/complex numbers for representing AC.md",
+            "mode": "preview",
+            "source": true
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Electrical and electronic systems/3 Electric machines/8 AC waveform/complex numbers for representing AC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,15 +115,15 @@
   },
   "active": "8f00a401da46ff23",
   "lastOpenFiles": [
-    "Electrical and electronic systems/3 Electric machines/8 AC waveform/complex numbers.md",
+    "Electrical and electronic systems/3 Electric machines/8 AC waveform/complex numbers for representing AC.md",
+    "Electrical and electronic systems/3 Electric machines/8 AC waveform/AC waveform.md",
     "Electrical and electronic systems/3 Electric machines/8 AC waveform/complex numbers notes.md",
+    "Electrical and electronic systems/3 Electric machines/8 AC waveform/complex numbers.md",
     "Electrical and electronic systems/3 Electric machines/8 AC waveform/representing complex numbers using angle and magnitude.md",
     "Electrical and electronic systems/3 Electric machines/8 AC waveform/what do you mean this is supposed to be an educational thing.md",
     "Electrical and electronic systems/3 Electric machines/8 AC waveform/absolute guarbage.md",
-    "Electrical and electronic systems/3 Electric machines/8 AC waveform/AC waveform.md",
     "Electrical and electronic systems/Electrical read order.md",
     "Thermofluids/26 Applications of this stuff/venturi meter equation.md",
-    "SESA1015/Flight mechanics/Flight mechanics 2/Bernouillis Equation.md",
-    "Thermofluids/25 Conservation of energy in flow/stagnation pressure.md"
+    "SESA1015/Flight mechanics/Flight mechanics 2/Bernouillis Equation.md"
   ]
 }
