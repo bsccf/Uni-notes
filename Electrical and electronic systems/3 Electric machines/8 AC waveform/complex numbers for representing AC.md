@@ -10,8 +10,9 @@ So [[complex numbers]] are actually ideal for this, especially when dealing with
 Then by focusing on the real component we get a convenient way to represent the current voltage of some AC source:
 ![[Pasted image 20220306132906.png]]
 So a equation that represents the current voltage of some sinasodal AC source can be written as:
-> ### $$ V_{p}(\cos(\omega t + \phi ) + i\sin(\omega t + \phi )) = $$ 
+> ### $$ V + xi = V_{p}(\cos(\omega t + \phi ) + i\sin(\omega t + \phi )) = V_{p} e^{i(\omega t + \phi )} $$ 
+> ### $$ V = V_{p}\cos(\omega t + \phi ) = Re: V_{p} e^{i(\omega t + \phi )}  $$
 >> where:
->> $=$ 
->> $=$
+>> $V=$ current voltage 
+>> $x=$ basically [[insert funny|junk]]
 >> $=$
