@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/3 Electric machines/8 AC waveform/complex numbers.md",
+            "file": "Electrical and electronic systems/3 Electric machines/8 AC waveform/complex numbers for representing AC.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/3 Electric machines/8 AC waveform/complex numbers.md",
+                "file": "Electrical and electronic systems/3 Electric machines/8 AC waveform/complex numbers for representing AC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,8 +115,8 @@
   },
   "active": "8f00a401da46ff23",
   "lastOpenFiles": [
-    "Electrical and electronic systems/3 Electric machines/8 AC waveform/complex numbers.md",
     "Electrical and electronic systems/3 Electric machines/8 AC waveform/complex numbers for representing AC.md",
+    "Electrical and electronic systems/3 Electric machines/8 AC waveform/complex numbers.md",
     "Electrical and electronic systems/3 Electric machines/8 AC waveform/AC waveform.md",
     "Electrical and electronic systems/3 Electric machines/8 AC waveform/complex numbers notes.md",
     "Electrical and electronic systems/3 Electric machines/8 AC waveform/representing complex numbers using angle and magnitude.md",
