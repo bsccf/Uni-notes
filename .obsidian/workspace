@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electrical and electronic systems/Electrical read order.md",
+            "file": "Electrical and electronic systems/3 Electric machines/8 AC waveform/complex numbers.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical and electronic systems/Electrical read order.md",
+                "file": "Electrical and electronic systems/3 Electric machines/8 AC waveform/complex numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,8 @@
   },
   "active": "8f00a401da46ff23",
   "lastOpenFiles": [
+    "Electrical and electronic systems/3 Electric machines/8 AC waveform/complex numbers.md",
+    "Electrical and electronic systems/3 Electric machines/8 AC waveform/AC waveform.md",
     "Electrical and electronic systems/Electrical read order.md",
     "Thermofluids/26 Applications of this stuff/venturi meter equation.md",
     "SESA1015/Flight mechanics/Flight mechanics 2/Bernouillis Equation.md",
@@ -122,8 +124,6 @@
     "Thermofluids/25 Conservation of energy in flow/pressure coefficient.md",
     "Thermofluids/25 Conservation of energy in flow/static pressure.md",
     "Thermofluids/25 Conservation of energy in flow/freestream pressure.md",
-    "Thermofluids/25 Conservation of energy in flow/freestream.md",
-    "Thermofluids/25 Conservation of energy in flow/conservation of energy in flow notes.md",
-    "Thermofluids/30 Steady mechanical energy equation/Steady mechanical energy equation notes.md"
+    "Thermofluids/25 Conservation of energy in flow/freestream.md"
   ]
 }
