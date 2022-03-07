@@ -10,4 +10,4 @@ tags: ["NotesPage"]
 
 
 ## Expanded articles
-![[generalised strain measurement method]]
+![[practical real world method for measuring strain]]
