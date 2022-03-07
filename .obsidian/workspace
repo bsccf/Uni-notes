@@ -111,11 +111,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 191
+    "width": 191,
+    "collapsed": true
   },
   "active": "ef7c4208b9e4729a",
   "lastOpenFiles": [
     "Mechanics structures and materials/Statics 2/6 Mohr's circle/Mohrs circle notes.md",
+    "Mechanics structures and materials/Statics 2/6 Mohr's circle/mohrs circle.md",
     "Mechanics structures and materials/Statics 2/Statics 2 overview.md",
     "Electrical and electronic systems/3 Electric machines/5 DC machines 1/DC machines 1 notes.md",
     "conflict-files-obsidian-git.md",
@@ -123,7 +125,6 @@
     "Electrical and electronic systems/3 Electric machines/7 DC machines 3/DC machines 3 notes.md",
     "Electrical and electronic systems/3 Electric machines/6U DC machines 2/DC machines 2 notes.md",
     "Electrical and electronic systems/3 Electric machines/7 DC machines 3/relationship between torque and volume of a DC motor.md",
-    "Mathematics for Engineering and the Environment/11U Vectors 2/tiple vector product.md",
-    "Mathematics for Engineering and the Environment/11U Vectors 2/Vectors 2.md"
+    "Mathematics for Engineering and the Environment/11U Vectors 2/tiple vector product.md"
   ]
 }
