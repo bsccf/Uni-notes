@@ -4,13 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "8f00a401da46ff23",
+        "id": "ef7c4208b9e4729a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 2/measuring shear strain.md",
+            "file": "Electrical and electronic systems/3 Electric machines/5 DC machines 1/DC machines 1 notes.md",
             "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "443d61f9c511174a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -40,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "circl",
+                "query": "farad",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 2/measuring shear strain.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,17 +125,17 @@
     "direction": "horizontal",
     "width": 191
   },
-  "active": "8f00a401da46ff23",
+  "active": "443d61f9c511174a",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Statics 2/measuring shear strain.md",
-    "Mechanics structures and materials/Statics 2/Strain measurement notes.md",
-    "Mechanics structures and materials/Statics 2/strain transformation for plane stress.md",
-    "Mechanics structures and materials/Statics 2/5 Stress transformation/stress transformation for plane stress.md",
-    "Mechanics structures and materials/Statics 2/practical real world method for measuring strain.md",
-    "Mechanics structures and materials/Statics 2/strain guage.md",
-    "Mechanics structures and materials/Statics 2/yeah no I cba.md",
-    "Mechanics structures and materials/Statics 2/so things dont break 4head.md",
-    "Mechanics structures and materials/Statics 2/Statics 2 overview.md",
-    "Mechanics structures and materials/Statics 2/5 Stress transformation/Stress transformation notes.md"
+    "conflict-files-obsidian-git.md",
+    "Electrical and electronic systems/3 Electric machines/5 DC machines 1/DC machines 1 notes.md",
+    "Electrical and electronic systems/3 Electric machines/5 DC machines 1/DC generator with many coils.md",
+    "Electrical and electronic systems/3 Electric machines/7 DC machines 3/DC machines 3 notes.md",
+    "Electrical and electronic systems/3 Electric machines/6U DC machines 2/DC machines 2 notes.md",
+    "Electrical and electronic systems/3 Electric machines/7 DC machines 3/relationship between torque and volume of a DC motor.md",
+    "Mathematics for Engineering and the Environment/11U Vectors 2/tiple vector product.md",
+    "Mathematics for Engineering and the Environment/11U Vectors 2/Vectors 2.md",
+    "Mathematics for Engineering and the Environment/11U Vectors 2/volume of parallelepiped.md",
+    "Mathematics for Engineering and the Environment/11U Vectors 2/look I wrote it for consistancy.md"
   ]
 }
