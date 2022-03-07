@@ -12,7 +12,8 @@ Looks like we are supposed to derive this manually for each [[strain guage roset
 
 > ### $$ \varepsilon_{yy} = \frac{ (\varepsilon_{B} - \varepsilon_{xx}\cos^{2}\theta)\sin 2\alpha - (\varepsilon_{C} - \varepsilon_{xx}\cos^{2}\alpha) \sin 2\theta }{ \sin^{2}\theta \sin 2\alpha - \sin^{2}\alpha \sin 2\theta } $$ 
 > ### $$ \varepsilon_{yy} = \frac{\varepsilon_{B} - \varepsilon_{xx} \cos^{2}\theta - \varepsilon_{xy} \sin 2\theta}{\sin^{2}\theta}  = \frac{\varepsilon_{C} - \varepsilon_{xx} \cos^{2}\alpha - \varepsilon_{xy} \sin 2\alpha}{\sin^{2}\alpha} $$
-> ### $$ \varepsilon_{xy} = \frac{ ( \varepsilon_{B} - \varepsilon_{xx} \cos^{2}\theta ) \sin^{2}\alpha - ( \varepsilon_{C} - \varepsilon_{A} \cos^{2}\alpha )\sin^{2}\theta }{ \sin^{2}\alpha \sin 2\theta  - \sin^{2} \theta \sin 2\alpha  } $$
+> ### $$ \varepsilon_{xy} = \frac{ ( \varepsilon_{B} - \varepsilon_{xx} \cos^{2}\theta ) \sin^{2}\alpha - ( \varepsilon_{C} - \varepsilon_{xx} \cos^{2}\alpha )\sin^{2}\theta }{ \sin^{2}\alpha \sin 2\theta  - \sin^{2} \theta \sin 2\alpha  } $$
+> ### $$ \varepsilon_{xy}  = \frac{\varepsilon_{B} -\varepsilon_{yy} \sin^{2}\theta - \varepsilon_{xx} \cos^{2}\theta }{\sin 2\theta} = \frac{\varepsilon_{C} -\varepsilon_{yy} \sin^{2}\alpha - \varepsilon_{xx} \cos^{2}\alpha }{\sin 2\alpha} $$
 >> where:
 >> $=$ 
 >> $=$
