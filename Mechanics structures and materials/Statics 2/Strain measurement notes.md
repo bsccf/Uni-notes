@@ -12,4 +12,4 @@ tags: ["NotesPage"]
 ## Expanded articles
 ![[practical real world method for measuring strain]]
 
-![[strain transformation]]
+![[strain transformation for plane stress]]
