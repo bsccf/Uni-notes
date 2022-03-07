@@ -17,9 +17,13 @@ Looks like we are supposed to derive this manually for each [[strain guage roset
 > ### $$ \varepsilon_{xy} = \frac{ ( \varepsilon_{B} - \varepsilon_{xx} \cos^{2}\theta ) \sin^{2}\alpha - ( \varepsilon_{C} - \varepsilon_{xx} \cos^{2}\alpha )\sin^{2}\theta }{ \sin^{2}\alpha \sin 2\theta  - \sin^{2} \theta \sin 2\alpha  } $$
 > ### $$ \varepsilon_{xy}  = \frac{\varepsilon_{B} - \varepsilon_{xx} \cos^{2}\theta  -\varepsilon_{yy} \sin^{2}\theta}{\sin 2\theta} = \frac{\varepsilon_{C} - \varepsilon_{xx} \cos^{2}\alpha-\varepsilon_{yy} \sin^{2}\alpha  }{\sin 2\alpha} $$
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $\varepsilon_{xx}=$ 
+>> $\varepsilon_{yy}=$
+>> $\varepsilon_{xy}=$
+>> $\varepsilon_{B}=$ 
+>> $\varepsilon_{C}=$ 
+>> $\theta=$ anticlockwise angle between $\varepsilon_{B}$ and $\varepsilon_{xx}$
+>> $\alpha=$ anticlockwise angle between $\varepsilon_{C}$ and $\varepsilon_{xx}$  
 
 ### Equation proof
 Ok I'm not doing this in latex fuck that, so you get to see it in one note (less clean but like so much effort to latex it):
