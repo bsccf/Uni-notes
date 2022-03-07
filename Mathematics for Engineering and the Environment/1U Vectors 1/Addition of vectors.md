@@ -1,5 +1,5 @@
 ---
-aliases: ["MEE 4.2.3"]
+aliases: ["MEE 4.2.3","vector addition"]
 tags: ["NotesPage"]
 ---
 

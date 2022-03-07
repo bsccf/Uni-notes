@@ -6,7 +6,7 @@ tags: ["Question","QFormat3"]
 #### What is the method for
 ## Solving linear homogeneous constant-coefficient equations
 ### Method
-![[linear homogeneous constant-coefficient equation#^9a6d21]]
+![[linear homogeneous constant-coefficient equation#^9a6d21]] ^7adaea
 
 1) 
 > Treat it like a quadratic and find it's roots:
@@ -34,7 +34,7 @@ a \frac{d^{2}x}{dt^{2}}+ b \frac{dx}{dt} + cx &= 0 &\to&& am^{2}+bm+c&=0\\
 >
 >> ### $$ x(t) = e^{at} ( A\cos(bt) + B\sin(bt) ) $$ 
 >>> when:
->>> $m_1,m_2=$ complex numbers
+>>> $m_1,m_2=$ [[complex numbers]]
 >>
 >>> where:
 >>> $A,B$ = constants
