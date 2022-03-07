@@ -1,5 +1,5 @@
 ---
-aliases: ["types of dampening","dampij"]
+aliases: ["types of dampening","damping ratio"]
 tags: ["Question","QFormat3"]
 ---
 
