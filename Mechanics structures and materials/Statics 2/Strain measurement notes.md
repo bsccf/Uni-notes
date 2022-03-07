@@ -10,4 +10,4 @@ tags: ["NotesPage"]
 
 
 ## Expanded articles
-![[strain measurement method]]
+![[generalised strain measurement method]]
