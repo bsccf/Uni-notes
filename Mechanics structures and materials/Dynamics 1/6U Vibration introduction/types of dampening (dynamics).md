@@ -1,5 +1,5 @@
 ---
-aliases: ["types of dampening"]
+aliases: ["types of dampening","dampij"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -9,7 +9,7 @@ This is the same as [[types of dampening (differentuially modeeled oscillator)]]
 
 > ### $$ \zeta = \frac{c}{c_{crit}} $$ 
 >> where:
->> $\zeta=$  [[damping parameter (differentially modelled oscillator)|damping parameter]] for dynamics
+>> $\zeta=$  [[damping parameter (differentially modelled oscillator)|damping parameter]] for dynamics (also called damping ratio)
 >> $c=$ damping coefficient
 >> $c_{crit}= 2\sqrt{km} =$ critical damping coefficient (variables from [[modeling vibration (not driven)#^9328aa]])
 
