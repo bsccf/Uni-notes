@@ -4,7 +4,7 @@ tags: ["Question","QFormat3"]
 ---
 
 #### What is
-## Free vibration (dynamics)
+## Undamped free vibration (dynamics)
 ### Important bits
 Also defined [[free vibrations|here]]. This is a special case of oscillation in dynamics where the sum of kinetic energy and elastic energy is conserverd. 
 
@@ -18,7 +18,7 @@ Also defined [[free vibrations|here]]. This is a special case of oscillation in 
 
 To find the values of A and B you need to be given some combination of initial conditions like time, velocity, displacement ect.
 
-#### Natural frequency
+#### Natural frequency (undamped)
 
 The natural frequency is equivilent to:
 > ### $$ \omega = \sqrt{\frac{k}{m}} $$

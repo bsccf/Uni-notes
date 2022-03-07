@@ -11,7 +11,8 @@ This is essentially the dynamics version of [[modelling oscillations of damped e
 - [[springs in parallel and series]]
 - [[modeling vibration (not driven)]]
 - [[types of dampening (dynamics)]]
-- [[free vibration (dynamics)]]
+- [[undamped free vibration (dynamics)]]
+- [[under damped natural frequency]]
 
 ## Expanded articles
 ![[equivalent springs]]
@@ -22,7 +23,7 @@ This is essentially the dynamics version of [[modelling oscillations of damped e
 
 ![[types of dampening (dynamics)]]
 
-![[free vibration (dynamics)]]
+![[undamped free vibration (dynamics)]]
 
 ![[under damped free response]]
 
