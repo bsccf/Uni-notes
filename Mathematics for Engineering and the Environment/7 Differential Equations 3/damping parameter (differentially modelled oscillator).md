@@ -1,5 +1,5 @@
 ---
-aliases: ["damping parameter"]
+aliases: ["damping parameter","damping ratio"]
 tags: ["Question","QFormat3"]
 ---
 
