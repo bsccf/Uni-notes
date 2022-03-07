@@ -11,7 +11,8 @@ So we know that the [[practical real world method for measuring strain]] of usin
 Looks like we are supposed to derive this manually for each [[strain guage rosette]] [[UNFINISHED STUFF]] configuration, but that's dumb when a general form is possible:
 
 > ### $$ \varepsilon_{yy} = \frac{ (\varepsilon_{B} - \varepsilon_{A}\cos^{2}\theta)\sin 2\alpha - (\varepsilon_{C} - \varepsilon_{A}\cos^{2}\alpha) \sin 2\theta }{ \sin^{2}\theta \sin 2\alpha - \sin^{2}\alpha \sin 2\theta } $$ 
-> ### $$ \varepsilon_{yy} = \frac{\varepsilon_{B} - \varepsilon_{A} \cos^{2}\theta - \varepsilon_{xy} \sin 2\theta}{\sin^{2}\theta}  = \frac{\varepsilon_{B} - \varepsilon_{A} \cos^{2}\theta - \varepsilon_{xy} \sin 2\theta}{\sin^{2}\theta} $$
+> ### $$ \varepsilon_{yy} = \frac{\varepsilon_{B} - \varepsilon_{A} \cos^{2}\theta - \varepsilon_{xy} \sin 2\theta}{\sin^{2}\theta}  = \frac{\varepsilon_{C} - \varepsilon_{A} \cos^{2}\alpha - \varepsilon_{xy} \sin 2\alpha}{\sin^{2}\alpha} $$
+> ### $$ \varepsilon_{xy} = \frac{ ( \varepsilon_{B} - \varepsilon_{A} \cos^{2}\theta ) \sin^{2}\alpha - ( \varepsilon_{C} - \varepsilon_{A} \cos^{2}\alpha )\sin^{2}\theta }{ \sin 2\theta \sin^{2}\alpha - \sin 2\alpha \sin^{2} \theta } $$
 >> where:
 >> $=$ 
 >> $=$
