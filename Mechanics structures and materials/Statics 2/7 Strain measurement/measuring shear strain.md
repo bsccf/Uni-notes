@@ -8,7 +8,7 @@ tags: ["Question","QFormat3"]
 ### Useful bits
 So we know that the [[practical real world method for measuring strain]] of using a [[strain guage]] can only measure compression/tension but not torsion. So we use multiple [[strain guage|strain guages]] at different angles and then slap that with some rearranged form of the [[strain transformation for plane stress#^aaf81e]] equation and can calculate torsion.
 
-Looks like we are supposed to derive this manually for each [[strain guage rosette]] [[UNFINISHED STUFF]] configuration, but that's dumb when a general form is possible:
+Looks like we are supposed to derive this manually for each [[strain guage rosette]] configuration, but that's dumb when a general form is possible:
 
 ![[Pasted image 20220307113750.png]]
 
