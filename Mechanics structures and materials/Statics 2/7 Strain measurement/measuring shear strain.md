@@ -17,11 +17,10 @@ Looks like we are supposed to derive this manually for each [[strain guage roset
 > ### $$ \varepsilon_{xy} = \frac{ ( \varepsilon_{B} - \varepsilon_{xx} \cos^{2}\theta ) \sin^{2}\alpha - ( \varepsilon_{C} - \varepsilon_{xx} \cos^{2}\alpha )\sin^{2}\theta }{ \sin^{2}\alpha \sin 2\theta  - \sin^{2} \theta \sin 2\alpha  } $$
 > ### $$ \varepsilon_{xy}  = \frac{\varepsilon_{B} - \varepsilon_{xx} \cos^{2}\theta  -\varepsilon_{yy} \sin^{2}\theta}{\sin 2\theta} = \frac{\varepsilon_{C} - \varepsilon_{xx} \cos^{2}\alpha-\varepsilon_{yy} \sin^{2}\alpha  }{\sin 2\alpha} $$
 >> where:
->> $\varepsilon_{xx}=$ 
->> $\varepsilon_{yy}=$
->> $\varepsilon_{xy}=$
->> $\varepsilon_{B}=$ 
->> $\varepsilon_{C}=$ 
+>> $\varepsilon_{xx}=$ strain in $xx$
+>> $\varepsilon_{yy}=$ strain in $yy$
+>> $\varepsilon_{xy}=$ shear strain in $xy$
+>> $\varepsilon_{B},\varepsilon_{C}=$ some strain 
 >> $\theta=$ anticlockwise angle between $\varepsilon_{B}$ and $\varepsilon_{xx}$
 >> $\alpha=$ anticlockwise angle between $\varepsilon_{C}$ and $\varepsilon_{xx}$  
 
