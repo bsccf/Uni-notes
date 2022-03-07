@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 2/7 Strain measurement/measuring shear strain.md",
+            "file": "Mechanics structures and materials/Dynamics 1/6U Vibration introduction/it really is though.md",
             "mode": "preview",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 2/7 Strain measurement/measuring shear strain.md",
+                "file": "Mechanics structures and materials/Dynamics 1/6U Vibration introduction/it really is though.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,7 @@
   },
   "active": "ef7c4208b9e4729a",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Dynamics 1/6U Vibration introduction/it really is though.md",
     "Mechanics structures and materials/Statics 2/7 Strain measurement/measuring shear strain.md",
     "Mechanics structures and materials/Statics 2/7 Strain measurement/strain guage rosette.md",
     "Mechanics structures and materials/Statics 2/7 Strain measurement/a thing.md",
@@ -124,7 +125,6 @@
     "Mechanics structures and materials/Statics 2/7 Strain measurement/strain transformation for plane stress.md",
     "Mechanics structures and materials/Statics 2/7 Strain measurement/yeah no I cba.md",
     "Mechanics structures and materials/Statics 2/6 Mohr's circle/Mohrs circle notes.md",
-    "Mechanics structures and materials/Statics 2/6 Mohr's circle/mohrs circle.md",
-    "Mechanics structures and materials/Statics 2/Statics 2 overview.md"
+    "Mechanics structures and materials/Statics 2/6 Mohr's circle/mohrs circle.md"
   ]
 }
