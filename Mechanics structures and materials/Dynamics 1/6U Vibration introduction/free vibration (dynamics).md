@@ -21,9 +21,11 @@ To find the values of A and B you need to be given some combination of initial c
 #### Natural frequency
 
 The natural frequency is equivilent to:
-> ### $$ \omega = \sqrt{\frac{k}{m}} $$ 
+> ### $$ \omega = \sqrt{\frac{k}{m}} $$
+> ### $$ f = \frac{1}{2\pi} \sqrt{\frac{k}{m}} $$ 
 >> where:
->> $\omega=$ natural frequency 
+>> $\omega=$ natural frequency (rad)
+>> $f=$ natural frequency (Hz)
 >> $k=$ [[spring constant]]
 >> $m=$ mass of thing
 
