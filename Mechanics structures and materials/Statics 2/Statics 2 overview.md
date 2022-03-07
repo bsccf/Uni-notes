@@ -6,10 +6,11 @@ tags: ["NotesPage"]
 # Statics 2 overview
 
 
-3) [[Pressure vessels notes]]
-4) [[Strain in multiple directions notes]]
-5) [[Shear strain in multiple directions notes]]
-6) [[Thermal strains intorduction notes]]
-7) [[Generalised hookes law notes]]
-8) [[Stress transformation notes]]
-9) [[Mohrs circle notes]]
+1) [[Pressure vessels notes]]
+2) [[Strain in multiple directions notes]]
+2) [[Shear strain in multiple directions notes]]
+3) [[Thermal strains intorduction notes]]
+4) [[Generalised hookes law notes]]
+5) [[Stress transformation notes]]
+6) [[Mohrs circle notes]]
+7) [[Strain measurement notes]]
