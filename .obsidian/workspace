@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Statics 2/7 Strain measurement/a thing.md",
-            "mode": "source",
+            "file": "Mechanics structures and materials/Statics 2/7 Strain measurement/measuring shear strain.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Statics 2/7 Strain measurement/a thing.md",
+                "file": "Mechanics structures and materials/Statics 2/7 Strain measurement/measuring shear strain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,9 +116,9 @@
   },
   "active": "ef7c4208b9e4729a",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Statics 2/7 Strain measurement/a thing.md",
-    "Mechanics structures and materials/Statics 2/7 Strain measurement/strain guage rosette.md",
     "Mechanics structures and materials/Statics 2/7 Strain measurement/measuring shear strain.md",
+    "Mechanics structures and materials/Statics 2/7 Strain measurement/strain guage rosette.md",
+    "Mechanics structures and materials/Statics 2/7 Strain measurement/a thing.md",
     "Mechanics structures and materials/Statics 2/7 Strain measurement/practical real world method for measuring strain.md",
     "Mechanics structures and materials/Statics 2/7 Strain measurement/Strain measurement notes.md",
     "Mechanics structures and materials/Statics 2/7 Strain measurement/strain transformation for plane stress.md",
