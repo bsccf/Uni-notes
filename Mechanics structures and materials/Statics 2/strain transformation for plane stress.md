@@ -17,6 +17,8 @@ So you know what we did for [[stress transformation for plane stress]], this is 
 >> $\theta=$ angle of slice
 >> $\varepsilon=$ strains
 
+^aaf81e
+
 
 > ### $$ \varepsilon_{x'y'} = (\varepsilon_{yy} -\varepsilon_{xx})\cos\theta \sin\theta  + \varepsilon_{xy}(\cos^{2}\theta- \sin^{2}\theta ) $$ 
 > ### $$ \varepsilon_{x'y'} = (\varepsilon_{yy} -\varepsilon_{xx}) \frac{\sin2\theta}{2}  + \varepsilon_{xy}(\cos^{2}\theta- \sin^{2}\theta ) $$ 
@@ -26,5 +28,5 @@ So you know what we did for [[stress transformation for plane stress]], this is 
 >> $\varepsilon=$ strains
 
 
-### 
-Also note that [[mohrs circle]] 
+### Mohrs circle
+Since [[mohrs circle]] is derived from those equations it's kinda obvious but yeah, that is also exactly the same but with strain instead of stress.... 

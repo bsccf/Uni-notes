@@ -13,3 +13,5 @@ tags: ["NotesPage"]
 ![[practical real world method for measuring strain]]
 
 ![[strain transformation for plane stress]]
+
+![[measuring shear strain]]
