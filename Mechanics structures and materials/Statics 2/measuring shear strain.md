@@ -6,5 +6,16 @@ tags: ["Question","QFormat3"]
 #### What is the method for
 ## Measuring shear strain
 ### Useful bits
-So we know that the [[practical real world method for measuring strain]] of using a [[strain guage]] can only measure compression/tension but not torsion. So we use multiple [[strain guage|strain guages]] at different angles and then slap that with some rearranged form of the [[strain transformation for plane stress#^aaf81e]] equation.
+So we know that the [[practical real world method for measuring strain]] of using a [[strain guage]] can only measure compression/tension but not torsion. So we use multiple [[strain guage|strain guages]] at different angles and then slap that with some rearranged form of the [[strain transformation for plane stress#^aaf81e]] equation and can calculate torsion.
 
+> ### $$ \vare = $$ 
+>> where:
+>> $=$ 
+>> $=$
+>> $=$
+
+### Equation proof
+Ok I'm not doing this in latex fuck that, so you get to see it in one note (less clean but like so much effort to latex it):
+![[Pasted image 20220307110728.png]]
+
+![[Pasted image 20220307110800.png]]
