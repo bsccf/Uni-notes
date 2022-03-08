@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Dynamics 1/6U Vibration introduction/Vibration introduction notes.md",
+            "file": "Mechanics structures and materials/Dynamics 1/3U Work, energy and power for particles/conservation of energy (dynamics).md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "farad",
+                "query": "CONSERVATION",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Dynamics 1/6U Vibration introduction/Vibration introduction notes.md",
+                "file": "Mechanics structures and materials/Dynamics 1/3U Work, energy and power for particles/conservation of energy (dynamics).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +117,7 @@
   },
   "active": "ef7c4208b9e4729a",
   "lastOpenFiles": [
+    "Mechanics structures and materials/Dynamics 1/3U Work, energy and power for particles/conservation of energy (dynamics).md",
     "Mechanics structures and materials/Dynamics 1/6U Vibration introduction/Vibration introduction notes.md",
     "Mechanics structures and materials/Dynamics 1/Dynamics Overview.md",
     "Mechanics structures and materials/Statics 2/6 Mohr's circle/Mohrs circle notes.md",
@@ -124,7 +126,6 @@
     "Mechanics structures and materials/Statics 2/Statics 2 overview.md",
     "Electrical and electronic systems/3 Electric machines/5 DC machines 1/DC machines 1 notes.md",
     "Electrical and electronic systems/3 Electric machines/5 DC machines 1/DC generator with many coils.md",
-    "Electrical and electronic systems/3 Electric machines/7 DC machines 3/DC machines 3 notes.md",
-    "Electrical and electronic systems/3 Electric machines/6U DC machines 2/DC machines 2 notes.md"
+    "Electrical and electronic systems/3 Electric machines/7 DC machines 3/DC machines 3 notes.md"
   ]
 }
