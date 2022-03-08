@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics structures and materials/Dynamics 1/3U Work, energy and power for particles/conservation of energy (dynamics).md",
+            "file": "Mathematics for Engineering and the Environment/6 Matrices 1/6 Matrix determinants/Deteminants notes.md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CONSERVATION",
+                "query": "Second moment",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics structures and materials/Dynamics 1/3U Work, energy and power for particles/conservation of energy (dynamics).md",
+                "file": "Mathematics for Engineering and the Environment/6 Matrices 1/6 Matrix determinants/Deteminants notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,15 +117,15 @@
   },
   "active": "ef7c4208b9e4729a",
   "lastOpenFiles": [
-    "Mechanics structures and materials/Dynamics 1/3U Work, energy and power for particles/conservation of energy (dynamics).md",
+    "Mathematics for Engineering and the Environment/6 Matrices 1/6 Matrix determinants/Deteminants notes.md",
+    "images/Pasted image 20220203173926.png",
+    "images/Pasted image 20211011092939.png",
     "Mechanics structures and materials/Dynamics 1/6U Vibration introduction/Vibration introduction notes.md",
+    "Mechanics structures and materials/Dynamics 1/3U Work, energy and power for particles/conservation of energy (dynamics).md",
     "Mechanics structures and materials/Dynamics 1/Dynamics Overview.md",
     "Mechanics structures and materials/Statics 2/6 Mohr's circle/Mohrs circle notes.md",
     "conflict-files-obsidian-git.md",
     "Mechanics structures and materials/Statics 2/6 Mohr's circle/mohrs circle.md",
-    "Mechanics structures and materials/Statics 2/Statics 2 overview.md",
-    "Electrical and electronic systems/3 Electric machines/5 DC machines 1/DC machines 1 notes.md",
-    "Electrical and electronic systems/3 Electric machines/5 DC machines 1/DC generator with many coils.md",
-    "Electrical and electronic systems/3 Electric machines/7 DC machines 3/DC machines 3 notes.md"
+    "Mechanics structures and materials/Statics 2/Statics 2 overview.md"
   ]
 }
