@@ -10,8 +10,11 @@ When modelling [[newtonian fluids]] we often also take the [[continuum asumption
 ![[Pasted image 20220309211023.png]]
 Because else creating a models kinda not really practical, unless you have some supercomputer. 
 
-> ### $$ \tau = A \mu dV $$ 
+Heres what I've been writing but as an equation:
+
+> ### $$ \tau = A \mu \times dV $$ 
 >> where:
->> $=$ 
->> $=$
->> $=$
+>> $\tau=$ shear stress
+>> $A=$ area of the adjasent layers
+>> $\mu=$ [[shear viscosity of the fluid]] [[UNFINISHED STUFF|(not sure if needs a page)]] 
+>> $dV=$ difference in velocity between two adjasent layers
