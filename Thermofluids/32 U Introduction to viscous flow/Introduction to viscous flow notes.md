@@ -23,4 +23,3 @@ Probably worth checking:
 
 
 ## Expanded articles
-![[U hagen-poiseuille equation]]
