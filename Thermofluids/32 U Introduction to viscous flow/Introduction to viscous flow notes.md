@@ -20,7 +20,9 @@ Links:
 - [[reynolds number]]
 - [[momentum transfer in fluids]]
 - [[newtonian fluids]]
+- [[effect of temperature of viscosity]]
 
 ## Expanded articles
 ![[momentum transfer in fluids]]
 ![[effect of temperature of viscosity]]
+![[couette flow]]
