@@ -15,5 +15,10 @@ V &= V_{0}  & V&=0
 Where $V$ is the velocity of a thin layer of fluid and $x$ is distance normal to the top layer.
 We can take fluid layer thickness as thin $(dx)$ and the difference in velocity between adjasent layers as $dV$, the change in velocity will be proportional to the change in shear force $d\tau$ since net force on the layer will be the resault of the sum of the acceleration force from the top layer and the [[I used it in the right context so I can not be critisized fucking owned|retarding]] force from the bottom layer:
 $$\begin{align*}
-dV \cdot dM
+A d\tau &= dV \cdot dm & dm &= \rho (A \cdot dx)\\
+d\tau &= dV \rho \cdot dx
+\end{align*}$$
+Now if we take the equation from [[newtonian fluids#^998109]] we can do some maeth:
+$$\begin{align*}
+\tau = A \mu \times dV
 \end{align*}$$

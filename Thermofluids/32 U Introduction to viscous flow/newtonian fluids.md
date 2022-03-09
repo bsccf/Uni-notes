@@ -18,3 +18,5 @@ Heres what I've been writing but as an equation:
 >> $A=$ area of the adjasent layers
 >> $\mu=$ [[shear viscosity of the fluid]] [[UNFINISHED STUFF|(not sure if needs a page)]] 
 >> $dV=$ difference in velocity between two adjasent layers
+
+^998109
