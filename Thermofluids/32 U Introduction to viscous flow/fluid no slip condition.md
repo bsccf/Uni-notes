@@ -7,4 +7,4 @@ tags: ["Question","QFormat3"]
 ## Fluid no slip condition
 Basically:
 ![[Pasted image 20220309213346.png]]
-Right aga
+There is not net movement relative to a surface in a thin layer of fluid in contact with the surface, this is because the force from the fluid-surface interface is much greater than the intermolecular forces in the fluid. The thickness of this layer varies depending on lots of conditions but it's a very real thing not just some ideal model, as can be seen in the data above.
