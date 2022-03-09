@@ -19,10 +19,12 @@ Viscosity is a measure of a fluid's resistance to flow. It describes the interna
 Links:
 - [[reynolds number]]
 - [[momentum transfer in fluids]]
+- [[fluid no slip condition]]
 - [[newtonian fluids]]
 - [[effect of temperature of viscosity]]
 
 ## Expanded articles
 ![[momentum transfer in fluids]]
 ![[effect of temperature of viscosity]]
+![[fluid no slip condition]]
 ![[couette flow for a newtonian fluid]]
