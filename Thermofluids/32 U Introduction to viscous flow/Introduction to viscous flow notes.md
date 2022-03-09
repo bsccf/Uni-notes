@@ -21,4 +21,4 @@ Links:
 
 
 ## Expanded articles
-![[the no-slip condition and momentum transfer in fluids]]
+![[momentum transfer in fluids]]
