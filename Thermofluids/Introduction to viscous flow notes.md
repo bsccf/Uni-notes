@@ -18,8 +18,8 @@ What would happen if we replaced the honey with the inviscid fluid that we have 
 
 Viscosity is a measure of a fluid's resistance to flow. It describes the internal friction of a moving fluid. A fluid with large viscosity resists motion because its molecular makeup gives it a lot of internal friction. A fluid with low viscosity flows easily because its molecular makeup results in very little friction when it is in motion.
 
-
-- 
+Probably worth checking:
+- [[reynolds number]]
 
 
 ## Expanded articles
