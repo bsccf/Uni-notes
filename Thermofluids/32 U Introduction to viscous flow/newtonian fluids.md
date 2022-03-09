@@ -12,10 +12,9 @@ Because else creating a models kinda not really practical, unless you have some 
 
 Heres what I've been writing but as an equation:
 
-> ### $$ \tau = A \mu \times dV $$ 
+> ### $$ \tau = \mu \times dV $$ 
 >> where:
 >> $\tau=$ shear stress
->> $A=$ area of the adjasent layers
 >> $\mu=$ [[shear viscosity of the fluid]] [[UNFINISHED STUFF|(not sure if needs a page)]] 
 >> $dV=$ difference in velocity between two adjasent layers
 

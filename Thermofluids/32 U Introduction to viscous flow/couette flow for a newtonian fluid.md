@@ -21,5 +21,5 @@ d\tau &= dV \rho \cdot dx
 \end{align*}$$
 Now if we take the equation from [[newtonian fluids#^998109]] we can do some maeth:
 $$\begin{align*}
-\tau = A \mu \times dV
+\tau = \mu \times dV
 \end{align*}$$
