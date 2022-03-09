@@ -25,4 +25,4 @@ Links:
 ## Expanded articles
 ![[momentum transfer in fluids]]
 ![[effect of temperature of viscosity]]
-![[couette flow]]
+![[couette flow for a newtonian fluid]]
