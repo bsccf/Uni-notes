@@ -14,3 +14,5 @@ tags: ["NotesPage"]
 ![[symbols for event relationships]]
 
 ![[independent events]]
+
+![[dependent events]]
