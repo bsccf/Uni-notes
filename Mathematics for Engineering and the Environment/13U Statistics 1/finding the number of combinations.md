@@ -9,11 +9,11 @@ tags: ["Question","QFormat3"]
 #### Theory
 For many situations you have a discrete variable that can take on some number of states and then a squence of these variables, for some set length of sequence there is a set number of combinations possible, for example if a 6 sided dice is rolled twice the number of possible outcomes is $6^{2}=36$ so expressed mathamatically:
 
-> ### $$ N = P^{L} $$ 
+> ### $$ N = n^{r} $$ 
 >> where:
 >> $N=$ number of possible outcomes
->> $P=$ number of possible [[mutually exclusive events]] per outcome
->> $L=$ length of outcome list
+>> $n=$ number of possible [[mutually exclusive events]] per outcome
+>> $r=$ length of outcome list
 
 #### Example
 > Find the number of possible combinations of some hypothetical 3 sided coin with states {H,T,A} thrown 2 times
@@ -25,10 +25,10 @@ $3^{2} = 9$
 ### Permutation
 #### Theory
 So basically take [[finding the number of combinations#mutually exclusive events Mutually exclusive sequence of events|the thing above]] but make it so that each event can only occur once and the action is repeated until you get a list containing all possible outcomes, the number of possible combinations for that situation is:
-> ### $$ N = P! $$ 
+> ### $$ N = n! $$ 
 >> where:
 >> $N=$ number of possible outcomes
->> $P=$ number of possible [[mutually exclusive events]] per outcome
+>> $n=$ number of possible [[mutually exclusive events]] per outcome
 
 #### Example
 > Find the outcomes for a permutation of some hypothetical 3 sided coin with states {H,T,A}
@@ -43,8 +43,14 @@ $3! = (3\times2\times1) = 6$
 #### Theory
 So basically take [[finding the number of combinations#mutually exclusive events Mutually exclusive sequence of events|the thing above]] but just tally how much each event occurs, like flipping a coin 100 times and seeing the total head and total tail occurances. Instead you would get this equation:
 
-> ### $$ N =  $$ 
+> ### $$ N = \frac{n!}{r!\times(n-r)!} = \begin{pmatrix} n \\ r \end{pmatrix} = C^{n}_{r} $$ 
 >> where:
->> $N=$ number of possible outcomes
->> $P=$ number of possible [[mutually exclusive events]] per outcome
->> $L=$ length of outcome list
+>> $N=$ number of possible combinations
+>> $n=$ number of possible [[mutually exclusive events]] per outcome
+>> $r=$ number of repeats
+
+ 
+#### Example
+> Find the outcomes for a combination of some hypothetical 3 sided coin with states {H,T,A} thrown twice
+ 
+$ 3! $
