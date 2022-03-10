@@ -11,6 +11,6 @@ This is the probability of something happening assuming something else has happe
 >> $B=$ event that might occur 
 >> $A=$ event that has occured
 
-On a ven diagram the ab
+On a ven diagram the above thing is the same as taking a sub section of the main venn diagram:
 
-![[Pasted image 20220310151443.png]]
+![[Pasted image 20220310151719.png]]
