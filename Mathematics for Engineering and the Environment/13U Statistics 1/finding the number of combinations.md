@@ -53,4 +53,15 @@ So basically take [[finding the number of combinations#mutually exclusive events
 #### Example
 > Find the outcomes for a combination of some hypothetical 3 sided coin with states {H,T,A} thrown twice
  
-$ 3! $
+$\frac{3!}{ 2! (3-2)! } = 3$
+
+| H   | T   | A   |
+| --- | --- | --- |
+| 3   | 0   | 0   |
+| 2   | 1   | 0   |
+| 2   | 0   | 1   |
+| 1   | 2   | 0   |
+| 1   | 1   | 1   |
+| 1   | 0   | 2   |
+| 0   | 1   | 2   |
+| 0   | 2   | 1   |
