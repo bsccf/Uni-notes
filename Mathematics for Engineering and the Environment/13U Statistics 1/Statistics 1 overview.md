@@ -7,6 +7,8 @@ tags: ["NotesPage"]
 
 #### Intro and contents
 [[This statement is false|I love stats]], it's the only thin in maths more [[hahaha no|enjoyable]] than matrices.
+
+I'm not going to explain everything, if you don't understand something check the textbook, I'm assuming atleast a GCSE level understanding of probablity and stuff:
 - 
 
 
@@ -16,3 +18,4 @@ tags: ["NotesPage"]
 ![[independent events]]
 
 ![[dependent events]]
+
