@@ -41,7 +41,7 @@ $3! = (3\times2\times1) = 6$
 
 ### Combination
 #### Theory
-So basically take [[finding the number of combinations#mutually exclusive events Mutually exclusive sequence of events|the thing above]] but just tally how much each event occurs, like flipping a coin 100 times and seeing the total head and total tail occurances. Instead you would get this equation:
+If you want to find the number of combinations where you have some set of discrete values and each value can only occur once where order doesn't matter and you repeat it a bunch of times then the number of possible combintations would be the following:
 
 > ### $$ N = \frac{n!}{r!\times(n-r)!} = \begin{pmatrix} n \\ r \end{pmatrix} = C^{n}_{r} $$ 
 >> where:
@@ -55,8 +55,6 @@ So basically take [[finding the number of combinations#mutually exclusive events
  
 $\frac{3!}{ 2! (3-2)! } = 3$
 
-H
-T
-A
 HT
 HA
+TA
