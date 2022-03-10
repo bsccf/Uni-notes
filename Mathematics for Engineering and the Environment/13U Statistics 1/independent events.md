@@ -8,9 +8,11 @@ tags: ["Question","QFormat3"]
 
 This is where the outcome of one event is independent of another, basically for two events to be independent the following equations are true:
 > ### $$ P( A \cup B ) = P(A) + P(B)  $$ 
-> ### $$ P(A|B) = P(B) $$
+> ### $$ P( A \cap B ) = P(A) \times P(B)  $$ 
+> ### $$ P(A|B) = P(A) $$ 
+> ### $$ P(B|A) = P(B) $$
 >> where:
 >> $A,B=$ independent events
+>> Used [[conditional probablility]]
 
-On a ven diagram this would be equivilent to two probablility circles not overlapping:
-![[Pasted image 20220310145016.png]]
+Independent does not mean [[mutually exclusive events]]
