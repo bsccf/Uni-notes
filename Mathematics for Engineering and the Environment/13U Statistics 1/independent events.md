@@ -6,7 +6,7 @@ tags: ["Question","QFormat3"]
 #### Describe
 ## Independent events
 
-Basically for two events to be independent the following equation is true:
+This is where the outcome of one event is independent of another, basically for two events to be independent the following equation is true:
 > ### $$ P( A \cup B ) = P(A) + P(B) $$ 
 >> where:
 >> $A,B=$ independent events
