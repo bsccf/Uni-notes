@@ -13,4 +13,4 @@ This is the probability of something happening assuming something else has happe
 
 On a ven diagram the above thing is the same as taking a sub section of the main venn diagram:
 
-![[Pasted image 20220310151719.png]]
+![[Pasted image 20220310151904.png]]
