@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/13U Statistics 1/dependent events.md",
-            "mode": "preview",
+            "file": "Mathematics for Engineering and the Environment/13U Statistics 1/finding the number of combinations.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/13U Statistics 1/dependent events.md",
+                "file": "Mathematics for Engineering and the Environment/13U Statistics 1/finding the number of combinations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "ef7c4208b9e4729a",
   "lastOpenFiles": [
-    "Mathematics for Engineering and the Environment/13U Statistics 1/dependent events.md",
+    "Mathematics for Engineering and the Environment/13U Statistics 1/finding the number of combinations.md",
     "Mathematics for Engineering and the Environment/13U Statistics 1/Statistics 1 overview.md",
+    "Mathematics for Engineering and the Environment/13U Statistics 1/dependent events.md",
     "Mathematics for Engineering and the Environment/13U Statistics 1/independent events.md",
     "Mathematics for Engineering and the Environment/13U Statistics 1/mutually exclusive events.md",
     "Mathematics for Engineering and the Environment/13U Statistics 1/conditional probablility.md",
     "Mathematics for Engineering and the Environment/13U Statistics 1/symbols for event relationships.md",
     "Mathematics for Engineering and the Environment/13U Statistics 1/complement.md",
     "Mathematics for Engineering and the Environment/13U Statistics 1/intersection.md",
-    "Mathematics for Engineering and the Environment/13U Statistics 1/get real.md",
-    "Mathematics for Engineering and the Environment/13U Statistics 1/union.md"
+    "Mathematics for Engineering and the Environment/13U Statistics 1/get real.md"
   ]
 }
