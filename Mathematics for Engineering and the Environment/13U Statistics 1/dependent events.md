@@ -11,5 +11,3 @@ These are events that arn't [[independent events]] (real shocker), this is where
 >> where:
 >> $A,B=$ dependent events
 
-On a venn diagram this would be:
-![[Pasted image 20220310145319.png]]

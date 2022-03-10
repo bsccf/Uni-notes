@@ -15,4 +15,4 @@ This is where the outcome of one event is independent of another, basically for 
 >> $A,B=$ independent events
 >> Used [[conditional probablility]]
 
-Independent does not mean [[mutually exclusive events]]
+Independent does not mean [[mutually exclusive events|mutually exclusive]] you can have events that a
