@@ -8,8 +8,8 @@ tags: ["Question","QFormat3"]
 
 This is where the outcome of one event is independent of another, basically for two events to be independent the following equations are true: 
 > ### $$ P( A \cap B ) = P(A) \times P(B)  $$ 
-> ### $$ P(A|B) = P(A) $$ 
-> ### $$ P(B|A) = P(B) $$
+> ### $$ P(A|B) =  \frac{P(A) \times P(B)}{P(B)} = P(A) $$ 
+> ### $$ P(B|A) = \frac{P(A) \times P(B)}{P(A)} = P(B) $$
 >> where:
 >> $A,B=$ independent events
 >> Used [[conditional probablility]]
