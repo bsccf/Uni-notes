@@ -51,7 +51,7 @@ If you want to find the number of combinations where you have some set of discre
 
  
 #### Example
-> Find the number of combinations of
+> Find the number of combinations of throwing a hypothetical 3 sided coin twice where .
  
 $\frac{3!}{ 2! (3-2)! } = 3$
 
