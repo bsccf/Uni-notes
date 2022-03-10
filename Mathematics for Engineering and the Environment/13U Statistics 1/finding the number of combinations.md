@@ -1,5 +1,5 @@
 ---
-aliases: ["combination","permutation"]
+aliases: ["combination","combinations","permutation","permutations"]
 tags: ["Question","QFormat3"]
 ---
 
@@ -30,6 +30,8 @@ So basically take [[finding the number of combinations#mutually exclusive events
 >> $N=$ number of possible outcomes
 >> $n=$ number of possible [[mutually exclusive events]] per outcome
 
+N
+
 #### Example
 > Find the outcomes for a permutation of some hypothetical 3 sided coin with states {H,T,A}
  
@@ -51,7 +53,7 @@ If you want to find the number of combinations where you have some set of discre
 
  
 #### Example
-> Find the number of combinations of throwing a hypothetical 3 sided coin twice where .
+> Find the number of combinations of throwing a hypothetical 3 sided coin twice.
  
 $\frac{3!}{ 2! (3-2)! } = 3$
 
