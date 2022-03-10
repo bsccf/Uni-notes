@@ -11,5 +11,6 @@ tags: ["NotesPage"]
 
 
 ## Expanded articles
-![[event relationships]]
+![[symbols for event relationships]]
 
+![[independent events]]

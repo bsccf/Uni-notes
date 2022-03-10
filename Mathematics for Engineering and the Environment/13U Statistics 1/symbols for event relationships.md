@@ -3,8 +3,8 @@ aliases: [""]
 tags: ["Question","QFormat3"]
 ---
 
-#### What are the 3 primary ways of expressing 
-## Event relationships
+#### What are the 3 primary 
+## Symbols for event relationships
 ### Unexpanded
 Given two event's $A$ and $B$ we can express some realationship between them using some combination of:
 - [[union]]
