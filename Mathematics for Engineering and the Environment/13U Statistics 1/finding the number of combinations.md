@@ -19,7 +19,6 @@ For many situations you have a discrete variable that can take on some number of
 > Find the number of possible combinations of some hypothetical 3 sided coin with states {H,T,A} thrown 2 times
  
 $3^{2} = 9$
-9 times.
 
 (HH, HT, HA, TH, TT, TA, AH, AT, AA)
 
@@ -32,12 +31,11 @@ So basically take [[finding the number of combinations#mutually exclusive events
 >> $P=$ number of possible [[mutually exclusive events]] per outcome
 
 #### Example
-> Find the number of possible combinations of some hypothetical 3 sided coin with states {H,T,A}
+> Find the outcomes for a permutation of some hypothetical 3 sided coin with states {H,T,A}
  
-$3^{2} = 9$
-9 times.
+$3! = (3\times2\times1) = 6$
 
-(HH, HT, HA, TH, TT, TA, AH, AT, AA)
+(HTA, AHT, TAH, THA, ATH, HAT)
 
 
 
