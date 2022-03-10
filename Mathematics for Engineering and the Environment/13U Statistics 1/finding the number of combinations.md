@@ -30,7 +30,7 @@ So basically take [[finding the number of combinations#mutually exclusive events
 >> $N=$ number of possible outcomes
 >> $n=$ number of possible [[mutually exclusive events]] per outcome
 
-N
+Note that what makes sequences unique here is the order of outcomes.
 
 #### Example
 > Find the outcomes for a permutation of some hypothetical 3 sided coin with states {H,T,A}
@@ -51,6 +51,7 @@ If you want to find the number of combinations where you have some set of discre
 >> $n=$ number of unique values
 >> $r=$ length of sequence
 
+Note that what makes sequences unique here is the combination of which states occured.
  
 #### Example
 > Find the number of combinations of throwing a hypothetical 3 sided coin twice.
