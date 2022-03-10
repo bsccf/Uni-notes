@@ -41,20 +41,18 @@ $3! = (3\times2\times1) = 6$
 
 ### Combination
 #### Theory
-If you want to find the number of combinations where you have some set of discrete values and each value can only occur once where order doesn't matter and you repeat it a bunch of times then the number of possible combintations would be the following:
+If you want to find the number of combinations where you have some set of discrete values and each value can only occur once in the generated sequence where order doesn't matter and you repeat it a bunch of times then the number of possible combintations would be the following:
 
 > ### $$ N = \frac{n!}{r!\times(n-r)!} = \begin{pmatrix} n \\ r \end{pmatrix} = C^{n}_{r} $$ 
 >> where:
 >> $N=$ number of possible combinations
->> $n=$ number of possible [[mutually exclusive events]] per outcome
->> $r=$ number of repeats
+>> $n=$ number of unique values
+>> $r=$ length of sequence
 
  
 #### Example
-> Find the outcomes for a combination of some hypothetical 3 sided coin with states {H,T,A} thrown twice
+> Find the number of combinations of
  
 $\frac{3!}{ 2! (3-2)! } = 3$
 
-HT
-HA
-TA
+(HT, HA, TA)
