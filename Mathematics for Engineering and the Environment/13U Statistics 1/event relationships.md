@@ -11,3 +11,7 @@ Given two event's $A$ and $B$ we can express some realationship between them usi
 - [[intersection]]
 - [[complement]]
 These are just overly fancy ways of saying "and", "or" and "not". 
+
+![[union#Union cap]]
+
+![[inter]]
