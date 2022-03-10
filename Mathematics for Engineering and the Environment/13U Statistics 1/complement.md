@@ -4,11 +4,11 @@ tags: ["Question","QFormat3"]
 ---
 
 #### What is a
-## Complement ($\cup$)
+## Complement ($-$)
 
 Litterally just a not statement:
 
-> ### $$ -A = \neg A $$ 
+> ### $$ -A = \neg A = \bar{A} $$ 
 >> where:
 >> $A=$ some event 
 >> $-=$ [[complement]] (not sure if we are allowed to use $\neg$ but it's just a better symbol lets [[get real|be real]]) 

@@ -12,3 +12,4 @@ tags: ["NotesPage"]
 
 ## Expanded articles
 ![[event relationships]]
+
