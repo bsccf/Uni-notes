@@ -39,7 +39,7 @@ $3! = (3\times2\times1) = 6$
 
 
 
-### [[mutually exclusive events|Mutually exclusive]] tally of events (combination)
+### Combination
 #### Theory
 So basically take [[finding the number of combinations#mutually exclusive events Mutually exclusive sequence of events|the thing above]] but just tally how much each event occurs, like flipping a coin 100 times and seeing the total head and total tail occurances. Instead you would get this equation:
 
@@ -55,13 +55,8 @@ So basically take [[finding the number of combinations#mutually exclusive events
  
 $\frac{3!}{ 2! (3-2)! } = 3$
 
-| H   | T   | A   |
-| --- | --- | --- |
-| 3   | 0   | 0   |
-| 2   | 1   | 0   |
-| 2   | 0   | 1   |
-| 1   | 2   | 0   |
-| 1   | 1   | 1   |
-| 1   | 0   | 2   |
-| 0   | 1   | 2   |
-| 0   | 2   | 1   |
+H
+T
+A
+HT
+HA
