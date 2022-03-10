@@ -12,3 +12,4 @@ This leads to the mathamatical relationship of:
 > ### $$ P(A \cup B) = P(A) + P(B) $$ 
 >> where:
 >> $A,B=$ [[mutually exclusive events]]
+ 

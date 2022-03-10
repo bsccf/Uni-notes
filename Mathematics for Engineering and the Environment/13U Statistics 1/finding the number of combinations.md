@@ -26,4 +26,10 @@ $3^{2} = 9$
 
 ### [[mutually exclusive events|Mutually exclusive]] tally of events
 #### Theory
-So basically take [[finding the number of combinations#mutually exclusive events Mutually exclusive sequence of events|]]
+So basically take [[finding the number of combinations#mutually exclusive events Mutually exclusive sequence of events|the thing above]] but just tally how much each event occurs, like flipping a coin 100 times and seeing the total head and total tail occurances. Instead you would get this equation:
+
+> ### $$ N =  $$ 
+>> where:
+>> $N=$ number of possible outcomes
+>> $P=$ number of possible [[mutually exclusive events]] per outcome
+>> $L=$ length of outcome list
