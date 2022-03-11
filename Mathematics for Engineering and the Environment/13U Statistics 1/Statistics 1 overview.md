@@ -25,4 +25,5 @@ I'm not going to explain everything, if you don't understand something check the
 
 ![[probablility function]]
 
-![[mean median and mode of continous probability functions]]
+![[mean median and mode of continous probability functions
+]]
