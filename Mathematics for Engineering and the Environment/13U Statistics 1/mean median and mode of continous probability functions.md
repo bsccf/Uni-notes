@@ -17,4 +17,10 @@ This is easy enough:
 
 ### Mode
 
-Super easy
+Super easy:
+
+> ### $$ f_{X}(x_{mode}) = P_{max} $$
+>> where:
+>> $f_{X}(x)=$ [[probablility function]] of $x$
+>> $x_{mode}=$ mode
+>> $=$
