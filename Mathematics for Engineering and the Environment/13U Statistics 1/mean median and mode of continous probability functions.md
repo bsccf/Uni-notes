@@ -22,5 +22,11 @@ Super easy:
 > ### $$ f_{X}(x_{mode}) = P_{max} $$
 >> where:
 >> $f_{X}(x)=$ [[probablility function]] of $x$
->> $x_{mode}=$ mode
->> $=$
+>> $x_{mode}=$ mode value
+>> $P_{max}=$ highest probability (usually on a turning point)
+
+If the highest probability is located at a turning point you can just [[differentiation|differentiate]] $f_{X}$ to find the maximums and choose the highest.
+
+### Median
+
+This is less intuitive but also not that bad, the median is just the value of $x$ where 
