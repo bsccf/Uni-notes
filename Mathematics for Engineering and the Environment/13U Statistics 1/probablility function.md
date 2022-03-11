@@ -26,7 +26,8 @@ Probability functions can be integrated over there entire range and the value ou
 
 $$\begin{align*}
 1 &= \int^{10}_{-\infty} kx^{2}e^{x} \cdot dx\\
-&= k [  ]^{10}_{-\infty}
+&= k [ (x^{2} - 2x + 2) e^{x} ]^{10}_{-\infty}\\
+&= k \left( (10^{2} - 2(10) + 2)e^{10} - (...) \frac{1}{e^{\infty}} \right)
 \end{align*}$$
 
 (Used the [[single-page-integral-table.pdf]])
