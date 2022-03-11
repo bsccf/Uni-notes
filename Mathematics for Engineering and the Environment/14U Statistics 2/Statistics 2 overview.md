@@ -13,3 +13,4 @@ Heres the links:
 
 
 ## Expanded articles
+![[sample mean and variance]]
