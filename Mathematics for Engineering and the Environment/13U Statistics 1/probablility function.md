@@ -22,12 +22,12 @@ Probability functions can be integrated over there entire range and the value ou
 >> $f_{X(x)}=$ [[probablility function]] that isn't a sub function for some specific case of a different [[probablility function]]
 
 ### Example
-> Find the constant $k$ in the probability function $f_{X}(x) = \begin{cases} kx^{2}e^{x} & if\: x \leq 10  \\0 & otherwise\end{cases}$
+> Find the constant $k$ in the probability function $f_{X}(x) = \begin{cases} kx^{2}e^{x} & if\: x \leq 1  \\0 & otherwise\end{cases}$
 
 $$\begin{align*}
-1 &= \int^{10}_{-\infty} kx^{2}e^{x} \cdot dx\\
-&= k [ (x^{2} - 2x + 2) e^{x} ]^{10}_{-\infty}\\
-&= k \left( (10^{2} - 2(10) + 2)e^{10} - (...) \frac{1}{e^{\infty}} \right)
+1 &= \int^{1}_{-\infty} kx^{2}e^{x} \cdot dx\\
+&= k [ (x^{2} - 2x + 2) e^{x} ]^{1}_{-\infty}\\
+&= k \left( (1^{2} - 2(1) + 2)e^{1} - (...) \frac{1}{e^{\infty}} \right)
 \end{align*}$$
 
 (Used the [[single-page-integral-table.pdf]])
