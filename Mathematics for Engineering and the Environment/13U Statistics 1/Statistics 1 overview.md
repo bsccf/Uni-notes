@@ -27,4 +27,4 @@ I'm not going to explain everything, if you don't understand something check the
 
 ![[mean median and mode of continous probability functions]]
 
-![[standard deviation]]
+![[standard deviation for probabability]]
