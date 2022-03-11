@@ -7,9 +7,11 @@
         "id": "ef7c4208b9e4729a",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "Mathematics for Engineering and the Environment/9 Integration 2/single-page-integral-table.pdf"
+            "file": "Mathematics for Engineering and the Environment/13U Statistics 1/Statistics 1 overview.md",
+            "mode": "source",
+            "source": true
           }
         }
       }
@@ -38,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "integrat",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -55,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for Engineering and the Environment/9 Integration 2/single-page-integral-table.pdf",
+                "file": "Mathematics for Engineering and the Environment/13U Statistics 1/Statistics 1 overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +115,15 @@
   },
   "active": "ef7c4208b9e4729a",
   "lastOpenFiles": [
+    "Mathematics for Engineering and the Environment/13U Statistics 1/Statistics 1 overview.md",
+    "Mathematics for Engineering and the Environment/13U Statistics 1/This statement is false.md",
     "Mathematics for Engineering and the Environment/9 Integration 2/single-page-integral-table.pdf",
     "Mathematics for Engineering and the Environment/General org/integration.md",
     "Mathematics for Engineering and the Environment/13U Statistics 1/finding the number of combinations.md",
     "Mathematics for Engineering and the Environment/13U Statistics 1/mutually exclusive events.md",
-    "Mathematics for Engineering and the Environment/13U Statistics 1/Statistics 1 overview.md",
     "Mathematics for Engineering and the Environment/13U Statistics 1/dependent events.md",
     "Mathematics for Engineering and the Environment/13U Statistics 1/independent events.md",
     "Mathematics for Engineering and the Environment/13U Statistics 1/conditional probablility.md",
-    "Mathematics for Engineering and the Environment/13U Statistics 1/symbols for event relationships.md",
-    "Mathematics for Engineering and the Environment/13U Statistics 1/complement.md"
+    "Mathematics for Engineering and the Environment/13U Statistics 1/symbols for event relationships.md"
   ]
 }

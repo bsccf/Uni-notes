@@ -22,3 +22,5 @@ I'm not going to explain everything, if you don't understand something check the
 ![[conditional probablility]]
 
 ![[finding the number of combinations]]
+
+![[probabliloi]]
