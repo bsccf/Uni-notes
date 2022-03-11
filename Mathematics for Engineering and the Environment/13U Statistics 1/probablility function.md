@@ -22,4 +22,4 @@ Probability functions can be integrated over there entire range and the value ou
 >> $f_{X(x)}=$ [[probablility function]] that isn't a sub function for some specific case of a different [[probablility function]]
 
 ### Example
-> Find the proba
+> Find the constant $k$ in the probability function $f_{X}(x) = \begin{cases} xe^{x} & if\: x \leq 10  \\0 & otherwise\end{cases}$
