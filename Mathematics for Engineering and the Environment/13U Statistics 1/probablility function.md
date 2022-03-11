@@ -27,7 +27,12 @@ Probability functions can be integrated over there entire range and the value ou
 $$\begin{align*}
 1 &= \int^{1}_{-\infty} kx^{2}e^{x} \cdot dx\\
 &= k [ (x^{2} - 2x + 2) e^{x} ]^{1}_{-\infty}\\
-&= k \left( (1^{2} - 2(1) + 2)e^{1} - (...) \frac{1}{e^{\infty}} \right)
+&= k \left( (1^{2} - 2(1) + 2)e^{1} - (...) \frac{1}{e^{\infty}} \right)\\
+1 &= ke\\
+\frac{1}{e} &= k
 \end{align*}$$
 
 (Used the [[single-page-integral-table.pdf]])
+
+So the final function becomes $f_{X}(x) = \begin{cases} x^{2}e^{x-1} & if\: x \leq 1  \\0 & otherwise\end{cases}$
+
