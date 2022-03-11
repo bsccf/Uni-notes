@@ -34,4 +34,4 @@ This is less intuitive but also not that bad, the median is just the value of $x
 > ### $$ \int^{\infty}_{x_{median}} f_{X}(x) dx = \int^{x_{median}}_{-\infty} f_{X}(x) dx $$ 
 >> where:
 >> $f_{X}(x)=$ [[probablility function]] of $x$
->> $x_{median}=$
+>> $x_{median}=$ meadian value
