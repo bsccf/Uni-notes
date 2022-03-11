@@ -29,4 +29,9 @@ If the highest probability is located at a turning point you can just [[differen
 
 ### Median
 
-This is less intuitive but also not that bad, the median is just the value of $x$ where 
+This is less intuitive but also not that bad, the median is just the value of $x$ where 50% of outcomes lie on either side of $x_{median}$:
+
+> ### $$ \int^{\infty}_{x_{median}} f_{X}(x) dx = \int^{x_{median}}_{-\infty} f_{X}(x) dx $$ 
+>> where:
+>> $f_{X}(x)=$ [[probablility function]] of $x$
+>> $x_{median}=$
