@@ -3,6 +3,8 @@ aliases: [""]
 tags: ["Question","QFormat3"]
 ---
 
+formally [general solutions for modelling oscillations of damped elastic systems using constant-coefficient differential equations.md]
+
 #### What are the
 ## General solutions for modelling oscillations of damped elastic systems using constant-coefficient differential equations
 
